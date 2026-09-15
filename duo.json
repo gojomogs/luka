@@ -550,7 +550,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 3,
+      "progress": 4,
       "id": "74325dbd-28a2-41e0-9478-9521ba923120",
       "player_a": "1388187436894523645",
       "player_b": "870354420049776710",
@@ -819,7 +819,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 18,
+      "progress": 19,
       "id": "4ae0fefb-78ed-4a9d-a94e-d659b92a1bd1",
       "player_a": "1183826856449953822",
       "player_b": "1217653646158860328",
@@ -863,12 +863,27 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Deokman Go",
+        "Lenore"
+      ],
       "id": "fcb6cc1e-c265-4e4c-940d-2336c6ec8617",
       "player_a": "417141882611826688",
       "player_b": "1122003954436407336",
       "started_at": 1789487038.2455957,
       "channel_id": 1543500231692263485
+    },
+    "8236e070-35c5-45ef-abf3-1a4bc0c7076d": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "8236e070-35c5-45ef-abf3-1a4bc0c7076d",
+      "player_a": "647974710470115339",
+      "player_b": "908254172074352641",
+      "started_at": 1789487943.0736275,
+      "channel_id": 1543238982299684934
     }
   },
   "weekly": {
@@ -9631,6 +9646,10 @@
       "claim": 0
     },
     "986847379728764929": {
+      "drop": 0,
+      "claim": 0
+    },
+    "951014468442275840": {
       "drop": 0,
       "claim": 0
     }
