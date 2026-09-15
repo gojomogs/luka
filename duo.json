@@ -682,7 +682,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 43,
+      "progress": 44,
       "id": "35e30413-66b7-4b2c-ad76-2cb80e2f65c7",
       "player_a": "1332218021103534121",
       "player_b": "1293557714420498435",
@@ -874,7 +874,9 @@
       "label": "Claim cards from 15 different series together",
       "progress": 0,
       "series_seen": [
-        "Genshin Impact"
+        "Genshin Impact",
+        "Jujutsu Kaisen",
+        "Gokurakugai"
       ],
       "id": "2c9bb4dd-92cd-4d54-9d41-22cbcd4304b9",
       "player_a": "420699083238539285",
@@ -9625,6 +9627,10 @@
       "claim": 0
     },
     "1453426681871204362": {
+      "drop": 0,
+      "claim": 0
+    },
+    "986847379728764929": {
       "drop": 0,
       "claim": 0
     }
