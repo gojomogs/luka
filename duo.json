@@ -689,38 +689,6 @@
       "started_at": 1788600261.7723384,
       "channel_id": 1543415709445656627
     },
-    "f4e4903a-74cf-4e56-a783-47d6bd1f5a25": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Eva Tsunaka",
-        "Kishiar la Orr",
-        "Minato Yukina",
-        "Sae Itoshi",
-        "Frieren",
-        "Riki Nendou",
-        "Caitlyn Kiramman",
-        "Damon Maitsu",
-        "Ayato Sakamaki",
-        "Nagi",
-        "Eiji Okumura",
-        "Naomi Nakashima",
-        "Eunyung Baek",
-        "Rappa",
-        "Anya Forger",
-        "Squidward",
-        "Enjin",
-        "Kyoko Sakura",
-        "Amber"
-      ],
-      "id": "f4e4903a-74cf-4e56-a783-47d6bd1f5a25",
-      "player_a": "1334019193430872075",
-      "player_b": "1382686382690013196",
-      "started_at": 1788601247.4090438,
-      "channel_id": 1543415709445656627
-    },
     "ed6259c4-0dc0-427f-a1f9-42a667424697": {
       "type": "claim_series",
       "target": 15,
@@ -739,7 +707,8 @@
         "Sweet Venom",
         "Fake Fact Lips",
         "Danganronpa",
-        "PSYCHO-PASS"
+        "PSYCHO-PASS",
+        "Lord Of The Mysteries"
       ],
       "id": "ed6259c4-0dc0-427f-a1f9-42a667424697",
       "player_a": "1273199528614563961",
@@ -876,7 +845,8 @@
       "series_seen": [
         "Genshin Impact",
         "Jujutsu Kaisen",
-        "Gokurakugai"
+        "Gokurakugai",
+        "Attack on Titan"
       ],
       "id": "2c9bb4dd-92cd-4d54-9d41-22cbcd4304b9",
       "player_a": "420699083238539285",
@@ -3101,6 +3071,18 @@
         "timestamp": 1788657516.1574428,
         "partner_id": "772144591251177503"
       }
+    ],
+    "1334019193430872075": [
+      {
+        "timestamp": 1789486607.2883322,
+        "partner_id": "1382686382690013196"
+      }
+    ],
+    "1382686382690013196": [
+      {
+        "timestamp": 1789486607.2883322,
+        "partner_id": "1334019193430872075"
+      }
     ]
   },
   "cooldowns": {
@@ -3415,7 +3397,9 @@
     "1160404871544045629": 1788647871.865702,
     "627783823375204362": 1788651162.882751,
     "1332117178790580338": 1788651694.1346824,
-    "768496552477589534": 1788657516.1574428
+    "768496552477589534": 1788657516.1574428,
+    "1334019193430872075": 1789486607.2883322,
+    "1382686382690013196": 1789486607.2883322
   },
   "bonus": {
     "777925664358531102": {
@@ -3980,7 +3964,7 @@
     },
     "617162611687161859": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "660455044163960842": {
       "drop": 0,
@@ -6523,16 +6507,16 @@
       "claim": 0
     },
     "1382686382690013196": {
-      "drop": 0,
-      "claim": 0
+      "drop": 1,
+      "claim": 1
     },
     "1295041201095053515": {
       "drop": 0,
       "claim": 0
     },
     "1334019193430872075": {
-      "drop": 0,
-      "claim": 0
+      "drop": 1,
+      "claim": 1
     },
     "1273199528614563961": {
       "drop": 0,
