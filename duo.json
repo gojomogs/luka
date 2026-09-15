@@ -682,38 +682,11 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 50,
+      "progress": 52,
       "id": "35e30413-66b7-4b2c-ad76-2cb80e2f65c7",
       "player_a": "1332218021103534121",
       "player_b": "1293557714420498435",
       "started_at": 1788600261.7723384,
-      "channel_id": 1543415709445656627
-    },
-    "ed6259c4-0dc0-427f-a1f9-42a667424697": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Under The Green Light",
-        "Black Butler",
-        "My Hero Academia",
-        "Persona",
-        "Melting Point",
-        "The Fragrant Flower Blooms With Dignity",
-        "Genshin Impact",
-        "Love And Deepspace",
-        "Cyberpunk Edgerunners",
-        "Sweet Venom",
-        "Fake Fact Lips",
-        "Danganronpa",
-        "PSYCHO-PASS",
-        "Lord Of The Mysteries"
-      ],
-      "id": "ed6259c4-0dc0-427f-a1f9-42a667424697",
-      "player_a": "1273199528614563961",
-      "player_b": "1295041201095053515",
-      "started_at": 1788603956.3171806,
       "channel_id": 1543415709445656627
     },
     "a647ae0d-29b0-4967-baf9-f47e43b5852c": {
@@ -819,7 +792,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 22,
+      "progress": 23,
       "id": "4ae0fefb-78ed-4a9d-a94e-d659b92a1bd1",
       "player_a": "1183826856449953822",
       "player_b": "1217653646158860328",
@@ -830,7 +803,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 5,
+      "progress": 6,
       "id": "e7bc22c5-0051-486b-90bd-1b80ac52541f",
       "player_a": "1454914344792883305",
       "player_b": "1507541118722637845",
@@ -854,7 +827,8 @@
         "Toilet-bound Hanako-kun",
         "Debut or Die",
         "Selection Project",
-        "Seraph of the End"
+        "Seraph of the End",
+        "Jojo\u2019s Bizarre Adventure"
       ],
       "id": "2c9bb4dd-92cd-4d54-9d41-22cbcd4304b9",
       "player_a": "420699083238539285",
@@ -891,7 +865,8 @@
         "Geumryang",
         "Tsuchigomori",
         "Elsa Granhilte",
-        "Vincent Charbonneau"
+        "Vincent Charbonneau",
+        "Paimon"
       ],
       "id": "8236e070-35c5-45ef-abf3-1a4bc0c7076d",
       "player_a": "647974710470115339",
@@ -3139,6 +3114,18 @@
         "timestamp": 1789486607.2883322,
         "partner_id": "1334019193430872075"
       }
+    ],
+    "1273199528614563961": [
+      {
+        "timestamp": 1789491383.532383,
+        "partner_id": "1295041201095053515"
+      }
+    ],
+    "1295041201095053515": [
+      {
+        "timestamp": 1789491383.532383,
+        "partner_id": "1273199528614563961"
+      }
     ]
   },
   "cooldowns": {
@@ -3455,7 +3442,9 @@
     "1332117178790580338": 1788651694.1346824,
     "768496552477589534": 1788657516.1574428,
     "1334019193430872075": 1789486607.2883322,
-    "1382686382690013196": 1789486607.2883322
+    "1382686382690013196": 1789486607.2883322,
+    "1273199528614563961": 1789491383.532383,
+    "1295041201095053515": 1789491383.532383
   },
   "bonus": {
     "777925664358531102": {
@@ -6564,11 +6553,11 @@
     },
     "1382686382690013196": {
       "drop": 1,
-      "claim": 1
+      "claim": 0
     },
     "1295041201095053515": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "1334019193430872075": {
       "drop": 0,
@@ -6576,7 +6565,7 @@
     },
     "1273199528614563961": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "1413734628832841790": {
       "drop": 0,
