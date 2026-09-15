@@ -2,6 +2,20 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "isagi_common",
+        "name": "Yoichi Isagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/isagi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789480633.9391572
+    },
+    {
+      "card": {
         "id": "alger_common",
         "name": "Alger Wilson",
         "series": "Lord Of The Mysteries",
@@ -20054,6 +20068,20 @@
   "745734578005737623": [
     {
       "card": {
+        "id": "ye_common",
+        "name": "Ye Shunguang",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ye_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 5,
+      "claimed_at": 1789488073.9943712
+    },
+    {
+      "card": {
         "id": "dr._common",
         "name": "Dr. Ratio",
         "series": "Honkai: Star Rail",
@@ -21365,6 +21393,20 @@
   "831140416312180756": [],
   "1542529568618061936": [],
   "968501068524818542": [
+    {
+      "card": {
+        "id": "kanon_common",
+        "name": "Kanon Matsubara",
+        "series": "BanG Dream!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kanon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789488024.2643592
+    },
     {
       "card": {
         "id": "artoria_common",
@@ -43599,6 +43641,20 @@
   "1122003954436407336": [
     {
       "card": {
+        "id": "lenore_common",
+        "name": "Lenore",
+        "series": "Nevermore",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lenore_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789488165.5238874
+    },
+    {
+      "card": {
         "id": "lee_common_4",
         "name": "Lee Sejin",
         "series": "Debut or Die",
@@ -51570,7 +51626,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789486717.9065695
+      "claimed_at": 1789486717.9065695,
+      "tags": "\ud83d\udcb8"
     },
     {
       "card": {
@@ -51584,7 +51641,8 @@
         "version": "common"
       },
       "print": 1,
-      "claimed_at": 1788043516.9113238
+      "claimed_at": 1788043516.9113238,
+      "tags": "\ud83d\udcb8"
     },
     {
       "card": {
@@ -51598,7 +51656,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789484293.7329142
+      "claimed_at": 1789484293.7329142,
+      "tags": "\ud83d\udcb8"
     },
     {
       "card": {
@@ -51612,7 +51671,8 @@
         "version": "common"
       },
       "print": 6,
-      "claimed_at": 1788650724.9594321
+      "claimed_at": 1788650724.9594321,
+      "tags": "\ud83d\udcb8"
     },
     {
       "card": {
@@ -51626,7 +51686,8 @@
         "version": "common"
       },
       "print": 5,
-      "claimed_at": 1788649710.1905248
+      "claimed_at": 1788649710.1905248,
+      "tags": "\ud83d\udcb8"
     },
     {
       "card": {
@@ -70306,34 +70367,6 @@
   "1279518782838276148": [
     {
       "card": {
-        "id": "ashveil_common",
-        "name": "Ashveil",
-        "series": "Honkai: Star Rail",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ashveil_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1789486730.4201255
-    },
-    {
-      "card": {
-        "id": "isagi_common",
-        "name": "Yoichi Isagi",
-        "series": "BLUELOCK",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/isagi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 15,
-      "claimed_at": 1789480633.9391572
-    },
-    {
-      "card": {
         "id": "suwon_common",
         "name": "Suwon",
         "series": "Guiding Me Mad",
@@ -70346,6 +70379,20 @@
       "print": 1,
       "claimed_at": 1787843790.0561347,
       "tags": "\u02d1\ud80c\ude12\ud801\udd0c\ud83e\udee7\ua4b1*"
+    },
+    {
+      "card": {
+        "id": "ashveil_common",
+        "name": "Ashveil",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ashveil_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789486730.4201255
     },
     {
       "card": {
@@ -99385,6 +99432,20 @@
   "1228266277835898900": [
     {
       "card": {
+        "id": "vantacrow_common",
+        "name": "Vantacrow Bringer",
+        "series": "Nijisanji",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/vantacrow_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789488251.7172902
+    },
+    {
+      "card": {
         "id": "andrew_common",
         "name": "Andrew Young",
         "series": "Nerd Project",
@@ -122456,6 +122517,20 @@
   "1065199150498590782": [
     {
       "card": {
+        "id": "riyo_common",
+        "name": "Riyo Reaper",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/riyo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789488178.317256
+    },
+    {
+      "card": {
         "id": "jean_common_2",
         "name": "Jean",
         "series": "Genshin Impact",
@@ -126339,6 +126414,20 @@
     }
   ],
   "1299833889166065743": [
+    {
+      "card": {
+        "id": "ichigo_common_2",
+        "name": "Ichigo Momomiya",
+        "series": "Tokyo Mew Mew",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ichigo_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1789488020.1983938
+    },
     {
       "card": {
         "id": "lee_common_8",
@@ -177711,6 +177800,21 @@
   "1344738272924143750": [
     {
       "card": {
+        "id": "senshi_common",
+        "name": "Senshi Of Izganda",
+        "series": "Dungeon Meshi",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/senshi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1789487987.0736525,
+      "tags": "\ud83d\udcb8ft"
+    },
+    {
+      "card": {
         "id": "choso_common",
         "name": "Choso",
         "series": "Jujutsu Kaisen",
@@ -189353,6 +189457,20 @@
     }
   ],
   "417141882611826688": [
+    {
+      "card": {
+        "id": "deokman_common",
+        "name": "Deokman Go",
+        "series": "Special Civil Servant",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/deokman_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789488055.4606786
+    },
     {
       "card": {
         "id": "varka_common",
@@ -233014,6 +233132,20 @@
   "1361878890225733724": [
     {
       "card": {
+        "id": "jin_common_6",
+        "name": "Jin Enjoji",
+        "series": "Dandadan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jin_common_6.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1789488034.731247
+    },
+    {
+      "card": {
         "id": "mikasa_common",
         "name": "Mikasa Ackerman",
         "series": "Attack on Titan",
@@ -235733,6 +235865,20 @@
   "1357357406782488588": [
     {
       "card": {
+        "id": "gabimaru_common",
+        "name": "Gabimaru",
+        "series": "Hell\u2019s Paradise",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/gabimaru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789488184.1356313
+    },
+    {
+      "card": {
         "id": "xia_common",
         "name": "Xia Fei",
         "series": "Link Click",
@@ -236114,5 +236260,21 @@
       "claimed_at": 1789486831.3923614
     }
   ],
-  "1122403358595092510": []
+  "1122403358595092510": [
+    {
+      "card": {
+        "id": "hook_common",
+        "name": "Hook",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hook_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789488059.172722,
+      "tags": "cute baby"
+    }
+  ]
 }
