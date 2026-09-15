@@ -792,7 +792,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 26,
+      "progress": 27,
       "id": "4ae0fefb-78ed-4a9d-a94e-d659b92a1bd1",
       "player_a": "1183826856449953822",
       "player_b": "1217653646158860328",
@@ -810,33 +810,6 @@
       "started_at": 1789484728.7719097,
       "channel_id": 1543582638785175652
     },
-    "2c9bb4dd-92cd-4d54-9d41-22cbcd4304b9": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Genshin Impact",
-        "Jujutsu Kaisen",
-        "Gokurakugai",
-        "Attack on Titan",
-        "Neverness to Everness",
-        "Soul Eater",
-        "My Hero Academia",
-        "Re: Zero - Starting Life in Another World",
-        "Toilet-bound Hanako-kun",
-        "Debut or Die",
-        "Selection Project",
-        "Seraph of the End",
-        "Jojo\u2019s Bizarre Adventure",
-        "Doki Doki Literature Club!"
-      ],
-      "id": "2c9bb4dd-92cd-4d54-9d41-22cbcd4304b9",
-      "player_a": "420699083238539285",
-      "player_b": "1178380074001645660",
-      "started_at": 1789485470.1052463,
-      "channel_id": 1548954162337943572
-    },
     "fcb6cc1e-c265-4e4c-940d-2336c6ec8617": {
       "type": "claim_characters",
       "target": 20,
@@ -849,7 +822,8 @@
         "Diamond",
         "Kotoko Utsugi",
         "Lorin",
-        "Getian"
+        "Getian",
+        "Joseph Joestar"
       ],
       "id": "fcb6cc1e-c265-4e4c-940d-2336c6ec8617",
       "player_a": "417141882611826688",
@@ -3130,6 +3104,18 @@
         "timestamp": 1789491383.532383,
         "partner_id": "1273199528614563961"
       }
+    ],
+    "420699083238539285": [
+      {
+        "timestamp": 1789493512.690151,
+        "partner_id": "1178380074001645660"
+      }
+    ],
+    "1178380074001645660": [
+      {
+        "timestamp": 1789493512.690151,
+        "partner_id": "420699083238539285"
+      }
     ]
   },
   "cooldowns": {
@@ -3448,7 +3434,9 @@
     "1334019193430872075": 1789486607.2883322,
     "1382686382690013196": 1789486607.2883322,
     "1273199528614563961": 1789491383.532383,
-    "1295041201095053515": 1789491383.532383
+    "1295041201095053515": 1789491383.532383,
+    "420699083238539285": 1789493512.690151,
+    "1178380074001645660": 1789493512.690151
   },
   "bonus": {
     "777925664358531102": {
@@ -3785,7 +3773,7 @@
     },
     "420699083238539285": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "1015773671081656331": {
       "drop": 0,
@@ -3793,7 +3781,7 @@
     },
     "1178380074001645660": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "936932775393632266": {
       "drop": 0,
