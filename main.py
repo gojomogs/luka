@@ -155,10 +155,14 @@ CARD_UPDATES_CHANNEL_ID = 1540008425818169364
 # Checked by ID, never by name, per the badge spec.
 EARLY_SUPPORTER_ROLE_ID = 1505590926947651669
 
-# Role ID for the "Finalist" role, the only role allowed to use `lgw`
-# (giveaway cards out of Luka's own recovery inventory). Checked by ID,
-# never by name, per spec.
+# Role ID for the "Finalist" role. No longer used by `lgw` (see
+# GIVEAWAY_ALLOWED_USER_ID below) -- left defined in case it's needed
+# elsewhere later; currently unreferenced.
 FINALIST_ROLE_ID = 1506025540350509177
+
+# The only Discord user ID allowed to run `lgw` (giveaway cards out of
+# Luka's own recovery inventory). Checked by exact user ID, not a role.
+GIVEAWAY_ALLOWED_USER_ID = 727441845789130804
 
 # =========================
 # OWNER-ONLY STAFF COMMANDS (lgive)
@@ -10693,13 +10697,14 @@ class Client(discord.Client):
             return
 
         # =========================
-        # GIVEAWAY COMMAND (lgw) -- Finalist-only, gifts from Luka's
-        # recovery ("__system__") inventory using the exact same
-        # GiftView/accept flow as lgift. No separate gifting system.
+        # GIVEAWAY COMMAND (lgw) -- Restricted to a single user, gifts
+        # from Luka's recovery ("__system__") inventory using the exact
+        # same GiftView/accept flow as lgift. No separate gifting system.
+        # Format: lgw <inventory number> @winner
         # =========================
         if content_lower.startswith("lgw "):
-            if not any(r.id == FINALIST_ROLE_ID for r in message.author.roles):
-                return await reply(message, "You need the **Finalist** role to use this command.")
+            if message.author.id != GIVEAWAY_ALLOWED_USER_ID:
+                return await reply(message, "Giveaway not processed.")
 
             if is_command_spam(user_id, "lgw"):
                 return await reply(message, 
@@ -10708,7 +10713,7 @@ class Client(discord.Client):
 
             if not message.mentions:
                 return await reply(message, 
-                    "Usage: `lgw @winner <inventory number>`"
+                    "Usage: `lgw <inventory number> @winner`"
                 )
 
             winner_user = message.mentions[0]
@@ -10726,8 +10731,8 @@ class Client(discord.Client):
             parts = message.content.split()
 
             try:
-                requested_num = int(parts[-1])
-            except:
+                requested_num = int(parts[1])
+            except (IndexError, ValueError):
                 return await reply(message, 
                     "Please provide a valid inventory number."
                 )
