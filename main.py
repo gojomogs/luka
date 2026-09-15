@@ -10723,7 +10723,12 @@ class Client(discord.Client):
                     "You can't give cards to bots."
                 )
 
-            if winner_user.id == message.author.id:
+            # Self-gifting is normally blocked, but the one user allowed to
+            # run this command at all (GIVEAWAY_ALLOWED_USER_ID) is also
+            # allowed to gift a card to themselves -- everyone else can't
+            # reach this point regardless, since the whole command is
+            # already restricted to that ID above.
+            if winner_user.id == message.author.id and message.author.id != GIVEAWAY_ALLOWED_USER_ID:
                 return await reply(message, 
                     "You can't give cards to yourself."
                 )
