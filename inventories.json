@@ -40124,6 +40124,21 @@
   "224627689909256192": [
     {
       "card": {
+        "id": "juste_common",
+        "name": "Juste Belmont",
+        "series": "Castlevania",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/juste_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1788630779.7179499,
+      "tags": "\ud83c\udf53\ud83d\udc9e\ud83e\udd87"
+    },
+    {
+      "card": {
         "id": "sakuya_common",
         "name": "Sakuya Watanuki",
         "series": "Servamp",
@@ -40545,7 +40560,7 @@
       },
       "print": 5,
       "claimed_at": 1788585582.7885194,
-      "tags": "asvattp1"
+      "tags": "\ud83c\udf53\ud83d\udc9e\ud83e\udd87"
     },
     {
       "card": {
@@ -41292,20 +41307,6 @@
       },
       "print": 2,
       "claimed_at": 1788017832.258858
-    },
-    {
-      "card": {
-        "id": "an_common",
-        "name": "An Zhe",
-        "series": "Little Mushroom",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/an_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 2,
-      "claimed_at": 1788017065.8635862
     },
     {
       "card": {
@@ -89170,6 +89171,20 @@
   "821574312216756224": [
     {
       "card": {
+        "id": "miles_common",
+        "name": "Miles Edgeworth",
+        "series": "Ace Attorney",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/miles_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1789516415.26123
+    },
+    {
+      "card": {
         "id": "julien_common",
         "name": "Julien Loki",
         "series": "BLUELOCK",
@@ -106246,6 +106261,35 @@
   "1271962211606204560": [
     {
       "card": {
+        "id": "all_common_2",
+        "name": "All of Love",
+        "series": "Servamp",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/all_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1789516346.4804761
+    },
+    {
+      "card": {
+        "id": "natsumi_common",
+        "name": "Natsumi Nishi",
+        "series": "You and I are Polar Opposites",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/natsumi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 5,
+      "claimed_at": 1788580636.6433892,
+      "tags": "chess"
+    },
+    {
+      "card": {
         "id": "natsumi_common",
         "name": "Natsumi Nishi",
         "series": "You and I are Polar Opposites",
@@ -106256,7 +106300,8 @@
         "version": "common"
       },
       "print": 8,
-      "claimed_at": 1788638005.7703738
+      "claimed_at": 1788638005.7703738,
+      "tags": "NFT"
     },
     {
       "card": {
@@ -106540,7 +106585,8 @@
         "version": "common"
       },
       "print": 7,
-      "claimed_at": 1788658408.0705647
+      "claimed_at": 1788658408.0705647,
+      "tags": "NFT"
     },
     {
       "card": {
@@ -106598,7 +106644,8 @@
         "version": "common"
       },
       "print": 8,
-      "claimed_at": 1788602969.9179606
+      "claimed_at": 1788602969.9179606,
+      "tags": "NFT"
     },
     {
       "card": {
@@ -182406,21 +182453,6 @@
     },
     {
       "card": {
-        "id": "natsumi_common",
-        "name": "Natsumi Nishi",
-        "series": "You and I are Polar Opposites",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/natsumi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 5,
-      "claimed_at": 1788580636.6433892,
-      "tags": "chess"
-    },
-    {
-      "card": {
         "id": "toge_common",
         "name": "Toge Inumaki",
         "series": "Jujutsu Kaisen",
@@ -190443,6 +190475,20 @@
     }
   ],
   "886247125292306432": [
+    {
+      "card": {
+        "id": "komaru_common",
+        "name": "Komaru Naegi",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/komaru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1789516190.763223
+    },
     {
       "card": {
         "id": "wang_common",
@@ -220976,18 +221022,17 @@
   "899806964710801499": [
     {
       "card": {
-        "id": "juste_common",
-        "name": "Juste Belmont",
-        "series": "Castlevania",
+        "id": "an_common",
+        "name": "An Zhe",
+        "series": "Little Mushroom",
         "stars": 2,
         "weight": 10,
-        "image": "card_art/juste_common.png",
+        "image": "card_art/an_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 6,
-      "claimed_at": 1788630779.7179499,
-      "tags": "FT"
+      "print": 2,
+      "claimed_at": 1788017065.8635862
     },
     {
       "card": {
@@ -224853,6 +224898,20 @@
   "1068989639362355252": [
     {
       "card": {
+        "id": "lucifer_common",
+        "name": "Lucifer",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lucifer_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789516177.6816084
+    },
+    {
+      "card": {
         "id": "he_common_2",
         "name": "He Zhao",
         "series": "Fake Slackers",
@@ -227191,6 +227250,21 @@
     }
   ],
   "1523865177592959078": [
+    {
+      "card": {
+        "id": "shoyo_common",
+        "name": "Shoyo Hinata",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shoyo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789516426.6502945,
+      "tags": "\u2601\ufe0f: FTFS"
+    },
     {
       "card": {
         "id": "xavier_common",
@@ -234663,6 +234737,21 @@
     }
   ],
   "768496552477589534": [
+    {
+      "card": {
+        "id": "luocha_common",
+        "name": "Luocha",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/luocha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789516184.1324315,
+      "tags": "\u2671\u2e1d\u2e1dnft/fs"
+    },
     {
       "card": {
         "id": "tobio_common",
@@ -259385,6 +259474,34 @@
     }
   ],
   "1422891232182407210": [
+    {
+      "card": {
+        "id": "doh_common",
+        "name": "Doh Seong-ah",
+        "series": "Kill Me If You Can",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/doh_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789516319.9936824
+    },
+    {
+      "card": {
+        "id": "aemeath_common",
+        "name": "Aemeath",
+        "series": "Wuthering Waves",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/aemeath_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789516315.5071158
+    },
     {
       "card": {
         "id": "katsuki_common",
