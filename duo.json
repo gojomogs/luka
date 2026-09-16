@@ -59,7 +59,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 7,
+      "progress": 8,
       "id": "2c19f953-492b-4129-964d-04b98ebe19c8",
       "player_a": "688313291532926976",
       "player_b": "839144758415851561",
@@ -528,7 +528,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 5,
+      "progress": 6,
       "id": "74325dbd-28a2-41e0-9478-9521ba923120",
       "player_a": "1388187436894523645",
       "player_b": "870354420049776710",
@@ -645,38 +645,6 @@
       "started_at": 1788619576.795727,
       "channel_id": 1543770626425098342
     },
-    "a93c894b-9c7e-4c6c-a95a-bdc9be611733": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Nice",
-        "Euini",
-        "Tetia",
-        "Jesse",
-        "Robin",
-        "Luke Davis",
-        "Verina",
-        "Skully J. Graves",
-        "Lee Joobin",
-        "Tensei Iida",
-        "2B",
-        "Gintoki Sakata",
-        "America",
-        "Annabeth Chase",
-        "Usagi",
-        "Isha",
-        "Secretive Plotter",
-        "Yu Narukami",
-        "Yomi"
-      ],
-      "id": "a93c894b-9c7e-4c6c-a95a-bdc9be611733",
-      "player_a": "1366637983478054978",
-      "player_b": "1502170773211582616",
-      "started_at": 1788622659.73664,
-      "channel_id": 1543207374670659724
-    },
     "2d68b714-d1a0-4f07-90d2-f519be4ca0b7": {
       "type": "claim_rarity4",
       "target": 10,
@@ -772,7 +740,8 @@
         "Tetia",
         "Liu Xiao",
         "Yami Sukehiro",
-        "Iroha Sakayori"
+        "Iroha Sakayori",
+        "The Dahlia"
       ],
       "id": "eccb2fc9-787a-4c65-b07b-0ea80906536c",
       "player_a": "735119062585049229",
@@ -3231,6 +3200,18 @@
         "timestamp": 1789596085.3570704,
         "partner_id": "1271962211606204560"
       }
+    ],
+    "1366637983478054978": [
+      {
+        "timestamp": 1789601823.9200308,
+        "partner_id": "1502170773211582616"
+      }
+    ],
+    "1502170773211582616": [
+      {
+        "timestamp": 1789601823.9200308,
+        "partner_id": "1366637983478054978"
+      }
     ]
   },
   "cooldowns": {
@@ -3564,7 +3545,9 @@
     "1507541118722637845": 1789570328.979897,
     "790383429224366080": 1789573707.5540702,
     "1329046143929155605": 1789573707.5540702,
-    "930186314295427082": 1789596085.3570704
+    "930186314295427082": 1789596085.3570704,
+    "1366637983478054978": 1789601823.9200308,
+    "1502170773211582616": 1789601823.9200308
   },
   "bonus": {
     "777925664358531102": {
@@ -4648,8 +4631,8 @@
       "claim": 0
     },
     "688313291532926976": {
-      "drop": 6,
-      "claim": 7
+      "drop": 0,
+      "claim": 0
     },
     "1393412966229082174": {
       "drop": 0,
@@ -5093,7 +5076,7 @@
     },
     "856783136833667072": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "979524252124471337": {
       "drop": 7,
@@ -5296,7 +5279,7 @@
       "claim": 0
     },
     "1366637983478054978": {
-      "drop": 6,
+      "drop": 7,
       "claim": 7
     },
     "1036390856313286696": {
@@ -9676,7 +9659,7 @@
       "claim": 7
     },
     "1502170773211582616": {
-      "drop": 7,
+      "drop": 8,
       "claim": 7
     },
     "1401622768214347796": {
