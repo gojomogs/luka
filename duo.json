@@ -594,7 +594,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 6,
+      "progress": 7,
       "id": "699f1dd8-9b83-4f27-a9c3-3b074cd88763",
       "player_a": "749958760532934736",
       "player_b": "755211531674845235",
@@ -772,7 +772,8 @@
         "Eruhaben",
         "Woo Seung-min",
         "Alucard Tepes",
-        "Moon Knight"
+        "Moon Knight",
+        "Merlin"
       ],
       "id": "8236e070-35c5-45ef-abf3-1a4bc0c7076d",
       "player_a": "647974710470115339",
@@ -838,7 +839,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 10,
+      "progress": 11,
       "id": "e843208c-27de-4dbe-871e-155ed8dd337f",
       "player_a": "827119373323206657",
       "player_b": "1273022793931292694",
@@ -4596,7 +4597,7 @@
     },
     "749958760532934736": {
       "drop": 0,
-      "claim": 2
+      "claim": 1
     },
     "1175711320868405288": {
       "drop": 7,
@@ -6899,8 +6900,8 @@
       "claim": 6
     },
     "1092199688154910791": {
-      "drop": 6,
-      "claim": 7
+      "drop": 0,
+      "claim": 0
     },
     "1001201494344876133": {
       "drop": 0,
@@ -7215,8 +7216,8 @@
       "claim": 0
     },
     "1066269748293287997": {
-      "drop": 3,
-      "claim": 4
+      "drop": 0,
+      "claim": 1
     },
     "849933344686866443": {
       "drop": 0,
@@ -9651,8 +9652,8 @@
       "claim": 6
     },
     "836214830662025227": {
-      "drop": 3,
-      "claim": 4
+      "drop": 2,
+      "claim": 3
     },
     "1003626508860018709": {
       "drop": 7,
@@ -9889,6 +9890,10 @@
     "1463662314879193195": {
       "drop": 7,
       "claim": 7
+    },
+    "1273757983956013118": {
+      "drop": 0,
+      "claim": 0
     }
   },
   "migrations": {
