@@ -766,7 +766,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 27,
+      "progress": 28,
       "id": "e7bc22c5-0051-486b-90bd-1b80ac52541f",
       "player_a": "1454914344792883305",
       "player_b": "1507541118722637845",
@@ -839,33 +839,6 @@
       "started_at": 1789503627.6303353,
       "channel_id": 1543249330797019286
     },
-    "d92b4298-6e5b-418d-bd42-077de58cebc4": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Holostars",
-        "Genshin Impact",
-        "Kuroko's Basketball",
-        "Dungeon Meshi",
-        "Arcane",
-        "My Hero Academia",
-        "Witch Hat Atelier",
-        "Puella Magi Madoka Magica",
-        "The Guy She Was Interested In Wasn't a Guy at All",
-        "Twisted Wonderland",
-        "Bungo Stray Dogs",
-        "Wuthering Waves",
-        "Servamp",
-        "Love And Deepspace"
-      ],
-      "id": "d92b4298-6e5b-418d-bd42-077de58cebc4",
-      "player_a": "551877849192202255",
-      "player_b": "1058900013201231992",
-      "started_at": 1789514267.1283998,
-      "channel_id": 1548825499076268053
-    },
     "b5a23bcc-3fd6-4292-b45b-8e631949c509": {
       "type": "claim_count",
       "target": 60,
@@ -881,7 +854,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 8,
+      "progress": 9,
       "id": "e843208c-27de-4dbe-871e-155ed8dd337f",
       "player_a": "827119373323206657",
       "player_b": "1273022793931292694",
@@ -3178,6 +3151,18 @@
         "timestamp": 1789508021.142022,
         "partner_id": "857177938682970132"
       }
+    ],
+    "551877849192202255": [
+      {
+        "timestamp": 1789524041.6275246,
+        "partner_id": "1058900013201231992"
+      }
+    ],
+    "1058900013201231992": [
+      {
+        "timestamp": 1789524041.6275246,
+        "partner_id": "551877849192202255"
+      }
     ]
   },
   "cooldowns": {
@@ -3499,7 +3484,9 @@
     "1295041201095053515": 1789491383.532383,
     "420699083238539285": 1789493512.690151,
     "1178380074001645660": 1789493512.690151,
-    "1321274187045666918": 1789508021.142022
+    "1321274187045666918": 1789508021.142022,
+    "551877849192202255": 1789524041.6275246,
+    "1058900013201231992": 1789524041.6275246
   },
   "bonus": {
     "777925664358531102": {
