@@ -23169,6 +23169,21 @@
   "968501068524818542": [
     {
       "card": {
+        "id": "grayson_rare",
+        "name": "Nightwing",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/grayson_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 10,
+      "claimed_at": 1789513921.0206974,
+      "tags": "FT"
+    },
+    {
+      "card": {
         "id": "lain_common",
         "name": "Lain Iwakura",
         "series": "Serial Experiments Lain",
@@ -24237,20 +24252,6 @@
       },
       "print": 6,
       "claimed_at": 1788565582.29718
-    },
-    {
-      "card": {
-        "id": "futaba_common",
-        "name": "Futaba Sakura",
-        "series": "Persona",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/futaba_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 6,
-      "claimed_at": 1788614035.2170887
     },
     {
       "card": {
@@ -25595,20 +25596,6 @@
       },
       "print": 6,
       "claimed_at": 1788089535.4357977
-    },
-    {
-      "card": {
-        "id": "baek_common_3",
-        "name": "Baek Yugun",
-        "series": "Merry Marbling",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/baek_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 6,
-      "claimed_at": 1788088875.1654737
     },
     {
       "card": {
@@ -47907,6 +47894,20 @@
     }
   ],
   "1378462940096761856": [
+    {
+      "card": {
+        "id": "koleda_common",
+        "name": "Koleda Belobog",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/koleda_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789524515.74847
+    },
     {
       "card": {
         "id": "raven_common",
@@ -108000,6 +108001,20 @@
   "1271962211606204560": [
     {
       "card": {
+        "id": "mami_common",
+        "name": "Mami Tomoe",
+        "series": "Puella Magi Madoka Magica",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mami_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789524662.313714
+    },
+    {
+      "card": {
         "id": "kagari_common",
         "name": "Kagari Shusei",
         "series": "PSYCHO-PASS",
@@ -114200,6 +114215,20 @@
     }
   ],
   "647974710470115339": [
+    {
+      "card": {
+        "id": "shoyo_common",
+        "name": "Shoyo Hinata",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shoyo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789524484.1427372
+    },
     {
       "card": {
         "id": "kento_common",
@@ -128882,6 +128911,20 @@
     }
   ],
   "1310028877485314098": [
+    {
+      "card": {
+        "id": "chidori_common",
+        "name": "Chidori Yoshino",
+        "series": "Persona",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chidori_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789524556.1154115
+    },
     {
       "card": {
         "id": "suisui_common",
@@ -218137,6 +218180,51 @@
   "1298419501238456452": [
     {
       "card": {
+        "id": "he_common_2",
+        "name": "He Zhao",
+        "series": "Fake Slackers",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/he_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789524560.877877,
+      "tags": "holdmaybe"
+    },
+    {
+      "card": {
+        "id": "futaba_common",
+        "name": "Futaba Sakura",
+        "series": "Persona",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/futaba_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1788614035.2170887,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "baek_common_3",
+        "name": "Baek Yugun",
+        "series": "Merry Marbling",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1788088875.1654737,
+      "tags": "\u274c\u274c"
+    },
+    {
+      "card": {
         "id": "ikuyo_common",
         "name": "Ikuyo Kita",
         "series": "Bocchi The Rock!",
@@ -218147,7 +218235,8 @@
         "version": "common"
       },
       "print": 7,
-      "claimed_at": 1789524110.3303232
+      "claimed_at": 1789524110.3303232,
+      "tags": "Maybe..."
     },
     {
       "card": {
@@ -218447,21 +218536,6 @@
       },
       "print": 9,
       "claimed_at": 1789513949.7793674,
-      "tags": "FT"
-    },
-    {
-      "card": {
-        "id": "grayson_rare",
-        "name": "Nightwing",
-        "series": "DC",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/grayson_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 10,
-      "claimed_at": 1789513921.0206974,
       "tags": "FT"
     },
     {
@@ -218793,7 +218867,7 @@
       },
       "print": 9,
       "claimed_at": 1788662776.0966268,
-      "tags": "FT"
+      "tags": "hold"
     },
     {
       "card": {
@@ -238290,6 +238364,20 @@
   "1054746696019615775": [
     {
       "card": {
+        "id": "mephistopheles_common",
+        "name": "Mephistopheles",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mephistopheles_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789524605.3374102
+    },
+    {
+      "card": {
         "id": "koro-sensei_common",
         "name": "Koro-sensei",
         "series": "Assassination Classroom",
@@ -252477,6 +252565,20 @@
   "917321745600487424": [
     {
       "card": {
+        "id": "kai_common_2",
+        "name": "Kai Han",
+        "series": "Rebound Of The Heart",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kai_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789524429.254563
+    },
+    {
+      "card": {
         "id": "yanqing_common",
         "name": "Yanqing",
         "series": "Honkai: Star Rail",
@@ -262078,6 +262180,20 @@
   "601381718569517076": [
     {
       "card": {
+        "id": "misa_common",
+        "name": "Misa Amane",
+        "series": "Death Note",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/misa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789524577.9119344
+    },
+    {
+      "card": {
         "id": "klein_common",
         "name": "Klein Moretti",
         "series": "Lord Of The Mysteries",
@@ -262615,6 +262731,20 @@
     }
   ],
   "606063258226655235": [
+    {
+      "card": {
+        "id": "aya_common",
+        "name": "Aya Oosawa",
+        "series": "The Guy She Was Interested In Wasn't a Guy at All",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/aya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789524468.2924943
+    },
     {
       "card": {
         "id": "tsukishiro_common",
