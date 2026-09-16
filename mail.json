@@ -1410,7 +1410,7 @@
       "receiver_id": "661202852244488192",
       "timestamp": 1789567932.7708075,
       "message": "u gotta whisper..",
-      "read": false
+      "read": true
     },
     {
       "id": "77bdf78d-8261-4101-bcab-97b03a1898b1",
@@ -1418,7 +1418,7 @@
       "receiver_id": "661202852244488192",
       "timestamp": 1789568583.231195,
       "message": "i looked behind me.",
-      "read": false
+      "read": true
     }
   ],
   "__blocked__": {
@@ -8723,6 +8723,14 @@
       "receiver_id": "247066385849647107",
       "timestamp": 1789567218.8571978,
       "message": "It is here\u2026\nDon\u2019t look..\n*Behind you..*",
+      "read": false
+    },
+    {
+      "id": "69b8c2b7-bdb1-4f7d-aa6f-07880803cec6",
+      "sender_id": "661202852244488192",
+      "receiver_id": "247066385849647107",
+      "timestamp": 1789568626.5754125,
+      "message": "10 km\n9 km\n8 km\n**7** km \n**6** km \n5 km\n4 km\nits closer..\n3 km.. \n2 km..\n1.. km..",
       "read": false
     }
   ],
