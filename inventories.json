@@ -53874,6 +53874,20 @@
   "1378462940096761856": [
     {
       "card": {
+        "id": "ken_common",
+        "name": "Ken Kaneki",
+        "series": "Tokyo Ghoul",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ken_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789601463.7769797
+    },
+    {
+      "card": {
         "id": "shu_common_2",
         "name": "Shu Itsuki & Mika Kagehira",
         "series": "Ensemble Stars!",
@@ -75718,6 +75732,20 @@
   "696595496021786654": [
     {
       "card": {
+        "id": "maki_common",
+        "name": "Maki Zenin",
+        "series": "Jujutsu Kaisen",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/maki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789601523.4967227
+    },
+    {
+      "card": {
         "id": "dia_common",
         "name": "Dia Kurosawa",
         "series": "Love Live!",
@@ -89445,6 +89473,20 @@
     }
   ],
   "891662969107255338": [
+    {
+      "card": {
+        "id": "sayeon_common",
+        "name": "Sayeon Lee",
+        "series": "Hand Jumper",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sayeon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789601566.6014442
+    },
     {
       "card": {
         "id": "dante_common_3",
@@ -167304,6 +167346,21 @@
   "688313291532926976": [
     {
       "card": {
+        "id": "maka_common",
+        "name": "Maka Albarn & Soul Eater Evans",
+        "series": "Soul Eater",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/maka_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1789490923.5232816,
+      "tags": "(\u2661\u02ca\u0348 \ua4b3 \u02cb\u0348)"
+    },
+    {
+      "card": {
         "id": "daitaku_common",
         "name": "Daitaku Helios",
         "series": "Umamusume: Pretty Derby",
@@ -167357,20 +167414,6 @@
       },
       "print": 18,
       "claimed_at": 1789577239.98958
-    },
-    {
-      "card": {
-        "id": "akihiko_common_4",
-        "name": "Akihiko Kaji",
-        "series": "Given",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/akihiko_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 19,
-      "claimed_at": 1789571627.6945715
     },
     {
       "card": {
@@ -181749,18 +181792,17 @@
   "1401622768214347796": [
     {
       "card": {
-        "id": "maka_common",
-        "name": "Maka Albarn & Soul Eater Evans",
-        "series": "Soul Eater",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/maka_common.png",
+        "id": "akihiko_common_4",
+        "name": "Akihiko Kaji",
+        "series": "Given",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/akihiko_common_4.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 9,
-      "claimed_at": 1789490923.5232816,
-      "tags": "FT"
+      "print": 19,
+      "claimed_at": 1789571627.6945715
     },
     {
       "card": {
@@ -186987,6 +187029,20 @@
     }
   ],
   "857177938682970132": [
+    {
+      "card": {
+        "id": "sung_common",
+        "name": "Sung Hyunjae",
+        "series": "The S-classes That I Raised",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sung_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789601729.8198028
+    },
     {
       "card": {
         "id": "maomao_common",
@@ -245465,6 +245521,21 @@
   "1454914344792883305": [
     {
       "card": {
+        "id": "tanjiro_rare",
+        "name": "Kamado Tanjiro",
+        "series": "Kimetsu no Yaiba",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tanjiro_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 12,
+      "claimed_at": 1789601538.066017,
+      "tags": "prns"
+    },
+    {
+      "card": {
         "id": "hyacine_common",
         "name": "Hyacine",
         "series": "Honkai: Star Rail",
@@ -264107,6 +264178,21 @@
   "1028046694992064512": [
     {
       "card": {
+        "id": "vincent_common",
+        "name": "Vincent Charbonneau",
+        "series": "Dead Plate",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/vincent_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789601508.1730483,
+      "tags": "\ua4b0 \u19d4\ud83d\udd2a\u19d3 \ua4b1"
+    },
+    {
+      "card": {
         "id": "killua_common",
         "name": "Killua Zoldyck",
         "series": "Hunter x Hunter",
@@ -264117,7 +264203,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789599642.116232
+      "claimed_at": 1789599642.116232,
+      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
     },
     {
       "card": {
@@ -264131,7 +264218,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789598458.6378264
+      "claimed_at": 1789598458.6378264,
+      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
     },
     {
       "card": {
@@ -264145,7 +264233,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789597746.455817
+      "claimed_at": 1789597746.455817,
+      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
     },
     {
       "card": {
@@ -264175,7 +264264,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789596940.1356993
+      "claimed_at": 1789596940.1356993,
+      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
     },
     {
       "card": {
@@ -264189,7 +264279,8 @@
         "version": "common"
       },
       "print": 15,
-      "claimed_at": 1789596937.5777001
+      "claimed_at": 1789596937.5777001,
+      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
     },
     {
       "card": {
@@ -287644,6 +287735,20 @@
     }
   ],
   "1029068754526687232": [
+    {
+      "card": {
+        "id": "andrew_common",
+        "name": "Andrew Young",
+        "series": "Nerd Project",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/andrew_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789601449.530221
+    },
     {
       "card": {
         "id": "mikasa_common",
@@ -322584,6 +322689,20 @@
     }
   ],
   "1303595998714662916": [
+    {
+      "card": {
+        "id": "shadow_common",
+        "name": "Shadow Milk Cookie",
+        "series": "CookieRun Series",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shadow_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789601603.5355718
+    },
     {
       "card": {
         "id": "gambit_rare",
