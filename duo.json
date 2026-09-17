@@ -803,7 +803,8 @@
         "Aleksander",
         "Asaba Harumasa",
         "Dabi",
-        "Reze"
+        "Reze",
+        "Eijirou Kirishima"
       ],
       "id": "352970de-1ca9-4fe3-8489-93e0e9d08b61",
       "player_a": "420699083238539285",
@@ -815,12 +816,23 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "06dab132-4990-467a-80b9-db746ea857d6",
       "player_a": "1028692731029110846",
       "player_b": "925445064254181386",
       "started_at": 1789685144.679012,
       "channel_id": 1543395165224313022
+    },
+    "7e246942-94c6-439b-8485-134264386958": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 0,
+      "id": "7e246942-94c6-439b-8485-134264386958",
+      "player_a": "826335464532607031",
+      "player_b": "1204473206077919295",
+      "started_at": 1789687934.2785592,
+      "channel_id": 1543027393944485929
     }
   },
   "weekly": {
@@ -9720,7 +9732,7 @@
     },
     "1508236825557209179": {
       "drop": 3,
-      "claim": 4
+      "claim": 3
     },
     "1405216217387765780": {
       "drop": 0,
