@@ -53808,6 +53808,20 @@
   "968786127081328660": [
     {
       "card": {
+        "id": "levi_common",
+        "name": "Levi Ackerman",
+        "series": "Attack on Titan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/levi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 2,
+      "claimed_at": 1788085546.744214
+    },
+    {
+      "card": {
         "id": "kanata_common",
         "name": "Kanata Shinkai",
         "series": "Ensemble Stars!",
@@ -54424,20 +54438,6 @@
       },
       "print": 3,
       "claimed_at": 1788086159.2613227
-    },
-    {
-      "card": {
-        "id": "levi_common",
-        "name": "Levi Ackerman",
-        "series": "Attack on Titan",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/levi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 2,
-      "claimed_at": 1788085546.744214
     }
   ],
   "1122003954436407336": [
@@ -135582,6 +135582,20 @@
   "990363988422447154": [],
   "356268235697553409": [],
   "1429533392705294521": [
+    {
+      "card": {
+        "id": "saiko_common",
+        "name": "Saiko Yonebayashi",
+        "series": "Tokyo Ghoul",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/saiko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789628842.1991017
+    },
     {
       "card": {
         "id": "sorato_common",
@@ -251151,6 +251165,20 @@
   "1200759841245892653": [
     {
       "card": {
+        "id": "josuke_common",
+        "name": "Josuke Higashikata",
+        "series": "Jojo\u02bcs Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/josuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789628793.8262591
+    },
+    {
+      "card": {
         "id": "tomoya_common",
         "name": "Tomoya Okazaki",
         "series": "CLANNAD",
@@ -252176,6 +252204,37 @@
   "764446760004354048": [
     {
       "card": {
+        "id": "ritsu_common_2",
+        "name": "Ritsu Sakuma",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ritsu_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789628826.7454767
+    },
+    {
+      "card": {
+        "id": "qifrey_common",
+        "name": "Qifrey",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/qifrey_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1788093806.4938834,
+      "tags": "\u2661\ufe52qifrey",
+      "pinned": true,
+      "showcased": true
+    },
+    {
+      "card": {
         "id": "wakatoshi_common",
         "name": "Wakatoshi Ushijima",
         "series": "Haikyuu!!",
@@ -253035,23 +253094,6 @@
     },
     {
       "card": {
-        "id": "qifrey_common",
-        "name": "Qifrey",
-        "series": "Witch Hat Atelier",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/qifrey_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 6,
-      "claimed_at": 1788093806.4938834,
-      "tags": "\u2661\ufe52qifrey",
-      "pinned": true,
-      "showcased": true
-    },
-    {
-      "card": {
         "id": "aoi_rare",
         "name": "Ai Hoshino",
         "series": "Oshi No Ko",
@@ -253305,7 +253347,7 @@
       "claimed_at": 1788042877.0951345,
       "tags": "\u2661\ufe52qifrey",
       "pinned": true,
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -258383,6 +258425,20 @@
     }
   ],
   "836214830662025227": [
+    {
+      "card": {
+        "id": "hyoma_common",
+        "name": "Hyoma Chigiri",
+        "series": "BLUELOCK",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/hyoma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789628817.385477
+    },
     {
       "card": {
         "id": "ten_common",
