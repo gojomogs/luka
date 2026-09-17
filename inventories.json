@@ -1584,6 +1584,20 @@
   "1241420729933758514": [
     {
       "card": {
+        "id": "j_common",
+        "name": "J",
+        "series": "Reverse: 1999",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/j_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789623830.293959
+    },
+    {
+      "card": {
         "id": "rimicha_common",
         "name": "Hangyon",
         "series": "Fragaria Memories",
@@ -50048,6 +50062,20 @@
   "1205851657901178892": [
     {
       "card": {
+        "id": "laito_common",
+        "name": "Laito Sakamaki",
+        "series": "Diabolik Lovers",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/laito_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1789621957.4165843
+    },
+    {
+      "card": {
         "id": "fu_common_5",
         "name": "Fu Xuan",
         "series": "Honkai: Star Rail",
@@ -50200,21 +50228,6 @@
       "print": 5,
       "claimed_at": 1788651214.8819346,
       "tags": "\ud83e\udd0d"
-    },
-    {
-      "card": {
-        "id": "venti_common",
-        "name": "Venti",
-        "series": "Genshin Impact",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/venti_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 18,
-      "claimed_at": 1789492433.36392,
-      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -135121,6 +135134,20 @@
   "1429533392705294521": [
     {
       "card": {
+        "id": "lu_common_2",
+        "name": "Lu Feng",
+        "series": "Little Mushroom",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lu_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789623780.2896512
+    },
+    {
+      "card": {
         "id": "sorato_common",
         "name": "Sorato Ichimiya",
         "series": "Phantom Busters",
@@ -141661,6 +141688,20 @@
     }
   ],
   "1468648929783709768": [
+    {
+      "card": {
+        "id": "toki_common",
+        "name": "Toki Ninomae",
+        "series": "Fall in love, false angels",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/toki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789623852.343987
+    },
     {
       "card": {
         "id": "haru_common",
@@ -149479,6 +149520,20 @@
     }
   ],
   "1310028877485314098": [
+    {
+      "card": {
+        "id": "kuzuha_common",
+        "name": "Kuzuha",
+        "series": "Nijisanji",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kuzuha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789623685.9191568
+    },
     {
       "card": {
         "id": "sosuke_common",
@@ -161041,6 +161096,20 @@
     }
   ],
   "931469645897166888": [
+    {
+      "card": {
+        "id": "bruno_common",
+        "name": "Bruno Bucciarati",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/bruno_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789623799.060131
+    },
     {
       "card": {
         "id": "qiu_common",
@@ -234937,6 +235006,49 @@
   "1509055520584237137": [
     {
       "card": {
+        "id": "cheongryeo_common",
+        "name": "Cheongryeo",
+        "series": "Debut or Die",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cheongryeo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789623796.3650806
+    },
+    {
+      "card": {
+        "id": "elysia_common",
+        "name": "Elysia",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/elysia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789623793.9176357
+    },
+    {
+      "card": {
+        "id": "venti_common",
+        "name": "Venti",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/venti_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789492433.36392,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
+    },
+    {
+      "card": {
         "id": "venti_common",
         "name": "Venti",
         "series": "Genshin Impact",
@@ -234949,20 +235061,6 @@
       "print": 13,
       "claimed_at": 1788662223.9715812,
       "tags": "elliot"
-    },
-    {
-      "card": {
-        "id": "laito_common",
-        "name": "Laito Sakamaki",
-        "series": "Diabolik Lovers",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/laito_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 9,
-      "claimed_at": 1789621957.4165843
     },
     {
       "card": {
@@ -270683,6 +270781,20 @@
   "899806964710801499": [
     {
       "card": {
+        "id": "shirou_common",
+        "name": "Shirou Kamui",
+        "series": "X/1999",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shirou_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789623946.6805325
+    },
+    {
+      "card": {
         "id": "aoi_common",
         "name": "Aoi Akane",
         "series": "Toilet-bound Hanako-kun",
@@ -287533,6 +287645,20 @@
     }
   ],
   "643593256713584670": [
+    {
+      "card": {
+        "id": "sylus_common",
+        "name": "Sylus",
+        "series": "Love And Deepspace",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sylus_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789623775.4412699
+    },
     {
       "card": {
         "id": "a\u015bvatth\u0103man_common",
@@ -306069,6 +306195,20 @@
   "735119062585049229": [
     {
       "card": {
+        "id": "kaoruko_common",
+        "name": "Kaoruko Waguri",
+        "series": "The Fragrant Flower Blooms with Dignity",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kaoruko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789623825.0536096
+    },
+    {
+      "card": {
         "id": "kokushibo_common",
         "name": "Kokushibo",
         "series": "Kimetsu no Yaiba",
@@ -314218,6 +314358,20 @@
     }
   ],
   "1480643238699466977": [
+    {
+      "card": {
+        "id": "still_common",
+        "name": "Still In Love",
+        "series": "Umamusume: Pretty Derby",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/still_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789623796.2118325
+    },
     {
       "card": {
         "id": "teru_common",
@@ -336040,6 +336194,20 @@
   "1303595998714662916": [
     {
       "card": {
+        "id": "edmond_common_2",
+        "name": "Edmond",
+        "series": "Messiah Project",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/edmond_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789623941.45908
+    },
+    {
+      "card": {
         "id": "sayori_common",
         "name": "Sayori",
         "series": "Doki Doki Literature Club!",
@@ -338852,7 +339020,22 @@
       "claimed_at": 1789586549.6118522
     }
   ],
-  "808060427543642163": [],
+  "808060427543642163": [
+    {
+      "card": {
+        "id": "frieren_common",
+        "name": "Frieren",
+        "series": "Frieren: Beyond Journey\u2019s End",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/frieren_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789623758.4178605
+    }
+  ],
   "1121976084188115014": [
     {
       "card": {
