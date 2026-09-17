@@ -758,6 +758,20 @@
       "player_b": "758882530391883808",
       "started_at": 1789663491.385493,
       "channel_id": 1543435922614255727
+    },
+    "9ff365fa-f9ac-4245-a7f7-4f35becb64cc": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Genshin Impact"
+      ],
+      "id": "9ff365fa-f9ac-4245-a7f7-4f35becb64cc",
+      "player_a": "1299833889166065743",
+      "player_b": "1157782319483068476",
+      "started_at": 1789668695.1132905,
+      "channel_id": 1543259382723125388
     }
   },
   "weekly": {
@@ -3944,8 +3958,8 @@
       "claim": 0
     },
     "768645666851258371": {
-      "drop": 7,
-      "claim": 7
+      "drop": 0,
+      "claim": 1
     },
     "925445064254181386": {
       "drop": 7,
