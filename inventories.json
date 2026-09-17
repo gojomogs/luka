@@ -13534,7 +13534,8 @@
       "print": 1,
       "claimed_at": 1788088447.5590413,
       "tags": "\ud83d\udd25\ud83d\udc80",
-      "pinned": true
+      "pinned": true,
+      "showcased": true
     },
     {
       "card": {
@@ -14706,7 +14707,8 @@
       "print": 1,
       "claimed_at": 1788047187.2431455,
       "tags": "\ud83d\udd25\u2694\ufe0f",
-      "pinned": true
+      "pinned": true,
+      "showcased": true
     },
     {
       "card": {
@@ -15470,7 +15472,7 @@
       "print": 3,
       "claimed_at": 1788012184.6637027,
       "tags": "\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -15671,7 +15673,7 @@
       "print": 2,
       "claimed_at": 1787848450.6978037,
       "tags": "\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -43427,6 +43429,20 @@
   "909551241967861770": [
     {
       "card": {
+        "id": "fluttershy_common",
+        "name": "Fluttershy",
+        "series": "My Little Pony",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fluttershy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789612032.3816292
+    },
+    {
+      "card": {
         "id": "fu_common_3",
         "name": "Fu Hua & Rita Rossweisse",
         "series": "Honkai Impact 3rd",
@@ -66387,7 +66403,7 @@
       },
       "print": 6,
       "claimed_at": 1788592456.2120929,
-      "tags": "FT\u273f\ua4b1\ud80c\ude12\u0f80"
+      "tags": "holdsadi"
     },
     {
       "card": {
@@ -74560,6 +74576,20 @@
   "1515535105140064338": [
     {
       "card": {
+        "id": "he_common_3",
+        "name": "He Tian",
+        "series": "19 Days",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/he_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789611824.2814286
+    },
+    {
+      "card": {
         "id": "cha_common",
         "name": "Cha Eui-jae",
         "series": "The Hunter's Gonna Lay Low",
@@ -76793,6 +76823,20 @@
     }
   ],
   "696595496021786654": [
+    {
+      "card": {
+        "id": "lynx_common",
+        "name": "Lynx",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lynx_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1789611862.7353203
+    },
     {
       "card": {
         "id": "ye_common",
@@ -90661,6 +90705,20 @@
     }
   ],
   "891662969107255338": [
+    {
+      "card": {
+        "id": "odette_common",
+        "name": "Odette",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/odette_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789611859.212995
+    },
     {
       "card": {
         "id": "atsushi_common",
@@ -122523,6 +122581,20 @@
     }
   ],
   "1271962211606204560": [
+    {
+      "card": {
+        "id": "ruby_common",
+        "name": "Ruby Hoshino",
+        "series": "Oshi No Ko",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ruby_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789611799.3012714
+    },
     {
       "card": {
         "id": "yuuki_common",
@@ -164980,6 +165052,20 @@
   "768645666851258371": [
     {
       "card": {
+        "id": "kuran_common",
+        "name": "Kuran & Ichiko",
+        "series": "Even the Introverted Gals Wanna Get Out There!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kuran_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789612020.8834124
+    },
+    {
+      "card": {
         "id": "senku_common",
         "name": "Senku Ishigami",
         "series": "Dr. Stone",
@@ -179300,6 +179386,20 @@
   "807341781662302281": [
     {
       "card": {
+        "id": "nagisa_common_6",
+        "name": "Nagisa Shiota",
+        "series": "Assassination Classroom",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nagisa_common_6.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1789611930.0447557
+    },
+    {
+      "card": {
         "id": "ash_common",
         "name": "Ash Lynx",
         "series": "Banana Fish",
@@ -182378,6 +182478,20 @@
   "1012406209824968786": [
     {
       "card": {
+        "id": "guoba_common",
+        "name": "Guoba",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/guoba_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789611957.965749
+    },
+    {
+      "card": {
         "id": "oboro_common",
         "name": "Oboro Shirakumo",
         "series": "My Hero Academia",
@@ -183360,6 +183474,20 @@
     }
   ],
   "1489781141211713677": [
+    {
+      "card": {
+        "id": "nico_common",
+        "name": "Nico Robin",
+        "series": "One Piece",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nico_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789611993.0705757
+    },
     {
       "card": {
         "id": "silent_common",
@@ -274450,6 +274578,21 @@
   "1523865177592959078": [
     {
       "card": {
+        "id": "angel_common",
+        "name": "Angel Devil",
+        "series": "Chainsaw Man",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/angel_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789611914.7991576,
+      "tags": "\ud83e\udd0d"
+    },
+    {
+      "card": {
         "id": "gen_common",
         "name": "Gen Asagiri",
         "series": "Dr. Stone",
@@ -275425,6 +275568,20 @@
     }
   ],
   "1204473206077919295": [
+    {
+      "card": {
+        "id": "ai_common",
+        "name": "Ai Haibara",
+        "series": "Detective Conan",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ai_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 4,
+      "claimed_at": 1789611986.3007798
+    },
     {
       "card": {
         "id": "goo_common",
@@ -320532,6 +320689,20 @@
     }
   ],
   "420699083238539285": [
+    {
+      "card": {
+        "id": "jonathan_common",
+        "name": "Jonathan Joestar",
+        "series": "Jojo\u02bcs Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jonathan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1789611866.2501676
+    },
     {
       "card": {
         "id": "sooyoung_common",
