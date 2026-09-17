@@ -15407,6 +15407,20 @@
   "1095353184471490620": [
     {
       "card": {
+        "id": "tao_common",
+        "name": "Tao Saotome",
+        "series": "Gokurakugai",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/tao_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789689235.8775573
+    },
+    {
+      "card": {
         "id": "lu_common_3",
         "name": "Lu Shu",
         "series": "Da Wang Rao Ming",
@@ -41470,6 +41484,20 @@
     }
   ],
   "856783136833667072": [
+    {
+      "card": {
+        "id": "kuzuha_common",
+        "name": "Kuzuha",
+        "series": "Nijisanji",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kuzuha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1789689397.0888834
+    },
     {
       "card": {
         "id": "zatanna_rare",
@@ -83566,6 +83594,20 @@
     }
   ],
   "696595496021786654": [
+    {
+      "card": {
+        "id": "promeia_common",
+        "name": "Promeia",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/promeia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789689345.8841717
+    },
     {
       "card": {
         "id": "nice_common",
@@ -128715,6 +128757,20 @@
   "1126786436864147457": [
     {
       "card": {
+        "id": "kiyoomi_common",
+        "name": "Kiyoomi Sakusa",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kiyoomi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789689407.728298
+    },
+    {
+      "card": {
         "id": "eunyung_common",
         "name": "Eunyung Baek",
         "series": "No Home",
@@ -165944,6 +166000,20 @@
   "247066385849647107": [
     {
       "card": {
+        "id": "ji_common_3",
+        "name": "Ji Eunoh",
+        "series": "One-room TA",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ji_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789689346.9933279
+    },
+    {
+      "card": {
         "id": "tetsurou_common",
         "name": "Tetsurou Kuroo",
         "series": "Haikyuu!!",
@@ -201815,7 +201885,8 @@
         "version": "common"
       },
       "print": 2,
-      "claimed_at": 1788572991.1951966
+      "claimed_at": 1788572991.1951966,
+      "tags": "\ud83d\udcab \u05c1 \u05c5 \ud835\ude21\ud835\ude26\ud835\ude2f\ufe52"
     },
     {
       "card": {
@@ -201900,7 +201971,7 @@
       },
       "print": 1,
       "claimed_at": 1788096100.4006772,
-      "tags": "\ud83d\udc8d",
+      "tags": "\ud83d\udcab \u05c1 \u05c5 \ud835\ude21\ud835\ude26\ud835\ude2f\ufe52",
       "pinned": true
     },
     {
@@ -242282,6 +242353,20 @@
     }
   ],
   "435630813011378187": [
+    {
+      "card": {
+        "id": "desscaras_common",
+        "name": "Desscaras",
+        "series": "Ichi The Witch",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/desscaras_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789689365.066232
+    },
     {
       "card": {
         "id": "azusawa_common",
@@ -283585,6 +283670,21 @@
   "1298419501238456452": [
     {
       "card": {
+        "id": "asaba_common",
+        "name": "Asaba Harumasa",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/asaba_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789689208.0857756,
+      "tags": "FT"
+    },
+    {
+      "card": {
         "id": "kajiyama_common",
         "name": "Kajiyama Fuuta",
         "series": "MILGRAM",
@@ -283640,7 +283740,8 @@
         "version": "common"
       },
       "print": 26,
-      "claimed_at": 1789685193.6186154
+      "claimed_at": 1789685193.6186154,
+      "tags": "FT"
     },
     {
       "card": {
@@ -283669,7 +283770,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789676499.1141832
+      "claimed_at": 1789676499.1141832,
+      "tags": "FT"
     },
     {
       "card": {
@@ -283683,7 +283785,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789671816.6557755
+      "claimed_at": 1789671816.6557755,
+      "tags": "ProbFT"
     },
     {
       "card": {
@@ -283697,7 +283800,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789669481.6725419
+      "claimed_at": 1789669481.6725419,
+      "tags": "\u274c"
     },
     {
       "card": {
@@ -327125,6 +327229,95 @@
   "736235127910432789": [
     {
       "card": {
+        "id": "otonase_common",
+        "name": "Otonase Kanade",
+        "series": "Hololive",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/otonase_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789689230.5592215,
+      "tags": "\ud83c\udf68nft"
+    },
+    {
+      "card": {
+        "id": "atsumu_common",
+        "name": "Atsumu Miya",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/atsumu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789689205.5952632
+    },
+    {
+      "card": {
+        "id": "veliona_common",
+        "name": "Veliona",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/veliona_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789689202.0783403,
+      "tags": "\ud83c\udf59depends"
+    },
+    {
+      "card": {
+        "id": "toma_common",
+        "name": "Toma Mako",
+        "series": "Selection Project",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/toma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1789689186.0198214,
+      "tags": "\ud83c\udf6e ft"
+    },
+    {
+      "card": {
+        "id": "fluttershy_common",
+        "name": "Fluttershy",
+        "series": "My Little Pony",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fluttershy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789689171.3965597,
+      "tags": "\ud83c\udf68nft"
+    },
+    {
+      "card": {
+        "id": "stargazer_common",
+        "name": "Stargazer",
+        "series": "Path To Nowhere",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/stargazer_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 3,
+      "claimed_at": 1789689162.7027037,
+      "tags": "\ud83c\udf6e ft"
+    },
+    {
+      "card": {
         "id": "gallagher_common",
         "name": "Gallagher",
         "series": "Honkai: Star Rail",
@@ -363955,7 +364148,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1789657955.9247723
+      "claimed_at": 1789657955.9247723,
+      "tags": "HOLD"
     },
     {
       "card": {
@@ -364714,6 +364908,20 @@
     }
   ],
   "905294901082738749": [
+    {
+      "card": {
+        "id": "firefly_common",
+        "name": "Firefly",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/firefly_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789689427.0074608
+    },
     {
       "card": {
         "id": "towa_common",
@@ -371153,7 +371361,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789688939.591059
+      "claimed_at": 1789688939.591059,
+      "tags": "\ud83c\udf70"
     },
     {
       "card": {
@@ -371196,7 +371405,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789688880.4692822
+      "claimed_at": 1789688880.4692822,
+      "tags": "\ud83c\udf70"
     },
     {
       "card": {
