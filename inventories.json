@@ -76223,6 +76223,20 @@
   "1515535105140064338": [
     {
       "card": {
+        "id": "alma_common",
+        "name": "Alma",
+        "series": "Gokurakugai",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/alma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789632944.7873278
+    },
+    {
+      "card": {
         "id": "white_common",
         "name": "White Fox",
         "series": "Marvel",
@@ -76361,20 +76375,6 @@
       "print": 15,
       "claimed_at": 1788669523.4188159,
       "tags": "\u2764\ufe0e"
-    },
-    {
-      "card": {
-        "id": "lucifer_common",
-        "name": "Lucifer",
-        "series": "Obey Me!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/lucifer_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1789599801.8473227
     },
     {
       "card": {
@@ -249441,6 +249441,20 @@
   "1183826856449953822": [
     {
       "card": {
+        "id": "edgar_common_2",
+        "name": "Edgar",
+        "series": "Neverness to Everness",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/edgar_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1789633080.3806162
+    },
+    {
+      "card": {
         "id": "baek_common",
         "name": "Baek Cirrus",
         "series": "Lost in the Cloud",
@@ -254886,6 +254900,20 @@
     }
   ],
   "1125010005066784860": [
+    {
+      "card": {
+        "id": "ayn_common",
+        "name": "Ayn Alwyn",
+        "series": "Lovebrush Chronicles",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ayn_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789633002.0329452
+    },
     {
       "card": {
         "id": "silver_common_2",
@@ -298189,7 +298217,7 @@
       },
       "print": 12,
       "claimed_at": 1789546972.6812274,
-      "tags": "ask"
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -298204,7 +298232,7 @@
       },
       "print": 9,
       "claimed_at": 1788611876.3951817,
-      "tags": "ft"
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -298219,7 +298247,7 @@
       },
       "print": 3,
       "claimed_at": 1788090323.3866534,
-      "tags": "ft"
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -313296,6 +313324,20 @@
   "1041707673214783551": [
     {
       "card": {
+        "id": "lucifer_common",
+        "name": "Lucifer",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lucifer_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789599801.8473227
+    },
+    {
+      "card": {
         "id": "sariel_common",
         "name": "Sariel",
         "series": "Light and Night",
@@ -314564,6 +314606,20 @@
     }
   ],
   "930186314295427082": [
+    {
+      "card": {
+        "id": "deadpool_common",
+        "name": "Deadpool",
+        "series": "Marvel",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/deadpool_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1789632924.8537219
+    },
     {
       "card": {
         "id": "billy_common",
@@ -324130,6 +324186,20 @@
     }
   ],
   "606063258226655235": [
+    {
+      "card": {
+        "id": "lee_common_3",
+        "name": "Lee",
+        "series": "Punishing: Gray Raven",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lee_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789633095.1373186
+    },
     {
       "card": {
         "id": "eleven_common",
@@ -342998,6 +343068,22 @@
       },
       "print": 18,
       "claimed_at": 1789632736.044751
+    }
+  ],
+  "1425287657474494526": [
+    {
+      "card": {
+        "id": "juno_common",
+        "name": "Juno",
+        "series": "Beastars",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/juno_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1789632949.9502475
     }
   ]
 }
