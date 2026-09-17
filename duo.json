@@ -733,6 +733,18 @@
       "player_b": "1509055520584237137",
       "started_at": 1789646723.4175313,
       "channel_id": 1543211963453014076
+    },
+    "f5aba41d-af13-4497-8166-dba7d111a754": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "f5aba41d-af13-4497-8166-dba7d111a754",
+      "player_a": "767054445724827718",
+      "player_b": "758882530391883808",
+      "started_at": 1789663491.385493,
+      "channel_id": 1543435922614255727
     }
   },
   "weekly": {
@@ -6319,7 +6331,7 @@
       "claim": 0
     },
     "758882530391883808": {
-      "drop": 6,
+      "drop": 5,
       "claim": 7
     },
     "768657554716360724": {
