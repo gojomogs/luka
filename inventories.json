@@ -54587,6 +54587,20 @@
   "1205851657901178892": [
     {
       "card": {
+        "id": "natsuki_common",
+        "name": "Natsuki",
+        "series": "Doki Doki Literature Club!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/natsuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789707575.8843634
+    },
+    {
+      "card": {
         "id": "nene_common_2",
         "name": "Yashiro Nene & Hanako-kun",
         "series": "Toilet-bound Hanako-kun",
@@ -90364,6 +90378,20 @@
   "1441925768199278643": [
     {
       "card": {
+        "id": "kaito_common",
+        "name": "KAITO",
+        "series": "Vocaloid",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kaito_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789707678.6823316
+    },
+    {
+      "card": {
         "id": "fumihiko_common",
         "name": "Fumihiko Takaba",
         "series": "Jujutsu Kaisen",
@@ -100709,6 +100737,20 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "kagari_common_2",
+        "name": "Kagari Mimi",
+        "series": "I Want to Love You Till Your Dying Day",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kagari_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789707456.3156838
+    },
+    {
+      "card": {
         "id": "neeko_common",
         "name": "Neeko",
         "series": "League of Legends",
@@ -102367,7 +102409,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789564250.8344584
+      "claimed_at": 1789564250.8344584,
+      "tags": "nora"
     },
     {
       "card": {
@@ -105155,7 +105198,8 @@
         "version": "common"
       },
       "print": 3,
-      "claimed_at": 1788021695.5080693
+      "claimed_at": 1788021695.5080693,
+      "tags": "elizabeth"
     },
     {
       "card": {
@@ -155127,6 +155171,20 @@
     }
   ],
   "1468648929783709768": [
+    {
+      "card": {
+        "id": "tsukasa_common",
+        "name": "Tenma Tsukasa",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tsukasa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1789707610.3915896
+    },
     {
       "card": {
         "id": "male_common_3",
@@ -208294,21 +208352,6 @@
       "print": 9,
       "claimed_at": 1788629084.5786877,
       "tags": "\u26a1 \ud835\ude0b\ud835\ude0c\ud835\ude15\ud835\ude12\ud835\ude10 \u2e1d\u2e1d"
-    },
-    {
-      "card": {
-        "id": "sua_common",
-        "name": "Sua",
-        "series": "Alien Stage",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/sua_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 13,
-      "claimed_at": 1788628470.7838857,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
     },
     {
       "card": {
@@ -383507,6 +383550,20 @@
   "1303595998714662916": [
     {
       "card": {
+        "id": "phrolova_common",
+        "name": "Phrolova",
+        "series": "Wuthering Waves",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/phrolova_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789707606.3011756
+    },
+    {
+      "card": {
         "id": "agott_common",
         "name": "Agott",
         "series": "Witch Hat Atelier",
@@ -390707,6 +390764,37 @@
       },
       "print": 11,
       "claimed_at": 1789701422.54649
+    }
+  ],
+  "795454216760066090": [
+    {
+      "card": {
+        "id": "sua_common",
+        "name": "Sua",
+        "series": "Alien Stage",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sua_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1788628470.7838857,
+      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
+    },
+    {
+      "card": {
+        "id": "sua_common",
+        "name": "Sua",
+        "series": "Alien Stage",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sua_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1789707609.5295954
     }
   ]
 }
