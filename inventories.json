@@ -70363,6 +70363,20 @@
   "837077284845518888": [
     {
       "card": {
+        "id": "itachi_common",
+        "name": "Itachi Uchiha",
+        "series": "Naruto",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/itachi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789718487.0702915
+    },
+    {
+      "card": {
         "id": "the_common_4",
         "name": "The Mother",
         "series": "Servamp",
@@ -113558,6 +113572,36 @@
   "975180513394438165": [
     {
       "card": {
+        "id": "misa_common",
+        "name": "Misa Amane",
+        "series": "Death Note",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/misa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 5,
+      "claimed_at": 1788610523.9724953,
+      "tags": "\ud83c\udf4edn\u270e\u1770\u02ce\u02ca\u02d7"
+    },
+    {
+      "card": {
+        "id": "chloe_common",
+        "name": "Chloe Collins",
+        "series": "Promise of Wizard",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/chloe_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789718463.4855096,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
+    },
+    {
+      "card": {
         "id": "yao_common",
         "name": "Yao",
         "series": "Path To Nowhere",
@@ -113568,7 +113612,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1789683150.5536127
+      "claimed_at": 1789683150.5536127,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
     },
     {
       "card": {
@@ -113582,7 +113627,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789679465.8032153
+      "claimed_at": 1789679465.8032153,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
     },
     {
       "card": {
@@ -113611,7 +113657,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789672322.8361032
+      "claimed_at": 1789672322.8361032,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
     },
     {
       "card": {
@@ -113625,7 +113672,8 @@
         "version": "common"
       },
       "print": 9,
-      "claimed_at": 1789664544.289547
+      "claimed_at": 1789664544.289547,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
     },
     {
       "card": {
@@ -113639,7 +113687,8 @@
         "version": "rare"
       },
       "print": 15,
-      "claimed_at": 1789597220.1932802
+      "claimed_at": 1789597220.1932802,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
     },
     {
       "card": {
@@ -114314,21 +114363,6 @@
       },
       "print": 5,
       "claimed_at": 1788609361.4226058,
-      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
-    },
-    {
-      "card": {
-        "id": "malleus_common",
-        "name": "Malleus Draconia",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/malleus_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 4,
-      "claimed_at": 1788608366.6847317,
       "tags": "\ud83d\udcb5\u1a33ft\u0b13"
     },
     {
@@ -144610,6 +144644,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "lu_common_3",
+        "name": "Lu Shu",
+        "series": "Da Wang Rao Ming",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lu_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789718506.6910036
+    },
+    {
+      "card": {
         "id": "seo_common",
         "name": "Seo Juheon",
         "series": "Between The Lines",
@@ -156466,6 +156514,21 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "malleus_common",
+        "name": "Malleus Draconia",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/malleus_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 4,
+      "claimed_at": 1788608366.6847317,
+      "tags": "\ud83d\udcb5\u1a33ft\u0b13"
+    },
+    {
+      "card": {
         "id": "baek_common_2",
         "name": "Baek Yeongwoon",
         "series": "Backlight",
@@ -159250,21 +159313,6 @@
       },
       "print": 5,
       "claimed_at": 1788610874.0931866,
-      "tags": "[Ft]"
-    },
-    {
-      "card": {
-        "id": "misa_common",
-        "name": "Misa Amane",
-        "series": "Death Note",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/misa_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 5,
-      "claimed_at": 1788610523.9724953,
       "tags": "[Ft]"
     },
     {
@@ -171286,6 +171334,20 @@
     }
   ],
   "247066385849647107": [
+    {
+      "card": {
+        "id": "sosuke_common",
+        "name": "Sousuke Mitsuba",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1789718437.431404
+    },
     {
       "card": {
         "id": "ash_common",
@@ -217004,6 +217066,20 @@
     }
   ],
   "1192201166893895725": [
+    {
+      "card": {
+        "id": "naberius_common",
+        "name": "Naberius Kalego",
+        "series": "Welcome to Demon School! Iruma-kun",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/naberius_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789718570.6002083
+    },
     {
       "card": {
         "id": "shiraishi_common",
@@ -274303,6 +274379,20 @@
     }
   ],
   "417141882611826688": [
+    {
+      "card": {
+        "id": "go_common",
+        "name": "Go Yohan",
+        "series": "Eighteen\u2019s Bed",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/go_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789718404.988214
+    },
     {
       "card": {
         "id": "sampo_common",
