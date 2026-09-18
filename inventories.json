@@ -77199,6 +77199,20 @@
   "1508236825557209179": [
     {
       "card": {
+        "id": "shen_common_2",
+        "name": "Shen Zechuan",
+        "series": "Ballad of Sword & Wine",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/shen_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789752877.45947
+    },
+    {
+      "card": {
         "id": "kou_common_3",
         "name": "Kou Mukami",
         "series": "Diabolik Lovers",
@@ -104754,6 +104768,34 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "goro_rare",
+        "name": "Goro Akechi",
+        "series": "Persona",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/goro_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 12,
+      "claimed_at": 1789653864.6170585
+    },
+    {
+      "card": {
+        "id": "doh_common",
+        "name": "Doh Seong-ah",
+        "series": "Kill Me If You Can",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/doh_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789752643.1121502
+    },
+    {
+      "card": {
         "id": "hugo_common",
         "name": "Hugo Vlad",
         "series": "Zenless Zone Zero",
@@ -105186,20 +105228,6 @@
       },
       "print": 24,
       "claimed_at": 1789711191.960096
-    },
-    {
-      "card": {
-        "id": "jin_common_4",
-        "name": "Jin Cheong-woo",
-        "series": "Under The Green Light",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/jin_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 26,
-      "claimed_at": 1789713612.2619703
     },
     {
       "card": {
@@ -145159,6 +145187,20 @@
     }
   ],
   "1152969942820466819": [
+    {
+      "card": {
+        "id": "kyoya_common",
+        "name": "Kyoya Ootori",
+        "series": "Ouran Highschool Host Club",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kyoya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789752860.1373968
+    },
     {
       "card": {
         "id": "langa_common",
@@ -245798,6 +245840,34 @@
   "826335464532607031": [
     {
       "card": {
+        "id": "jin_common_4",
+        "name": "Jin Cheong-woo",
+        "series": "Under The Green Light",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jin_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1789713612.2619703
+    },
+    {
+      "card": {
+        "id": "kiritani_common",
+        "name": "Kiritani Haruka",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kiritani_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789752753.384809
+    },
+    {
+      "card": {
         "id": "ronin_common",
         "name": "Ronin",
         "series": "Killer Chat!",
@@ -246328,20 +246398,6 @@
       },
       "print": 15,
       "claimed_at": 1789664690.545391
-    },
-    {
-      "card": {
-        "id": "goro_rare",
-        "name": "Goro Akechi",
-        "series": "Persona",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/goro_rare.png",
-        "frame": "red",
-        "version": "rare"
-      },
-      "print": 12,
-      "claimed_at": 1789653864.6170585
     },
     {
       "card": {
@@ -286987,7 +287043,8 @@
       "print": 1,
       "claimed_at": 1788009775.0574853,
       "tags": "\ufe5f\ud83d\udca4\u1160\u203a\u2800\ud81b\ude6d",
-      "pinned": true
+      "pinned": true,
+      "showcased": true
     },
     {
       "card": {
@@ -287637,7 +287694,7 @@
       },
       "print": 5,
       "claimed_at": 1788625585.9597116,
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -288190,7 +288247,7 @@
       "claimed_at": 1788085530.5022795,
       "pinned": false,
       "tags": "\ufe5f\ud83d\udca4\u1160\u203a\u2800\ud81b\ude6d",
-      "showcased": false
+      "showcased": true
     },
     {
       "card": {
@@ -288294,7 +288351,7 @@
       "claimed_at": 1788092738.0526593,
       "pinned": true,
       "tags": "\ufe5fhubby\u1160\u203a\u2800\ud81b\ude6d",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -301292,6 +301349,20 @@
     }
   ],
   "836214830662025227": [
+    {
+      "card": {
+        "id": "jeongcheol_common",
+        "name": "Jeongcheol",
+        "series": "Even in Your Death",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/jeongcheol_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789752646.6766007
+    },
     {
       "card": {
         "id": "gon_common",
@@ -406993,6 +407064,21 @@
   "1510010190315917324": [
     {
       "card": {
+        "id": "luke_common_6",
+        "name": "Luke",
+        "series": "Messiah Project",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/luke_common_6.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789752610.097807,
+      "tags": "\ud83c\udf70"
+    },
+    {
+      "card": {
         "id": "evernight_common",
         "name": "Evernight",
         "series": "Honkai: Star Rail",
@@ -409189,6 +409275,20 @@
     }
   ],
   "551877849192202255": [
+    {
+      "card": {
+        "id": "oliver_common",
+        "name": "Oliver Aiku",
+        "series": "BLUELOCK",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/oliver_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789752665.8691778
+    },
     {
       "card": {
         "id": "midnight_common",
