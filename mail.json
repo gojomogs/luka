@@ -2048,7 +2048,7 @@
       "receiver_id": "1095353184471490620",
       "timestamp": 1789692401.3680532,
       "message": "ignores",
-      "read": false
+      "read": true
     },
     {
       "id": "4fd8ad47-2f13-40a2-9ba8-d2f7b2cfce13",
@@ -2056,7 +2056,7 @@
       "receiver_id": "1095353184471490620",
       "timestamp": 1789692959.3023179,
       "message": "u evil",
-      "read": false
+      "read": true
     }
   ],
   "1000002084667658290": [
@@ -16307,6 +16307,14 @@
       "timestamp": 1789692972.812908,
       "message": "im not evil. Sorry.",
       "read": false
+    },
+    {
+      "id": "dff0ec3a-025a-4b0c-8d17-bd5dc30defc8",
+      "sender_id": "1095353184471490620",
+      "receiver_id": "1079314071461044274",
+      "timestamp": 1789693863.3426118,
+      "message": "abcdefg",
+      "read": false
     }
   ],
   "1361617691533643927": [
@@ -20041,7 +20049,7 @@
       "receiver_id": "1473475651725164714",
       "timestamp": 1789693157.4180663,
       "message": "No",
-      "read": false
+      "read": true
     }
   ],
   "606063258226655235": [],
