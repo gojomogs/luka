@@ -66347,6 +66347,20 @@
   "1353808862452519045": [
     {
       "card": {
+        "id": "nunnally_common",
+        "name": "Nunnally Lamperouge",
+        "series": "Code Geass",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nunnally_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789711218.1529303
+    },
+    {
+      "card": {
         "id": "ruggie_common",
         "name": "Ruggie Bucchi",
         "series": "Twisted Wonderland",
@@ -91580,6 +91594,20 @@
   "1441925768199278643": [
     {
       "card": {
+        "id": "monkey_common",
+        "name": "Monkey D. Luffy",
+        "series": "One Piece",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/monkey_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789729340.3230073
+    },
+    {
+      "card": {
         "id": "soul_common",
         "name": "Soul Eater Evans",
         "series": "Soul Eater",
@@ -99613,6 +99641,20 @@
     }
   ],
   "1066269748293287997": [
+    {
+      "card": {
+        "id": "all_common",
+        "name": "All Might",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/all_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1789729365.1506634
+    },
     {
       "card": {
         "id": "mikasa_common",
@@ -150444,6 +150486,21 @@
   "1429533392705294521": [
     {
       "card": {
+        "id": "ranto_common",
+        "name": "Ranto Takashina",
+        "series": "BOYS be MAID !",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ranto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1789729278.1719866,
+      "tags": "ren"
+    },
+    {
+      "card": {
         "id": "xia_common",
         "name": "Xia Fei",
         "series": "Link Click",
@@ -151269,8 +151326,7 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789520598.1106262,
-      "tags": "\ua4b0\ud83d\udcb0\ua4b1\u2800ft"
+      "claimed_at": 1789520598.1106262
     },
     {
       "card": {
@@ -180489,6 +180545,20 @@
     }
   ],
   "931469645897166888": [
+    {
+      "card": {
+        "id": "jakurai_common",
+        "name": "Jakurai Jinguji",
+        "series": "Hypnosis Mic",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jakurai_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789729353.929802
+    },
     {
       "card": {
         "id": "han_common_4",
@@ -230357,6 +230427,20 @@
   "934498436575813693": [
     {
       "card": {
+        "id": "lucy_common_3",
+        "name": "Lucy",
+        "series": "Cyberpunk Edgerunners",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/lucy_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789670012.0604734
+    },
+    {
+      "card": {
         "id": "ishmael_common",
         "name": "Ishmael",
         "series": "Limbus Company",
@@ -230593,21 +230677,6 @@
       },
       "print": 27,
       "claimed_at": 1789688246.8409996
-    },
-    {
-      "card": {
-        "id": "beelzebub_common",
-        "name": "Beelzebub",
-        "series": "Obey Me!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/beelzebub_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 10,
-      "claimed_at": 1788630473.6163285,
-      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
     },
     {
       "card": {
@@ -249816,6 +249885,35 @@
   "767054445724827718": [
     {
       "card": {
+        "id": "soukaku_common",
+        "name": "Soukaku",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/soukaku_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1789729313.9404473
+    },
+    {
+      "card": {
+        "id": "beelzebub_common",
+        "name": "Beelzebub",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/beelzebub_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1788630473.6163285,
+      "tags": "\ua4b0 \u19d4ft\u19d3 \ua4b1"
+    },
+    {
+      "card": {
         "id": "teru_common_3",
         "name": "Teru Mikami",
         "series": "Death Note",
@@ -249827,20 +249925,6 @@
       },
       "print": 13,
       "claimed_at": 1789712356.881968
-    },
-    {
-      "card": {
-        "id": "lucy_common_3",
-        "name": "Lucy",
-        "series": "Cyberpunk Edgerunners",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/lucy_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 13,
-      "claimed_at": 1789670012.0604734
     },
     {
       "card": {
@@ -263963,6 +264047,20 @@
   "1293557714420498435": [
     {
       "card": {
+        "id": "c.c._common",
+        "name": "C.C.",
+        "series": "Code Geass",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/c.c._common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1789729294.1097348
+    },
+    {
+      "card": {
         "id": "steve_common",
         "name": "Captain America",
         "series": "Marvel",
@@ -268248,6 +268346,20 @@
     }
   ],
   "1334019193430872075": [
+    {
+      "card": {
+        "id": "uta_common",
+        "name": "Uta",
+        "series": "One Piece",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/uta_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789729137.0530808
+    },
     {
       "card": {
         "id": "suika_common",
@@ -280778,6 +280890,20 @@
     }
   ],
   "1183826856449953822": [
+    {
+      "card": {
+        "id": "nana_common_3",
+        "name": "Nana Komatsu",
+        "series": "NANA",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nana_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1789729220.1992197
+    },
     {
       "card": {
         "id": "you_common",
@@ -346438,6 +346564,20 @@
   "708047930933903411": [
     {
       "card": {
+        "id": "sephiroth_common",
+        "name": "Sephiroth",
+        "series": "Final Fantasy",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sephiroth_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789729124.9200196
+    },
+    {
+      "card": {
         "id": "lee_common_5",
         "name": "Lee Sa-young",
         "series": "The Hunter's Gonna Lay Low",
@@ -350821,20 +350961,6 @@
       },
       "print": 14,
       "claimed_at": 1789714537.8122888
-    },
-    {
-      "card": {
-        "id": "nunnally_common",
-        "name": "Nunnally Lamperouge",
-        "series": "Code Geass",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/nunnally_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 15,
-      "claimed_at": 1789711218.1529303
     },
     {
       "card": {
@@ -373139,6 +373265,20 @@
     }
   ],
   "899114077706657852": [
+    {
+      "card": {
+        "id": "tao_common",
+        "name": "Tao Saotome",
+        "series": "Gokurakugai",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/tao_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1789729363.154665
+    },
     {
       "card": {
         "id": "cheong_common",
