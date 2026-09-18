@@ -715,7 +715,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 41,
+      "progress": 42,
       "id": "7e246942-94c6-439b-8485-134264386958",
       "player_a": "826335464532607031",
       "player_b": "1204473206077919295",
@@ -738,7 +738,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Eiji Okumura"
+      ],
       "id": "3ef7a354-4ffe-453a-a9db-bcd2924aff22",
       "player_a": "1411686981468946664",
       "player_b": "913777441825255454",
@@ -3802,7 +3804,7 @@
     },
     "1353808862452519045": {
       "drop": 6,
-      "claim": 6
+      "claim": 5
     },
     "1224818851464613952": {
       "drop": 0,
