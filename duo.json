@@ -361,7 +361,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 31,
+      "progress": 32,
       "id": "b1b41af1-f730-4d57-8780-04825031ce28",
       "player_a": "1248433917904683160",
       "player_b": "752564296583479388",
@@ -754,7 +754,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Jet Black"
+      ],
       "id": "f39896d6-fc15-45b3-ac40-4d9d9d1a8bac",
       "player_a": "1071837987224158298",
       "player_b": "1178380074001645660",
@@ -10104,6 +10106,10 @@
       "claim": 0
     },
     "834374188042289162": {
+      "drop": 0,
+      "claim": 0
+    },
+    "1151512609409998959": {
       "drop": 0,
       "claim": 0
     }
