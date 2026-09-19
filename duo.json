@@ -748,7 +748,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 7,
+      "progress": 8,
       "id": "13308d97-46a0-4164-a2e6-d68ae7d1abf9",
       "player_a": "1409796045118115913",
       "player_b": "1213941636829155338",
@@ -770,6 +770,33 @@
       "player_b": "899114077706657852",
       "started_at": 1789837315.360776,
       "channel_id": 1548787015632420884
+    },
+    "daaae4e2-338f-452d-93bc-9b0b89749e88": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "daaae4e2-338f-452d-93bc-9b0b89749e88",
+      "player_a": "1210501746477244438",
+      "player_b": "769484060824698890",
+      "started_at": 1789845518.991466,
+      "channel_id": 1543409082462113842
+    },
+    "4ce62ccd-5e10-4b60-95bf-c6205fa4f995": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Special Civil Servant",
+        "My Hero Academia"
+      ],
+      "id": "4ce62ccd-5e10-4b60-95bf-c6205fa4f995",
+      "player_a": "1151512609409998959",
+      "player_b": "1415199399469908020",
+      "started_at": 1789845614.9390733,
+      "channel_id": 1540149985650282596
     }
   },
   "weekly": {
