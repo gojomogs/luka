@@ -45401,6 +45401,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "sagiri_common",
+        "name": "Sagiri",
+        "series": "Hell\u2019s Paradise",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sagiri_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789799522.1129835
+    },
+    {
+      "card": {
         "id": "akihiko_common",
         "name": "Akihiko Sanada",
         "series": "Persona",
@@ -61120,6 +61134,20 @@
     }
   ],
   "533041724638101505": [
+    {
+      "card": {
+        "id": "jinshi_common_2",
+        "name": "Jinshi",
+        "series": "The Apothecary Diaries",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/jinshi_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789799545.6674988
+    },
     {
       "card": {
         "id": "tobio_common",
@@ -105694,6 +105722,20 @@
   "1413734628832841790": [
     {
       "card": {
+        "id": "hirofumi_common",
+        "name": "Hirofumi Yoshida",
+        "series": "Chainsaw Man",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hirofumi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789799349.4196875
+    },
+    {
+      "card": {
         "id": "shu_common_2",
         "name": "Shu Itsuki & Mika Kagehira",
         "series": "Ensemble Stars!",
@@ -109254,6 +109296,20 @@
     }
   ],
   "891662969107255338": [
+    {
+      "card": {
+        "id": "ji-min_common",
+        "name": "Ji-min & Ki-joong",
+        "series": "Bad Friend",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ji-min_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789799528.9738688
+    },
     {
       "card": {
         "id": "ren_common",
@@ -137614,6 +137670,20 @@
   "1421473448387022859": [
     {
       "card": {
+        "id": "okumura_common",
+        "name": "Rin Okumura",
+        "series": "Blue Exorcist",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/okumura_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789799364.784574
+    },
+    {
+      "card": {
         "id": "kei_common_2",
         "name": "Kei Mikhail Ignatov",
         "series": "PSYCHO-PASS",
@@ -139470,6 +139540,50 @@
   "1028538307975589939": [
     {
       "card": {
+        "id": "leo_common",
+        "name": "Leo Valdez",
+        "series": "Percy Jackson and The Olympians",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/leo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789799514.6361883
+    },
+    {
+      "card": {
+        "id": "kai_common",
+        "name": "Kai Monteago",
+        "series": "Project: Eden\u2019s Garden",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kai_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789585156.501671,
+      "tags": "prns"
+    },
+    {
+      "card": {
+        "id": "joo_common",
+        "name": "Joo Mirye",
+        "series": "Merry Marbling",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/joo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 4,
+      "claimed_at": 1788610347.5061321,
+      "tags": "\ud811\ude13 \u1952ft \ud80c\udc85\u2069 \u033c"
+    },
+    {
+      "card": {
         "id": "kotone_common",
         "name": "Kotone Shiomi",
         "series": "Persona",
@@ -139721,21 +139835,6 @@
       "print": 9,
       "claimed_at": 1788662776.0966268,
       "tags": "\ud811\ude13 \u1952ft \ud80c\udc85\u2069 \u033c"
-    },
-    {
-      "card": {
-        "id": "trey_common",
-        "name": "Trey Clover",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/trey_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1789570212.208999,
-      "tags": "\ufe35\u2800ft \u2800\u25cc\u2cca\ud834\udd44"
     },
     {
       "card": {
@@ -140529,21 +140628,6 @@
       },
       "print": 3,
       "claimed_at": 1788563543.578945,
-      "tags": "\ufe35\u2800ft \u2800\u25cc\u2cca\ud834\udd44"
-    },
-    {
-      "card": {
-        "id": "silver_common_2",
-        "name": "Silver Vanrouge",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/silver_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 6,
-      "claimed_at": 1788562219.737063,
       "tags": "\ufe35\u2800ft \u2800\u25cc\u2cca\ud834\udd44"
     },
     {
@@ -155994,6 +156078,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "fu_common_3",
+        "name": "Fu Hua & Rita Rossweisse",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fu_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789799349.5571477
+    },
+    {
+      "card": {
         "id": "cabernet_common",
         "name": "Cabernet",
         "series": "Path To Nowhere",
@@ -160874,7 +160972,7 @@
       },
       "print": 1,
       "claimed_at": 1788010721.2091365,
-      "tags": "\ufe35\u2800ft \u2800\u25cc\u2cca\ud834\udd44"
+      "tags": "NFT (\u15d2\u15e3\u15d5)\u055e"
     },
     {
       "card": {
@@ -205192,6 +205290,20 @@
     }
   ],
   "1132475401701171262": [
+    {
+      "card": {
+        "id": "ciel_common",
+        "name": "Ciel Phantomhive",
+        "series": "Black Butler",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ciel_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789799507.897606
+    },
     {
       "card": {
         "id": "felix_common",
@@ -309081,7 +309193,7 @@
       },
       "print": 11,
       "claimed_at": 1789692246.787687,
-      "tags": "\u2600; ft"
+      "tags": "hold ur \ud83d\udc0e\ud83d\udc0e"
     },
     {
       "card": {
@@ -313799,6 +313911,36 @@
   "1454914344792883305": [
     {
       "card": {
+        "id": "trey_common",
+        "name": "Trey Clover",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/trey_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789570212.208999,
+      "tags": "rismoxie"
+    },
+    {
+      "card": {
+        "id": "silver_common_2",
+        "name": "Silver Vanrouge",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/silver_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1788562219.737063,
+      "tags": "rismoxie"
+    },
+    {
+      "card": {
         "id": "tamsy_common",
         "name": "Tamsy Caines",
         "series": "Gachiakuta",
@@ -314575,21 +314717,6 @@
       },
       "print": 12,
       "claimed_at": 1789586446.9876335,
-      "tags": "prns"
-    },
-    {
-      "card": {
-        "id": "kai_common",
-        "name": "Kai Monteago",
-        "series": "Project: Eden\u2019s Garden",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/kai_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1789585156.501671,
       "tags": "prns"
     },
     {
@@ -315762,21 +315889,6 @@
       },
       "print": 6,
       "claimed_at": 1788611214.6196551,
-      "tags": "prns"
-    },
-    {
-      "card": {
-        "id": "joo_common",
-        "name": "Joo Mirye",
-        "series": "Merry Marbling",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/joo_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 4,
-      "claimed_at": 1788610347.5061321,
       "tags": "prns"
     },
     {
@@ -321646,6 +321758,20 @@
     }
   ],
   "1468926708064325632": [
+    {
+      "card": {
+        "id": "louis_common_2",
+        "name": "Louis",
+        "series": "Beastars",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/louis_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1789799452.3092687
+    },
     {
       "card": {
         "id": "rei_common_2",
@@ -413843,6 +413969,20 @@
   "789571689406005269": [
     {
       "card": {
+        "id": "aoyagi_common",
+        "name": "Aoyagi Toya",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/aoyagi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789799586.151639
+    },
+    {
+      "card": {
         "id": "ilay_common",
         "name": "Ilay Riegrow",
         "series": "Passion",
@@ -416520,6 +416660,20 @@
     }
   ],
   "1357357406782488588": [
+    {
+      "card": {
+        "id": "female_common_3",
+        "name": "Female Phoxhunter",
+        "series": "Duet Night Abyss",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/female_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789799528.5392742
+    },
     {
       "card": {
         "id": "nazuna_common_3",
@@ -448489,6 +448643,20 @@
     }
   ],
   "583107073622016022": [
+    {
+      "card": {
+        "id": "arlecchino_common",
+        "name": "Arlecchino",
+        "series": "Genshin Impact",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/arlecchino_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1789799472.7497356
+    },
     {
       "card": {
         "id": "promeia_common",
