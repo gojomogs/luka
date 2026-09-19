@@ -15335,20 +15335,6 @@
     },
     {
       "card": {
-        "id": "simeon_common",
-        "name": "Simeon",
-        "series": "Obey Me!",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/simeon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 18,
-      "claimed_at": 1789852508.646143
-    },
-    {
-      "card": {
         "id": "q_common",
         "name": "Q",
         "series": "Q-Kou",
@@ -15489,7 +15475,8 @@
         "version": "common"
       },
       "print": 20,
-      "claimed_at": 1789701286.288065
+      "claimed_at": 1789701286.288065,
+      "tags": "\u02d7\u02cf\u02cb\ua4b0\ud83d\udc8d\ua4b1"
     },
     {
       "card": {
@@ -15617,7 +15604,7 @@
       },
       "print": 23,
       "claimed_at": 1789757516.2994788,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
+      "tags": "\u02d7\u02cf\u02cb\ua4b0\ud83d\udc8d\ua4b1"
     },
     {
       "card": {
@@ -15632,7 +15619,7 @@
       },
       "print": 24,
       "claimed_at": 1789771742.1779726,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
+      "tags": "\u02d7\u02cf\u02cb\ua4b0\ud83d\udc8d\ua4b1"
     },
     {
       "card": {
@@ -15800,7 +15787,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1789809382.9267962
+      "claimed_at": 1789809382.9267962,
+      "tags": "\u02d7\u02cf\u02cb\ua4b0\ud83d\udc8d\ua4b1"
     },
     {
       "card": {
@@ -51364,6 +51352,20 @@
   "994686213967577199": [
     {
       "card": {
+        "id": "lee_common_8",
+        "name": "Lee Song-Rik",
+        "series": "One-room TA",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_8.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1789854807.1066122
+    },
+    {
+      "card": {
         "id": "hua_common",
         "name": "Hua Cheng",
         "series": "Heaven Official\u2019s Blessing",
@@ -54296,6 +54298,35 @@
     }
   ],
   "909551241967861770": [
+    {
+      "card": {
+        "id": "simeon_common",
+        "name": "Simeon",
+        "series": "Obey Me!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/simeon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789852508.646143
+    },
+    {
+      "card": {
+        "id": "tohma_common",
+        "name": "Tohma Ishibashi",
+        "series": "Tokyo Debunker",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tohma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789854915.6084683,
+      "tags": "\ud83d\udc7bTDBK"
+    },
     {
       "card": {
         "id": "benny_common",
@@ -195287,6 +195318,20 @@
   "1175711320868405288": [
     {
       "card": {
+        "id": "hia_common",
+        "name": "Hia",
+        "series": "Alien Stage",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1789854931.1982052
+    },
+    {
+      "card": {
         "id": "frieren_common",
         "name": "Frieren",
         "series": "Frieren: Beyond Journey\u2019s End",
@@ -218686,6 +218731,20 @@
     }
   ],
   "1132475401701171262": [
+    {
+      "card": {
+        "id": "sunny_common",
+        "name": "Sunny",
+        "series": "Omori",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sunny_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1789854991.1389863
+    },
     {
       "card": {
         "id": "chidori_common",
@@ -242221,6 +242280,36 @@
     }
   ],
   "1401622768214347796": [
+    {
+      "card": {
+        "id": "kusanagi_common",
+        "name": "Kusanagi Nene",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kusanagi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1788636176.9859579,
+      "tags": "veiledb"
+    },
+    {
+      "card": {
+        "id": "tighnari_common",
+        "name": "Tighnari",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tighnari_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789772904.4456859,
+      "tags": "FT"
+    },
     {
       "card": {
         "id": "hyacine_common",
@@ -277080,6 +277169,20 @@
   "826335464532607031": [
     {
       "card": {
+        "id": "jou_common",
+        "name": "Jou Togame",
+        "series": "Wind Breaker",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jou_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789855022.2562234
+    },
+    {
+      "card": {
         "id": "silver_common",
         "name": "Silver Wolf",
         "series": "Honkai: Star Rail",
@@ -279683,6 +279786,20 @@
   "659551200366034953": [
     {
       "card": {
+        "id": "thirteen_common",
+        "name": "Thirteen",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/thirteen_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789854907.0589745
+    },
+    {
+      "card": {
         "id": "mahiru_common",
         "name": "Mahiru Shirota",
         "series": "Servamp",
@@ -279721,8 +279838,7 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789571230.6525607,
-      "tags": "ProbFT"
+      "claimed_at": 1789571230.6525607
     },
     {
       "card": {
@@ -297031,6 +297147,21 @@
     }
   ],
   "1344738272924143750": [
+    {
+      "card": {
+        "id": "yoshiki_common",
+        "name": "Yoshiki",
+        "series": "The Summer Hikaru Died",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yoshiki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1789854785.2476597,
+      "tags": "\ud83d\udcb8ft"
+    },
     {
       "card": {
         "id": "laurent_common",
@@ -329402,6 +329533,20 @@
   "1200759841245892653": [
     {
       "card": {
+        "id": "yoruichi_common",
+        "name": "Yoruichi Shihouin",
+        "series": "Bleach",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yoruichi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789855036.9464738
+    },
+    {
+      "card": {
         "id": "thaddeus_common",
         "name": "Thaddeus",
         "series": "Killer Peter",
@@ -347625,6 +347770,21 @@
   "1298419501238456452": [
     {
       "card": {
+        "id": "blade_common",
+        "name": "Blade",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/blade_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1789854817.886776,
+      "tags": "FT"
+    },
+    {
+      "card": {
         "id": "protag_common",
         "name": "Protag",
         "series": "Elevator Hitch",
@@ -353604,21 +353764,6 @@
     },
     {
       "card": {
-        "id": "tighnari_common",
-        "name": "Tighnari",
-        "series": "Genshin Impact",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/tighnari_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 12,
-      "claimed_at": 1789772904.4456859,
-      "tags": "FT"
-    },
-    {
-      "card": {
         "id": "misha_common",
         "name": "Misha",
         "series": "Pita-Ten",
@@ -354651,21 +354796,6 @@
       "print": 8,
       "claimed_at": 1788638366.1555076,
       "tags": "FT"
-    },
-    {
-      "card": {
-        "id": "kusanagi_common",
-        "name": "Kusanagi Nene",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/kusanagi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 9,
-      "claimed_at": 1788636176.9859579,
-      "tags": "veiledb"
     },
     {
       "card": {
@@ -360543,6 +360673,20 @@
     }
   ],
   "899806964710801499": [
+    {
+      "card": {
+        "id": "gi_common",
+        "name": "Gi Taerim",
+        "series": "Don\u2019t Poke the Plum",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/gi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789854961.4065428
+    },
     {
       "card": {
         "id": "rick_common",
@@ -439691,6 +439835,20 @@
   "606063258226655235": [
     {
       "card": {
+        "id": "shuichi_common",
+        "name": "Shuichi Saihara",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shuichi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1789854776.32338
+    },
+    {
+      "card": {
         "id": "fuwa_common",
         "name": "Fuwa Minato",
         "series": "Nijisanji",
@@ -465630,6 +465788,20 @@
   "1422891232182407210": [
     {
       "card": {
+        "id": "ruggie_common",
+        "name": "Ruggie Bucchi",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ruggie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1789854938.6091914
+    },
+    {
+      "card": {
         "id": "eden_common",
         "name": "Eden Seonwoo",
         "series": "Special Civil Servant",
@@ -489807,6 +489979,20 @@
   "1230149118710779914": [],
   "1530219454787752106": [],
   "1151512609409998959": [
+    {
+      "card": {
+        "id": "japan_common",
+        "name": "Japan",
+        "series": "Hetalia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/japan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789854756.1780176
+    },
     {
       "card": {
         "id": "hwang_common_2",
