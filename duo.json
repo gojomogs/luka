@@ -432,7 +432,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "9091e577-eab0-4097-82d6-6f33181f16bc",
       "player_a": "1258264908546445323",
       "player_b": "756187180493439007",
@@ -561,7 +561,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 8,
+      "progress": 9,
       "id": "20763533-f05d-441a-ab08-03126d03ff4f",
       "player_a": "856783136833667072",
       "player_b": "979524252124471337",
@@ -721,7 +721,9 @@
         "Sorato Ichimiya",
         "Camilla Angelica Connor",
         "Tamon Fukuhara",
-        "Nie Huaisang"
+        "Nie Huaisang",
+        "Yashiro Nene & Hanako-kun",
+        "Ryu Ian"
       ],
       "id": "3ef7a354-4ffe-453a-a9db-bcd2924aff22",
       "player_a": "1411686981468946664",
@@ -750,6 +752,18 @@
       "player_b": "1095575350035091476",
       "started_at": 1789746588.8783953,
       "channel_id": 1543565182503231549
+    },
+    "bd5271f7-e66f-463b-b8a0-2e151d579276": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "bd5271f7-e66f-463b-b8a0-2e151d579276",
+      "player_a": "755863624873934968",
+      "player_b": "1211028404577632277",
+      "started_at": 1789779032.0442722,
+      "channel_id": 1543292052249382962
     }
   },
   "weekly": {
@@ -6605,8 +6619,8 @@
       "claim": 0
     },
     "1411686981468946664": {
-      "drop": 2,
-      "claim": 5
+      "drop": 0,
+      "claim": 4
     },
     "1382961822310731869": {
       "drop": 0,
