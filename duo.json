@@ -704,7 +704,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 37,
+      "progress": 38,
       "id": "6c5aed87-ed28-4b21-959a-db4131a7baaa",
       "player_a": "1313492632076550156",
       "player_b": "1293557714420498435",
@@ -774,6 +774,20 @@
       "player_b": "653839860821655601",
       "started_at": 1789782764.4453094,
       "channel_id": 1548787015632420884
+    },
+    "a51f6b42-2c50-4c79-97fa-b52aa1b1bc0d": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Baicang"
+      ],
+      "id": "a51f6b42-2c50-4c79-97fa-b52aa1b1bc0d",
+      "player_a": "808060427543642163",
+      "player_b": "818518701539065888",
+      "started_at": 1789805384.318571,
+      "channel_id": 1550780024745893888
     }
   },
   "weekly": {
@@ -6348,7 +6362,7 @@
     },
     "908254172074352641": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "1036112404620263524": {
       "drop": 0,
@@ -10153,6 +10167,10 @@
     "1211028404577632277": {
       "drop": 0,
       "claim": 1
+    },
+    "818518701539065888": {
+      "drop": 0,
+      "claim": 0
     }
   },
   "migrations": {
