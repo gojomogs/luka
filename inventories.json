@@ -15118,6 +15118,34 @@
   "1228978576028729384": [
     {
       "card": {
+        "id": "camilla_common",
+        "name": "Camilla Angelica Connor",
+        "series": "I Love Amy",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/camilla_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789701286.288065
+    },
+    {
+      "card": {
+        "id": "faust_common",
+        "name": "Faust",
+        "series": "Limbus Company",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/faust_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789842113.837725
+    },
+    {
+      "card": {
         "id": "aoi_common",
         "name": "Aoi Akane",
         "series": "Toilet-bound Hanako-kun",
@@ -16228,20 +16256,6 @@
       },
       "print": 22,
       "claimed_at": 1789678282.4522974
-    },
-    {
-      "card": {
-        "id": "vil_common",
-        "name": "Vil Schoenheit",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/vil_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 18,
-      "claimed_at": 1789677364.4546018
     },
     {
       "card": {
@@ -98244,6 +98258,20 @@
   "775822038601564201": [
     {
       "card": {
+        "id": "plotter_common",
+        "name": "Secretive Plotter",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/plotter_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1789842237.5185974
+    },
+    {
+      "card": {
         "id": "lee_common_6",
         "name": "Lee Cheongyeon",
         "series": "Emergency! Youth Record Book",
@@ -100130,6 +100158,20 @@
     }
   ],
   "1022487940137492540": [
+    {
+      "card": {
+        "id": "ohn_common",
+        "name": "Ohn Wooju & Yoon Jiheon",
+        "series": "Honey Trouble",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ohn_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1789842042.6726508
+    },
     {
       "card": {
         "id": "rensley_common",
@@ -153898,6 +153940,20 @@
   "1271962211606204560": [
     {
       "card": {
+        "id": "yukiko_common",
+        "name": "Yukiko Amagi",
+        "series": "Persona",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yukiko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1789842211.6249268
+    },
+    {
+      "card": {
         "id": "shuji_common",
         "name": "Shuji Taira",
         "series": "You and I are Polar Opposites",
@@ -168277,6 +168333,20 @@
   "990363988422447154": [],
   "356268235697553409": [],
   "1429533392705294521": [
+    {
+      "card": {
+        "id": "haruhi_common",
+        "name": "Haruhi Fujioka",
+        "series": "Ouran Highschool Host Club",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/haruhi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789842052.2945187
+    },
     {
       "card": {
         "id": "quincy_common",
@@ -188320,7 +188390,8 @@
         "version": "rare"
       },
       "print": 14,
-      "claimed_at": 1789722223.291081
+      "claimed_at": 1789722223.291081,
+      "tags": "nft"
     },
     {
       "card": {
@@ -188334,7 +188405,8 @@
         "version": "rare"
       },
       "print": 12,
-      "claimed_at": 1789638845.8260362
+      "claimed_at": 1789638845.8260362,
+      "tags": "nft"
     },
     {
       "card": {
@@ -190446,8 +190518,7 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789563826.9922748,
-      "tags": "picky"
+      "claimed_at": 1789563826.9922748
     },
     {
       "card": {
@@ -191543,7 +191614,7 @@
       },
       "print": 1,
       "claimed_at": 1788002675.6411483,
-      "tags": "picky",
+      "tags": "?? nft",
       "showcased": true,
       "pinned": false
     },
@@ -191602,7 +191673,7 @@
       },
       "print": 1,
       "claimed_at": 1788012900.0936797,
-      "tags": "picky",
+      "tags": "?? nft",
       "showcased": true,
       "pinned": false
     },
@@ -203509,6 +203580,50 @@
   "931469645897166888": [
     {
       "card": {
+        "id": "ranto_common",
+        "name": "Ranto Takashina",
+        "series": "BOYS be MAID !",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ranto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1788665859.579665,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "ranto_common",
+        "name": "Ranto Takashina",
+        "series": "BOYS be MAID !",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ranto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1788623976.3959413,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "astra_common",
+        "name": "Astra Yao",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/astra_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789842197.3282247
+    },
+    {
+      "card": {
         "id": "protag_common",
         "name": "Protag",
         "series": "Elevator Hitch",
@@ -204952,20 +205067,6 @@
       },
       "print": 8,
       "claimed_at": 1789553366.6853964
-    },
-    {
-      "card": {
-        "id": "kajiyama_common",
-        "name": "Kajiyama Fuuta",
-        "series": "MILGRAM",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kajiyama_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 8,
-      "claimed_at": 1789551303.561834
     },
     {
       "card": {
@@ -230241,6 +230342,20 @@
   "514565097981476875": [
     {
       "card": {
+        "id": "iguro_common",
+        "name": "Iguro Obanai",
+        "series": "Kimetsu no Yaiba",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/iguro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789842204.6403518
+    },
+    {
+      "card": {
         "id": "haru_common",
         "name": "Haru Akinashi",
         "series": "Saihate Station",
@@ -232108,6 +232223,20 @@
     }
   ],
   "807341781662302281": [
+    {
+      "card": {
+        "id": "alma_common",
+        "name": "Alma",
+        "series": "Gokurakugai",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/alma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1789842245.1689892
+    },
     {
       "card": {
         "id": "shizuku_common",
@@ -253255,6 +253384,20 @@
   "1251051306177527878": [
     {
       "card": {
+        "id": "lucilla_common",
+        "name": "Lucilla",
+        "series": "Wuthering Waves",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lucilla_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789842005.0669172
+    },
+    {
+      "card": {
         "id": "mihael_common",
         "name": "Mihael Keehl",
         "series": "Death Note",
@@ -268894,6 +269037,20 @@
     }
   ],
   "1409796045118115913": [
+    {
+      "card": {
+        "id": "trevor_common",
+        "name": "Trevor Belmont",
+        "series": "Castlevania",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/trevor_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789842230.6565635
+    },
     {
       "card": {
         "id": "sanemi_common",
@@ -342982,6 +343139,35 @@
   "1298419501238456452": [
     {
       "card": {
+        "id": "kajiyama_common",
+        "name": "Kajiyama Fuuta",
+        "series": "MILGRAM",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kajiyama_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1789551303.561834
+    },
+    {
+      "card": {
+        "id": "godot_common",
+        "name": "Godot",
+        "series": "Ace Attorney",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/godot_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789841983.0294642,
+      "tags": "FT"
+    },
+    {
+      "card": {
         "id": "jinhyeong_common",
         "name": "Woo Jinhyeong",
         "series": "One-room TA",
@@ -343027,21 +343213,6 @@
     },
     {
       "card": {
-        "id": "ranto_common",
-        "name": "Ranto Takashina",
-        "series": "BOYS be MAID !",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ranto_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 13,
-      "claimed_at": 1788665859.579665,
-      "tags": "hold"
-    },
-    {
-      "card": {
         "id": "baicang_common",
         "name": "Baicang",
         "series": "Neverness to Everness",
@@ -343054,21 +343225,6 @@
       "print": 18,
       "claimed_at": 1789838089.4091525,
       "tags": "FT"
-    },
-    {
-      "card": {
-        "id": "ranto_common",
-        "name": "Ranto Takashina",
-        "series": "BOYS be MAID !",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ranto_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 10,
-      "claimed_at": 1788623976.3959413,
-      "tags": "hold"
     },
     {
       "card": {
@@ -345481,6 +345637,20 @@
     }
   ],
   "1540413862694756467": [
+    {
+      "card": {
+        "id": "yotsuya_common",
+        "name": "Yotsuya Ryo",
+        "series": "Fake Fact Lips",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yotsuya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789842186.8424697
+    },
     {
       "card": {
         "id": "sua_common",
@@ -355481,6 +355651,20 @@
     }
   ],
   "899806964710801499": [
+    {
+      "card": {
+        "id": "sou_common",
+        "name": "Sou Hiyori",
+        "series": "Your Turn To Die",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sou_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789842181.869693
+    },
     {
       "card": {
         "id": "felix_common",
@@ -400789,7 +400973,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789840457.0121512
+      "claimed_at": 1789840457.0121512,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400803,7 +400988,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789839333.745434
+      "claimed_at": 1789839333.745434,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400817,7 +401003,8 @@
         "version": "common"
       },
       "print": 15,
-      "claimed_at": 1789837346.8623621
+      "claimed_at": 1789837346.8623621,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400831,7 +401018,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1789836245.1115892
+      "claimed_at": 1789836245.1115892,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400845,7 +401033,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789835400.1844103
+      "claimed_at": 1789835400.1844103,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400902,7 +401091,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789827970.12478
+      "claimed_at": 1789827970.12478,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400931,7 +401121,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789812112.001694
+      "claimed_at": 1789812112.001694,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400945,7 +401136,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789788999.8193743
+      "claimed_at": 1789788999.8193743,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400959,7 +401151,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1789787690.0144038
+      "claimed_at": 1789787690.0144038,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400973,7 +401166,8 @@
         "version": "common"
       },
       "print": 12,
-      "claimed_at": 1789785289.6983786
+      "claimed_at": 1789785289.6983786,
+      "tags": "ft"
     },
     {
       "card": {
@@ -400987,7 +401181,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789776248.3596888
+      "claimed_at": 1789776248.3596888,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401001,7 +401196,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1789769487.5236926
+      "claimed_at": 1789769487.5236926,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401015,7 +401211,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1789768844.0343623
+      "claimed_at": 1789768844.0343623,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401029,7 +401226,8 @@
         "version": "common"
       },
       "print": 15,
-      "claimed_at": 1789768230.0213938
+      "claimed_at": 1789768230.0213938,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401043,7 +401241,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789734456.5013404
+      "claimed_at": 1789734456.5013404,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401057,7 +401256,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789733230.0911665
+      "claimed_at": 1789733230.0911665,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401071,7 +401271,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789732382.9157681
+      "claimed_at": 1789732382.9157681,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401085,7 +401286,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789729124.9200196
+      "claimed_at": 1789729124.9200196,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401099,7 +401301,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1789702869.1923013
+      "claimed_at": 1789702869.1923013,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401113,7 +401316,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789702018.5631363
+      "claimed_at": 1789702018.5631363,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401127,7 +401331,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789697060.753917
+      "claimed_at": 1789697060.753917,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401141,7 +401346,8 @@
         "version": "common"
       },
       "print": 8,
-      "claimed_at": 1789696291.130995
+      "claimed_at": 1789696291.130995,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401155,7 +401361,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789692706.0604672
+      "claimed_at": 1789692706.0604672,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401169,7 +401376,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789691688.3219976
+      "claimed_at": 1789691688.3219976,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401183,7 +401391,8 @@
         "version": "common"
       },
       "print": 12,
-      "claimed_at": 1789690864.841433
+      "claimed_at": 1789690864.841433,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401197,7 +401406,8 @@
         "version": "common"
       },
       "print": 12,
-      "claimed_at": 1789689866.9126186
+      "claimed_at": 1789689866.9126186,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401211,7 +401421,8 @@
         "version": "common"
       },
       "print": 9,
-      "claimed_at": 1789687797.3257303
+      "claimed_at": 1789687797.3257303,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401225,7 +401436,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789685022.1971972
+      "claimed_at": 1789685022.1971972,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401239,7 +401451,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789684165.9235108
+      "claimed_at": 1789684165.9235108,
+      "tags": "ft"
     },
     {
       "card": {
@@ -401253,7 +401466,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789681900.5767093
+      "claimed_at": 1789681900.5767093,
+      "tags": "ft"
     },
     {
       "card": {
@@ -427186,6 +427400,20 @@
   "1258264908546445323": [
     {
       "card": {
+        "id": "shu_rare",
+        "name": "Shu Yamino",
+        "series": "Nijisanji",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/shu_rare.png",
+        "frame": "pink",
+        "version": "rare"
+      },
+      "print": 19,
+      "claimed_at": 1789841970.7724266
+    },
+    {
+      "card": {
         "id": "mo_common",
         "name": "Mo Ran",
         "series": "The Husky and His White Cat Shizun",
@@ -443825,7 +444053,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789841940.3371706
+      "claimed_at": 1789841940.3371706,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443839,7 +444068,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1789840866.23052
+      "claimed_at": 1789840866.23052,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443853,7 +444083,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789839715.629868
+      "claimed_at": 1789839715.629868,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443867,7 +444098,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789838899.8098655
+      "claimed_at": 1789838899.8098655,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443881,7 +444113,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1789838288.5530486
+      "claimed_at": 1789838288.5530486,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443895,7 +444128,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789835872.572823
+      "claimed_at": 1789835872.572823,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443909,7 +444143,8 @@
         "version": "common"
       },
       "print": 20,
-      "claimed_at": 1789834850.9324024
+      "claimed_at": 1789834850.9324024,
+      "tags": "\ud83e\ude84\u22b9\u208a\u27e1"
     },
     {
       "card": {
@@ -443923,7 +444158,8 @@
         "version": "common"
       },
       "print": 15,
-      "claimed_at": 1789831612.606023
+      "claimed_at": 1789831612.606023,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443937,7 +444173,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789830431.832948
+      "claimed_at": 1789830431.832948,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443951,7 +444188,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789829610.7163668
+      "claimed_at": 1789829610.7163668,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443965,7 +444203,8 @@
         "version": "common"
       },
       "print": 28,
-      "claimed_at": 1789828931.7216446
+      "claimed_at": 1789828931.7216446,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443979,7 +444218,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789827324.5787275
+      "claimed_at": 1789827324.5787275,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -443993,7 +444233,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789819489.5770826
+      "claimed_at": 1789819489.5770826,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444007,7 +444248,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789817627.6903334
+      "claimed_at": 1789817627.6903334,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444021,7 +444263,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789797361.9726412
+      "claimed_at": 1789797361.9726412,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444035,7 +444278,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789796420.5789979
+      "claimed_at": 1789796420.5789979,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444049,7 +444293,8 @@
         "version": "common"
       },
       "print": 12,
-      "claimed_at": 1789790276.4206228
+      "claimed_at": 1789790276.4206228,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444063,7 +444308,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789787007.7386277
+      "claimed_at": 1789787007.7386277,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444077,7 +444323,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1789784247.7659338
+      "claimed_at": 1789784247.7659338,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444091,7 +444338,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1789783412.2103784
+      "claimed_at": 1789783412.2103784,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444105,7 +444353,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789782228.0667758
+      "claimed_at": 1789782228.0667758,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444119,7 +444368,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789781565.3069522
+      "claimed_at": 1789781565.3069522,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444133,7 +444383,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789775319.2573614
+      "claimed_at": 1789775319.2573614,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444147,7 +444398,8 @@
         "version": "common"
       },
       "print": 12,
-      "claimed_at": 1789773881.4148748
+      "claimed_at": 1789773881.4148748,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444161,7 +444413,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789765700.7521577
+      "claimed_at": 1789765700.7521577,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444175,7 +444428,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789764785.9980268
+      "claimed_at": 1789764785.9980268,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444189,7 +444443,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1789763256.2581668
+      "claimed_at": 1789763256.2581668,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444203,7 +444458,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789762620.4204133
+      "claimed_at": 1789762620.4204133,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444217,7 +444473,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789761684.158939
+      "claimed_at": 1789761684.158939,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444231,7 +444488,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1789760863.7472653
+      "claimed_at": 1789760863.7472653,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444245,7 +444503,8 @@
         "version": "common"
       },
       "print": 15,
-      "claimed_at": 1789760265.1392808
+      "claimed_at": 1789760265.1392808,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444259,7 +444518,8 @@
         "version": "common"
       },
       "print": 29,
-      "claimed_at": 1789759509.331618
+      "claimed_at": 1789759509.331618,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444273,7 +444533,8 @@
         "version": "rare"
       },
       "print": 15,
-      "claimed_at": 1789758833.4500504
+      "claimed_at": 1789758833.4500504,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444287,7 +444548,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789757975.0924203
+      "claimed_at": 1789757975.0924203,
+      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
     },
     {
       "card": {
@@ -444544,7 +444806,7 @@
       },
       "print": 18,
       "claimed_at": 1789547843.536009,
-      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
+      "tags": "\ud83e\ude84\u22b9\u208a\u27e1"
     },
     {
       "card": {
@@ -445054,7 +445316,7 @@
       },
       "print": 2,
       "claimed_at": 1788008692.8043447,
-      "tags": "\ufe52\u3010\ud83c\udf65\u3011\ud835\ude8f\ud835\ude9d\ud835\ude8f\ud835\ude9c\u22c6."
+      "tags": "\u208a\u22b9\ua4b0\ud83d\uddd1\ufe0f\ua4b1\u22b9\u208a"
     },
     {
       "card": {
@@ -446470,6 +446732,20 @@
   "1507541118722637845": [
     {
       "card": {
+        "id": "vil_common",
+        "name": "Vil Schoenheit",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/vil_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789677364.4546018
+    },
+    {
+      "card": {
         "id": "bae_common_3",
         "name": "Bae Isak",
         "series": "One-room TA",
@@ -446678,20 +446954,6 @@
       },
       "print": 36,
       "claimed_at": 1789743298.3777401
-    },
-    {
-      "card": {
-        "id": "camilla_common",
-        "name": "Camilla Angelica Connor",
-        "series": "I Love Amy",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/camilla_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 20,
-      "claimed_at": 1789701286.288065
     },
     {
       "card": {
@@ -447620,7 +447882,8 @@
         "version": "common"
       },
       "print": 6,
-      "claimed_at": 1788608631.837713
+      "claimed_at": 1788608631.837713,
+      "tags": "\u22c6.\ud80c\udff2\ud83c\udfee\u08ea\u02d6"
     },
     {
       "card": {
@@ -447648,7 +447911,8 @@
         "version": "common"
       },
       "print": 23,
-      "claimed_at": 1789835681.584534
+      "claimed_at": 1789835681.584534,
+      "tags": "\u208a\u02da\ud80c\udc83\ud83d\udd8b\ufe0f\u22c6\u02da\u0fd4"
     },
     {
       "card": {
@@ -447663,7 +447927,7 @@
       },
       "print": 9,
       "claimed_at": 1788657250.8240664,
-      "tags": "FT :)"
+      "tags": "\u22c6.\ud80c\udff2\ud83e\udebd\u02d6"
     },
     {
       "card": {
@@ -447719,7 +447983,8 @@
         "version": "common"
       },
       "print": 20,
-      "claimed_at": 1789708138.9939284
+      "claimed_at": 1789708138.9939284,
+      "tags": "\u208a\u02da\ud80c\udc83\ud83d\udd8b\ufe0f\u22c6\u02da\u0fd4"
     },
     {
       "card": {
@@ -448438,7 +448703,8 @@
         "version": "common"
       },
       "print": 20,
-      "claimed_at": 1789599182.6555214
+      "claimed_at": 1789599182.6555214,
+      "tags": "\u208a\u02da\ud80c\udc83\ud83d\udd8b\ufe0f\u22c6\u02da\u0fd4"
     },
     {
       "card": {
@@ -464014,6 +464280,20 @@
   "1303595998714662916": [
     {
       "card": {
+        "id": "arata_common",
+        "name": "Arata Shindo",
+        "series": "PSYCHO-PASS",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/arata_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789842249.5404134
+    },
+    {
+      "card": {
         "id": "tim_common",
         "name": "Red Robin",
         "series": "DC",
@@ -474596,6 +474876,20 @@
   "932497221331591188": [
     {
       "card": {
+        "id": "artoria_common",
+        "name": "Artoria Pendragon",
+        "series": "Fate Series",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/artoria_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1789841979.101409
+    },
+    {
+      "card": {
         "id": "lamia_common",
         "name": "Lamia",
         "series": "Path To Nowhere",
@@ -475939,6 +476233,20 @@
     }
   ],
   "755863624873934968": [
+    {
+      "card": {
+        "id": "cantarella_common",
+        "name": "Cantarella",
+        "series": "Wuthering Waves",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/cantarella_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789842213.5487595
+    },
     {
       "card": {
         "id": "damon_common",
@@ -477395,6 +477703,34 @@
   "1211028404577632277": [
     {
       "card": {
+        "id": "ian_common",
+        "name": "Ian",
+        "series": "Messiah Project",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ian_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789842258.0171065
+    },
+    {
+      "card": {
+        "id": "anna_common",
+        "name": "Anna Scervino",
+        "series": "My Hero Academia",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/anna_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789842244.4922202
+    },
+    {
+      "card": {
         "id": "bae_common_2",
         "name": "Bae Sejin",
         "series": "Debut or Die",
@@ -478293,6 +478629,20 @@
   "795454216760066090": [
     {
       "card": {
+        "id": "ashlyn_common",
+        "name": "Ashlyn Banner",
+        "series": "School Bus Graveyard",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ashlyn_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1789842246.2391412
+    },
+    {
+      "card": {
         "id": "shorekeeper_common",
         "name": "Shorekeeper",
         "series": "Wuthering Waves",
@@ -479043,6 +479393,20 @@
   ],
   "1006377172862255144": [],
   "1519685122847150156": [
+    {
+      "card": {
+        "id": "victoria_common",
+        "name": "Victoria",
+        "series": "Path To Nowhere",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/victoria_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789842191.4355423
+    },
     {
       "card": {
         "id": "yakumo_common",
