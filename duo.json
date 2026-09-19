@@ -361,7 +361,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 36,
+      "progress": 37,
       "id": "b1b41af1-f730-4d57-8780-04825031ce28",
       "player_a": "1248433917904683160",
       "player_b": "752564296583479388",
@@ -743,38 +743,6 @@
       "player_b": "653839860821655601",
       "started_at": 1789782764.4453094,
       "channel_id": 1548787015632420884
-    },
-    "a51f6b42-2c50-4c79-97fa-b52aa1b1bc0d": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Baicang",
-        "March 7th",
-        "Jean",
-        "Yuuki Tadokoro",
-        "Charlotte & Minako",
-        "Toru Ishikawa",
-        "Nagito Komaeda",
-        "Tsumugi Rintaro",
-        "Yoimiya",
-        "Raven",
-        "Natsumi Nishi",
-        "Dottore",
-        "Jinshi",
-        "Mio Akiyama",
-        "Citlali",
-        "Qingxiao",
-        "Yuri",
-        "Midori",
-        "Columbina"
-      ],
-      "id": "a51f6b42-2c50-4c79-97fa-b52aa1b1bc0d",
-      "player_a": "808060427543642163",
-      "player_b": "818518701539065888",
-      "started_at": 1789805384.318571,
-      "channel_id": 1550780024745893888
     },
     "fd6ed4d5-1834-4c69-9784-3c071ee4be16": {
       "type": "claim_rarity4",
@@ -3364,6 +3332,18 @@
         "timestamp": 1789817168.9390755,
         "partner_id": "1411686981468946664"
       }
+    ],
+    "808060427543642163": [
+      {
+        "timestamp": 1789821262.541103,
+        "partner_id": "818518701539065888"
+      }
+    ],
+    "818518701539065888": [
+      {
+        "timestamp": 1789821262.541103,
+        "partner_id": "808060427543642163"
+      }
     ]
   },
   "cooldowns": {
@@ -3714,7 +3694,9 @@
     "1071837987224158298": 1789774623.3542337,
     "755863624873934968": 1789786835.9092069,
     "1211028404577632277": 1789786835.9092069,
-    "913777441825255454": 1789817168.9390755
+    "913777441825255454": 1789817168.9390755,
+    "808060427543642163": 1789821262.541103,
+    "818518701539065888": 1789821262.541103
   },
   "bonus": {
     "777925664358531102": {
@@ -10178,8 +10160,8 @@
       "claim": 1
     },
     "818518701539065888": {
-      "drop": 0,
-      "claim": 0
+      "drop": 1,
+      "claim": 1
     },
     "913777441825255454": {
       "drop": 0,
