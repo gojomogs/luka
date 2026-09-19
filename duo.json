@@ -760,33 +760,6 @@
       "started_at": 1789746588.8783953,
       "channel_id": 1543565182503231549
     },
-    "bd5271f7-e66f-463b-b8a0-2e151d579276": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Re: Zero - Starting Life in Another World",
-        "Into The Light, Once Again",
-        "The Summer You Were There",
-        "Wuthering Waves",
-        "Charisma House",
-        "One Piece",
-        "Haikyuu!!",
-        "The Disastrous Life of Saiki K",
-        "Jujutsu Kaisen",
-        "Assassination Classroom",
-        "Honkai: Star Rail",
-        "Messiah Project",
-        "Project Sekai: Colorful Stage!",
-        "Danganronpa"
-      ],
-      "id": "bd5271f7-e66f-463b-b8a0-2e151d579276",
-      "player_a": "755863624873934968",
-      "player_b": "1211028404577632277",
-      "started_at": 1789779032.0442722,
-      "channel_id": 1543292052249382962
-    },
     "35d8e971-569d-492c-807b-131668f599a5": {
       "type": "claim_rarity4",
       "target": 10,
@@ -3353,6 +3326,18 @@
         "timestamp": 1789774623.3542337,
         "partner_id": "1178380074001645660"
       }
+    ],
+    "755863624873934968": [
+      {
+        "timestamp": 1789786835.9092069,
+        "partner_id": "1211028404577632277"
+      }
+    ],
+    "1211028404577632277": [
+      {
+        "timestamp": 1789786835.9092069,
+        "partner_id": "755863624873934968"
+      }
     ]
   },
   "cooldowns": {
@@ -3700,7 +3685,9 @@
     "1122403358595092510": 1789704903.2607713,
     "1157782319483068476": 1789716765.7154212,
     "1065199150498590782": 1789741192.8962114,
-    "1071837987224158298": 1789774623.3542337
+    "1071837987224158298": 1789774623.3542337,
+    "755863624873934968": 1789786835.9092069,
+    "1211028404577632277": 1789786835.9092069
   },
   "bonus": {
     "777925664358531102": {
@@ -6256,8 +6243,8 @@
       "claim": 0
     },
     "1017829457492463617": {
-      "drop": 7,
-      "claim": 7
+      "drop": 6,
+      "claim": 6
     },
     "1314762933758201896": {
       "drop": 0,
@@ -10137,7 +10124,7 @@
     },
     "755863624873934968": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "795454216760066090": {
       "drop": 0,
@@ -10161,7 +10148,7 @@
     },
     "1211028404577632277": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     }
   },
   "migrations": {
