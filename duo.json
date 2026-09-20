@@ -797,6 +797,21 @@
       "player_b": "836214830662025227",
       "started_at": 1789868007.3146334,
       "channel_id": 1543268797119729704
+    },
+    "8778f8cf-dcb9-4e1b-9f79-77ecce649d71": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Satoru Gojo",
+        "Ado"
+      ],
+      "id": "8778f8cf-dcb9-4e1b-9f79-77ecce649d71",
+      "player_a": "1273022793931292694",
+      "player_b": "768496552477589534",
+      "started_at": 1789869384.9550905,
+      "channel_id": 1543688716248416316
     }
   },
   "weekly": {
@@ -9939,7 +9954,7 @@
     },
     "768496552477589534": {
       "drop": 0,
-      "claim": 2
+      "claim": 1
     },
     "836214830662025227": {
       "drop": 0,
