@@ -1942,7 +1942,15 @@
       "receiver_id": "870354420049776710",
       "timestamp": 1789988149.837782,
       "message": "ok!",
-      "read": false
+      "read": true
+    },
+    {
+      "id": "05c59609-4cb0-4923-9473-bf5067d0af6b",
+      "sender_id": "1504462632013398208",
+      "receiver_id": "870354420049776710",
+      "timestamp": 1789988399.938127,
+      "message": "not me.",
+      "read": true
     }
   ],
   "1228978576028729384": [
@@ -7348,6 +7356,14 @@
       "receiver_id": "1411686981468946664",
       "timestamp": 1789986087.07464,
       "message": "son what",
+      "read": false
+    },
+    {
+      "id": "660dd3df-acb7-4686-8c83-4a518f84836f",
+      "sender_id": "870354420049776710",
+      "receiver_id": "1411686981468946664",
+      "timestamp": 1789988401.3941104,
+      "message": "?? bro what the hell r u on",
       "read": false
     }
   ],
