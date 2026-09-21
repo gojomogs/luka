@@ -1,83 +1,75 @@
 {
   "merchants": [
     {
-      "id": "voyager_merchant_1789739522_5862",
+      "id": "voyager_merchant_1789999230_3805",
       "template_id": "voyager_merchant",
       "wants": [
         {
-          "id": "mydei_rare",
-          "name": "Mydei",
-          "series": "Honkai: Star Rail",
-          "stars": 4,
-          "frame": "red",
-          "image": "card_art/mydei_rare.png"
-        },
-        {
-          "id": "jun_common",
-          "name": "Jun Sazanami",
+          "id": "hiyori_common",
+          "name": "Hiyori Tomoe",
           "series": "Ensemble Stars!",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/jun_common.png"
+          "image": "card_art/hiyori_common.png"
         },
         {
-          "id": "alhaitham_common",
-          "name": "Alhaitham",
+          "id": "lumine_common",
+          "name": "Lumine",
           "series": "Genshin Impact",
-          "stars": 2,
+          "stars": 1,
           "frame": "common",
-          "image": "card_art/alhaitham_common.png"
+          "image": "card_art/lumine_common.png"
         }
       ],
       "rewards": [
         {
-          "id": "tsukasa_common",
-          "name": "Tenma Tsukasa",
-          "series": "Project Sekai: Colorful Stage!",
+          "id": "huohuo_common",
+          "name": "Huohuo",
+          "series": "Honkai: Star Rail",
+          "stars": 3,
+          "frame": "common",
+          "image": "card_art/huohuo_common.png"
+        },
+        {
+          "id": "baron_common",
+          "name": "Baron Bunny",
+          "series": "Genshin Impact",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/baron_common.png"
+        },
+        {
+          "id": "dan_common",
+          "name": "Dan Heng",
+          "series": "Honkai: Star Rail",
           "stars": 2,
           "frame": "common",
-          "image": "card_art/tsukasa_common.png"
-        },
-        {
-          "id": "pardofelis_common",
-          "name": "Pardofelis",
-          "series": "Honkai Impact 3rd",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/pardofelis_common.png"
-        },
-        {
-          "id": "shu_common_2",
-          "name": "Shu Itsuki & Mika Kagehira",
-          "series": "Ensemble Stars!",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/shu_common_2.png"
+          "image": "card_art/dan_common.png"
         }
       ],
       "stock": 10,
-      "start_ts": 1789739522.8008192,
-      "expires_ts": 1789825922.8008192
+      "start_ts": 1789999230.401211,
+      "expires_ts": 1790085630.401211
     },
     {
-      "id": "lucky_merchant_1789739522_8034",
+      "id": "lucky_merchant_1789999230_4174",
       "template_id": "lucky_merchant",
       "wants": [
         {
-          "id": "tensei_common",
-          "name": "Tensei Iida",
+          "id": "minoru_common",
+          "name": "Minoru Mineta",
           "series": "My Hero Academia",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/tensei_common.png"
+          "image": "card_art/minoru_common.png"
         },
         {
-          "id": "kento_common",
-          "name": "Kento Nanami",
+          "id": "kinji_common",
+          "name": "Kinji Hakari",
           "series": "Jujutsu Kaisen",
           "stars": 3,
           "frame": "common",
-          "image": "card_art/kento_common.png"
+          "image": "card_art/kinji_common.png"
         }
       ],
       "rewards": [
@@ -90,69 +82,77 @@
           "image": "card_art/akaza_common.png"
         },
         {
-          "id": "suguru_common_2",
-          "name": "Suguru Geto",
-          "series": "Jujutsu Kaisen",
-          "stars": 1,
+          "id": "hitoshi_common",
+          "name": "Hitoshi Shinso",
+          "series": "My Hero Academia",
+          "stars": 2,
           "frame": "common",
-          "image": "card_art/suguru_common_2.png"
+          "image": "card_art/hitoshi_common.png"
+        },
+        {
+          "id": "tomura_rare_2",
+          "name": "Tomura Shigaraki",
+          "series": "My Hero Academia",
+          "stars": 4,
+          "frame": "red",
+          "image": "card_art/tomura_rare_2.png"
         }
       ],
       "stock": 10,
-      "start_ts": 1789739522.8008192,
-      "expires_ts": 1789825922.8008192
+      "start_ts": 1789999230.401211,
+      "expires_ts": 1790085630.401211
     },
     {
-      "id": "collector_merchant_1789739522_4132",
+      "id": "collector_merchant_1789999230_7609",
       "template_id": "collector_merchant",
       "wants": [
         {
-          "id": "zoya_common",
-          "name": "Zoya",
+          "id": "chelsea_common",
+          "name": "Chelsea",
           "series": "Path To Nowhere",
-          "stars": 2,
-          "frame": "common",
-          "image": "card_art/zoya_common.png"
-        },
-        {
-          "id": "romeo_common",
-          "name": "Romeo Lucci",
-          "series": "Tokyo Debunker",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/romeo_common.png"
+          "image": "card_art/chelsea_common.png"
         },
         {
-          "id": "hella_common",
-          "name": "Hella",
+          "id": "rahu_common",
+          "name": "Rahu",
           "series": "Path To Nowhere",
-          "stars": 2,
+          "stars": 3,
           "frame": "common",
-          "image": "card_art/hella_common.png"
+          "image": "card_art/rahu_common.png"
         }
       ],
       "rewards": [
         {
-          "id": "shawn_common",
-          "name": "Shawn",
+          "id": "kotone_common",
+          "name": "Kotone Shiomi",
+          "series": "Persona",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/kotone_common.png"
+        },
+        {
+          "id": "moore_common",
+          "name": "Moore",
+          "series": "Path To Nowhere",
+          "stars": 3,
+          "frame": "common",
+          "image": "card_art/moore_common.png"
+        },
+        {
+          "id": "deren_common",
+          "name": "Deren",
           "series": "Path To Nowhere",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/shawn_common.png"
-        },
-        {
-          "id": "labyrinth_common",
-          "name": "Labyrinth",
-          "series": "Path To Nowhere",
-          "stars": 2,
-          "frame": "common",
-          "image": "card_art/labyrinth_common.png"
+          "image": "card_art/deren_common.png"
         }
       ],
       "stock": 10,
-      "start_ts": 1789739522.8008192,
-      "expires_ts": 1789825922.8008192
+      "start_ts": 1789999230.401211,
+      "expires_ts": 1790085630.401211
     }
   ],
-  "next_generation_at": 1789998723.4318576
+  "next_generation_at": null
 }
