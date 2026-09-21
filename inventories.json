@@ -9426,7 +9426,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1790004340.7642279
+      "claimed_at": 1790004340.7642279,
+      "tags": "nft"
     },
     {
       "card": {
@@ -9792,7 +9793,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1789930243.7501514
+      "claimed_at": 1789930243.7501514,
+      "tags": "nft"
     },
     {
       "card": {
@@ -57225,6 +57227,20 @@
     }
   ],
   "909551241967861770": [
+    {
+      "card": {
+        "id": "koro-sensei_common",
+        "name": "Koro-sensei",
+        "series": "Assassination Classroom",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/koro-sensei_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1790004854.1955059
+    },
     {
       "card": {
         "id": "osamu_common",
@@ -123587,6 +123603,20 @@
     }
   ],
   "891662969107255338": [
+    {
+      "card": {
+        "id": "kris_common",
+        "name": "Kris",
+        "series": "Deltarune",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kris_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1790004832.9186623
+    },
     {
       "card": {
         "id": "evan_common",
@@ -205879,6 +205909,20 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "taylor_common",
+        "name": "Taylor Hernandez",
+        "series": "School Bus Graveyard",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/taylor_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790004747.2067957
+    },
+    {
+      "card": {
         "id": "yoon_common_3",
         "name": "Yoon Ga-eul",
         "series": "The Hunter\u2019s Gonna Lay Low",
@@ -225997,7 +226041,8 @@
       },
       "print": 5,
       "claimed_at": 1788014338.1942108,
-      "tags": "[Ren]"
+      "tags": "[Ren]",
+      "showcased": true
     },
     {
       "card": {
@@ -226054,7 +226099,8 @@
       },
       "print": 4,
       "claimed_at": 1788012778.426942,
-      "tags": "mine"
+      "tags": "mine",
+      "showcased": true
     },
     {
       "card": {
@@ -274049,6 +274095,21 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "kotomi_common",
+        "name": "Kotomi Ichinose",
+        "series": "CLANNAD",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kotomi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1789586730.0978467,
+      "tags": "\ua4b0\ud83d\udcb0\ua4b1\u2800ft"
+    },
+    {
+      "card": {
         "id": "gaku_common",
         "name": "Gaku",
         "series": "Sakamoto Days",
@@ -277216,21 +277277,6 @@
       "print": 2,
       "claimed_at": 1788089006.0242417,
       "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "joonghyuk_common",
-        "name": "Yoo Joonghyuk",
-        "series": "Omniscient Reader\u2019s Viewpoint",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/joonghyuk_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 6,
-      "claimed_at": 1788086534.856594,
-      "tags": "hold"
     },
     {
       "card": {
@@ -374575,6 +374621,20 @@
   "836214830662025227": [
     {
       "card": {
+        "id": "ainosuke_common",
+        "name": "Ainosuke Shindo",
+        "series": "SK8 THE INFINITY",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ainosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1790004901.140646
+    },
+    {
+      "card": {
         "id": "nagisa_common",
         "name": "Nagisa Hazuki",
         "series": "Free! Iwatobi Swim Club",
@@ -429909,6 +429969,20 @@
   "1492950003851854008": [
     {
       "card": {
+        "id": "pela_common",
+        "name": "Pela",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/pela_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1790004737.089422
+    },
+    {
+      "card": {
         "id": "elias_common",
         "name": "Elias Pratt",
         "series": "Tokyo Debunker",
@@ -471077,6 +471151,21 @@
   "1043630421444935690": [
     {
       "card": {
+        "id": "joonghyuk_common",
+        "name": "Yoo Joonghyuk",
+        "series": "Omniscient Reader\u2019s Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/joonghyuk_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 6,
+      "claimed_at": 1788086534.856594,
+      "tags": "hold"
+    },
+    {
+      "card": {
         "id": "nicole_common",
         "name": "Nicole Demara",
         "series": "Zenless Zone Zero",
@@ -471665,20 +471754,6 @@
       },
       "print": 26,
       "claimed_at": 1789849753.5129523
-    },
-    {
-      "card": {
-        "id": "eun_common",
-        "name": "Eun Haje",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/eun_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 23,
-      "claimed_at": 1789848780.988598
     },
     {
       "card": {
@@ -473851,20 +473926,6 @@
       },
       "print": 11,
       "claimed_at": 1788635039.9046576
-    },
-    {
-      "card": {
-        "id": "woo_common",
-        "name": "Woo Seung-min",
-        "series": "Happy Twogether",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/woo_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1788634088.2580953
     },
     {
       "card": {
@@ -484884,6 +484945,48 @@
   "1473475651725164714": [
     {
       "card": {
+        "id": "eun_common",
+        "name": "Eun Haje",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/eun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1789848780.988598
+    },
+    {
+      "card": {
+        "id": "woo_common",
+        "name": "Woo Seung-min",
+        "series": "Happy Twogether",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/woo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1788634088.2580953
+    },
+    {
+      "card": {
+        "id": "yusuke_common",
+        "name": "Yusuke Tani",
+        "series": "You and I are Polar Opposites",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yusuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790004680.3565383
+    },
+    {
+      "card": {
         "id": "rimuru_common",
         "name": "Rimuru Tempest",
         "series": "That Time I Got Reincarnated As A Slime",
@@ -488243,21 +488346,6 @@
       "print": 12,
       "claimed_at": 1789587634.3046205,
       "tags": "\ud83c\udf3f \uaa86\ud80c\ude12\u2800fav"
-    },
-    {
-      "card": {
-        "id": "kotomi_common",
-        "name": "Kotomi Ichinose",
-        "series": "CLANNAD",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kotomi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 7,
-      "claimed_at": 1789586730.0978467,
-      "tags": "\ua4b0\ud83d\udcb0\ua4b1\u2800ft"
     },
     {
       "card": {
@@ -524674,6 +524762,20 @@
   "1422891232182407210": [
     {
       "card": {
+        "id": "kyouko_common",
+        "name": "Kyouko Hori",
+        "series": "Horimiya",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kyouko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1790004829.238488
+    },
+    {
+      "card": {
         "id": "benny_common",
         "name": "Benny",
         "series": "Jackpot Crash Course",
@@ -555628,6 +555730,20 @@
   "1071837987224158298": [
     {
       "card": {
+        "id": "nana_common_3",
+        "name": "Nana Komatsu",
+        "series": "NANA",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nana_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1790004898.201143
+    },
+    {
+      "card": {
         "id": "jabber_common",
         "name": "Jabber Wonger",
         "series": "Gachiakuta",
@@ -556456,6 +556572,20 @@
   "1230149118710779914": [],
   "1530219454787752106": [],
   "1151512609409998959": [
+    {
+      "card": {
+        "id": "denji_common",
+        "name": "Denji",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/denji_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790004937.9534693
+    },
     {
       "card": {
         "id": "meguru_common",
