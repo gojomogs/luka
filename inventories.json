@@ -50022,6 +50022,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "natsuki_common",
+        "name": "Natsuki",
+        "series": "Doki Doki Literature Club!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/natsuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1789987097.5260623
+    },
+    {
+      "card": {
         "id": "tamon_common",
         "name": "Kotaro Tamon",
         "series": "Phantom Busters",
@@ -122092,6 +122106,20 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "north_common",
+        "name": "North Italy",
+        "series": "Hetalia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/north_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1789987109.9121835
+    },
+    {
+      "card": {
         "id": "mydei_common",
         "name": "Mydei",
         "series": "Honkai: Star Rail",
@@ -133523,6 +133551,20 @@
   "1208748350523052062": [
     {
       "card": {
+        "id": "leona_common",
+        "name": "Leona Kingscholar",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/leona_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1788630024.724508
+    },
+    {
+      "card": {
         "id": "mitsuki_common",
         "name": "Mitsuki Koga",
         "series": "The Guy She Was Interested In Wasn't a Guy at All",
@@ -133548,20 +133590,6 @@
       },
       "print": 34,
       "claimed_at": 1789977718.8392406
-    },
-    {
-      "card": {
-        "id": "kim_common_3",
-        "name": "Kim Soleum",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/kim_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 8,
-      "claimed_at": 1788650263.6079762
     },
     {
       "card": {
@@ -136902,6 +136930,20 @@
     }
   ],
   "975180513394438165": [
+    {
+      "card": {
+        "id": "toshiro_common",
+        "name": "Toshiro Hitsugaya",
+        "series": "Bleach",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/toshiro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789986962.6168213
+    },
     {
       "card": {
         "id": "blade_common_2",
@@ -190988,6 +191030,20 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "freminet_common",
+        "name": "Freminet",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/freminet_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1789987065.569979
+    },
+    {
+      "card": {
         "id": "nate_common",
         "name": "Nate River",
         "series": "Death Note",
@@ -202764,6 +202820,20 @@
     }
   ],
   "1310028877485314098": [
+    {
+      "card": {
+        "id": "sebastian_common_3",
+        "name": "Sebastian Moran",
+        "series": "Moriarty the Patriot",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sebastian_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789987049.9337485
+    },
     {
       "card": {
         "id": "chiaki_common_2",
@@ -292172,6 +292242,21 @@
   "772183077996331009": [
     {
       "card": {
+        "id": "kim_common_3",
+        "name": "Kim Soleum",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kim_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1788650263.6079762,
+      "tags": "\u06f6\u09ce\u2800\uae40\uc194\uc74c\u2800\ud83c\udf47"
+    },
+    {
+      "card": {
         "id": "edmond_common",
         "name": "Edmond",
         "series": "NU: Carnival",
@@ -292351,7 +292436,8 @@
       },
       "print": 4,
       "claimed_at": 1788584536.3573775,
-      "tags": "ft"
+      "tags": "\u06f6\u09ce\u2800\uae40\uc194\uc74c\u2800\ud83c\udf47",
+      "pinned": true
     },
     {
       "card": {
@@ -293418,20 +293504,6 @@
       },
       "print": 14,
       "claimed_at": 1788631337.0969799
-    },
-    {
-      "card": {
-        "id": "leona_common",
-        "name": "Leona Kingscholar",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/leona_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 8,
-      "claimed_at": 1788630024.724508
     },
     {
       "card": {
@@ -337516,6 +337588,20 @@
     }
   ],
   "769484060824698890": [
+    {
+      "card": {
+        "id": "kang_rare",
+        "name": "Kang Jihwan & Han Yuseong",
+        "series": "Two Tigers, Too Close",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kang_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 17,
+      "claimed_at": 1789986922.9737973
+    },
     {
       "card": {
         "id": "tamon_common_2",
@@ -434493,6 +434579,20 @@
   "1527389655408836829": [
     {
       "card": {
+        "id": "taiga_rare",
+        "name": "Taiga Hoshibami",
+        "series": "Tokyo Debunker",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/taiga_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 21,
+      "claimed_at": 1789987195.324461
+    },
+    {
+      "card": {
         "id": "fluttershy_common",
         "name": "Fluttershy",
         "series": "My Little Pony",
@@ -453348,6 +453448,20 @@
   "1504462632013398208": [
     {
       "card": {
+        "id": "callie_common",
+        "name": "Callie",
+        "series": "Splatoon",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/callie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789986983.1467824
+    },
+    {
+      "card": {
         "id": "lyca_common",
         "name": "Lyca Colt",
         "series": "Tokyo Debunker",
@@ -467260,6 +467374,20 @@
   "1136153288052584490": [
     {
       "card": {
+        "id": "boothill_common",
+        "name": "Boothill",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/boothill_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1789834525.7360015
+    },
+    {
+      "card": {
         "id": "anne_common",
         "name": "Anne",
         "series": "Path To Nowhere",
@@ -467313,20 +467441,6 @@
       },
       "print": 12,
       "claimed_at": 1789873026.4323297
-    },
-    {
-      "card": {
-        "id": "joonghyuk_common",
-        "name": "Yoo Joonghyuk",
-        "series": "Omniscient Reader\u2019s Viewpoint",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/joonghyuk_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1789867912.2386174
     },
     {
       "card": {
@@ -484567,6 +484681,20 @@
   "1058900013201231992": [
     {
       "card": {
+        "id": "levi_common",
+        "name": "Levi Ackerman",
+        "series": "Attack on Titan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/levi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1789987173.9954364
+    },
+    {
+      "card": {
         "id": "bomi_common",
         "name": "Bomi Yun",
         "series": "Seasons Of Blossom",
@@ -491795,6 +491923,34 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "joonghyuk_common",
+        "name": "Yoo Joonghyuk",
+        "series": "Omniscient Reader\u2019s Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/joonghyuk_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1789867912.2386174
+    },
+    {
+      "card": {
+        "id": "kim_common",
+        "name": "Kim Jae-young",
+        "series": "Happy Twogether",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kim_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1789987054.9589448
+    },
+    {
+      "card": {
         "id": "cielomort_rare",
         "name": "Cielomort",
         "series": "Fragaria Memories",
@@ -492829,20 +492985,6 @@
       },
       "print": 13,
       "claimed_at": 1789836124.9268541
-    },
-    {
-      "card": {
-        "id": "boothill_common",
-        "name": "Boothill",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/boothill_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 21,
-      "claimed_at": 1789834525.7360015
     },
     {
       "card": {
@@ -547930,6 +548072,20 @@
     }
   ],
   "547774305803436032": [
+    {
+      "card": {
+        "id": "kento_common",
+        "name": "Kento Nanami",
+        "series": "Jujutsu Kaisen",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kento_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1789987094.357359
+    },
     {
       "card": {
         "id": "sae_common",
