@@ -92742,6 +92742,20 @@
   "993708628441837649": [
     {
       "card": {
+        "id": "jang_common",
+        "name": "Jang Baekhee",
+        "series": "Yang Ilwoo and I",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jang_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790000694.8866782
+    },
+    {
+      "card": {
         "id": "koro-sensei_common",
         "name": "Koro-sensei",
         "series": "Assassination Classroom",
@@ -96107,6 +96121,20 @@
   ],
   "1211781489931452447": [],
   "737098353485021206": [
+    {
+      "card": {
+        "id": "raiden_rare",
+        "name": "Raiden Shogun",
+        "series": "Genshin Impact",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/raiden_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 33,
+      "claimed_at": 1790000665.7307527
+    },
     {
       "card": {
         "id": "tae-geum_common",
@@ -175965,6 +175993,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "kang_common",
+        "name": "Kang Jun",
+        "series": "Eighteen\u2019s Bed",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kang_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790000697.1063101
+    },
+    {
+      "card": {
         "id": "columbina_common",
         "name": "Columbina",
         "series": "Genshin Impact",
@@ -192749,7 +192791,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790000413.29871
+      "claimed_at": 1790000413.29871,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192763,7 +192806,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1789999373.626494
+      "claimed_at": 1789999373.626494,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192777,7 +192821,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1789998485.3189914
+      "claimed_at": 1789998485.3189914,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192806,7 +192851,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1789994777.94427
+      "claimed_at": 1789994777.94427,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192835,7 +192881,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789996442.4277935
+      "claimed_at": 1789996442.4277935,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192849,7 +192896,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1789995386.3907394
+      "claimed_at": 1789995386.3907394,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192878,7 +192926,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789993355.104178
+      "claimed_at": 1789993355.104178,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -192892,7 +192941,8 @@
         "version": "common"
       },
       "print": 47,
-      "claimed_at": 1789991990.3022053
+      "claimed_at": 1789991990.3022053,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -204811,6 +204861,21 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "merold_rare",
+        "name": "Merold",
+        "series": "Fragaria Memories",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/merold_rare.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1789793533.2816684,
+      "tags": "ft"
+    },
+    {
+      "card": {
         "id": "akaza_common",
         "name": "Akaza",
         "series": "Kimetsu no Yaiba",
@@ -207447,20 +207512,6 @@
       },
       "print": 17,
       "claimed_at": 1789618412.1645255
-    },
-    {
-      "card": {
-        "id": "phainon_common",
-        "name": "Phainon",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/phainon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 24,
-      "claimed_at": 1789615118.3360589
     },
     {
       "card": {
@@ -272654,6 +272705,21 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "phainon_common",
+        "name": "Phainon",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/phainon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1789615118.3360589,
+      "tags": "hold"
+    },
+    {
+      "card": {
         "id": "aoyagi_common",
         "name": "Aoyagi Toya",
         "series": "Project Sekai: Colorful Stage!",
@@ -273772,21 +273838,6 @@
       },
       "print": 7,
       "claimed_at": 1789794611.9101465,
-      "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "merold_rare",
-        "name": "Merold",
-        "series": "Fragaria Memories",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/merold_rare.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 20,
-      "claimed_at": 1789793533.2816684,
       "tags": "ft"
     },
     {
@@ -410506,6 +410557,21 @@
   "1523865177592959078": [
     {
       "card": {
+        "id": "jeong_common",
+        "name": "Jeong Taeui",
+        "series": "Passion",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jeong_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790000847.3716903,
+      "tags": "\u2601\ufe0f: FTFS"
+    },
+    {
+      "card": {
         "id": "marius_common",
         "name": "Marius Von Hagen",
         "series": "Tears of Themis",
@@ -423534,6 +423600,20 @@
   "643593256713584670": [
     {
       "card": {
+        "id": "dabi_common",
+        "name": "Dabi",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/dabi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1790000891.2321968
+    },
+    {
+      "card": {
         "id": "tadashi_common_2",
         "name": "Tadashi Kikuchi",
         "series": "SK8 THE INFINITY",
@@ -433385,6 +433465,20 @@
     }
   ],
   "1146772200016326676": [
+    {
+      "card": {
+        "id": "naruto_common",
+        "name": "Naruto Uzumaki",
+        "series": "Naruto",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/naruto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790000733.4700415
+    },
     {
       "card": {
         "id": "toritsuka_common",
@@ -459132,6 +459226,20 @@
     }
   ],
   "1504462632013398208": [
+    {
+      "card": {
+        "id": "baicang_common",
+        "name": "Baicang",
+        "series": "Neverness to Everness",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baicang_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790000773.4954402
+    },
     {
       "card": {
         "id": "robin_common",
@@ -545097,6 +545205,20 @@
   "755863624873934968": [
     {
       "card": {
+        "id": "hamel_rare",
+        "name": "Hamel",
+        "series": "Path To Nowhere",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/hamel_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 16,
+      "claimed_at": 1790000860.5691638
+    },
+    {
+      "card": {
         "id": "nate_common",
         "name": "Nate River",
         "series": "Death Note",
@@ -547444,6 +547566,20 @@
     }
   ],
   "1211028404577632277": [
+    {
+      "card": {
+        "id": "kokomi_common",
+        "name": "Kokomi Teruhashi",
+        "series": "The Disastrous Life of Saiki K",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kokomi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790000880.2554939
+    },
     {
       "card": {
         "id": "mana_common",
@@ -553659,6 +553795,20 @@
   "1230149118710779914": [],
   "1530219454787752106": [],
   "1151512609409998959": [
+    {
+      "card": {
+        "id": "chelsea_common",
+        "name": "Chelsea",
+        "series": "Path To Nowhere",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chelsea_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1790000913.1783648
+    },
     {
       "card": {
         "id": "beatrice_common",
