@@ -671,7 +671,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 35,
+      "progress": 36,
       "id": "13308d97-46a0-4164-a2e6-d68ae7d1abf9",
       "player_a": "1409796045118115913",
       "player_b": "1213941636829155338",
@@ -712,7 +712,9 @@
         "WINX CLUB",
         "Alien Stage",
         "Bungo Stray Dogs",
-        "SHTDN"
+        "SHTDN",
+        "Debut or Die",
+        "Ensemble Stars!"
       ],
       "id": "359e4169-1bdb-4773-b05e-45b97438cd21",
       "player_a": "891662969107255338",
@@ -730,6 +732,18 @@
       "player_b": "1357357406782488588",
       "started_at": 1789961409.6121707,
       "channel_id": 1543392892138033202
+    },
+    "d44910dd-a0f4-4326-bff3-1d6016f3e869": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "d44910dd-a0f4-4326-bff3-1d6016f3e869",
+      "player_a": "1271962211606204560",
+      "player_b": "764446760004354048",
+      "started_at": 1789969055.3520312,
+      "channel_id": 1543243298062475335
     }
   },
   "weekly": {
@@ -6255,8 +6269,8 @@
       "claim": 0
     },
     "1371471175451938849": {
-      "drop": 4,
-      "claim": 3
+      "drop": 0,
+      "claim": 0
     },
     "824566274293235742": {
       "drop": 0,
