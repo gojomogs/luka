@@ -693,7 +693,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 32,
+      "progress": 33,
       "id": "681fa880-8be3-4c8c-81ae-e2ee95cd4c73",
       "player_a": "767054445724827718",
       "player_b": "1357357406782488588",
@@ -762,6 +762,21 @@
       "player_b": "886247125292306432",
       "started_at": 1790036618.049594,
       "channel_id": 1548825499076268053
+    },
+    "19afb689-b3f2-4a9e-8001-df9593ce8c13": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Satoshi Mochida",
+        "Kotone Shiomi"
+      ],
+      "id": "19afb689-b3f2-4a9e-8001-df9593ce8c13",
+      "player_a": "755211531674845235",
+      "player_b": "768645666851258371",
+      "started_at": 1790043886.378557,
+      "channel_id": 1543275611663896706
     }
   },
   "weekly": {
