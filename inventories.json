@@ -51959,6 +51959,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "kagari_common_2",
+        "name": "Kagari Mimi",
+        "series": "I Want to Love You Till Your Dying Day",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kagari_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1790121131.7109423
+    },
+    {
+      "card": {
         "id": "x-virus_common",
         "name": "X-Virus",
         "series": "Creepypasta",
@@ -73943,6 +73957,20 @@
   "1122003954436407336": [
     {
       "card": {
+        "id": "kirisaki_common",
+        "name": "Kirisaki Shidou",
+        "series": "MILGRAM",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kirisaki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790121326.474358
+    },
+    {
+      "card": {
         "id": "promeia_common",
         "name": "Promeia",
         "series": "Zenless Zone Zero",
@@ -74949,20 +74977,6 @@
       },
       "print": 16,
       "claimed_at": 1789968914.1832073
-    },
-    {
-      "card": {
-        "id": "tetia_common",
-        "name": "Tetia",
-        "series": "Witch Hat Atelier",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/tetia_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 28,
-      "claimed_at": 1789954450.4121094
     },
     {
       "card": {
@@ -77019,20 +77033,6 @@
       },
       "print": 4,
       "claimed_at": 1788569019.5412383
-    },
-    {
-      "card": {
-        "id": "shoyo_common",
-        "name": "Shoyo Hinata",
-        "series": "Haikyuu!!",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/shoyo_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 8,
-      "claimed_at": 1788568161.739138
     },
     {
       "card": {
@@ -206255,6 +206255,20 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "toko_common",
+        "name": "Toko Fukawa",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/toko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790121272.7171483
+    },
+    {
+      "card": {
         "id": "cheong_common",
         "name": "Cheong Myeong",
         "series": "Return of the Blossoming Blade",
@@ -228484,6 +228498,21 @@
   "247066385849647107": [
     {
       "card": {
+        "id": "shoyo_common",
+        "name": "Shoyo Hinata",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shoyo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1788568161.739138,
+      "tags": "\ud83c\udd71\ufe0fennyFART"
+    },
+    {
+      "card": {
         "id": "yu_rare_2",
         "name": "Yu Fan & Chen Jingshen",
         "series": "Wait For Me After School",
@@ -228595,21 +228624,6 @@
       },
       "print": 23,
       "claimed_at": 1790111846.9884813
-    },
-    {
-      "card": {
-        "id": "euini_common",
-        "name": "Euini",
-        "series": "Witch Hat Atelier",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/euini_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 23,
-      "claimed_at": 1790111029.073292,
-      "tags": "barfchie\ud83d\udc0e"
     },
     {
       "card": {
@@ -294810,6 +294824,20 @@
     }
   ],
   "857177938682970132": [
+    {
+      "card": {
+        "id": "power_common",
+        "name": "Power",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/power_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790121129.13701
+    },
     {
       "card": {
         "id": "agott_common",
@@ -394748,6 +394776,36 @@
   "764446760004354048": [
     {
       "card": {
+        "id": "euini_common",
+        "name": "Euini",
+        "series": "Witch Hat Atelier",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/euini_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790111029.073292,
+      "tags": "barfchie\ud83d\udc0e"
+    },
+    {
+      "card": {
+        "id": "tetia_common",
+        "name": "Tetia",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tetia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1789954450.4121094,
+      "tags": "\ud83c\udd71\ufe0fet\ud83c\udd71\ufe0farts"
+    },
+    {
+      "card": {
         "id": "sara_common",
         "name": "Sara Chidouin",
         "series": "Your Turn To Die",
@@ -418053,6 +418111,21 @@
     }
   ],
   "1298419501238456452": [
+    {
+      "card": {
+        "id": "peko_common",
+        "name": "Peko Pekoyama",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/peko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1790121383.80927,
+      "tags": "FT"
+    },
     {
       "card": {
         "id": "jingliu_common",
@@ -469639,6 +469712,20 @@
     }
   ],
   "1492950003851854008": [
+    {
+      "card": {
+        "id": "hitoshi_common",
+        "name": "Hitoshi Shinso",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hitoshi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790121151.4761345
+    },
     {
       "card": {
         "id": "utsuro_common",
@@ -538922,6 +539009,20 @@
   "899114077706657852": [
     {
       "card": {
+        "id": "kang_common_2",
+        "name": "Kang Jun & Go Yohan",
+        "series": "Eighteen\u2019s Bed",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kang_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1789848761.6970544
+    },
+    {
+      "card": {
         "id": "luuk_common",
         "name": "Luuk Herssen",
         "series": "Wuthering Waves",
@@ -540733,6 +540834,20 @@
   "1058900013201231992": [
     {
       "card": {
+        "id": "satoru_common_2",
+        "name": "Satoru Gojo",
+        "series": "Jujutsu Kaisen",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/satoru_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790121093.2037437
+    },
+    {
+      "card": {
         "id": "jotaro_common",
         "name": "Jotaro Kujo",
         "series": "Jojo\u02bcs Bizarre Adventure",
@@ -542414,20 +542529,6 @@
       },
       "print": 24,
       "claimed_at": 1789849396.2353754
-    },
-    {
-      "card": {
-        "id": "kang_common_2",
-        "name": "Kang Jun & Go Yohan",
-        "series": "Eighteen\u2019s Bed",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/kang_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 25,
-      "claimed_at": 1789848761.6970544
     },
     {
       "card": {
@@ -555084,6 +555185,20 @@
     }
   ],
   "1357357406782488588": [
+    {
+      "card": {
+        "id": "sooyoung_common",
+        "name": "Han Sooyoung",
+        "series": "Omniscient Reader\u2019s Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/sooyoung_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790121127.0036917
+    },
     {
       "card": {
         "id": "lu_common_2",
