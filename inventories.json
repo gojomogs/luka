@@ -187450,6 +187450,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "mori_common",
+        "name": "Mori",
+        "series": "On the Way to Meet Mom",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mori_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790116341.764653
+    },
+    {
+      "card": {
         "id": "ikuya_common",
         "name": "Ikuya Kirishima",
         "series": "Free! Iwatobi Swim Club",
@@ -305415,6 +305429,20 @@
   "755211531674845235": [
     {
       "card": {
+        "id": "touma_common",
+        "name": "Aza Touma",
+        "series": "Hell\u2019s Paradise",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/touma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1790116161.9820411
+    },
+    {
+      "card": {
         "id": "sosuke_common_2",
         "name": "Sosuke Yamazaki",
         "series": "Free! Iwatobi Swim Club",
@@ -410036,6 +410064,20 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "cha_common_3",
+        "name": "Cha Eui-jae & Lee Sa-young",
+        "series": "The Hunter\u2019s Gonna Lay Low",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cha_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790116389.5226111
+    },
+    {
+      "card": {
         "id": "zatanna_rare",
         "name": "Zatanna Zatara",
         "series": "DC",
@@ -410272,20 +410314,6 @@
       },
       "print": 42,
       "claimed_at": 1790093582.0276144
-    },
-    {
-      "card": {
-        "id": "anaxa_common",
-        "name": "Anaxa",
-        "series": "Honkai: Star Rail",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/anaxa_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1790089934.7361243
     },
     {
       "card": {
@@ -411812,20 +411840,6 @@
     },
     {
       "card": {
-        "id": "hiyuki_common",
-        "name": "Hiyuki",
-        "series": "Wuthering Waves",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/hiyuki_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1789809974.473831
-    },
-    {
-      "card": {
         "id": "tamaki_common",
         "name": "Tamaki Suoh",
         "series": "Ouran Highschool Host Club",
@@ -412064,20 +412078,6 @@
       },
       "print": 13,
       "claimed_at": 1789748094.5259216
-    },
-    {
-      "card": {
-        "id": "chixia_common",
-        "name": "Chixia",
-        "series": "Wuthering Waves",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/chixia_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1789748053.870169
     },
     {
       "card": {
@@ -483848,6 +483848,20 @@
   "1029068754526687232": [
     {
       "card": {
+        "id": "han_common",
+        "name": "Han Seo-in",
+        "series": "Backlight",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/han_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1790116269.7360954
+    },
+    {
+      "card": {
         "id": "diamond_common",
         "name": "Diamond",
         "series": "Land of the Lustrous",
@@ -502370,6 +502384,62 @@
   "1504462632013398208": [
     {
       "card": {
+        "id": "pela_common",
+        "name": "Pela",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/pela_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790116386.593324
+    },
+    {
+      "card": {
+        "id": "chixia_common",
+        "name": "Chixia",
+        "series": "Wuthering Waves",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chixia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789748053.870169
+    },
+    {
+      "card": {
+        "id": "hiyuki_common",
+        "name": "Hiyuki",
+        "series": "Wuthering Waves",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hiyuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789809974.473831
+    },
+    {
+      "card": {
+        "id": "anaxa_common",
+        "name": "Anaxa",
+        "series": "Honkai: Star Rail",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/anaxa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1790089934.7361243
+    },
+    {
+      "card": {
         "id": "natsume_common",
         "name": "Leo Tsukinaga",
         "series": "Ensemble Stars!",
@@ -517137,6 +517207,20 @@
   "1480643238699466977": [
     {
       "card": {
+        "id": "shiina_common",
+        "name": "Shiina Mahiru",
+        "series": "MILGRAM",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shiina_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1790116348.6373324
+    },
+    {
+      "card": {
         "id": "the_common",
         "name": "The Herta",
         "series": "Honkai: Star Rail",
@@ -521804,6 +521888,20 @@
     }
   ],
   "1454297163029807329": [
+    {
+      "card": {
+        "id": "female_common_4",
+        "name": "Female Esper Zero",
+        "series": "Neverness to Everness",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/female_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790116433.6548479
+    },
     {
       "card": {
         "id": "jin_common_2",
@@ -575615,6 +575713,20 @@
     }
   ],
   "1422891232182407210": [
+    {
+      "card": {
+        "id": "lee_common_13",
+        "name": "Lee Sunny",
+        "series": "Spinach Bouquet",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_13.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790116310.511691
+    },
     {
       "card": {
         "id": "nagisa_common_5",
