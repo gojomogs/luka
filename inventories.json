@@ -106672,6 +106672,20 @@
   "737098353485021206": [
     {
       "card": {
+        "id": "ryu_common",
+        "name": "Ryu",
+        "series": "Lying Puppies Get Eaten",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ryu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790199970.5989516
+    },
+    {
+      "card": {
         "id": "eddie_common",
         "name": "Eddie",
         "series": "Jackpot Crash Course",
@@ -215083,6 +215097,20 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "lee_common_11",
+        "name": "Lee Woo-yeol",
+        "series": "Kill Me If You Can",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lee_common_11.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1790199891.2803974
+    },
+    {
+      "card": {
         "id": "phrolova_common",
         "name": "Phrolova",
         "series": "Wuthering Waves",
@@ -263427,6 +263455,21 @@
     }
   ],
   "768645666851258371": [
+    {
+      "card": {
+        "id": "akito_common",
+        "name": "Shinonome Akito",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/akito_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1790200106.85815,
+      "tags": "orange"
+    },
     {
       "card": {
         "id": "fumihiko_common",
@@ -383314,6 +383357,20 @@
   "1293557714420498435": [
     {
       "card": {
+        "id": "shin_common_2",
+        "name": "Shin Hae-In",
+        "series": "My Bias Gets On The Last Train",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shin_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1790200018.0305502
+    },
+    {
+      "card": {
         "id": "doppo_common_2",
         "name": "Doppo Kunikida",
         "series": "Bungo Stray Dogs",
@@ -441430,6 +441487,21 @@
   "1298419501238456452": [
     {
       "card": {
+        "id": "ash_common",
+        "name": "Ash Lynx",
+        "series": "Banana Fish",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ash_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790200034.9739113,
+      "tags": "ProbFT"
+    },
+    {
+      "card": {
         "id": "shin_common",
         "name": "Shin Asakura",
         "series": "Sakamoto Days",
@@ -454372,6 +454444,20 @@
     }
   ],
   "1398751184373678231": [
+    {
+      "card": {
+        "id": "rei_common_2",
+        "name": "Rei Ayanami",
+        "series": "Neon Genesis Evangelion",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rei_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790200088.2345388
+    },
     {
       "card": {
         "id": "reo_common",
@@ -650898,6 +650984,20 @@
   "1299321612641767456": [
     {
       "card": {
+        "id": "mizi_common",
+        "name": "Mizi",
+        "series": "Alien Stage",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mizi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1790200080.138848
+    },
+    {
+      "card": {
         "id": "nie_common",
         "name": "Nie Huaisang",
         "series": "Mo Dao Zu Shi",
@@ -662586,6 +662686,20 @@
   "1113230728415690843": [
     {
       "card": {
+        "id": "ralsei_common",
+        "name": "Ralsei",
+        "series": "Deltarune",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ralsei_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790199846.755118
+    },
+    {
+      "card": {
         "id": "ritsu_common",
         "name": "Ritsu Tainaka",
         "series": "K-On!",
@@ -663367,7 +663481,8 @@
       },
       "print": 8,
       "claimed_at": 1788596852.781904,
-      "tags": "nft"
+      "tags": "nft",
+      "showcased": true
     },
     {
       "card": {
