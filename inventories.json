@@ -73226,6 +73226,21 @@
   "533041724638101505": [
     {
       "card": {
+        "id": "denji_common",
+        "name": "Denji",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/denji_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790164327.9351983,
+      "tags": "\ud83e\udd5e\ud835\udc1f\ud835\udc2d"
+    },
+    {
+      "card": {
         "id": "integra_common",
         "name": "Integra Hellsing",
         "series": "HELLSING",
@@ -74519,21 +74534,6 @@
       },
       "print": 4,
       "claimed_at": 1788663765.7328744,
-      "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "eugene_common",
-        "name": "Korekishi Eugene",
-        "series": "Phantom Busters",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/eugene_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1788663102.6290102,
       "tags": "ft"
     },
     {
@@ -106714,6 +106714,20 @@
   "737098353485021206": [
     {
       "card": {
+        "id": "reinhard_common",
+        "name": "Reinhard Van Astrea",
+        "series": "Re: Zero - Starting Life in Another World",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/reinhard_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1790200894.2254834
+    },
+    {
+      "card": {
         "id": "ryu_common",
         "name": "Ryu",
         "series": "Lying Puppies Get Eaten",
@@ -111973,6 +111987,21 @@
   "1515535105140064338": [
     {
       "card": {
+        "id": "cha_common",
+        "name": "Cha Eui-jae",
+        "series": "The Hunter's Gonna Lay Low",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/cha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1789994679.418894,
+      "tags": "\u2764\ufe0e"
+    },
+    {
+      "card": {
         "id": "shohei_common",
         "name": "Alan Mido",
         "series": "Tokyo Debunker",
@@ -112027,20 +112056,6 @@
       },
       "print": 17,
       "claimed_at": 1790144118.125967
-    },
-    {
-      "card": {
-        "id": "akihiko_common_4",
-        "name": "Akihiko Kaji",
-        "series": "Given",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/akihiko_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 38,
-      "claimed_at": 1790130455.80942
     },
     {
       "card": {
@@ -245842,7 +245857,7 @@
       },
       "print": 3,
       "claimed_at": 1788558010.2345965,
-      "tags": "kittyuhhh"
+      "tags": "\ud83d\udc31"
     },
     {
       "card": {
@@ -299400,6 +299415,20 @@
   "1401622768214347796": [
     {
       "card": {
+        "id": "akihiko_common_4",
+        "name": "Akihiko Kaji",
+        "series": "Given",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/akihiko_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1790130455.80942
+    },
+    {
+      "card": {
         "id": "kang_common_5",
         "name": "Kang Seo-an",
         "series": "The Pizza Delivery Man and Gold Palace",
@@ -300842,21 +300871,6 @@
       },
       "print": 35,
       "claimed_at": 1789995338.4514613,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
-    },
-    {
-      "card": {
-        "id": "cha_common",
-        "name": "Cha Eui-jae",
-        "series": "The Hunter's Gonna Lay Low",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/cha_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 39,
-      "claimed_at": 1789994679.418894,
       "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
     },
     {
@@ -335350,7 +335364,8 @@
         "version": "common"
       },
       "print": 5,
-      "claimed_at": 1788645737.0510256
+      "claimed_at": 1788645737.0510256,
+      "tags": "hold"
     },
     {
       "card": {
@@ -410007,6 +410022,20 @@
   "1183826856449953822": [
     {
       "card": {
+        "id": "turing_common",
+        "name": "Turing",
+        "series": "Neural Cloud",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/turing_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1790200981.224746
+    },
+    {
+      "card": {
         "id": "rise_rare",
         "name": "Rise Kujikawa",
         "series": "Persona",
@@ -469794,7 +469823,8 @@
         "version": "common"
       },
       "print": 38,
-      "claimed_at": 1790198642.2908428
+      "claimed_at": 1790198642.2908428,
+      "tags": "ft idc"
     },
     {
       "card": {
@@ -519996,6 +520026,20 @@
   "708047930933903411": [
     {
       "card": {
+        "id": "ronin_common",
+        "name": "Ronin",
+        "series": "Killer Chat!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ronin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790200976.138953
+    },
+    {
+      "card": {
         "id": "sosuke_common",
         "name": "Sousuke Mitsuba",
         "series": "Toilet-bound Hanako-kun",
@@ -520063,34 +520107,6 @@
       },
       "print": 22,
       "claimed_at": 1790166400.3027108
-    },
-    {
-      "card": {
-        "id": "louis_common",
-        "name": "Louis James Moriarty",
-        "series": "Moriarty the Patriot",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/louis_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 18,
-      "claimed_at": 1789723375.9002304
-    },
-    {
-      "card": {
-        "id": "william_common",
-        "name": "William James Moriarty",
-        "series": "Moriarty the Patriot",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/william_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 13,
-      "claimed_at": 1789693352.297574
     },
     {
       "card": {
@@ -522588,6 +522604,20 @@
     }
   ],
   "609515385997492264": [
+    {
+      "card": {
+        "id": "seishiro_common",
+        "name": "Seishiro Nagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/seishiro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790200958.2381325
+    },
     {
       "card": {
         "id": "floyd_common",
@@ -605650,6 +605680,21 @@
   "1122403358595092510": [
     {
       "card": {
+        "id": "luke_common",
+        "name": "Luke Davis",
+        "series": "Nerd Project",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/luke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1790201000.5548065,
+      "tags": "I see dogs"
+    },
+    {
+      "card": {
         "id": "columbina_common",
         "name": "Columbina",
         "series": "Genshin Impact",
@@ -612470,6 +612515,36 @@
   "1422891232182407210": [
     {
       "card": {
+        "id": "eugene_common",
+        "name": "Korekishi Eugene",
+        "series": "Phantom Busters",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/eugene_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1788663102.6290102,
+      "tags": "ft"
+    },
+    {
+      "card": {
+        "id": "duke_common",
+        "name": "Duke",
+        "series": "Nevermore",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/duke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1790200939.5263755,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
+    },
+    {
+      "card": {
         "id": "benny_common",
         "name": "Benny",
         "series": "Jackpot Crash Course",
@@ -612494,7 +612569,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1790195656.1510427
+      "claimed_at": 1790195656.1510427,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612523,7 +612599,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1790194875.7434576
+      "claimed_at": 1790194875.7434576,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612537,7 +612614,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1790194251.477945
+      "claimed_at": 1790194251.477945,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612551,7 +612629,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790192740.1961043
+      "claimed_at": 1790192740.1961043,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612565,7 +612644,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1790191968.090976
+      "claimed_at": 1790191968.090976,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612579,7 +612659,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1790189590.9294655
+      "claimed_at": 1790189590.9294655,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612593,7 +612674,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790188142.522391
+      "claimed_at": 1790188142.522391,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612607,7 +612689,8 @@
         "version": "common"
       },
       "print": 29,
-      "claimed_at": 1790186376.5449805
+      "claimed_at": 1790186376.5449805,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612621,7 +612704,8 @@
         "version": "common"
       },
       "print": 35,
-      "claimed_at": 1790183986.7742035
+      "claimed_at": 1790183986.7742035,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612650,7 +612734,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1790182797.730027
+      "claimed_at": 1790182797.730027,
+      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -612951,21 +613036,6 @@
       "print": 7,
       "claimed_at": 1788584916.7583172,
       "tags": "\ud83d\udc7b\ud835\udc27\ud835\udc1f\ud835\udc2d"
-    },
-    {
-      "card": {
-        "id": "denji_common",
-        "name": "Denji",
-        "series": "Chainsaw Man",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/denji_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 33,
-      "claimed_at": 1790164327.9351983,
-      "tags": "\ud83e\udd5e\ud835\udc1f\ud835\udc2d"
     },
     {
       "card": {
@@ -631277,6 +631347,48 @@
     }
   ],
   "716383027311149087": [
+    {
+      "card": {
+        "id": "edgar_common",
+        "name": "Edgar Valden",
+        "series": "Identity V",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/edgar_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790201004.194003
+    },
+    {
+      "card": {
+        "id": "louis_common",
+        "name": "Louis James Moriarty",
+        "series": "Moriarty the Patriot",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/louis_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1789723375.9002304
+    },
+    {
+      "card": {
+        "id": "william_common",
+        "name": "William James Moriarty",
+        "series": "Moriarty the Patriot",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/william_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789693352.297574
+    },
     {
       "card": {
         "id": "l_common",
@@ -651312,6 +651424,20 @@
   "1299321612641767456": [
     {
       "card": {
+        "id": "yae_common",
+        "name": "Yae Miko",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yae_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790200836.4095502
+    },
+    {
+      "card": {
         "id": "mizi_common",
         "name": "Mizi",
         "series": "Alien Stage",
@@ -663040,6 +663166,20 @@
     }
   ],
   "1113230728415690843": [
+    {
+      "card": {
+        "id": "reze_common",
+        "name": "Reze",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/reze_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790200793.391304
+    },
     {
       "card": {
         "id": "ralsei_common",
