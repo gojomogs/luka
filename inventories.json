@@ -52274,6 +52274,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "natsuki_common",
+        "name": "Natsuki",
+        "series": "Doki Doki Literature Club!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/natsuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1790153442.0551255
+    },
+    {
+      "card": {
         "id": "basil_common",
         "name": "Basil",
         "series": "Omori",
@@ -60030,6 +60044,34 @@
   "909551241967861770": [
     {
       "card": {
+        "id": "ado_common",
+        "name": "Ado",
+        "series": "Utaite",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ado_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790002777.4941015
+    },
+    {
+      "card": {
+        "id": "kalim_common",
+        "name": "Kalim Al-Asim",
+        "series": "Twisted Wonderland",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kalim_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790153486.6854498
+    },
+    {
+      "card": {
         "id": "seon_common_2",
         "name": "Seon Wooyeon",
         "series": "Alpha Trauma",
@@ -61287,20 +61329,6 @@
       },
       "print": 14,
       "claimed_at": 1789865617.4002345
-    },
-    {
-      "card": {
-        "id": "ena_common",
-        "name": "Shinonome Ena",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ena_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 31,
-      "claimed_at": 1789864861.1184847
     },
     {
       "card": {
@@ -142756,6 +142784,20 @@
   ],
   "1008776202191634432": [],
   "1198905520422137927": [
+    {
+      "card": {
+        "id": "bones_common",
+        "name": "Bones",
+        "series": "Jackpot Crash Course",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/bones_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790153502.2834814
+    },
     {
       "card": {
         "id": "yami_common",
@@ -230026,6 +230068,20 @@
   ],
   "1353579581109698694": [],
   "1065199150498590782": [
+    {
+      "card": {
+        "id": "euini_common",
+        "name": "Euini",
+        "series": "Witch Hat Atelier",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/euini_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790153486.5209455
+    },
     {
       "card": {
         "id": "luminas_rare",
@@ -379425,6 +379481,20 @@
   "769484060824698890": [
     {
       "card": {
+        "id": "uzui_common",
+        "name": "Uzui Tengen",
+        "series": "Kimetsu no Yaiba",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/uzui_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1790153506.4480603
+    },
+    {
+      "card": {
         "id": "asmodeus_common",
         "name": "Asmodeus",
         "series": "Obey Me!",
@@ -484577,6 +484647,20 @@
   "661903143419772939": [
     {
       "card": {
+        "id": "tamayo_common",
+        "name": "Tamayo",
+        "series": "Kimetsu no Yaiba",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tamayo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790153448.6253552
+    },
+    {
+      "card": {
         "id": "jeanne_common",
         "name": "Jeanne",
         "series": "The Case Study of Vanitas",
@@ -499177,6 +499261,21 @@
   "736235127910432789": [
     {
       "card": {
+        "id": "sandrone_common",
+        "name": "Sandrone",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sandrone_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790153393.7986891,
+      "tags": "\ud83c\udf59depends"
+    },
+    {
+      "card": {
         "id": "cerydra_common",
         "name": "Cerydra",
         "series": "Honkai: Star Rail",
@@ -499187,7 +499286,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1790151238.0652401
+      "claimed_at": 1790151238.0652401,
+      "tags": "\ud83d\udc51"
     },
     {
       "card": {
@@ -499201,7 +499301,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1790151436.882263
+      "claimed_at": 1790151436.882263,
+      "tags": "\ud83c\udf6eft"
     },
     {
       "card": {
@@ -499215,7 +499316,8 @@
         "version": "common"
       },
       "print": 24,
-      "claimed_at": 1790149448.7634108
+      "claimed_at": 1790149448.7634108,
+      "tags": "\ud83c\udf59depends"
     },
     {
       "card": {
@@ -509846,6 +509948,20 @@
     }
   ],
   "735119062585049229": [
+    {
+      "card": {
+        "id": "chaos_common",
+        "name": "Chaos",
+        "series": "Neverness to Everness",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/chaos_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1790153417.4195013
+    },
     {
       "card": {
         "id": "hirofumi_common",
@@ -601292,6 +601408,21 @@
   "1303595998714662916": [
     {
       "card": {
+        "id": "ena_common",
+        "name": "Shinonome Ena",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ena_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1789864861.1184847,
+      "tags": "\ud835\ude49\ud835\ude5b\ud835\ude69 \u266c\u22c6.\u02da"
+    },
+    {
+      "card": {
         "id": "kim_common",
         "name": "Kim Jae-young",
         "series": "Happy Twogether",
@@ -602205,20 +602336,6 @@
       },
       "print": 31,
       "claimed_at": 1790005089.651892
-    },
-    {
-      "card": {
-        "id": "ado_common",
-        "name": "Ado",
-        "series": "Utaite",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ado_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 32,
-      "claimed_at": 1790002777.4941015
     },
     {
       "card": {
@@ -604447,6 +604564,20 @@
     }
   ],
   "936932775393632266": [
+    {
+      "card": {
+        "id": "stain_common",
+        "name": "Stain",
+        "series": "My Hero Academia",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/stain_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1790153545.8098428
+    },
     {
       "card": {
         "id": "misaki_common",
@@ -626623,6 +626754,20 @@
     }
   ],
   "1299321612641767456": [
+    {
+      "card": {
+        "id": "utsuro_common",
+        "name": "Utsuro",
+        "series": "Gokurakugai",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/utsuro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1790153487.2434938
+    },
     {
       "card": {
         "id": "x-virus_common",
