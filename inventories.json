@@ -113016,6 +113016,20 @@
   "696595496021786654": [
     {
       "card": {
+        "id": "haruko_common",
+        "name": "Haruko Saeki",
+        "series": "Idoly Pride",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/haruko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1790164373.0285864
+    },
+    {
+      "card": {
         "id": "luca_common",
         "name": "Luca Kaneshiro",
         "series": "Nijisanji",
@@ -134159,6 +134173,34 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "han_common_3",
+        "name": "Han Yoohyun",
+        "series": "The S-classes That I Raised",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/han_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790163802.389619
+    },
+    {
+      "card": {
+        "id": "goro_rare",
+        "name": "Goro Akechi",
+        "series": "Persona",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/goro_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 25,
+      "claimed_at": 1790163197.2785265
+    },
+    {
+      "card": {
         "id": "sayeon_common",
         "name": "Sayeon Lee",
         "series": "Hand Jumper",
@@ -134666,20 +134708,6 @@
       },
       "print": 43,
       "claimed_at": 1790133153.276717
-    },
-    {
-      "card": {
-        "id": "fu_common",
-        "name": "Fu Orostor",
-        "series": "Gachiakuta",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/fu_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 38,
-      "claimed_at": 1790131719.0749125
     },
     {
       "card": {
@@ -135695,20 +135723,6 @@
       },
       "print": 30,
       "claimed_at": 1789989818.5914497
-    },
-    {
-      "card": {
-        "id": "fu_common",
-        "name": "Fu Orostor",
-        "series": "Gachiakuta",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/fu_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 34,
-      "claimed_at": 1789989359.9519038
     },
     {
       "card": {
@@ -144457,6 +144471,20 @@
     }
   ],
   "1218836543515525185": [
+    {
+      "card": {
+        "id": "castorice_common",
+        "name": "Castorice",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/castorice_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790164249.2071493
+    },
     {
       "card": {
         "id": "xiao_common",
@@ -318648,31 +318676,33 @@
   "1423323604044742666": [
     {
       "card": {
-        "id": "han_common_3",
-        "name": "Han Yoohyun",
-        "series": "The S-classes That I Raised",
+        "id": "fu_common",
+        "name": "Fu Orostor",
+        "series": "Gachiakuta",
         "stars": 1,
         "weight": 10,
-        "image": "card_art/han_common_3.png",
+        "image": "card_art/fu_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 24,
-      "claimed_at": 1790163802.389619
+      "print": 38,
+      "claimed_at": 1790131719.0749125,
+      "tags": "\u0131ll\u0131\ufe52\ud83c\udfad"
     },
     {
       "card": {
-        "id": "goro_rare",
-        "name": "Goro Akechi",
-        "series": "Persona",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/goro_rare.png",
-        "frame": "red",
-        "version": "rare"
+        "id": "fu_common",
+        "name": "Fu Orostor",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fu_common.png",
+        "frame": "common",
+        "version": "common"
       },
-      "print": 25,
-      "claimed_at": 1790163197.2785265
+      "print": 34,
+      "claimed_at": 1789989359.9519038,
+      "tags": "\u0131ll\u0131\ufe52\ud83c\udfad"
     },
     {
       "card": {
@@ -382026,6 +382056,20 @@
   "769484060824698890": [
     {
       "card": {
+        "id": "hugo_common",
+        "name": "Hugo Vlad",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hugo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1790164248.2718623
+    },
+    {
+      "card": {
         "id": "luuk_common",
         "name": "Luuk Herssen",
         "series": "Wuthering Waves",
@@ -413081,6 +413125,21 @@
   "1454914344792883305": [
     {
       "card": {
+        "id": "tooth_common",
+        "name": "Tooth Fairy",
+        "series": "Reverse: 1999",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tooth_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790164163.5348418,
+      "tags": "prns"
+    },
+    {
+      "card": {
         "id": "meguru_common",
         "name": "Meguru Bachira",
         "series": "BLUELOCK",
@@ -423221,6 +423280,20 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "camilla_common",
+        "name": "Camilla Angelica Connor",
+        "series": "I Love Amy",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/camilla_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790164203.5372953
+    },
+    {
+      "card": {
         "id": "maka_common_2",
         "name": "Maka Albarn",
         "series": "Soul Eater",
@@ -429940,6 +430013,21 @@
     }
   ],
   "1298419501238456452": [
+    {
+      "card": {
+        "id": "vi_common",
+        "name": "Vi",
+        "series": "Arcane",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/vi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790164154.6300857,
+      "tags": "FT"
+    },
     {
       "card": {
         "id": "mcqueen_common",
@@ -446416,6 +446504,20 @@
     }
   ],
   "899806964710801499": [
+    {
+      "card": {
+        "id": "sayaka_common_2",
+        "name": "Sayaka Miki",
+        "series": "Puella Magi Madoka Magica",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sayaka_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790164399.8738823
+    },
     {
       "card": {
         "id": "neutralize_common",
@@ -523842,6 +523944,20 @@
   "1507994684314747000": [
     {
       "card": {
+        "id": "tao_common",
+        "name": "Tao Saotome",
+        "series": "Gokurakugai",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/tao_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1790164280.6375365
+    },
+    {
+      "card": {
         "id": "nanami_common",
         "name": "Nanami Momozono",
         "series": "Kamisama Kiss",
@@ -588441,7 +588557,8 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1790164115.6259384
+      "claimed_at": 1790164115.6259384,
+      "tags": "cute baby"
     },
     {
       "card": {
@@ -594973,6 +595090,20 @@
     }
   ],
   "1422891232182407210": [
+    {
+      "card": {
+        "id": "denji_common",
+        "name": "Denji",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/denji_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790164327.9351983
+    },
     {
       "card": {
         "id": "eugene_common",
@@ -625048,6 +625179,20 @@
   "755863624873934968": [
     {
       "card": {
+        "id": "kuzuha_common",
+        "name": "Kuzuha",
+        "series": "Nijisanji",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kuzuha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790164314.254716
+    },
+    {
+      "card": {
         "id": "cha_common_3",
         "name": "Cha Eui-jae & Lee Sa-young",
         "series": "The Hunter\u2019s Gonna Lay Low",
@@ -631971,6 +632116,20 @@
     }
   ],
   "1299321612641767456": [
+    {
+      "card": {
+        "id": "fischl_common",
+        "name": "Fischl",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/fischl_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790164155.9189517
+    },
     {
       "card": {
         "id": "eiden_common",
