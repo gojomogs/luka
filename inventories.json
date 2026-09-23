@@ -51987,6 +51987,34 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "obscure_rare",
+        "name": "Obscure Umbra Cookie",
+        "series": "CookieRun Series",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/obscure_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 19,
+      "claimed_at": 1790123910.8202226
+    },
+    {
+      "card": {
+        "id": "plotter_common",
+        "name": "Secretive Plotter",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/plotter_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1789552150.8698323
+    },
+    {
+      "card": {
         "id": "castorice_common",
         "name": "Castorice",
         "series": "Honkai: Star Rail",
@@ -52026,20 +52054,6 @@
       },
       "print": 21,
       "claimed_at": 1790121131.7109423
-    },
-    {
-      "card": {
-        "id": "x-virus_common",
-        "name": "X-Virus",
-        "series": "Creepypasta",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/x-virus_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 15,
-      "claimed_at": 1790120313.5719688
     },
     {
       "card": {
@@ -74039,6 +74053,20 @@
     }
   ],
   "1122003954436407336": [
+    {
+      "card": {
+        "id": "nagito_common",
+        "name": "Nagito Komaeda",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nagito_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790123893.0190299
+    },
     {
       "card": {
         "id": "orugio_common",
@@ -242595,6 +242623,20 @@
   "1366637983478054978": [
     {
       "card": {
+        "id": "x-virus_common",
+        "name": "X-Virus",
+        "series": "Creepypasta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/x-virus_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1790120313.5719688
+    },
+    {
+      "card": {
         "id": "tamsy_common",
         "name": "Tamsy Caines",
         "series": "Gachiakuta",
@@ -242704,20 +242746,6 @@
       },
       "print": 12,
       "claimed_at": 1789555854.9139688
-    },
-    {
-      "card": {
-        "id": "plotter_common",
-        "name": "Secretive Plotter",
-        "series": "Omniscient Reader's Viewpoint",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/plotter_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 13,
-      "claimed_at": 1789552150.8698323
     },
     {
       "card": {
@@ -295417,6 +295445,20 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "satoru_common_3",
+        "name": "Satoru Gojo & Suguru Geto",
+        "series": "Jujutsu Kaisen",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/satoru_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1790123622.7614403
+    },
+    {
+      "card": {
         "id": "byakuya_common",
         "name": "Byakuya Togami",
         "series": "Danganronpa",
@@ -295427,7 +295469,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1790123425.4173067
+      "claimed_at": 1790123425.4173067,
+      "tags": "ft"
     },
     {
       "card": {
@@ -295441,7 +295484,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1790122626.163031
+      "claimed_at": 1790122626.163031,
+      "tags": "ft"
     },
     {
       "card": {
@@ -295455,7 +295499,8 @@
         "version": "common"
       },
       "print": 23,
-      "claimed_at": 1790121129.13701
+      "claimed_at": 1790121129.13701,
+      "tags": "ft"
     },
     {
       "card": {
@@ -295469,7 +295514,8 @@
         "version": "common"
       },
       "print": 45,
-      "claimed_at": 1790120439.0349965
+      "claimed_at": 1790120439.0349965,
+      "tags": "ft"
     },
     {
       "card": {
@@ -295483,7 +295529,8 @@
         "version": "common"
       },
       "print": 38,
-      "claimed_at": 1790117112.375587
+      "claimed_at": 1790117112.375587,
+      "tags": "ft"
     },
     {
       "card": {
@@ -295497,22 +295544,8 @@
         "version": "common"
       },
       "print": 28,
-      "claimed_at": 1790115727.113051
-    },
-    {
-      "card": {
-        "id": "freminet_common",
-        "name": "Freminet",
-        "series": "Genshin Impact",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/freminet_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 9,
-      "claimed_at": 1788632570.1118734,
-      "tags": "hold"
+      "claimed_at": 1790115727.113051,
+      "tags": "ft"
     },
     {
       "card": {
@@ -295888,21 +295921,6 @@
       "print": 31,
       "claimed_at": 1790069099.3822517,
       "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "mydei_common",
-        "name": "Mydei",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/mydei_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 33,
-      "claimed_at": 1790041943.0714579,
-      "tags": "hold"
     },
     {
       "card": {
@@ -296534,21 +296552,6 @@
       "print": 14,
       "claimed_at": 1790002298.696918,
       "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "phainon_common",
-        "name": "Phainon",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/phainon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 33,
-      "claimed_at": 1789829943.3812041,
-      "tags": "hold"
     },
     {
       "card": {
@@ -298561,7 +298564,7 @@
       },
       "print": 4,
       "claimed_at": 1789529117.596227,
-      "tags": "ft"
+      "tags": "hold"
     },
     {
       "card": {
@@ -339545,6 +339548,21 @@
   "1016474757723607130": [
     {
       "card": {
+        "id": "sou_common",
+        "name": "Sou Hiyori",
+        "series": "Your Turn To Die",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sou_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790124124.9567857,
+      "tags": "ft"
+    },
+    {
+      "card": {
         "id": "kotone_common",
         "name": "Kotone Shiomi",
         "series": "Persona",
@@ -356808,6 +356826,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "echidna_common",
+        "name": "Echidna",
+        "series": "Re: Zero - Starting Life in Another World",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/echidna_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 13,
+      "claimed_at": 1790124161.8140717
+    },
+    {
+      "card": {
         "id": "uzui_common",
         "name": "Uzui Tengen",
         "series": "Kimetsu no Yaiba",
@@ -372794,6 +372826,21 @@
     }
   ],
   "769484060824698890": [
+    {
+      "card": {
+        "id": "hikaru_common",
+        "name": "Hikaru",
+        "series": "The Summer Hikaru Died",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/hikaru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790123976.4982054,
+      "tags": "\ua4b0 \u06eb \u2445\u200e \u200e \ud83c\udfbc"
+    },
     {
       "card": {
         "id": "levi_common",
@@ -395599,6 +395646,21 @@
     }
   ],
   "764446760004354048": [
+    {
+      "card": {
+        "id": "utage_common",
+        "name": "Utage Kinoshita",
+        "series": "Tamon\u2019s B-side",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/utage_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790123912.342188,
+      "tags": "\ud83c\udd71\ufe0feggie\ud83d\udca9\ud83d\udca9"
+    },
     {
       "card": {
         "id": "arataka_common",
@@ -440661,6 +440723,20 @@
   ],
   "653774824883093523": [],
   "1028046694992064512": [
+    {
+      "card": {
+        "id": "luocha_common",
+        "name": "Luocha",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/luocha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790123865.5775306
+    },
     {
       "card": {
         "id": "belphegor_common",
@@ -541942,6 +542018,20 @@
   "1058900013201231992": [
     {
       "card": {
+        "id": "female_common_2",
+        "name": "Female Chief",
+        "series": "Path To Nowhere",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/female_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1790124012.7402778
+    },
+    {
+      "card": {
         "id": "columbina_common",
         "name": "Columbina",
         "series": "Genshin Impact",
@@ -614304,6 +614394,20 @@
   "1299321612641767456": [
     {
       "card": {
+        "id": "shen_common_2",
+        "name": "Shen Zechuan",
+        "series": "Ballad of Sword & Wine",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/shen_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790123864.376436
+    },
+    {
+      "card": {
         "id": "mihael_common",
         "name": "Mihael Keehl",
         "series": "Death Note",
@@ -625961,17 +626065,48 @@
   "888720475780444160": [
     {
       "card": {
-        "id": "satoru_common_3",
-        "name": "Satoru Gojo & Suguru Geto",
-        "series": "Jujutsu Kaisen",
+        "id": "freminet_common",
+        "name": "Freminet",
+        "series": "Genshin Impact",
         "stars": 1,
         "weight": 10,
-        "image": "card_art/satoru_common_3.png",
+        "image": "card_art/freminet_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 44,
-      "claimed_at": 1790123622.7614403
+      "print": 9,
+      "claimed_at": 1788632570.1118734,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "mydei_common",
+        "name": "Mydei",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mydei_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790041943.0714579,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "phainon_common",
+        "name": "Phainon",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/phainon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1789829943.3812041,
+      "tags": "hold"
     },
     {
       "card": {
