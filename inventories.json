@@ -221595,6 +221595,20 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "ikuya_common",
+        "name": "Ikuya Kirishima",
+        "series": "Free! Iwatobi Swim Club",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ikuya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1790138238.3790915
+    },
+    {
+      "card": {
         "id": "kiritani_common",
         "name": "Kiritani Haruka",
         "series": "Project Sekai: Colorful Stage!",
@@ -287574,6 +287588,20 @@
     }
   ],
   "1401622768214347796": [
+    {
+      "card": {
+        "id": "shoya_common",
+        "name": "Shoya Ishida",
+        "series": "A Silent Voice",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sh\u014dya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790138211.169437
+    },
     {
       "card": {
         "id": "yoshiki_common",
@@ -360288,6 +360316,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "misaki_common",
+        "name": "Misaki",
+        "series": "Killer Chat!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/misaki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1790138014.119974
+    },
+    {
+      "card": {
         "id": "seon_common_2",
         "name": "Seon Wooyeon",
         "series": "Alpha Trauma",
@@ -376458,6 +376500,20 @@
   "769484060824698890": [
     {
       "card": {
+        "id": "komano_common",
+        "name": "Komano Manato",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/komano_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790138157.6993203
+    },
+    {
+      "card": {
         "id": "satoru_common_2",
         "name": "Satoru Gojo",
         "series": "Jujutsu Kaisen",
@@ -380335,7 +380391,8 @@
       },
       "print": 6,
       "claimed_at": 1788599507.2813601,
-      "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b"
+      "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b",
+      "showcased": true
     },
     {
       "card": {
@@ -380530,7 +380587,8 @@
       },
       "print": 9,
       "claimed_at": 1788610770.0492277,
-      "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b"
+      "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b",
+      "showcased": true
     },
     {
       "card": {
@@ -380921,7 +380979,7 @@
       "print": 3,
       "claimed_at": 1788044199.0781543,
       "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b",
-      "showcased": true,
+      "showcased": false,
       "pinned": true
     },
     {
@@ -381193,7 +381251,7 @@
       "print": 4,
       "claimed_at": 1788045989.1239693,
       "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -381691,7 +381749,7 @@
       "claimed_at": 1788002748.9759698,
       "tags": "\ud80c\udc82 \u05af \u2661\u20d8 \ud80c\udffc \ud83e\udd5b",
       "pinned": true,
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -411465,6 +411523,20 @@
   ],
   "1378802200331026492": [],
   "1489605758487236800": [
+    {
+      "card": {
+        "id": "gekko_common",
+        "name": "Gekko",
+        "series": "Valorant",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/gekko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1790138114.5073988
+    },
     {
       "card": {
         "id": "sanemi_common",
@@ -576540,6 +576612,20 @@
   "905294901082738749": [
     {
       "card": {
+        "id": "devil_rare",
+        "name": "Devil Homura",
+        "series": "Puella Magi Madoka Magica",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/devil_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 26,
+      "claimed_at": 1790138239.186595
+    },
+    {
+      "card": {
         "id": "all_common",
         "name": "All Might",
         "series": "My Hero Academia",
@@ -596188,6 +596274,20 @@
     }
   ],
   "1303595998714662916": [
+    {
+      "card": {
+        "id": "madoka_common",
+        "name": "Madoka Kaname",
+        "series": "Puella Magi Madoka Magica",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/madoka_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790138185.5647721
+    },
     {
       "card": {
         "id": "eren_common",
