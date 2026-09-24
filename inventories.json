@@ -14802,6 +14802,20 @@
   "661202852244488192": [
     {
       "card": {
+        "id": "tetia_common",
+        "name": "Tetia",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tetia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1790270750.9314404
+    },
+    {
+      "card": {
         "id": "hyoga_common",
         "name": "Hyoga Akatsuki",
         "series": "Dr. Stone",
@@ -430942,6 +430956,34 @@
   "1095575350035091476": [
     {
       "card": {
+        "id": "mo_common_3",
+        "name": "Mo Haein",
+        "series": "I\u2019m a Young God, Won\u2019t You Raise Me",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mo_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1790270625.4588397
+    },
+    {
+      "card": {
+        "id": "kwak_common_3",
+        "name": "Kwak Hanmuk",
+        "series": "I\u2019m a Young God, Won\u2019t You Raise Me",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kwak_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790269960.773405
+    },
+    {
+      "card": {
         "id": "han_common_4",
         "name": "Han Maru",
         "series": "Special Civil Servant",
@@ -431659,20 +431701,6 @@
       },
       "print": 6,
       "claimed_at": 1788095441.8205745
-    },
-    {
-      "card": {
-        "id": "kishar_common",
-        "name": "Kishiar la Orr",
-        "series": "TURNING",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/kishar_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 5,
-      "claimed_at": 1788094412.7479322
     },
     {
       "card": {
@@ -569213,20 +569241,6 @@
     },
     {
       "card": {
-        "id": "squidward_common",
-        "name": "Squidward",
-        "series": "Spongebob Squarepants",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/squidward_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 17,
-      "claimed_at": 1790017669.8075166
-    },
-    {
-      "card": {
         "id": "ji-min_common",
         "name": "Ji-min & Ki-joong",
         "series": "Bad Friend",
@@ -637018,6 +637032,20 @@
   "679032802691252259": [
     {
       "card": {
+        "id": "hajime_common",
+        "name": "Hajime Hinata",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hajime_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790017988.064413
+    },
+    {
+      "card": {
         "id": "orphie_common",
         "name": "Orphie",
         "series": "Zenless Zone Zero",
@@ -637299,21 +637327,6 @@
       },
       "print": 40,
       "claimed_at": 1790139118.9132652,
-      "tags": "\u2615\ufe0f \ud80c\udffc ft \u25de"
-    },
-    {
-      "card": {
-        "id": "machina_common",
-        "name": "Machina Soleige",
-        "series": "Demon Lord 2099",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/machina_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1790137539.7063353,
       "tags": "\u2615\ufe0f \ud80c\udffc ft \u25de"
     },
     {
@@ -648251,6 +648264,21 @@
   "1502485077626585229": [
     {
       "card": {
+        "id": "astra_common",
+        "name": "Astra Yao",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/astra_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790270774.329049,
+      "tags": "ft\ud83c\udf4b\u200d\ud83d\udfe9"
+    },
+    {
+      "card": {
         "id": "mo_common_3",
         "name": "Mo Haein",
         "series": "I\u2019m a Young God, Won\u2019t You Raise Me",
@@ -648261,7 +648289,8 @@
         "version": "common"
       },
       "print": 25,
-      "claimed_at": 1790269737.198896
+      "claimed_at": 1790269737.198896,
+      "tags": "ft\ud83c\udf4b\u200d\ud83d\udfe9"
     },
     {
       "card": {
@@ -648275,7 +648304,8 @@
         "version": "common"
       },
       "print": 31,
-      "claimed_at": 1790258163.6871712
+      "claimed_at": 1790258163.6871712,
+      "tags": "ft\ud83c\udf4b\u200d\ud83d\udfe9"
     },
     {
       "card": {
@@ -687944,17 +687974,32 @@
   "1151512609409998959": [
     {
       "card": {
-        "id": "mo_common_3",
-        "name": "Mo Haein",
-        "series": "I\u2019m a Young God, Won\u2019t You Raise Me",
-        "stars": 2,
+        "id": "machina_common",
+        "name": "Machina Soleige",
+        "series": "Demon Lord 2099",
+        "stars": 1,
         "weight": 10,
-        "image": "card_art/mo_common_3.png",
+        "image": "card_art/machina_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 26,
-      "claimed_at": 1790270625.4588397
+      "print": 14,
+      "claimed_at": 1790137539.7063353,
+      "tags": "\u2615\ufe0f \ud80c\udffc ft \u25de"
+    },
+    {
+      "card": {
+        "id": "kishar_common",
+        "name": "Kishiar la Orr",
+        "series": "TURNING",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kishar_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 5,
+      "claimed_at": 1788094412.7479322
     },
     {
       "card": {
@@ -687969,20 +688014,6 @@
       },
       "print": 39,
       "claimed_at": 1790270326.1345718
-    },
-    {
-      "card": {
-        "id": "kwak_common_3",
-        "name": "Kwak Hanmuk",
-        "series": "I\u2019m a Young God, Won\u2019t You Raise Me",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/kwak_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 37,
-      "claimed_at": 1790269960.773405
     },
     {
       "card": {
@@ -689445,20 +689476,6 @@
       "print": 20,
       "claimed_at": 1789955495.7600646,
       "tags": "\ud83e\udd0d"
-    },
-    {
-      "card": {
-        "id": "hajime_common",
-        "name": "Hajime Hinata",
-        "series": "Danganronpa",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/hajime_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 24,
-      "claimed_at": 1790017988.064413
     },
     {
       "card": {
@@ -699552,6 +699569,20 @@
   "1549815919532970037": [
     {
       "card": {
+        "id": "tetsuya_common",
+        "name": "Tetsuya Kuroko",
+        "series": "Kuroko's Basketball",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tetsuya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790271041.7162497
+    },
+    {
+      "card": {
         "id": "lucy_common_3",
         "name": "Lucy",
         "series": "Cyberpunk Edgerunners",
@@ -700879,6 +700910,20 @@
   ],
   "1110843086805930014": [],
   "1142143636784558120": [
+    {
+      "card": {
+        "id": "squidward_common",
+        "name": "Squidward",
+        "series": "Spongebob Squarepants",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/squidward_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1790017669.8075166
+    },
     {
       "card": {
         "id": "patrick_common",
