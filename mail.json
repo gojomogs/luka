@@ -9421,7 +9421,7 @@
       "receiver_id": "1066269748293287997",
       "timestamp": 1790257142.0339828,
       "message": "*is begging",
-      "read": false
+      "read": true
     }
   ],
   "1149907264652705844": [
@@ -36619,6 +36619,14 @@
       "timestamp": 1790257057.9182618,
       "message": "no",
       "read": true
+    },
+    {
+      "id": "08e4c7de-47d9-47da-8fcf-a14b0deac8b8",
+      "sender_id": "1066269748293287997",
+      "receiver_id": "1041707673214783551",
+      "timestamp": 1790258007.8800838,
+      "message": "bye",
+      "read": false
     }
   ],
   "1212040300818731048": [
