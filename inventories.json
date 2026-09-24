@@ -14592,6 +14592,20 @@
   "661202852244488192": [
     {
       "card": {
+        "id": "kentaro_common",
+        "name": "Kentaro Yamada",
+        "series": "You and I are Polar Opposites",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kentaro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1790236526.1625333
+    },
+    {
+      "card": {
         "id": "ganyu_common",
         "name": "Ganyu",
         "series": "Genshin Impact",
@@ -113856,6 +113870,49 @@
   "1515535105140064338": [
     {
       "card": {
+        "id": "cha_common",
+        "name": "Cha Eui-jae",
+        "series": "The Hunter's Gonna Lay Low",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/cha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 53,
+      "claimed_at": 1790195739.385025,
+      "tags": "\u2027\u02da \ud83d\udc90 \u22c5"
+    },
+    {
+      "card": {
+        "id": "cha_common_3",
+        "name": "Cha Eui-jae & Lee Sa-young",
+        "series": "The Hunter\u2019s Gonna Lay Low",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cha_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790116389.5226111
+    },
+    {
+      "card": {
+        "id": "lee_common_5",
+        "name": "Lee Sa-young",
+        "series": "The Hunter's Gonna Lay Low",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_5.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1790093582.0276144
+    },
+    {
+      "card": {
         "id": "soul_common",
         "name": "Soul Eater Evans",
         "series": "Soul Eater",
@@ -115113,20 +115170,6 @@
       },
       "print": 10,
       "claimed_at": 1788668104.4584649
-    },
-    {
-      "card": {
-        "id": "rui_rare",
-        "name": "Kamishiro Rui",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/rui_rare.png",
-        "frame": "purple",
-        "version": "rare"
-      },
-      "print": 9,
-      "claimed_at": 1788667114.612034
     },
     {
       "card": {
@@ -199152,6 +199195,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "nerissa_common",
+        "name": "Nerissa Ravencroft",
+        "series": "Hololive",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nerissa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1790236724.0597863
+    },
+    {
+      "card": {
         "id": "kallen_common",
         "name": "Kallen Kozuki",
         "series": "Code Geass",
@@ -268612,6 +268669,21 @@
     }
   ],
   "768645666851258371": [
+    {
+      "card": {
+        "id": "douma_common",
+        "name": "Douma",
+        "series": "Kimetsu no Yaiba",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/douma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790236671.782951,
+      "tags": "\ud83d\udc13"
+    },
     {
       "card": {
         "id": "kou_common",
@@ -382464,6 +382536,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "kagari_common",
+        "name": "Kagari Shusei",
+        "series": "PSYCHO-PASS",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kagari_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1790236508.7595172
+    },
+    {
+      "card": {
         "id": "floyd_common",
         "name": "Floyd Leech",
         "series": "Twisted Wonderland",
@@ -438444,6 +438530,20 @@
   "964375874998792242": [
     {
       "card": {
+        "id": "nahida_common",
+        "name": "Nahida",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nahida_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1790236643.8135042
+    },
+    {
+      "card": {
         "id": "norman_common",
         "name": "Norman",
         "series": "The Promised Neverland",
@@ -443592,18 +443692,31 @@
   "1286641208176934996": [
     {
       "card": {
-        "id": "cha_common",
-        "name": "Cha Eui-jae",
-        "series": "The Hunter's Gonna Lay Low",
+        "id": "rui_rare",
+        "name": "Kamishiro Rui",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rui_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 9,
+      "claimed_at": 1788667114.612034
+    },
+    {
+      "card": {
+        "id": "caitlyn_common",
+        "name": "Caitlyn Kiramman",
+        "series": "Arcane",
         "stars": 1,
         "weight": 10,
-        "image": "card_art/cha_common.png",
+        "image": "card_art/caitlyn_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 53,
-      "claimed_at": 1790195739.385025,
-      "tags": "\u2027\u02da \ud83d\udc90 \u22c5"
+      "print": 17,
+      "claimed_at": 1790236579.9284713
     },
     {
       "card": {
@@ -444284,20 +444397,6 @@
     },
     {
       "card": {
-        "id": "cha_common_3",
-        "name": "Cha Eui-jae & Lee Sa-young",
-        "series": "The Hunter\u2019s Gonna Lay Low",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/cha_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 32,
-      "claimed_at": 1790116389.5226111
-    },
-    {
-      "card": {
         "id": "zatanna_rare",
         "name": "Zatanna Zatara",
         "series": "DC",
@@ -444520,20 +444619,6 @@
       },
       "print": 20,
       "claimed_at": 1790094588.215254
-    },
-    {
-      "card": {
-        "id": "lee_common_5",
-        "name": "Lee Sa-young",
-        "series": "The Hunter's Gonna Lay Low",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/lee_common_5.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 42,
-      "claimed_at": 1790093582.0276144
     },
     {
       "card": {
@@ -559955,6 +560040,20 @@
   "1480643238699466977": [
     {
       "card": {
+        "id": "sangonomiya_common",
+        "name": "Sangonomiya Kokomi",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sangonomiya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790236770.4868495
+    },
+    {
+      "card": {
         "id": "mizuki_common_2",
         "name": "Mizuki",
         "series": "Kamisama Kiss",
@@ -578428,6 +578527,20 @@
     }
   ],
   "606063258226655235": [
+    {
+      "card": {
+        "id": "jiaoqiu_common",
+        "name": "Jiaoqiu",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jiaoqiu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1790236767.1031618
+    },
     {
       "card": {
         "id": "cerydra_common",
@@ -680949,6 +681062,20 @@
     }
   ],
   "888720475780444160": [
+    {
+      "card": {
+        "id": "vanitas_common",
+        "name": "Vanitas",
+        "series": "The Case Study of Vanitas",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/vanitas_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1790236687.1234398
+    },
     {
       "card": {
         "id": "velina_common",
