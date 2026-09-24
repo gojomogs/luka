@@ -200078,6 +200078,20 @@
   "1487041378918858924": [
     {
       "card": {
+        "id": "plotter_common",
+        "name": "Secretive Plotter",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/plotter_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1789989810.9428382
+    },
+    {
+      "card": {
         "id": "hirofumi_common",
         "name": "Hirofumi Yoshida",
         "series": "Chainsaw Man",
@@ -200636,20 +200650,6 @@
       },
       "print": 16,
       "claimed_at": 1790003203.7851627
-    },
-    {
-      "card": {
-        "id": "ichigo_common",
-        "name": "Ichigo Kurosaki",
-        "series": "Bleach",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ichigo_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 27,
-      "claimed_at": 1790002333.536838
     },
     {
       "card": {
@@ -210023,6 +210023,20 @@
   "990363988422447154": [],
   "356268235697553409": [],
   "1429533392705294521": [
+    {
+      "card": {
+        "id": "kinich_common",
+        "name": "Kinich",
+        "series": "Genshin Impact",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kinich_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1790274570.4913049
+    },
     {
       "card": {
         "id": "sayeon_common",
@@ -223769,6 +223783,20 @@
     }
   ],
   "1468648929783709768": [
+    {
+      "card": {
+        "id": "akihiko_common_3",
+        "name": "Akihiko Shiraishi",
+        "series": "Our Walk Home",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/akihiko_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1790274684.4195683
+    },
     {
       "card": {
         "id": "varka_common",
@@ -321719,6 +321747,20 @@
   "1482470698038460459": [
     {
       "card": {
+        "id": "lee_common_8",
+        "name": "Lee Song-Rik",
+        "series": "One-room TA",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_8.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1790274506.8188963
+    },
+    {
+      "card": {
         "id": "nagisa_common_4",
         "name": "Nagisa Momoe",
         "series": "Puella Magi Madoka Magica",
@@ -330955,6 +330997,20 @@
   "839510449166352404": [
     {
       "card": {
+        "id": "ichigo_common",
+        "name": "Ichigo Kurosaki",
+        "series": "Bleach",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ichigo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790002333.536838
+    },
+    {
+      "card": {
         "id": "annabel_common",
         "name": "Annabel Lee",
         "series": "Nevermore",
@@ -331036,20 +331092,6 @@
       },
       "print": 35,
       "claimed_at": 1790074858.4290314
-    },
-    {
-      "card": {
-        "id": "plotter_common",
-        "name": "Secretive Plotter",
-        "series": "Omniscient Reader's Viewpoint",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/plotter_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1789989810.9428382
     },
     {
       "card": {
@@ -390974,6 +391016,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "seon_common_2",
+        "name": "Seon Wooyeon",
+        "series": "Alpha Trauma",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/seon_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790274631.5988717
+    },
+    {
+      "card": {
         "id": "rody_common",
         "name": "Rody Lamoree",
         "series": "Dead Plate",
@@ -442730,6 +442786,21 @@
   "1454914344792883305": [
     {
       "card": {
+        "id": "reze_common",
+        "name": "Reze",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/reze_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1790274602.1428962,
+      "tags": "prns"
+    },
+    {
+      "card": {
         "id": "misha_common_3",
         "name": "Misha",
         "series": "Honkai: Star Rail",
@@ -442740,7 +442811,8 @@
         "version": "common"
       },
       "print": 16,
-      "claimed_at": 1789925638.8293989
+      "claimed_at": 1789925638.8293989,
+      "tags": "prns"
     },
     {
       "card": {
@@ -442754,7 +442826,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1789555705.2988336
+      "claimed_at": 1789555705.2988336,
+      "tags": "prns"
     },
     {
       "card": {
@@ -504517,6 +504590,20 @@
     }
   ],
   "1328096032260755507": [
+    {
+      "card": {
+        "id": "samatoki_common",
+        "name": "Samatoki Aohitsugi",
+        "series": "Hypnosis Mic",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/samatoki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790274471.0679312
+    },
     {
       "card": {
         "id": "haku_common",
@@ -649450,6 +649537,21 @@
   "1502485077626585229": [
     {
       "card": {
+        "id": "yuki_common",
+        "name": "Yuki Haiga & Ryo Kanae",
+        "series": "Pink Heart Jam",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790274522.9974904,
+      "tags": "ft\ud83c\udf4b\u200d\ud83d\udfe9"
+    },
+    {
+      "card": {
         "id": "beatrice_common_2",
         "name": "Beatrice",
         "series": "Re: Zero - Starting Life in Another World",
@@ -673711,6 +673813,20 @@
   "1328464837537304586": [
     {
       "card": {
+        "id": "richeh_common",
+        "name": "Richeh",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/richeh_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1790274626.2232537
+    },
+    {
+      "card": {
         "id": "kaede_common",
         "name": "Kaede Akamatsu",
         "series": "Danganronpa",
@@ -689232,6 +689348,20 @@
   "1151512609409998959": [
     {
       "card": {
+        "id": "xeno_common",
+        "name": "Xeno Houston Wingfield",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/xeno_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790274443.157638
+    },
+    {
+      "card": {
         "id": "bai_common_3",
         "name": "Bai Liu",
         "series": "I Became a God In A Horror Game",
@@ -696439,6 +696569,21 @@
   "1113230728415690843": [
     {
       "card": {
+        "id": "yui_common",
+        "name": "Yui Hirasawa",
+        "series": "K-On!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yui_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790274522.4431634,
+      "tags": "nft"
+    },
+    {
+      "card": {
         "id": "naomi_common",
         "name": "Naomi Misora",
         "series": "Death Note",
@@ -696463,7 +696608,8 @@
         "version": "common"
       },
       "print": 23,
-      "claimed_at": 1790268757.6192942
+      "claimed_at": 1790268757.6192942,
+      "tags": "nft"
     },
     {
       "card": {
@@ -696477,7 +696623,8 @@
         "version": "common"
       },
       "print": 17,
-      "claimed_at": 1790266615.113629
+      "claimed_at": 1790266615.113629,
+      "tags": "nft"
     },
     {
       "card": {
@@ -702351,6 +702498,20 @@
   ],
   "1110843086805930014": [],
   "1142143636784558120": [
+    {
+      "card": {
+        "id": "erwin_common",
+        "name": "Erwin Smith",
+        "series": "Attack on Titan",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/erwin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790274659.8876107
+    },
     {
       "card": {
         "id": "alma_common",
