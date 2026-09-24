@@ -32254,6 +32254,20 @@
   "1070404986057531452": [
     {
       "card": {
+        "id": "pulchra_common",
+        "name": "Pulchra Fellini",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/pulchra_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1790271841.5333831
+    },
+    {
+      "card": {
         "id": "otonase_common",
         "name": "Otonase Kanade",
         "series": "Hololive",
@@ -199938,6 +199952,20 @@
   "1487041378918858924": [
     {
       "card": {
+        "id": "plotter_common",
+        "name": "Secretive Plotter",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/plotter_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1790034885.3839216
+    },
+    {
+      "card": {
         "id": "white_common",
         "name": "White Fox",
         "series": "Marvel",
@@ -202282,7 +202310,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1788577902.8487887
+      "claimed_at": 1788577902.8487887,
+      "tags": "onhold4koi"
     },
     {
       "card": {
@@ -358063,6 +358092,20 @@
     }
   ],
   "1359716535077179463": [
+    {
+      "card": {
+        "id": "isolde_common",
+        "name": "Isolde",
+        "series": "Reverse: 1999",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/isolde_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1790271926.1842582
+    },
     {
       "card": {
         "id": "subaru_common_2",
@@ -527626,6 +527669,20 @@
   "1092199688154910791": [
     {
       "card": {
+        "id": "rook_common",
+        "name": "Rook Hunt",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/rook_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790271800.759987
+    },
+    {
+      "card": {
         "id": "lynx_common",
         "name": "Lynx",
         "series": "Honkai: Star Rail",
@@ -607886,20 +607943,6 @@
     },
     {
       "card": {
-        "id": "plotter_common",
-        "name": "Secretive Plotter",
-        "series": "Omniscient Reader's Viewpoint",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/plotter_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 31,
-      "claimed_at": 1790034885.3839216
-    },
-    {
-      "card": {
         "id": "yuder_common",
         "name": "Yuder Ali",
         "series": "TURNING",
@@ -639899,6 +639942,21 @@
   "1422891232182407210": [
     {
       "card": {
+        "id": "eugene_common",
+        "name": "Korekishi Eugene",
+        "series": "Phantom Busters",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/eugene_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790203380.7054107,
+      "tags": "FT"
+    },
+    {
+      "card": {
         "id": "pearl_common",
         "name": "Marina",
         "series": "Splatoon",
@@ -640944,21 +641002,6 @@
       "print": 34,
       "claimed_at": 1789991342.286213,
       "tags": "\ud83c\udfb0\ud835\udc27\ud835\udc1f\ud835\udc2d"
-    },
-    {
-      "card": {
-        "id": "aubrey_common",
-        "name": "Aubrey",
-        "series": "Omori",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/aubrey_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 24,
-      "claimed_at": 1790141991.0710764,
-      "tags": "\ud83e\udd5e\ud835\udc05\ud835\udc2d"
     },
     {
       "card": {
@@ -692040,6 +692083,20 @@
   "1139952270679740496": [
     {
       "card": {
+        "id": "kagari_common_2",
+        "name": "Kagari Mimi",
+        "series": "I Want to Love You Till Your Dying Day",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kagari_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790271899.723145
+    },
+    {
+      "card": {
         "id": "shoya_common",
         "name": "Shoya Ishida",
         "series": "A Silent Voice",
@@ -699864,6 +699921,35 @@
   "1549815919532970037": [
     {
       "card": {
+        "id": "aubrey_common",
+        "name": "Aubrey",
+        "series": "Omori",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/aubrey_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790141991.0710764,
+      "tags": "NFT"
+    },
+    {
+      "card": {
+        "id": "sparxie_common",
+        "name": "Sparxie",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sparxie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790271661.4552848
+    },
+    {
+      "card": {
         "id": "tetsuya_common",
         "name": "Tetsuya Kuroko",
         "series": "Kuroko's Basketball",
@@ -700039,21 +700125,6 @@
       },
       "print": 23,
       "claimed_at": 1790204001.2657816,
-      "tags": "FT"
-    },
-    {
-      "card": {
-        "id": "eugene_common",
-        "name": "Korekishi Eugene",
-        "series": "Phantom Busters",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/eugene_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 27,
-      "claimed_at": 1790203380.7054107,
       "tags": "FT"
     },
     {
