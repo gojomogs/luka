@@ -242752,6 +242752,20 @@
   "247066385849647107": [
     {
       "card": {
+        "id": "geto_common",
+        "name": "Suguru Geto",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/geto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1790228131.6973548
+    },
+    {
+      "card": {
         "id": "lancer_common",
         "name": "Lancer",
         "series": "Deltarune",
@@ -381159,6 +381173,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "co-worker_common",
+        "name": "Co-worker",
+        "series": "Elevator Hitch",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/co-worker_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790227887.6954577
+    },
+    {
+      "card": {
         "id": "kallen_common_2",
         "name": "Kallen Kaslana",
         "series": "Honkai Impact 3rd",
@@ -435811,6 +435839,20 @@
   ],
   "1378802200331026492": [],
   "1489605758487236800": [
+    {
+      "card": {
+        "id": "freminet_common",
+        "name": "Freminet",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/freminet_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1790228082.2004023
+    },
     {
       "card": {
         "id": "sparxie_common",
@@ -613230,6 +613272,20 @@
   "905294901082738749": [
     {
       "card": {
+        "id": "jeong_common",
+        "name": "Jeong Taeui",
+        "series": "Passion",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jeong_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1790227945.5980554
+    },
+    {
+      "card": {
         "id": "ha_common",
         "name": "Ha Ian",
         "series": "Merry Marbling",
@@ -679448,7 +679504,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1790223388.5678976
+      "claimed_at": 1790223388.5678976,
+      "tags": "FT"
     },
     {
       "card": {
@@ -679462,7 +679519,8 @@
         "version": "common"
       },
       "print": 23,
-      "claimed_at": 1790204001.2657816
+      "claimed_at": 1790204001.2657816,
+      "tags": "FT"
     },
     {
       "card": {
