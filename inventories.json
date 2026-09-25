@@ -55043,6 +55043,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "sunday_common",
+        "name": "Sunday",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sunday_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1790311132.648952
+    },
+    {
+      "card": {
         "id": "mahito_common",
         "name": "Mahito",
         "series": "Jujutsu Kaisen",
@@ -619738,7 +619752,7 @@
       },
       "print": 35,
       "claimed_at": 1790276146.9599833,
-      "tags": "nft"
+      "tags": "hold"
     },
     {
       "card": {
