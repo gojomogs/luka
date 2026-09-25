@@ -54704,6 +54704,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "giyu_common",
+        "name": "Giyu Tomioka",
+        "series": "Kimetsu no Yaiba",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/giyu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790298862.4504454
+    },
+    {
+      "card": {
         "id": "lucas_common",
         "name": "Lucas Errant",
         "series": "Tokyo Debunker",
@@ -54812,7 +54826,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1790265859.3352532
+      "claimed_at": 1790265859.3352532,
+      "tags": "\ud83c\udfae"
     },
     {
       "card": {
@@ -289640,6 +289655,20 @@
   "1038095869674799134": [
     {
       "card": {
+        "id": "chiaki_common",
+        "name": "Chiaki Nanami",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chiaki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790299056.6846192
+    },
+    {
+      "card": {
         "id": "baek_common_3",
         "name": "Baek Yugun",
         "series": "Merry Marbling",
@@ -341023,6 +341052,20 @@
   "755211531674845235": [
     {
       "card": {
+        "id": "emma_common",
+        "name": "Emma",
+        "series": "Veil",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/emma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790299032.6963654
+    },
+    {
+      "card": {
         "id": "hitoshi_common",
         "name": "Hitoshi Shinso",
         "series": "My Hero Academia",
@@ -349863,8 +349906,38 @@
         "frame": "common",
         "version": "common"
       },
+      "print": 29,
+      "claimed_at": 1790297890.9730506,
+      "tags": "\u2027\u208a\u02da \u23fe. \u22c5"
+    },
+    {
+      "card": {
+        "id": "makoto_common_5",
+        "name": "Makoto Naegi",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/makoto_common_5.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790298952.3231423
+    },
+    {
+      "card": {
+        "id": "david_common",
+        "name": "David Martinez",
+        "series": "Cyberpunk Edgerunners",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/david_common.png",
+        "frame": "common",
+        "version": "common"
+      },
       "print": 2,
-      "claimed_at": 1788565613.1998158
+      "claimed_at": 1788565613.1998158,
+      "tags": "\u2027\u208a\u02da \u23fe. \u22c5"
     },
     {
       "card": {
@@ -351811,20 +351884,6 @@
       "print": 21,
       "claimed_at": 1789960094.4574566,
       "tags": "\u2027\u208a\u02da \u23fe. \u22c5"
-    },
-    {
-      "card": {
-        "id": "germany_common",
-        "name": "Germany",
-        "series": "Hetalia",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/germany_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 27,
-      "claimed_at": 1789961929.222473
     },
     {
       "card": {
@@ -482986,6 +483045,20 @@
   "888797740392407040": [
     {
       "card": {
+        "id": "ren_common_2",
+        "name": "Ren Shiranami",
+        "series": "Tokyo Debunker",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ren_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1790298865.134021
+    },
+    {
+      "card": {
         "id": "dabi_common",
         "name": "Dabi",
         "series": "My Hero Academia",
@@ -496850,6 +496923,20 @@
     }
   ],
   "1068989639362355252": [
+    {
+      "card": {
+        "id": "sosuke_common",
+        "name": "Sousuke Mitsuba",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1790298895.2628977
+    },
     {
       "card": {
         "id": "rin_common_2",
@@ -709350,6 +709437,35 @@
   "1037427620905766932": [
     {
       "card": {
+        "id": "germany_common",
+        "name": "Germany",
+        "series": "Hetalia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/germany_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1789961929.222473,
+      "tags": "HETAIL\ud83c\udf0d\ud83c\udff3\ufe0f\u200d"
+    },
+    {
+      "card": {
+        "id": "melissa_common",
+        "name": "Melissa Shield",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/melissa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790298901.133592
+    },
+    {
+      "card": {
         "id": "lighting_common",
         "name": "Lighting Farron",
         "series": "Final Fantasy",
@@ -709361,21 +709477,6 @@
       },
       "print": 15,
       "claimed_at": 1790298522.345973,
-      "tags": "FT\u203c\ufe0f"
-    },
-    {
-      "card": {
-        "id": "david_common",
-        "name": "David Martinez",
-        "series": "Cyberpunk Edgerunners",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/david_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 29,
-      "claimed_at": 1790297890.9730506,
       "tags": "FT\u203c\ufe0f"
     },
     {
