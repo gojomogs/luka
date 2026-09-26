@@ -15194,6 +15194,20 @@
   "661202852244488192": [
     {
       "card": {
+        "id": "shu_common",
+        "name": "Shu Itsuki",
+        "series": "Ensemble Stars!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/shu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790449534.9191153
+    },
+    {
+      "card": {
         "id": "x-virus_common",
         "name": "X-Virus",
         "series": "Creepypasta",
@@ -265473,6 +265487,20 @@
   "931469645897166888": [
     {
       "card": {
+        "id": "nemari_common",
+        "name": "Namari",
+        "series": "Dungeon Meshi",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nemari_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1790449397.4572983
+    },
+    {
+      "card": {
         "id": "klein_common",
         "name": "Klein Moretti",
         "series": "Lord Of The Mysteries",
@@ -318983,6 +319011,20 @@
   "1401622768214347796": [
     {
       "card": {
+        "id": "soohyun_common",
+        "name": "Soohyun Lee",
+        "series": "Checkmate",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/soohyun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1790449405.2550488
+    },
+    {
+      "card": {
         "id": "mori_common",
         "name": "Mori",
         "series": "On the Way to Meet Mom",
@@ -369717,6 +369759,34 @@
   "826335464532607031": [
     {
       "card": {
+        "id": "sosuke_common",
+        "name": "Sousuke Mitsuba",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790066269.9074852
+    },
+    {
+      "card": {
+        "id": "reki_common",
+        "name": "Reki Kyan",
+        "series": "SK8 THE INFINITY",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/reki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790449541.419504
+    },
+    {
+      "card": {
         "id": "riki_common",
         "name": "Riki Nendou",
         "series": "The Disastrous Life of Saiki K",
@@ -369994,20 +370064,6 @@
       },
       "print": 34,
       "claimed_at": 1790113420.6698039
-    },
-    {
-      "card": {
-        "id": "eddie_common",
-        "name": "Eddie",
-        "series": "Jackpot Crash Course",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/eddie_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1790112024.6958442
     },
     {
       "card": {
@@ -430194,6 +430250,34 @@
   "417141882611826688": [
     {
       "card": {
+        "id": "eddie_common",
+        "name": "Eddie",
+        "series": "Jackpot Crash Course",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/eddie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1790112024.6958442
+    },
+    {
+      "card": {
+        "id": "ritsu_common_2",
+        "name": "Ritsu Sakuma",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ritsu_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790449333.9042215
+    },
+    {
+      "card": {
         "id": "kim_common_3",
         "name": "Kim Soleum",
         "series": "Got Dropped into a Ghost Story, Still Gotta Work",
@@ -432253,20 +432337,6 @@
       },
       "print": 42,
       "claimed_at": 1790067117.0836651
-    },
-    {
-      "card": {
-        "id": "sosuke_common",
-        "name": "Sousuke Mitsuba",
-        "series": "Toilet-bound Hanako-kun",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/sosuke_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 33,
-      "claimed_at": 1790066269.9074852
     },
     {
       "card": {
@@ -471378,6 +471448,21 @@
   "1298419501238456452": [
     {
       "card": {
+        "id": "ena_common",
+        "name": "Shinonome Ena",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ena_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1790449365.6031368,
+      "tags": "mayyhaps"
+    },
+    {
+      "card": {
         "id": "yukiko_common_2",
         "name": "Yukiko Kanzaki",
         "series": "Assassination Classroom",
@@ -471388,7 +471473,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1790447075.7509305
+      "claimed_at": 1790447075.7509305,
+      "tags": "FT"
     },
     {
       "card": {
@@ -501663,6 +501749,20 @@
     }
   ],
   "1068989639362355252": [
+    {
+      "card": {
+        "id": "wriothesley_common",
+        "name": "Wriothesley",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/wriothesley_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1790449579.2824733
+    },
     {
       "card": {
         "id": "cassandra_common",
@@ -581763,6 +581863,20 @@
     }
   ],
   "1043630421444935690": [
+    {
+      "card": {
+        "id": "boothill_common",
+        "name": "Boothill",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/boothill_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790449405.451013
+    },
     {
       "card": {
         "id": "toshiro_common",
@@ -691366,6 +691480,20 @@
   "1328464837537304586": [
     {
       "card": {
+        "id": "iron_common",
+        "name": "Iron Man",
+        "series": "Marvel",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/iron_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790449589.1892033
+    },
+    {
+      "card": {
         "id": "charlotte_common_2",
         "name": "Charlotte & Minako",
         "series": "Pink Bitch Club",
@@ -696795,6 +696923,20 @@
     }
   ],
   "1211028404577632277": [
+    {
+      "card": {
+        "id": "zoey_common",
+        "name": "Zoey",
+        "series": "K-Pop Demon Hunters",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/zoey_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1790449332.588537
+    },
     {
       "card": {
         "id": "suguru_common_2",
@@ -707904,6 +708046,20 @@
   "1230149118710779914": [],
   "1530219454787752106": [],
   "1151512609409998959": [
+    {
+      "card": {
+        "id": "clarisse_common",
+        "name": "Clarisse La Rue",
+        "series": "Percy Jackson and The Olympians",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/clarisse_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1790449580.4411974
+    },
     {
       "card": {
         "id": "kento_common",
