@@ -517,7 +517,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 31,
+      "progress": 32,
       "id": "8767d612-96cd-44e9-bbc9-022d813c3b3c",
       "player_a": "1123953776827572265",
       "player_b": "894445820613644318",
@@ -765,6 +765,21 @@
       "player_b": "924416537387991040",
       "started_at": 1790462217.086806,
       "channel_id": 1543004021877514251
+    },
+    "732bb5d1-46f8-48c1-9f24-6cf4f0c36424": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Yuu Koito",
+        "An Zhe"
+      ],
+      "id": "732bb5d1-46f8-48c1-9f24-6cf4f0c36424",
+      "player_a": "247066385849647107",
+      "player_b": "1028046694992064512",
+      "started_at": 1790463276.578095,
+      "channel_id": 1543761867137097738
     }
   },
   "weekly": {
