@@ -649,7 +649,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 28,
+      "progress": 29,
       "id": "22d4a472-600a-4a58-8e2c-c180f0ac16f6",
       "player_a": "1468648929783709768",
       "player_b": "1549815919532970037",
@@ -671,6 +671,20 @@
       "player_b": "1178380074001645660",
       "started_at": 1790444553.2977448,
       "channel_id": 1548954162337943572
+    },
+    "c6ef72d3-3def-402e-9139-a7b9ae1fc840": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Marvel"
+      ],
+      "id": "c6ef72d3-3def-402e-9139-a7b9ae1fc840",
+      "player_a": "1151512609409998959",
+      "player_b": "1401622768214347796",
+      "started_at": 1790447847.8204749,
+      "channel_id": 1552336538459705497
     }
   },
   "weekly": {
