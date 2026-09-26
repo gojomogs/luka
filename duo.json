@@ -638,7 +638,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 42,
+      "progress": 43,
       "id": "03787ede-3312-47eb-93b1-f8ee2afc785e",
       "player_a": "870354420049776710",
       "player_b": "1415199399469908020",
@@ -649,7 +649,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 42,
+      "progress": 43,
       "id": "22d4a472-600a-4a58-8e2c-c180f0ac16f6",
       "player_a": "1468648929783709768",
       "player_b": "1549815919532970037",
@@ -700,6 +700,21 @@
       "player_b": "1135011169485197314",
       "started_at": 1790452380.3027444,
       "channel_id": 1553461366851899483
+    },
+    "2b6f1925-a88e-4de0-8b82-9621d2e88d08": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "My Hero Academia",
+        "Sketch"
+      ],
+      "id": "2b6f1925-a88e-4de0-8b82-9621d2e88d08",
+      "player_a": "886247125292306432",
+      "player_b": "1058900013201231992",
+      "started_at": 1790457638.1766236,
+      "channel_id": 1548825499076268053
     }
   },
   "weekly": {
