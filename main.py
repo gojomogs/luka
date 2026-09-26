@@ -153,7 +153,7 @@ CARD_UPDATES_CHANNEL_ID = 1540008425818169364
 # =========================
 # Role ID for the "Early Supporter" role, used ONLY for the OG badge.
 # Checked by ID, never by name, per the badge spec.
-EARLY_SUPPORTER_ROLE_ID = 1505590926947651669
+EARLY_SUPPORTER_ROLE_ID = 1540161152204537887
 
 # Role ID for the "Finalist" role. No longer used by `lgw` (see
 # GIVEAWAY_ALLOWED_USER_ID below) -- left defined in case it's needed
@@ -2781,10 +2781,10 @@ def build_duo_challenge_embed(challenge: dict, user_a, user_b) -> discord.Embed:
     target = challenge.get("target", 0)
     embed = discord.Embed(
         color=THEME_COLOR,
-        title="🤝 Duo Challenge",
+        title="duo challenge",
         description=(
             f"**{user_a.mention} & {user_b.mention}**\n\n"
-            f"> {challenge.get('label', 'Duo Challenge')}\n"
+            f"> {challenge.get('label', 'duo challenge')}\n"
             f"Progress: **{progress}/{target}**"
         ),
     )
@@ -2814,10 +2814,10 @@ def build_duo_progress_embed(client, challenge: dict, viewer_id, partner_user) -
     percent = min(100, round((progress / target) * 100)) if target else 0
     remaining = max(target - progress, 0)
 
-    embed = discord.Embed(color=THEME_COLOR, title="🤝 Duo Challenge Progress")
+    embed = discord.Embed(color=THEME_COLOR, title="duo challenge Progress")
 
     embed.add_field(name="Partner", value=partner_user.mention, inline=False)
-    embed.add_field(name="Challenge", value=challenge.get("label", "Duo Challenge"), inline=False)
+    embed.add_field(name="Challenge", value=challenge.get("label", "duo challenge"), inline=False)
     embed.add_field(name="Progress", value=f"**{progress}/{target}**", inline=True)
     embed.add_field(name="Percentage", value=f"**{percent}%**", inline=True)
     embed.add_field(name="Remaining", value=f"**{remaining}** to go", inline=True)
@@ -2829,8 +2829,8 @@ def build_duo_progress_embed(client, challenge: dict, viewer_id, partner_user) -
     # precomputed one, since the real system never decides it early.
     embed.add_field(
         name="Rewards",
-        value="🎁 On completion, you **and** your partner each get a random "
-              "bonus: an extra drop, an extra claim, or both.",
+        value="Finish it and you and your partner both get a random bonus -- "
+              "an extra drop, an extra claim, or both.",
         inline=False,
     )
 
@@ -2920,9 +2920,9 @@ async def _finalize_completed_duo(client, challenge_id: str, challenge: dict) ->
         name_b = user_b.mention if user_b else f"<@{player_b}>"
         embed = discord.Embed(
             color=THEME_COLOR,
-            title="🎉 Duo Challenge Complete!",
+            title="duo challenge Complete!",
             description=(
-                f"{name_a} & {name_b} completed **{challenge.get('label', 'their Duo Challenge')}**!\n\n"
+                f"{name_a} & {name_b} completed **{challenge.get('label', 'their duo challenge')}**!\n\n"
                 f"Reward: **{reward_text}** each."
             ),
         )
@@ -3007,7 +3007,7 @@ class DuoRequestView(discord.ui.View):
         embed = discord.Embed(color=THEME_COLOR)
         embed.description = (
             f"{self.user2.mention}, {self.user1.mention} wants to start a "
-            f"**Duo Challenge** with you!"
+            f"**duo challenge** with you!"
         )
         return embed
 
@@ -3070,7 +3070,7 @@ class DuoRequestView(discord.ui.View):
                 self.responded = True
                 self.stop()
                 embed = discord.Embed(color=THEME_COLOR)
-                embed.description = "❌ Something went wrong starting your Duo challenge. Please try again."
+                embed.description = "Something went wrong starting your Duo challenge. Please try again."
                 return await interaction.response.edit_message(embed=embed, view=None)
 
         self.responded = True
@@ -3635,7 +3635,7 @@ async def _announce_merchant_event(arrived: bool) -> None:
     if arrived:
         embed = discord.Embed(
             color=THEME_COLOR,
-            title="🧭 The Merchants have arrived!",
+            title="The Merchants have arrived!",
             description=(
                 "New trades are now available from all three merchants. "
                 "They'll be around for a limited time, so make sure to "
@@ -3646,7 +3646,7 @@ async def _announce_merchant_event(arrived: bool) -> None:
     else:
         embed = discord.Embed(
             color=THEME_COLOR,
-            title="🧭 The Merchants have continued their journey.",
+            title="The Merchants have continued their journey.",
             description=(
                 "Their time here has come to an end. They'll return in "
                 "a few days with a brand new selection of trades."
@@ -6756,7 +6756,7 @@ class MailboxPaginationView(discord.ui.View):
     just with one letter instead of a chunk of badge blocks per page.
     Row 1 has "Read" (marks only the currently-viewed letter as read),
     "Reply" (targets THAT letter's original sender, reusing the exact
-    same lmail @user send/persist flow), and "🚫 Block" (adds that
+    same lmail @user send/persist flow), and "Block" (adds that
     letter's sender to this mailbox owner's blocked-senders list, so
     they can no longer send new mail here -- one-way, never affects the
     owner's own ability to mail that sender back). Row 2 has "Read All"
@@ -6941,7 +6941,7 @@ class MailboxPaginationView(discord.ui.View):
         #
         # This button is a toggle: it checks the sender's CURRENT
         # blocked state and performs the opposite action, so the same
-        # "🚫 Block" button both blocks and unblocks -- no separate
+        # "Block" button both blocks and unblocks -- no separate
         # Unblock button.
         currently_blocked = is_sender_blocked(sender_id, self.user_id)
 
@@ -7399,7 +7399,7 @@ class CardView(discord.ui.View):
                             pool.pop()
                             traceback.print_exc()
                 return await interaction.response.send_message(
-                    "❌ Something went wrong saving your claim. Please try again.",
+                    "Something went wrong saving your claim. Please try again.",
                     ephemeral=True
                 )
 
@@ -7453,7 +7453,7 @@ class InventoryView(discord.ui.View):
         self.inventory = inventory
         self.viewer_id = viewer_id
         # Optional literal title override (used only by `lc @Luka` to show
-        # "🤖 Luka's Collection" instead of "{user.name}'s Collection").
+        # "Luka's Collection" instead of "{user.name}'s Collection").
         # None for every other caller, which reproduces the exact previous
         # title -- nothing else about this view changes for them.
         self.title_override = title_override
@@ -8198,7 +8198,7 @@ class GiftView(discord.ui.View):
                 get_inventory(self.to_id).pop(0)
                 giver_inv.insert(self.card_index, moved_card)
                 return await interaction.response.send_message(
-                    "❌ Something went wrong saving this gift. Please try again.",
+                    "Something went wrong saving this gift. Please try again.",
                     ephemeral=True
                 )
 
@@ -8362,7 +8362,7 @@ HELP_SECTIONS = [
         "`lmissing [series] [user]` ─ View missing cards, or compare with another user.",
         "`lmail` ─ View your mailbox.",
         "`lmail @user` ─ Send someone mail.",
-        "`lduo @user` ─ Invite someone to a Duo Challenge.",
+        "`lduo @user` ─ Invite someone to a duo challenge.",
     ]),
 ]
 
@@ -8431,7 +8431,7 @@ class HelpPaginationView(discord.ui.View):
     def build_embed(self) -> discord.Embed:
         embed = discord.Embed(
             color=THEME_COLOR,
-            title="📖 Luka Commands Helper",
+            title="Luka Commands Helper",
             description=self.pages[self.page],
         )
         if self.max_page > 0:
@@ -8461,8 +8461,8 @@ class HelpPaginationView(discord.ui.View):
 
 class ShowcaseView(discord.ui.View):
     """
-    View attached to the `lshowcase` embed: "View Badges", the ❤︎ vote
-    button, and "⚙ Edit". All three are always attached to every
+    View attached to the `lshowcase` embed: "View Badges", the ︎ vote
+    button, and "Edit". All three are always attached to every
     showcase message, for every viewer -- Discord has no way to show
     different components to different viewers on the same public
     message, so "Edit" is restricted by USAGE, not visibility: anyone
@@ -8517,7 +8517,7 @@ class ShowcaseView(discord.ui.View):
                 else:
                     voters.remove(voter_id)
                 return await interaction.response.send_message(
-                    "❌ Something went wrong saving your vote. Please try again.",
+                    "Something went wrong saving your vote. Please try again.",
                     ephemeral=True
                 )
 
@@ -8549,12 +8549,12 @@ class ShowcaseView(discord.ui.View):
         try:
             reply_msg = await self.bot.wait_for("message", check=check, timeout=180)
         except asyncio.TimeoutError:
-            return await interaction.followup.send("❌ Timed out waiting for a description.", ephemeral=True)
+            return await interaction.followup.send("Timed out waiting for a description.", ephemeral=True)
 
         lines = reply_msg.content.strip("\n").split("\n")
         if not reply_msg.content.strip() or len(lines) > 5:
             return await interaction.followup.send(
-                "❌ Description must be 1-5 lines. Please click **⚙ Edit** again to retry.",
+                "Description must be 1-5 lines. Please click **Edit** again to retry.",
                 ephemeral=True
             )
 
@@ -8566,11 +8566,11 @@ class ShowcaseView(discord.ui.View):
                 save_showcase_descriptions_local()
             except Exception:
                 return await interaction.followup.send(
-                    "❌ Something went wrong saving your description. Please try again.",
+                    "Something went wrong saving your description. Please try again.",
                     ephemeral=True
                 )
 
-        await interaction.followup.send("✅ Showcase description updated.", ephemeral=True)
+        await interaction.followup.send("Showcase description updated.", ephemeral=True)
 
 
 # =========================
@@ -8757,7 +8757,7 @@ class TradeView(discord.ui.View):
 
         embed.description = user1_text + "────────────────────────\n" + user2_text
 
-        embed.description += "\n-# 💡 **Reminder:** There are no official values for cards in LukaNet right now. Trade based on what you and the other user think is fair."
+        embed.description += "\n-# **Reminder:** There are no official values for cards in LukaNet right now. Trade based on what you and the other user think is fair."
 
         return embed
 
@@ -9190,9 +9190,9 @@ class MerchantTradeView(discord.ui.View):
             offered = self.selections.get(i)
             if offered:
                 oc = offered["card"]
-                status = f"✅ offering `{format_print(offered['print'])}` **{oc.get('name', 'Unknown')}**"
+                status = f"offering `{format_print(offered['print'])}` **{oc.get('name', 'Unknown')}**"
             else:
-                status = "❌ not yet offered"
+                status = "not yet offered"
             lines.append(
                 f"`★{want.get('stars', 1)}` **{want.get('name', 'Unknown')}** • *{want.get('series', 'Unknown Series')}* — {status}"
             )
@@ -9488,7 +9488,7 @@ class EditCardView(discord.ui.View):
         card = self.card
         claims = card_prints.get(card.get("id", ""), 0)
 
-        embed = discord.Embed(color=THEME_COLOR, title=f"✏️ Editing: {card.get('name', 'Unknown')}")
+        embed = discord.Embed(color=THEME_COLOR, title=f"Editing: {card.get('name', 'Unknown')}")
         embed.add_field(name="Card ID", value=f"`{card.get('id', 'unknown')}`", inline=True)
         embed.add_field(name="Series", value=card.get("series", "Unknown Series"), inline=True)
         embed.add_field(name="Frame", value=card.get("frame", "common"), inline=True)
@@ -9550,11 +9550,11 @@ class EditCardView(discord.ui.View):
         try:
             msg = await self.prompt_for_message(interaction, "Send the new **name** for this card.")
         except asyncio.TimeoutError:
-            return await interaction.followup.send("❌ Timed out waiting for a response.", ephemeral=True)
+            return await interaction.followup.send("Timed out waiting for a response.", ephemeral=True)
 
         new_name = msg.content.strip()
         if not new_name:
-            return await interaction.followup.send("❌ Name cannot be empty.", ephemeral=True)
+            return await interaction.followup.send("Name cannot be empty.", ephemeral=True)
 
         old_name = self.card.get("name")
         try:
@@ -9563,10 +9563,10 @@ class EditCardView(discord.ui.View):
                 await self.persist_and_sync(f"Renamed {self.card.get('id')} to {new_name}")
         except Exception as e:
             self.card["name"] = old_name
-            return await interaction.followup.send(f"❌ Failed to update card: {e}", ephemeral=True)
+            return await interaction.followup.send(f"Failed to update card: {e}", ephemeral=True)
 
         await self.refresh_message()
-        await interaction.followup.send("✅ Card updated successfully.")
+        await interaction.followup.send("Card updated successfully.")
 
     @discord.ui.button(label="Change Series", style=discord.ButtonStyle.primary, row=0)
     async def series_button(self, interaction: discord.Interaction, button: discord.ui.Button):
@@ -9576,11 +9576,11 @@ class EditCardView(discord.ui.View):
         try:
             msg = await self.prompt_for_message(interaction, "Send the new **series** for this card.")
         except asyncio.TimeoutError:
-            return await interaction.followup.send("❌ Timed out waiting for a response.", ephemeral=True)
+            return await interaction.followup.send("Timed out waiting for a response.", ephemeral=True)
 
         new_series = msg.content.strip()
         if not new_series:
-            return await interaction.followup.send("❌ Series cannot be empty.", ephemeral=True)
+            return await interaction.followup.send("Series cannot be empty.", ephemeral=True)
 
         old_series = self.card.get("series")
         try:
@@ -9589,10 +9589,10 @@ class EditCardView(discord.ui.View):
                 await self.persist_and_sync(f"Changed series for {self.card.get('id')} to {new_series}")
         except Exception as e:
             self.card["series"] = old_series
-            return await interaction.followup.send(f"❌ Failed to update card: {e}", ephemeral=True)
+            return await interaction.followup.send(f"Failed to update card: {e}", ephemeral=True)
 
         await self.refresh_message()
-        await interaction.followup.send("✅ Card updated successfully.")
+        await interaction.followup.send("Card updated successfully.")
 
     @discord.ui.button(label="Change Frame", style=discord.ButtonStyle.primary, row=1)
     async def frame_button(self, interaction: discord.Interaction, button: discord.ui.Button):
@@ -9605,12 +9605,12 @@ class EditCardView(discord.ui.View):
                 "Send the new **frame** name (e.g. `common`, `blue`, or `blue.png`)."
             )
         except asyncio.TimeoutError:
-            return await interaction.followup.send("❌ Timed out waiting for a response.", ephemeral=True)
+            return await interaction.followup.send("Timed out waiting for a response.", ephemeral=True)
 
         resolved = resolve_frame_name(msg.content)
         if resolved is None:
             return await interaction.followup.send(
-                f"❌ Frame `{msg.content.strip()}` not found in the `frames` folder.", ephemeral=True
+                f"Frame `{msg.content.strip()}` not found in the `frames` folder.", ephemeral=True
             )
 
         old_frame = self.card.get("frame")
@@ -9620,10 +9620,10 @@ class EditCardView(discord.ui.View):
                 await self.persist_and_sync(f"Changed frame for {self.card.get('id')} to {resolved}")
         except Exception as e:
             self.card["frame"] = old_frame
-            return await interaction.followup.send(f"❌ Failed to update card: {e}", ephemeral=True)
+            return await interaction.followup.send(f"Failed to update card: {e}", ephemeral=True)
 
         await self.refresh_message()
-        await interaction.followup.send("✅ Card updated successfully.")
+        await interaction.followup.send("Card updated successfully.")
 
     @discord.ui.button(label="Change Stars", style=discord.ButtonStyle.primary, row=1)
     async def stars_button(self, interaction: discord.Interaction, button: discord.ui.Button):
@@ -9633,15 +9633,15 @@ class EditCardView(discord.ui.View):
         try:
             msg = await self.prompt_for_message(interaction, "Send the new **star count** (a number from 1 to 4).")
         except asyncio.TimeoutError:
-            return await interaction.followup.send("❌ Timed out waiting for a response.", ephemeral=True)
+            return await interaction.followup.send("Timed out waiting for a response.", ephemeral=True)
 
         try:
             new_stars = int(msg.content.strip())
         except ValueError:
-            return await interaction.followup.send("❌ Stars must be a whole number between 1 and 4.", ephemeral=True)
+            return await interaction.followup.send("Stars must be a whole number between 1 and 4.", ephemeral=True)
 
         if new_stars not in (1, 2, 3, 4):
-            return await interaction.followup.send("❌ Stars must be between 1 and 4.", ephemeral=True)
+            return await interaction.followup.send("Stars must be between 1 and 4.", ephemeral=True)
 
         old_stars = self.card.get("stars")
         try:
@@ -9650,10 +9650,10 @@ class EditCardView(discord.ui.View):
                 await self.persist_and_sync(f"Changed stars for {self.card.get('id')} to {new_stars}")
         except Exception as e:
             self.card["stars"] = old_stars
-            return await interaction.followup.send(f"❌ Failed to update card: {e}", ephemeral=True)
+            return await interaction.followup.send(f"Failed to update card: {e}", ephemeral=True)
 
         await self.refresh_message()
-        await interaction.followup.send("✅ Card updated successfully.")
+        await interaction.followup.send("Card updated successfully.")
 
     @discord.ui.button(label="Change Image", style=discord.ButtonStyle.secondary, row=2)
     async def image_button(self, interaction: discord.Interaction, button: discord.ui.Button):
@@ -9665,7 +9665,7 @@ class EditCardView(discord.ui.View):
                 interaction, "Please upload the new **image** for this card.", require_attachment=True
             )
         except asyncio.TimeoutError:
-            return await interaction.followup.send("❌ Timed out waiting for an image upload.", ephemeral=True)
+            return await interaction.followup.send("Timed out waiting for an image upload.", ephemeral=True)
 
         # Reuse the exact same image pipeline as lupdateimage: download,
         # re-encode as a real PNG, then push it (plus cards.json) as a
@@ -9688,10 +9688,10 @@ class EditCardView(discord.ui.View):
                 )
         except Exception as e:
             self.card["image"] = old_image
-            return await interaction.followup.send(f"❌ Failed to update image: {e}", ephemeral=True)
+            return await interaction.followup.send(f"Failed to update image: {e}", ephemeral=True)
 
         await self.refresh_message()
-        await interaction.followup.send("✅ Card updated successfully.")
+        await interaction.followup.send("Card updated successfully.")
 
 
 # =========================
@@ -9750,13 +9750,13 @@ class RemoveCardView(discord.ui.View):
         except Exception as e:
             self.clear_items()
             await interaction.response.edit_message(
-                content=f"❌ Failed to remove card `{card_id}`: {e}", embed=None, view=self
+                content=f"Failed to remove card `{card_id}`: {e}", embed=None, view=self
             )
             return
 
         self.clear_items()
         await interaction.response.edit_message(
-            content=f"✅ Successfully removed `{card_id}`.", embed=None, attachments=[], view=self
+            content=f"Successfully removed `{card_id}`.", embed=None, attachments=[], view=self
         )
 
     @discord.ui.button(label="Cancel", style=discord.ButtonStyle.secondary)
@@ -10028,7 +10028,7 @@ class Client(discord.Client):
                 unread_count = unread_mail_count(user_id)
                 letter_word = "letter" if unread_count == 1 else "letters"
                 await reply(message,
-                    f"📬 You have {unread_count} unread {letter_word}! Use `lmail` to open your mailbox."
+                    f"You have {unread_count} unread {letter_word}! Use `lmail` to open your mailbox."
                 )
 
         # =========================
@@ -10062,7 +10062,7 @@ class Client(discord.Client):
             existing_path = card.get("image", "") or ""
             if not existing_path.startswith("card_art/"):
                 return await reply(message, 
-                    "❌ This card does not have a valid image path in `cards.json`. "
+                    "This card does not have a valid image path in `cards.json`. "
                     "Please fix the `image` field before using `lupdateimage`."
                 )
 
@@ -10099,10 +10099,10 @@ class Client(discord.Client):
                     _atomic_write_bytes(save_path, image_data)
 
                 await reply(message, 
-                    f"✅ Card `{card_id}` image updated successfully and pushed to GitHub!\nNew path: `{save_path}`"
+                    f"Card `{card_id}` image updated successfully and pushed to GitHub!\nNew path: `{save_path}`"
                 )
             except Exception as e:
-                await reply(message, f"❌ Error updating image: {e}")
+                await reply(message, f"Error updating image: {e}")
             return
 
         # =========================
@@ -10137,7 +10137,7 @@ class Client(discord.Client):
 
                 if not os.path.exists(candidate_path):
                     return await reply(message, 
-                        f"❌ Frame `{requested_frame}` not found in the `frames` folder. "
+                        f"Frame `{requested_frame}` not found in the `frames` folder. "
                         "Use `common` or the exact name of an existing frame file (with or without `.png`)."
                     )
 
@@ -10162,7 +10162,7 @@ class Client(discord.Client):
                 try:
                     img_msg = await self.wait_for('message', check=check, timeout=300)
                 except asyncio.TimeoutError:
-                    return await reply(message, "❌ Image upload timed out. Card creation cancelled.")
+                    return await reply(message, "Image upload timed out. Card creation cancelled.")
 
                 # Save the image
                 try:
@@ -10235,14 +10235,14 @@ class Client(discord.Client):
                             cards.pop()
                             raise
 
-                    await reply(message, f"✅ Card created successfully!\n**ID:** `{card_id}`\n**Name:** {char_name}\n**Series:** {series}\n**Stars:** {stars_val}\n**Frame:** {frame_name}")
+                    await reply(message, f"Card created successfully!\n**ID:** `{card_id}`\n**Name:** {char_name}\n**Series:** {series}\n**Stars:** {stars_val}\n**Frame:** {frame_name}")
 
                     await send_card_added_notification(self, new_card)
                 except Exception as e:
-                    await reply(message, f"❌ Error creating card: {e}")
+                    await reply(message, f"Error creating card: {e}")
 
             except Exception as e:
-                await reply(message, f"❌ Error parsing command: {e}")
+                await reply(message, f"Error parsing command: {e}")
             return
 
         # =========================
@@ -10297,7 +10297,7 @@ class Client(discord.Client):
 
             def format_list(items, limit=10):
                 if not items:
-                    return "✅ None found"
+                    return "None found"
                 shown = items[:limit]
                 text = "\n".join(f"• {item}" for item in shown)
                 if len(items) > limit:
@@ -10306,23 +10306,23 @@ class Client(discord.Client):
 
             embed = discord.Embed(
                 color=discord.Color.green() if database_healthy and github_ok else discord.Color.orange(),
-                title="🔄 Luka Sync Status",
+                title="Luka Sync Status",
                 description="Read-only diagnostic report of `cards.json`. Nothing is modified automatically."
             )
-            embed.add_field(name="📦 Total Cards", value=str(total_cards), inline=True)
-            embed.add_field(name="🎭 Unique Characters", value=str(unique_characters), inline=True)
+            embed.add_field(name="Total Cards", value=str(total_cards), inline=True)
+            embed.add_field(name="Unique Characters", value=str(unique_characters), inline=True)
             embed.add_field(
-                name="🔑 GitHub Config",
-                value="✅ Configured" if github_ok else f"❌ Missing: {', '.join(github_missing)}",
+                name="GitHub Config",
+                value="Configured" if github_ok else f"Missing: {', '.join(github_missing)}",
                 inline=True
             )
-            embed.add_field(name="🆔 Duplicate Card IDs", value=format_list(duplicate_ids), inline=False)
-            embed.add_field(name="🖼️ Duplicate Image Paths", value=format_list(duplicate_images), inline=False)
-            embed.add_field(name="⚠️ Missing Required Fields", value=format_list(missing_fields), inline=False)
-            embed.add_field(name="📁 Broken/Missing Image Files", value=format_list(broken_images), inline=False)
+            embed.add_field(name="Duplicate Card IDs", value=format_list(duplicate_ids), inline=False)
+            embed.add_field(name="Duplicate Image Paths", value=format_list(duplicate_images), inline=False)
+            embed.add_field(name="Missing Required Fields", value=format_list(missing_fields), inline=False)
+            embed.add_field(name="Broken/Missing Image Files", value=format_list(broken_images), inline=False)
             embed.add_field(
                 name="Overall Status",
-                value="✅ Database appears healthy." if database_healthy else "⚠️ Issues found -- see above. Please fix manually.",
+                value="Database appears healthy." if database_healthy else "Issues found -- see above. Please fix manually.",
                 inline=False
             )
             embed.set_footer(text=f"Checked at {time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime(time.time()))} UTC")
@@ -10369,7 +10369,7 @@ class Client(discord.Client):
 
             embed = discord.Embed(
                 color=discord.Color.red(),
-                title="⚠️ Confirm Card Removal",
+                title="Confirm Card Removal",
                 description="This will permanently delete this card from `cards.json` and GitHub."
             )
             embed.add_field(name="Character", value=card.get("name", "Unknown"), inline=True)
@@ -10607,7 +10607,7 @@ class Client(discord.Client):
                 target_user,
                 filtered_inventory,
                 viewer_id=message.author.id,
-                title_override="🤖 Luka's Collection" if is_luka_inventory else None
+                title_override="Luka's Collection" if is_luka_inventory else None
             )
 
             await reply(message, 
@@ -10835,11 +10835,11 @@ class Client(discord.Client):
                     except Exception:
                         duo["bonus"] = previous_bonus
                         return await reply(message,
-                            "❌ Failed to save the reset. No extra drops/claims were changed."
+                            "Failed to save the reset. No extra drops/claims were changed."
                         )
 
                 return await reply(message,
-                    f"✅ Reset extra drops and extra claims to **0** for all users "
+                    f"Reset extra drops and extra claims to **0** for all users "
                     f"({reset_count} user(s) had a nonzero balance)."
                 )
 
@@ -10936,7 +10936,7 @@ class Client(discord.Client):
                     for member in target_members:
                         add_bonus(member.id, kind_token, -amount)
                     return await reply(message, 
-                        "❌ Failed to save. Please try again."
+                        "Failed to save. Please try again."
                     )
 
             kind_label = "claim" if kind_token == "claim" else "drop"
@@ -10944,12 +10944,12 @@ class Client(discord.Client):
 
             if len(target_members) == 1:
                 return await reply(message, 
-                    f"✅ Gave {target_members[0].mention} **{amount}** extra {kind_label}{plural}."
+                    f"Gave {target_members[0].mention} **{amount}** extra {kind_label}{plural}."
                 )
 
             skipped_note = f" (skipped {bots_skipped} bot{'s' if bots_skipped != 1 else ''})" if bots_skipped else ""
             return await reply(message, 
-                f"✅ Gave **{amount}** extra {kind_label}{plural} to **{len(target_members)}** "
+                f"Gave **{amount}** extra {kind_label}{plural} to **{len(target_members)}** "
                 f"member(s) in {target_label}{skipped_note}."
             )
 
@@ -11084,7 +11084,7 @@ class Client(discord.Client):
                         traceback.print_exc()
 
                 return await reply(message,
-                    "❌ Backup failed -- the GitHub commit did not go through. "
+                    "Backup failed -- the GitHub commit did not go through. "
                     "Local data is untouched; nothing was lost. Check the logs for details."
                 )
 
@@ -11102,7 +11102,7 @@ class Client(discord.Client):
             file_list = "\n".join(f"• `{name}`" for name in backup_files.keys())
             embed = discord.Embed(
                 color=discord.Color.green(),
-                title="✅ Backup Complete",
+                title="Backup Complete",
                 description=f"Successfully committed **{len(backup_files)}** file(s) to GitHub using current local data."
             )
             embed.add_field(name="Files Backed Up", value=file_list, inline=False)
@@ -11168,22 +11168,22 @@ class Client(discord.Client):
 
             embed = discord.Embed(
                 color=discord.Color.green() if (all_healthy and not any_in_progress) else discord.Color.orange(),
-                title="💾 Backup/Sync Status",
+                title="Backup/Sync Status",
                 description="Read-only snapshot of persistence state. Nothing here is modified."
             )
-            embed.add_field(name="📁 Local Files", value="\n".join(exists_lines), inline=False)
+            embed.add_field(name="Local Files", value="\n".join(exists_lines), inline=False)
             embed.add_field(
-                name="🔄 Pending (Dirty) Changes",
-                value="\n".join(dirty_lines) if any_dirty else "✅ None -- everything is synced.",
+                name="Pending (Dirty) Changes",
+                value="\n".join(dirty_lines) if any_dirty else "None -- everything is synced.",
                 inline=False
             )
             embed.add_field(
-                name="⏳ GitHub Sync In Progress",
-                value="\n".join(in_progress_lines) if any_in_progress else "✅ No sync currently running.",
+                name="GitHub Sync In Progress",
+                value="\n".join(in_progress_lines) if any_in_progress else "No sync currently running.",
                 inline=False
             )
             embed.add_field(
-                name="🧵 Background Sync Loops",
+                name="Background Sync Loops",
                 value=f"{loops_running}/{len(stores)} running",
                 inline=True
             )
@@ -11194,16 +11194,16 @@ class Client(discord.Client):
                     f"(<t:{int(last_backup_at)}:F>)"
                 )
             else:
-                last_backup_value = "⚠️ No successful `lbackup` has been recorded yet."
+                last_backup_value = "No successful `lbackup` has been recorded yet."
 
             embed.add_field(
-                name="🕐 Last Successful Backup",
+                name="Last Successful Backup",
                 value=last_backup_value,
                 inline=False
             )
             embed.add_field(
-                name="🩺 File Health",
-                value="\n".join(unhealthy_lines) if unhealthy_lines else "✅ All persistent files appear healthy.",
+                name="File Health",
+                value="\n".join(unhealthy_lines) if unhealthy_lines else "All persistent files appear healthy.",
                 inline=False
             )
             embed.set_footer(text=f"Checked at {time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime(time.time()))} UTC")
@@ -11250,9 +11250,9 @@ class Client(discord.Client):
                         mark_version_system_dirty()
                     except Exception:
                         scheduled[version_token] = previous_value
-                        return await reply(message, "❌ Something went wrong saving that. Please try again.")
+                        return await reply(message, "Something went wrong saving that. Please try again.")
                 return await reply(message,
-                    f"✅ Cleared the scheduled release date for **{version_token}** -- "
+                    f"Cleared the scheduled release date for **{version_token}** -- "
                     f"it now follows the normal claim-based unlock only."
                 )
 
@@ -11278,7 +11278,7 @@ class Client(discord.Client):
                         scheduled[version_token] = previous_value
                     else:
                         scheduled.pop(version_token, None)
-                    return await reply(message, "❌ Something went wrong saving that. Please try again.")
+                    return await reply(message, "Something went wrong saving that. Please try again.")
 
             if unlock_at <= time.time():
                 when_text = "immediately (the date requirement is already satisfied)"
@@ -11286,7 +11286,7 @@ class Client(discord.Client):
                 when_text = f"<t:{int(unlock_at)}:F> (<t:{int(unlock_at)}:R>)"
 
             return await reply(message,
-                f"✅ **{version_token}** now also requires reaching {when_text} before it can drop, "
+                f"**{version_token}** now also requires reaching {when_text} before it can drop, "
                 f"**in addition to** its normal claim requirement -- whichever finishes last is what counts."
             )
 
@@ -11302,7 +11302,7 @@ class Client(discord.Client):
 
             embed = discord.Embed(
                 color=discord.Color.blurple(),
-                title="📅 Version Release-Date Schedule",
+                title="Version Release-Date Schedule",
                 description=(
                     "Read-only snapshot of `lsetdate` release-date requirements. "
                     "A version still also needs its normal claim threshold met -- "
@@ -11321,7 +11321,7 @@ class Client(discord.Client):
                 for version_token in sorted(scheduled.keys(), key=_schedule_version_sort_key):
                     unlock_at = scheduled[version_token]
                     if unlock_at <= now:
-                        status = "✅ Date requirement met"
+                        status = "Date requirement met"
                     else:
                         status = f"<t:{int(unlock_at)}:F> (<t:{int(unlock_at)}:R>)"
                     lines.append(f"**{version_token}** -- {status}")
@@ -11346,13 +11346,13 @@ class Client(discord.Client):
 
             embed = discord.Embed(
                 color=discord.Color.green() if active_merchants else discord.Color.red(),
-                title="🛒 Merchant Status",
+                title="Merchant Status",
                 description="Read-only snapshot of merchant availability. Nothing here is modified."
             )
 
             if active_merchants:
                 soonest_expiry = min(m.get("expires_ts", now) for m in active_merchants)
-                embed.add_field(name="Status", value=f"🟢 Active -- {len(active_merchants)} merchant(s) trading", inline=False)
+                embed.add_field(name="Status", value=f"Active -- {len(active_merchants)} merchant(s) trading", inline=False)
                 embed.add_field(
                     name="Time Remaining",
                     value=f"<t:{int(soonest_expiry)}:R> (<t:{int(soonest_expiry)}:F>)",
@@ -11360,7 +11360,7 @@ class Client(discord.Client):
                 )
             else:
                 next_generation_at = merchants.get("next_generation_at")
-                embed.add_field(name="Status", value="🔴 Inactive -- no merchants currently trading", inline=False)
+                embed.add_field(name="Status", value="Inactive -- no merchants currently trading", inline=False)
                 if next_generation_at:
                     embed.add_field(
                         name="Merchants Return",
@@ -11370,7 +11370,7 @@ class Client(discord.Client):
                 else:
                     embed.add_field(
                         name="Merchants Return",
-                        value="⏳ Unknown -- pending the next scheduled check.",
+                        value="Unknown -- pending the next scheduled check.",
                         inline=False
                     )
 
@@ -11396,20 +11396,20 @@ class Client(discord.Client):
                 except Exception:
                     maintenance.clear()
                     maintenance.update(previous_state)
-                    return await reply(message, "❌ Something went wrong saving that. Please try again.")
+                    return await reply(message, "Something went wrong saving that. Please try again.")
 
             if turning_on:
                 return await reply(message,
-                    "🛠️ Maintenance mode is now **ON**. Normal commands are blocked for everyone except owners."
+                    "Maintenance mode is now **ON**. Normal commands are blocked for everyone except owners."
                 )
             else:
-                return await reply(message, "✅ Maintenance mode is now **OFF**. Normal commands are available again.")
+                return await reply(message, "Maintenance mode is now **OFF**. Normal commands are available again.")
 
         if content_lower == "lmaintenance":
             if message.author.id not in OWNER_USER_IDS:
                 return
 
-            status_text = "🛠️ **ON**" if maintenance.get("active") else "✅ **OFF**"
+            status_text = "**ON**" if maintenance.get("active") else "**OFF**"
             return await reply(message,
                 f"Maintenance mode is currently {status_text}. Usage: `lmaintenance start` / `lmaintenance end`."
             )
@@ -11477,9 +11477,9 @@ class Client(discord.Client):
             if had_player_trade or had_merchant_trade:
                 player_cleared, merchant_cleared = await force_clear_stuck_trades(target.id)
                 if player_cleared:
-                    issues.append(f"🔧 Was stuck in **{player_cleared}** player trade(s) -- force-cleared.")
+                    issues.append(f"Was stuck in **{player_cleared}** player trade(s) -- force-cleared.")
                 if merchant_cleared:
-                    issues.append("🔧 Had an open merchant-trade session -- force-cleared.")
+                    issues.append("Had an open merchant-trade session -- force-cleared.")
 
             # 2. Malformed inventory entries -- structurally broken owned-
             # card entries (missing the "card" or "print" a real entry
@@ -11503,13 +11503,13 @@ class Client(discord.Client):
                     try:
                         save_inventories_local()
                         mark_inventories_dirty()
-                        issues.append(f"🔧 Removed **{len(removed_snapshot)}** malformed inventory entrie(s).")
+                        issues.append(f"Removed **{len(removed_snapshot)}** malformed inventory entrie(s).")
                     except Exception:
                         # Put them back exactly where they were, in
                         # original order, so a failed save can't lose them.
                         for i, entry in sorted(removed_snapshot, key=lambda pair: pair[0]):
                             live_inv.insert(min(i, len(live_inv)), entry)
-                        issues.append("⚠️ Found malformed inventory entries, but failed to save the fix -- left unchanged.")
+                        issues.append("Found malformed inventory entries, but failed to save the fix -- left unchanged.")
 
             # ---- Everything below is unchanged: pure diagnostics, all
             # still read-only. ----
@@ -11541,36 +11541,36 @@ class Client(discord.Client):
                 detected_at = pending_recovery[target_key]
                 days_elapsed = (now - detected_at) / 86400
                 days_left = max(0, RECOVERY_PENDING_DAYS - days_elapsed)
-                recovery_status = f"⚠️ Pending recovery -- {days_left:.1f} day(s) until transfer"
+                recovery_status = f"Pending recovery -- {days_left:.1f} day(s) until transfer"
 
             embed = discord.Embed(
                 color=discord.Color.green() if not issues else discord.Color.orange(),
-                title=f"🔧 User Repair: {target}",
+                title=f"User Repair: {target}",
                 description="Diagnosed known recoverable issues and applied any safe fixes found. "
                             "Everything below reflects the CURRENT state, after any fixes above."
             )
             embed.add_field(
-                name="🛠️ Issues Found & Fixed",
-                value="\n".join(issues) if issues else "✅ No known issues found.",
+                name="Issues Found & Fixed",
+                value="\n".join(issues) if issues else "No known issues found.",
                 inline=False
             )
-            embed.add_field(name="🆔 User ID", value=f"`{target.id}`", inline=True)
-            embed.add_field(name="🎴 Inventory Size", value=str(len(inv)), inline=True)
+            embed.add_field(name="User ID", value=f"`{target.id}`", inline=True)
+            embed.add_field(name="Inventory Size", value=str(len(inv)), inline=True)
             embed.add_field(
-                name="⚠️ Malformed Inventory Entries",
-                value=str(malformed_entries) if malformed_entries else "✅ None",
+                name="Malformed Inventory Entries",
+                value=str(malformed_entries) if malformed_entries else "None",
                 inline=True
             )
-            embed.add_field(name="🎁 Bonus Drops", value=str(bonus.get("drop", 0)), inline=True)
-            embed.add_field(name="🎁 Bonus Claims", value=str(bonus.get("claim", 0)), inline=True)
-            embed.add_field(name="⏱️ Drop Cooldown", value=drop_status, inline=False)
-            embed.add_field(name="⏱️ Claim Cooldown", value=claim_status, inline=False)
+            embed.add_field(name="Bonus Drops", value=str(bonus.get("drop", 0)), inline=True)
+            embed.add_field(name="Bonus Claims", value=str(bonus.get("claim", 0)), inline=True)
+            embed.add_field(name="Drop Cooldown", value=drop_status, inline=False)
+            embed.add_field(name="Claim Cooldown", value=claim_status, inline=False)
             embed.add_field(
-                name="📬 Mail",
+                name="Mail",
                 value=f"{len(mailbox)} total, {unread_count} unread",
                 inline=True
             )
-            embed.add_field(name="♻️ Recovery Status", value=recovery_status, inline=False)
+            embed.add_field(name="Recovery Status", value=recovery_status, inline=False)
             embed.set_footer(text=f"Checked at {time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime(time.time()))} UTC")
 
             return await reply(message, embed=embed)
@@ -11602,7 +11602,7 @@ class Client(discord.Client):
 
             confirm_embed = discord.Embed(
                 color=discord.Color.red(),
-                title="⚠️ Confirm Mass Inventory Reset",
+                title="Confirm Mass Inventory Reset",
                 description=(
                     f"This will trim **every member's** inventory down to **{keep_max}** cards.\n\n"
                     "For anyone with more than that:\n"
@@ -11700,7 +11700,7 @@ class Client(discord.Client):
                         _restore()
                         traceback.print_exc()
                         return await interaction.followup.send(
-                            "❌ Failed to save the inventory changes. No changes were made."
+                            "Failed to save the inventory changes. No changes were made."
                         )
 
                 async with pending_recovery_lock:
@@ -11726,12 +11726,12 @@ class Client(discord.Client):
                                       "successful sync.")
                                 traceback.print_exc()
                         return await interaction.followup.send(
-                            "❌ Failed to save the recovery-pool changes. Rolled back -- no changes were kept."
+                            "Failed to save the recovery-pool changes. Rolled back -- no changes were kept."
                         )
 
                 result_embed = discord.Embed(
                     color=discord.Color.green(),
-                    title="✅ Mass Inventory Reset Complete",
+                    title="Mass Inventory Reset Complete",
                     description=(
                         f"**{affected_count}** member(s) trimmed to **{keep_max}** cards.\n"
                         f"**{removed_count}** card(s) removed and moved into the recovery pool.\n"
@@ -11789,7 +11789,7 @@ class Client(discord.Client):
 
             confirm_embed = discord.Embed(
                 color=discord.Color.red(),
-                title="⚠️ Confirm Card Recycling",
+                title="Confirm Card Recycling",
                 description=(
                     f"This will activate **{amount}** card(s) from the recovery pool to drop again, "
                     "at their original print number -- normal print progression and claim/version "
@@ -11821,11 +11821,11 @@ class Client(discord.Client):
                         pending_recovery[RECYCLABLE_CARDS_KEY] = snapshot
                         traceback.print_exc()
                         return await interaction.followup.send(
-                            "❌ Failed to save. No cards were recycled."
+                            "Failed to save. No cards were recycled."
                         )
 
                 await interaction.followup.send(
-                    f"✅ Activated **{activated}** card(s) for recycling -- they'll now compete for drops "
+                    f"Activated **{activated}** card(s) for recycling -- they'll now compete for drops "
                     "alongside everything else, at their original print numbers."
                 )
 
@@ -11870,14 +11870,14 @@ class Client(discord.Client):
                             ("Print", format_print(owned_card.get("print"))),
                             ("Version/Frame", card_version_label(card)),
                             ("Original Owner", owner_display),
-                            ("Recovery Status", f"⚠️ {days_left:.1f} day(s) until automatic transfer"),
+                            ("Recovery Status", f"{days_left:.1f} day(s) until automatic transfer"),
                         ],
                     })
 
             if not entries:
                 return await reply(message, "No cards are currently in pending recovery.")
 
-            view = AdminCardListView("♻️ Pending Recovery", entries, message.author.id)
+            view = AdminCardListView("Pending Recovery", entries, message.author.id)
             return await reply(message, embed=view.build_embed(), view=view)
 
         # =========================
@@ -11905,7 +11905,7 @@ class Client(discord.Client):
                 card = entry.get("card", {})
                 removed_from = entry.get("removed_from")
                 owner_display = f"<@{removed_from}> (`{removed_from}`)" if removed_from else "Unknown"
-                status = "✅ Active -- currently droppable" if entry.get("recycled_active") else "⏳ Inactive -- awaiting `lrecyclecards`"
+                status = "Active -- currently droppable" if entry.get("recycled_active") else "Inactive -- awaiting `lrecyclecards`"
                 entries.append({
                     "description": f"## {card.get('name', 'Unknown Character')}",
                     "fields": [
@@ -11919,7 +11919,7 @@ class Client(discord.Client):
                 })
 
             view = AdminCardListView(
-                f"♻️ Recyclable Card Pool -- {len(pool)} total ({active_count} active, {inactive_count} inactive)",
+                f"Recyclable Card Pool -- {len(pool)} total ({active_count} active, {inactive_count} inactive)",
                 entries,
                 message.author.id
             )
@@ -11945,7 +11945,7 @@ class Client(discord.Client):
             total_ops = len(plan["live_ops"]) + len(plan["pool_ops"])
 
             if total_ops == 0:
-                return await reply(message, "✅ No duplicate prints found -- nothing to fix.")
+                return await reply(message, "No duplicate prints found -- nothing to fix.")
 
             preview_lines = []
             for op in plan["live_ops"][:10]:
@@ -11962,7 +11962,7 @@ class Client(discord.Client):
 
             confirm_embed = discord.Embed(
                 color=discord.Color.red(),
-                title="⚠️ Confirm Duplicate Print Repair",
+                title="Confirm Duplicate Print Repair",
                 description=(
                     f"This will fix **{total_ops}** duplicate print(s):\n"
                     f"• **{plan['self_count']}** self-duplicate(s) -- earliest claim keeps the print, "
@@ -11990,7 +11990,7 @@ class Client(discord.Client):
 
                         if fresh_total == 0:
                             return await interaction.followup.send(
-                                "✅ No duplicates found -- nothing to fix (data changed since this was previewed)."
+                                "No duplicates found -- nothing to fix (data changed since this was previewed)."
                             )
 
                         # Snapshot exactly what will be touched -- only
@@ -12023,7 +12023,7 @@ class Client(discord.Client):
                             _restore()
                             traceback.print_exc()
                             return await interaction.followup.send(
-                                "❌ Failed to save the inventory changes. No changes were made."
+                                "Failed to save the inventory changes. No changes were made."
                             )
 
                         try:
@@ -12047,11 +12047,11 @@ class Client(discord.Client):
                                       "successful sync.")
                                 traceback.print_exc()
                             return await interaction.followup.send(
-                                "❌ Failed to save the pool changes. Rolled back -- no changes were kept."
+                                "Failed to save the pool changes. Rolled back -- no changes were kept."
                             )
 
                 await interaction.followup.send(
-                    f"✅ Fixed **{fresh_total}** duplicate print(s): "
+                    f"Fixed **{fresh_total}** duplicate print(s): "
                     f"**{fresh_plan['self_count']}** self-duplicate(s), "
                     f"**{fresh_plan['cross_count']}** cross-user duplicate(s), "
                     f"**{fresh_plan['overlap_count']}** pool/live overlap(s)."
@@ -12100,7 +12100,7 @@ class Client(discord.Client):
 
             if len(matches) > 1:
                 return await reply(message,
-                    f"⚠️ Found **{len(matches)}** pending-recovery cards matching **{name}** #{print_num}, "
+                    f"Found **{len(matches)}** pending-recovery cards matching **{name}** #{print_num}, "
                     f"{star_count}★ across different owners -- refusing to guess which one you mean "
                     "(this shouldn't normally happen, since prints are unique per card). "
                     "Please investigate manually."
@@ -12111,7 +12111,7 @@ class Client(discord.Client):
 
             confirm_embed = discord.Embed(
                 color=discord.Color.red(),
-                title="⚠️ Confirm Manual Recovery",
+                title="Confirm Manual Recovery",
                 description=(
                     f"## {card.get('name', 'Unknown Character')}\n"
                     f"**Series:** {card.get('series', 'Unknown Series')}\n"
@@ -12135,7 +12135,7 @@ class Client(discord.Client):
                     live_matches = _find_pending_recovery_matches(name, print_num, star_count)
                     if len(live_matches) != 1:
                         return await interaction.followup.send(
-                            "⚠️ This card no longer exactly matches a single pending-recovery entry "
+                            "This card no longer exactly matches a single pending-recovery entry "
                             "(it may have already moved) -- no changes were made."
                         )
 
@@ -12162,12 +12162,12 @@ class Client(discord.Client):
                         inventories[SYSTEM_RECOVERY_USER] = recovered_snapshot
                         traceback.print_exc()
                         return await interaction.followup.send(
-                            "❌ Failed to save. No changes were made -- the card remains with its "
+                            "Failed to save. No changes were made -- the card remains with its "
                             "original (still pending) owner."
                         )
 
                 await interaction.followup.send(
-                    f"✅ Recovered **{card.get('name', 'Unknown Character')}** "
+                    f"Recovered **{card.get('name', 'Unknown Character')}** "
                     f"{format_print(removed_card.get('print'))} into Luka's inventory. "
                     f"Original owner (`{live_owner_key}`) is otherwise unaffected."
                 )
@@ -12216,7 +12216,7 @@ class Client(discord.Client):
                     "fields": fields,
                 })
 
-            view = AdminCardListView("🤖 Luka's Inventory", entries, message.author.id)
+            view = AdminCardListView("Luka's Inventory", entries, message.author.id)
             return await reply(message, embed=view.build_embed(), view=view)
 
         # =========================
@@ -12279,7 +12279,7 @@ class Client(discord.Client):
                             else:
                                 inv[i]["tags"] = old_value
                         return await reply(message, 
-                            "❌ Something went wrong saving your tags. Please try again."
+                            "Something went wrong saving your tags. Please try again."
                         )
 
                 updated = len(target_indexes)
@@ -12336,7 +12336,7 @@ class Client(discord.Client):
                         else:
                             inv[i]["tags"] = old_value
                     return await reply(message, 
-                        "❌ Something went wrong saving your tags. Please try again."
+                        "Something went wrong saving your tags. Please try again."
                     )
 
             return await reply(message, f"Updated {updated} {match_name} card(s) with {tag_text}.")
@@ -12396,7 +12396,7 @@ class Client(discord.Client):
                         for i, old_value in previous_tags.items():
                             inv[i]["tags"] = old_value
                         return await reply(message, 
-                            "❌ Something went wrong saving your tags. Please try again."
+                            "Something went wrong saving your tags. Please try again."
                         )
 
                 note = ""
@@ -12427,7 +12427,7 @@ class Client(discord.Client):
                     for i, old_value in previous_tags.items():
                         inv[i]["tags"] = old_value
                     return await reply(message, 
-                        "❌ Something went wrong saving your tags. Please try again."
+                        "Something went wrong saving your tags. Please try again."
                     )
 
             return await reply(message, f"Updated {updated} {match_name} card(s).")
@@ -12469,11 +12469,11 @@ class Client(discord.Client):
                 except Exception:
                     owned_card.pop("pinned", None)
                     return await reply(message, 
-                        "❌ Something went wrong saving your pin. Please try again."
+                        "Something went wrong saving your pin. Please try again."
                     )
 
             name = owned_card["card"].get("name", "Unknown")
-            return await reply(message, f"📌 Pinned **{name}**.")
+            return await reply(message, f"Pinned **{name}**.")
 
         # =========================
         # LUNPIN COMMAND
@@ -12505,7 +12505,7 @@ class Client(discord.Client):
                 except Exception:
                     owned_card["pinned"] = True
                     return await reply(message, 
-                        "❌ Something went wrong saving your unpin. Please try again."
+                        "Something went wrong saving your unpin. Please try again."
                     )
 
             name = owned_card["card"].get("name", "Unknown")
@@ -12557,39 +12557,39 @@ class Client(discord.Client):
             target_user = await resolve_target_user(message, args)
 
             if target_user.id == message.author.id:
-                return await reply(message, "You can't start a Duo Challenge with yourself!")
+                return await reply(message, "You can't start a duo challenge with yourself!")
             if target_user.bot:
-                return await reply(message, "You can't start a Duo Challenge with a bot.")
+                return await reply(message, "You can't start a duo challenge with a bot.")
 
             author_id = message.author.id
             target_id = target_user.id
 
             async with duo_lock:
                 if find_active_duo(author_id)[0]:
-                    return await reply(message, "You're already in an active Duo Challenge.")
+                    return await reply(message, "You're already in an active duo challenge.")
                 if find_active_duo(target_id)[0]:
                     return await reply(message,
-                        f"**{target_user.display_name}** is already in an active Duo Challenge."
+                        f"**{target_user.display_name}** is already in an active duo challenge."
                     )
 
                 if duo_weekly_count(author_id) >= DUO_WEEKLY_LIMIT:
                     return await reply(message,
-                        "You've already completed 3 Duo Challenges this week."
+                        "You've already completed 3 duo challenges this week."
                     )
                 if duo_weekly_count(target_id) >= DUO_WEEKLY_LIMIT:
                     return await reply(message,
-                        f"**{target_user.display_name}** has already completed 3 Duo Challenges this week."
+                        f"**{target_user.display_name}** has already completed 3 duo challenges this week."
                     )
 
                 remaining = duo_cooldown_remaining(author_id)
                 if remaining > 0:
                     return await reply(message,
-                        f"⏳ You must wait **{format_time(remaining)}** before starting another Duo."
+                        f"You must wait **{format_time(remaining)}** before starting another Duo."
                     )
                 remaining = duo_cooldown_remaining(target_id)
                 if remaining > 0:
                     return await reply(message,
-                        f"⏳ **{target_user.display_name}** must wait **{format_time(remaining)}** "
+                        f"**{target_user.display_name}** must wait **{format_time(remaining)}** "
                         "before starting another Duo."
                     )
 
@@ -12605,7 +12605,7 @@ class Client(discord.Client):
             except Exception:
                 print("[lduo] Failed to send the Duo request embed:")
                 traceback.print_exc()
-                return await reply(message, "❌ Something went wrong sending that Duo request. Please try again.")
+                return await reply(message, "Something went wrong sending that Duo request. Please try again.")
 
             view.message = sent
             return
@@ -12616,7 +12616,7 @@ class Client(discord.Client):
         if content_lower == "lduoprogress":
             challenge_id, challenge = find_active_duo(user_id)
             if not challenge:
-                return await reply(message, "You don't currently have an active Duo Challenge. Start one with `lduo @user`!")
+                return await reply(message, "You don't currently have an active duo challenge. Start one with `lduo @user`!")
 
             partner_id = challenge.get("player_a") if challenge.get("player_b") == str(user_id) else challenge.get("player_b")
             partner_user = None
@@ -12684,11 +12684,11 @@ class Client(discord.Client):
                 except Exception:
                     owned_card.pop("showcased", None)
                     return await reply(message,
-                        "❌ Something went wrong saving your showcase. Please try again."
+                        "Something went wrong saving your showcase. Please try again."
                     )
 
             name = owned_card["card"].get("name", "Unknown")
-            return await reply(message, f"✅ Added **{name}** to your showcase.")
+            return await reply(message, f"Added **{name}** to your showcase.")
 
         # =========================
         # LSCREMOVE COMMAND (remove a card from your showcase)
@@ -12720,7 +12720,7 @@ class Client(discord.Client):
                 except Exception:
                     owned_card["showcased"] = True
                     return await reply(message,
-                        "❌ Something went wrong saving your showcase. Please try again."
+                        "Something went wrong saving your showcase. Please try again."
                     )
 
             name = owned_card["card"].get("name", "Unknown")
@@ -12786,7 +12786,7 @@ class Client(discord.Client):
 
             # Footer is just the badge count now -- the star rating
             # moved up into the title above.
-            embed.set_footer(text=f"🏅 Badges: {completed_badge_count}/{total_badge_count}")
+            embed.set_footer(text=f"Badges: {completed_badge_count}/{total_badge_count}")
 
             file = discord.File(image_path, filename="showcase.png")
             view = ShowcaseView(self, target_user, member, is_owner_view)
@@ -12982,7 +12982,7 @@ class Client(discord.Client):
             except Exception:
                 print("[lmerchants] Failed to send the merchant list embed:")
                 traceback.print_exc()
-                return await reply(message, "❌ Something went wrong showing the merchants. Please try again.")
+                return await reply(message, "Something went wrong showing the merchants. Please try again.")
 
             list_view.message = sent
             return
@@ -13010,12 +13010,12 @@ class Client(discord.Client):
 
             if action == "arrive":
                 return await reply(message, 
-                    "✅ The current merchants now count as active/arrived. "
+                    "The current merchants now count as active/arrived. "
                     "Check `lmerchants` and the announcement channel."
                 )
             else:
                 return await reply(message, 
-                    "✅ The current merchants now count as inactive/left. "
+                    "The current merchants now count as inactive/left. "
                     "Check `lmerchants` and the announcement channel."
                 )
 
@@ -13290,7 +13290,7 @@ class Client(discord.Client):
 
                 if not used_bonus_drop:
                     return await reply(message, 
-                        f"⏳ You must wait **{format_time(remaining)}** before dropping again."
+                        f"You must wait **{format_time(remaining)}** before dropping again."
                     )
 
             t_ld_precheck = time.perf_counter()
@@ -13334,7 +13334,7 @@ class Client(discord.Client):
 
             if image_path is None:
                 return await reply(message, 
-                    "❌ Failed to render the drop."
+                    "Failed to render the drop."
                 )
 
             # Trace point: exact resolution, format, and encoded size of the
