@@ -638,7 +638,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 34,
+      "progress": 35,
       "id": "03787ede-3312-47eb-93b1-f8ee2afc785e",
       "player_a": "870354420049776710",
       "player_b": "1415199399469908020",
@@ -661,7 +661,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Aoi Akane"
+      ],
       "id": "7004ef1d-d348-4f2f-a31d-a4ac33b67820",
       "player_a": "420699083238539285",
       "player_b": "1178380074001645660",
