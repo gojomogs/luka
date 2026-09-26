@@ -4391,7 +4391,7 @@ def _card_is_eligible_to_drop(card, now, base_by_character, prev_common_by_card_
         else:
             claim_requirement_met = card_prints.get(prev["id"], 0) >= COMMON_VERSION_UNLOCK_CLAIMS
     else:
-        # Rare (character has a base Common, so the normal 50-claim rule applies).
+        # Rare (character has a base Common, so the normal RARE_UNLOCK_CLAIMS-claim rule applies).
         base = base_by_character.get(_card_character_key(card))
         claim_requirement_met = base is not None and card_prints.get(base["id"], 0) >= RARE_UNLOCK_CLAIMS
 
@@ -4402,8 +4402,9 @@ def _card_is_eligible_to_drop(card, now, base_by_character, prev_common_by_card_
     # the claim check above, never a replacement for it. If this
     # version has a scheduled release time and it hasn't arrived yet,
     # the card stays ineligible even though its claim requirement is
-    # already satisfied -- e.g. V1 hitting 75 claims does not unlock V2
-    # early if `lsetdate V2 5 days` hasn't finished counting down yet.
+    # already satisfied -- e.g. V1 hitting COMMON_VERSION_UNLOCK_CLAIMS
+    # claims does not unlock V2 early if `lsetdate V2 5 days` hasn't
+    # finished counting down yet.
     scheduled_at = version_system.get("scheduled_unlocks", {}).get(card.get("version"))
     if scheduled_at is not None and now < scheduled_at:
         return False
@@ -4486,8 +4487,8 @@ if _versions_migrated:
 # piece of state.
 
 BASE_CARD_PERIOD_SECONDS = 5 * 24 * 3600         # 5 days
-COMMON_VERSION_UNLOCK_CLAIMS = 75                # V(n) unlocks once V(n-1) hits this many claims
-RARE_UNLOCK_CLAIMS = 50                          # a character's Rare unlocks once its base Common hits this many claims
+COMMON_VERSION_UNLOCK_CLAIMS = 50                # V(n) unlocks once V(n-1) hits this many claims
+RARE_UNLOCK_CLAIMS = 40                          # a character's Rare unlocks once its base Common hits this many claims
 
 
 def _load_version_system_json():
@@ -12551,6 +12552,32 @@ class Client(discord.Client):
         # =========================
         if content_lower == "lduo" or content_lower.startswith("lduo "):
             args = content[len("lduo"):].strip()
+
+            if args.lower() == "leave":
+                async with duo_lock:
+                    challenge_id, challenge = find_active_duo(user_id)
+                    if not challenge:
+                        return await reply(message, "You don't currently have an active duo challenge. Start one with `lduo @user`!")
+
+                    # Removes only this shared active-challenge entry --
+                    # a Duo is inherently a two-player session (player_a/
+                    # player_b), so there's no "half" of it to remove;
+                    # leaving ends the session itself. Nothing else is
+                    # touched: no weekly-count/cooldown change for
+                    # either player, no reward granted, and the former
+                    # partner is never pinged or DM'd about it.
+                    duo["active"].pop(challenge_id, None)
+                    try:
+                        save_duo_local()
+                        mark_duo_dirty()
+                    except Exception:
+                        duo["active"][challenge_id] = challenge
+                        print("[duo] Failed to persist leaving a Duo challenge:")
+                        traceback.print_exc()
+                        return await reply(message, "Something went wrong leaving your Duo challenge. Please try again.")
+
+                return await reply(message, "You've left your duo challenge.")
+
             if not args:
                 return await reply(message, "Usage: `lduo @user`")
 
