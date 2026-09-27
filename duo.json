@@ -738,12 +738,30 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Heaven Official\u2019s Blessing",
+        "Wuthering Waves"
+      ],
       "id": "27dd06aa-312f-4e16-af5a-e5d229d58b0f",
       "player_a": "762127115721637898",
       "player_b": "224627689909256192",
       "started_at": 1790538633.4624643,
       "channel_id": 1542722824060407899
+    },
+    "a93312f6-a000-4c49-ad91-f411ea7642fa": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Lolipop Chainsaw",
+        "Phantom Busters"
+      ],
+      "id": "a93312f6-a000-4c49-ad91-f411ea7642fa",
+      "player_a": "1113230728415690843",
+      "player_b": "1037427620905766932",
+      "started_at": 1790541580.7923799,
+      "channel_id": 1550373201497038948
     }
   },
   "weekly": {
