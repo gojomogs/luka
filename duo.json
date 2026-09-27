@@ -671,7 +671,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 41,
+      "progress": 42,
       "id": "1854aefa-7bdc-4051-8c8c-0f4378781c06",
       "player_a": "1118324764012970164",
       "player_b": "1135011169485197314",
@@ -725,7 +725,8 @@
         "Hiromi Higuruma",
         "Kotone Shiomi",
         "Moneypenny",
-        "Amelia Park Lee"
+        "Amelia Park Lee",
+        "Woo Jongwoo & Bae Changdeok"
       ],
       "id": "c429cf37-4f78-4361-8a48-77596659c28e",
       "player_a": "737098353485021206",
@@ -748,6 +749,17 @@
       "player_b": "1126786436864147457",
       "started_at": 1790469390.70856,
       "channel_id": 1542683842354090054
+    },
+    "9ffbffe2-57aa-47ae-b357-63a0b1009bbb": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 1,
+      "id": "9ffbffe2-57aa-47ae-b357-63a0b1009bbb",
+      "player_a": "1298419501238456452",
+      "player_b": "1271962211606204560",
+      "started_at": 1790473608.229463,
+      "channel_id": 1543624356993962125
     }
   },
   "weekly": {
@@ -10641,6 +10653,10 @@
       "claim": 0
     },
     "969659066018304031": {
+      "drop": 0,
+      "claim": 0
+    },
+    "499082010074021888": {
       "drop": 0,
       "claim": 0
     }
