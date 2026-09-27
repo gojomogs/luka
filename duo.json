@@ -715,7 +715,8 @@
         "Black Swan",
         "Zen",
         "Raika Hojo",
-        "Subaru Akehoshi"
+        "Subaru Akehoshi",
+        "Chinatsu"
       ],
       "id": "47f7b7a8-88b2-4657-a520-e03d7bbc18a1",
       "player_a": "1279518782838276148",
@@ -733,6 +734,31 @@
       "player_b": "1480643238699466977",
       "started_at": 1790488139.4712532,
       "channel_id": 1543207374670659724
+    },
+    "58d17a61-7acc-4ca7-b214-e8abb53b847b": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Neito Monoma"
+      ],
+      "id": "58d17a61-7acc-4ca7-b214-e8abb53b847b",
+      "player_a": "1429533392705294521",
+      "player_b": "1545740226004123728",
+      "started_at": 1790488398.8461144,
+      "channel_id": 1543221155584938034
+    },
+    "bb4c5095-39d0-4c33-91dd-aa31a196439e": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 1,
+      "id": "bb4c5095-39d0-4c33-91dd-aa31a196439e",
+      "player_a": "1345169849650905098",
+      "player_b": "643146326166732811",
+      "started_at": 1790488617.51672,
+      "channel_id": 1545750739652050994
     }
   },
   "weekly": {
