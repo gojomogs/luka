@@ -605,7 +605,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 20,
+      "progress": 22,
       "id": "93b362b3-19b4-4e45-9258-e1feb255fd75",
       "player_a": "1313492632076550156",
       "player_b": "1250732182536978548",
@@ -627,7 +627,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 50,
+      "progress": 51,
       "id": "03787ede-3312-47eb-93b1-f8ee2afc785e",
       "player_a": "870354420049776710",
       "player_b": "1415199399469908020",
@@ -742,6 +742,31 @@
       "player_b": "688313291532926976",
       "started_at": 1790497869.9293592,
       "channel_id": 1543278325772853438
+    },
+    "7a5716d4-25c3-4c53-ad37-2e0960096fd4": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Kazutora Hanemiya"
+      ],
+      "id": "7a5716d4-25c3-4c53-ad37-2e0960096fd4",
+      "player_a": "661202852244488192",
+      "player_b": "1310028877485314098",
+      "started_at": 1790498921.6799219,
+      "channel_id": 1543268797119729704
+    },
+    "98e3a83b-45df-4d5c-a334-70555f1e83de": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "98e3a83b-45df-4d5c-a334-70555f1e83de",
+      "player_a": "1507994684314747000",
+      "player_b": "1551880888139259905",
+      "started_at": 1790498927.836361,
+      "channel_id": 1543268797119729704
     }
   },
   "weekly": {
