@@ -149149,6 +149149,20 @@
   "1279518782838276148": [
     {
       "card": {
+        "id": "yuri_common_2",
+        "name": "Yuri Gable",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuri_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1790621139.3159177
+    },
+    {
+      "card": {
         "id": "doh_common",
         "name": "Doh Seong-ah",
         "series": "Kill Me If You Can",
@@ -235280,6 +235294,20 @@
   "1429533392705294521": [
     {
       "card": {
+        "id": "hawks_common_2",
+        "name": "Hawks",
+        "series": "My Hero Academia",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hawks_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 7,
+      "claimed_at": 1790621081.8661916
+    },
+    {
+      "card": {
         "id": "sea_common",
         "name": "Sea Fairy Cookie",
         "series": "CookieRun Series",
@@ -273266,6 +273294,20 @@
   "1465450153182761172": [
     {
       "card": {
+        "id": "daffodill_common",
+        "name": "Daffodill",
+        "series": "Neverness to Everness",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/daffodill_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790621135.2277038
+    },
+    {
+      "card": {
         "id": "rei_common_2",
         "name": "Rei Ayanami",
         "series": "Neon Genesis Evangelion",
@@ -278633,6 +278675,20 @@
     }
   ],
   "247066385849647107": [
+    {
+      "card": {
+        "id": "hashibara_common",
+        "name": "Hashibira Inosuke",
+        "series": "Kimetsu no Yaiba",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hashibara_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790621040.760526
+    },
     {
       "card": {
         "id": "astra_common",
@@ -301921,7 +301977,8 @@
         "version": "common"
       },
       "print": 32,
-      "claimed_at": 1790527548.8434696
+      "claimed_at": 1790527548.8434696,
+      "tags": "larp"
     },
     {
       "card": {
@@ -313041,6 +313098,20 @@
     }
   ],
   "1132475401701171262": [
+    {
+      "card": {
+        "id": "sachiko_common",
+        "name": "Sachiko Shinozaki",
+        "series": "Corpse Party",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sachiko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 18,
+      "claimed_at": 1790621044.3550978
+    },
     {
       "card": {
         "id": "gen_common",
@@ -327786,6 +327857,20 @@
     }
   ],
   "617162611687161859": [
+    {
+      "card": {
+        "id": "josuke_common",
+        "name": "Josuke Higashikata",
+        "series": "Jojo\u02bcs Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/josuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790621016.4653964
+    },
     {
       "card": {
         "id": "julien_common",
@@ -370026,6 +370111,20 @@
     }
   ],
   "1192201166893895725": [
+    {
+      "card": {
+        "id": "iron_common",
+        "name": "Iron Man",
+        "series": "Marvel",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/iron_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1790620933.155098
+    },
     {
       "card": {
         "id": "yuzuru_common",
@@ -438901,6 +439000,20 @@
     }
   ],
   "886247125292306432": [
+    {
+      "card": {
+        "id": "yamagishi_common",
+        "name": "Yamagishi Asako",
+        "series": "The Summer Hikaru Died",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yamagishi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1790620996.17184
+    },
     {
       "card": {
         "id": "plotter_common",
@@ -558316,6 +558429,20 @@
     }
   ],
   "1068989639362355252": [
+    {
+      "card": {
+        "id": "kaveh_common",
+        "name": "Kaveh",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kaveh_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1790621197.9310892
+    },
     {
       "card": {
         "id": "higashikata_common",
@@ -681735,7 +681862,8 @@
       },
       "print": 3,
       "claimed_at": 1790550496.8807135,
-      "tags": "-"
+      "tags": "-",
+      "showcased": true
     },
     {
       "card": {
@@ -684278,7 +684406,8 @@
         "version": "common"
       },
       "print": 1,
-      "claimed_at": 1788041534.8281384
+      "claimed_at": 1788041534.8281384,
+      "showcased": true
     },
     {
       "card": {
@@ -684966,7 +685095,8 @@
         "version": "common"
       },
       "print": 3,
-      "claimed_at": 1788008119.1700704
+      "claimed_at": 1788008119.1700704,
+      "showcased": true
     },
     {
       "card": {
@@ -690659,6 +690789,21 @@
     }
   ],
   "1545740226004123728": [
+    {
+      "card": {
+        "id": "katsuki_rare",
+        "name": "Katsuki Bakugou",
+        "series": "My Hero Academia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/katsuki_rare.png",
+        "frame": "orange",
+        "version": "rare"
+      },
+      "print": 5,
+      "claimed_at": 1790621078.1834295,
+      "tags": "hostage-FT"
+    },
     {
       "card": {
         "id": "lelouch_common_2",
@@ -711566,6 +711711,20 @@
     }
   ],
   "1178380074001645660": [
+    {
+      "card": {
+        "id": "shuji_common",
+        "name": "Shuji Taira",
+        "series": "You and I are Polar Opposites",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shuji_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1790621156.8993
+    },
     {
       "card": {
         "id": "anton_common",
@@ -826585,6 +826744,20 @@
     }
   ],
   "1379789794422554757": [
+    {
+      "card": {
+        "id": "yoruichi_common",
+        "name": "Yoruichi Shihouin",
+        "series": "Bleach",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yoruichi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790621100.5654628
+    },
     {
       "card": {
         "id": "loid_common",
