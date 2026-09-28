@@ -735,37 +735,6 @@
       "started_at": 1790563606.0147927,
       "channel_id": 1543292052249382962
     },
-    "d386e209-dff3-4d79-814b-e5f6f9c2b4c4": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Aaron Hunter",
-        "Deadpool",
-        "Amber",
-        "Freminet",
-        "Yomi",
-        "Shen Zechuan",
-        "Cha Eui-jae",
-        "Light Yagami",
-        "Rahu",
-        "Vivian Hugo",
-        "Tomoyo Sakagami",
-        "Shitou Zen",
-        "Neuvillette",
-        "Medicine Pocket",
-        "Neo",
-        "Kiyotaka Ayanokoji",
-        "Maka Albarn",
-        "Yeon Skylar"
-      ],
-      "id": "d386e209-dff3-4d79-814b-e5f6f9c2b4c4",
-      "player_a": "1211028404577632277",
-      "player_b": "755863624873934968",
-      "started_at": 1790564408.3355713,
-      "channel_id": 1543292052249382962
-    },
     "16e26c06-d847-47d8-9a45-dc9c8c828984": {
       "type": "claim_count",
       "target": 60,
@@ -781,7 +750,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 17,
+      "progress": 18,
       "id": "4a6d78e5-b773-47c8-a28a-ca8d0250b60f",
       "player_a": "1135702746692059330",
       "player_b": "968501068524818542",
@@ -810,7 +779,8 @@
         "Ritsu Tainaka",
         "Diona",
         "Portgas D. Ace",
-        "Ju Minchan"
+        "Ju Minchan",
+        "Lee Jinwoo & Kwon Taeyoung"
       ],
       "id": "ca1cc5e9-0c32-4dc1-b561-0ce1290daec2",
       "player_a": "1378462940096761856",
@@ -3682,11 +3652,19 @@
       {
         "timestamp": 1789786835.9092069,
         "partner_id": "1211028404577632277"
+      },
+      {
+        "timestamp": 1790631610.2977715,
+        "partner_id": "1211028404577632277"
       }
     ],
     "1211028404577632277": [
       {
         "timestamp": 1789786835.9092069,
+        "partner_id": "755863624873934968"
+      },
+      {
+        "timestamp": 1790631610.2977715,
         "partner_id": "755863624873934968"
       }
     ],
@@ -4287,8 +4265,8 @@
     "1157782319483068476": 1789716765.7154212,
     "1065199150498590782": 1789741192.8962114,
     "1071837987224158298": 1790029865.2728968,
-    "755863624873934968": 1789786835.9092069,
-    "1211028404577632277": 1789786835.9092069,
+    "755863624873934968": 1790631610.2977715,
+    "1211028404577632277": 1790631610.2977715,
     "913777441825255454": 1789817168.9390755,
     "808060427543642163": 1789821262.541103,
     "818518701539065888": 1789821262.541103,
@@ -10761,8 +10739,8 @@
       "claim": 0
     },
     "755863624873934968": {
-      "drop": 0,
-      "claim": 0
+      "drop": 1,
+      "claim": 1
     },
     "795454216760066090": {
       "drop": 0,
@@ -10785,8 +10763,8 @@
       "claim": 0
     },
     "1211028404577632277": {
-      "drop": 0,
-      "claim": 0
+      "drop": 1,
+      "claim": 1
     },
     "818518701539065888": {
       "drop": 0,
