@@ -43647,6 +43647,21 @@
   "968501068524818542": [
     {
       "card": {
+        "id": "mydei_rare",
+        "name": "Mydei",
+        "series": "Honkai: Star Rail",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/mydei_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 1,
+      "claimed_at": 1790571036.104846,
+      "tags": "\u035f \ud83d\uddd2\ufe0f\uff0e\u035d\ud80d\udc06 \ud835\udcbbt"
+    },
+    {
+      "card": {
         "id": "zhongli_common",
         "name": "Zhongli",
         "series": "Genshin Impact",
@@ -44134,20 +44149,6 @@
       },
       "print": 11,
       "claimed_at": 1789487524.1364202
-    },
-    {
-      "card": {
-        "id": "emma_common",
-        "name": "Emma",
-        "series": "Veil",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/emma_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 3,
-      "claimed_at": 1788560397.3340945
     },
     {
       "card": {
@@ -44741,20 +44742,6 @@
       },
       "print": 7,
       "claimed_at": 1789523484.113096
-    },
-    {
-      "card": {
-        "id": "emma_common",
-        "name": "Emma",
-        "series": "Veil",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/emma_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1789523473.53366
     },
     {
       "card": {
@@ -47030,20 +47017,6 @@
     },
     {
       "card": {
-        "id": "alexsander_common",
-        "name": "Aleksander",
-        "series": "Veil",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/alexsander_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 1,
-      "claimed_at": 1787895615.696169
-    },
-    {
-      "card": {
         "id": "kyoko_common",
         "name": "Kyoko Kirigiri",
         "series": "Danganronpa",
@@ -48264,18 +48237,63 @@
   "1135702746692059330": [
     {
       "card": {
-        "id": "mydei_rare",
-        "name": "Mydei",
-        "series": "Honkai: Star Rail",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/mydei_rare.png",
-        "frame": "red",
-        "version": "rare"
+        "id": "eita_common",
+        "name": "Eita Otoya",
+        "series": "BLUELOCK",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/eita_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790571863.5545418,
+      "tags": "\u035f \ud83d\uddd2\ufe0f\uff0e\u035d\ud80d\udc06 \ud835\udcbbt"
+    },
+    {
+      "card": {
+        "id": "emma_common",
+        "name": "Emma",
+        "series": "Veil",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/emma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 3,
+      "claimed_at": 1788560397.3340945,
+      "tags": "\ud80c\ude12\ud83d\udc84\u2800\ud835\udc21\uaac0\ud835\udd97\u2800\ud80c\ude12 \u0ebc"
+    },
+    {
+      "card": {
+        "id": "emma_common",
+        "name": "Emma",
+        "series": "Veil",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/emma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789523473.53366,
+      "tags": "\ud80c\ude12\ud83d\udc84\u2800\ud835\udc21\uaac0\ud835\udd97\u2800\ud80c\ude12 \u0ebc"
+    },
+    {
+      "card": {
+        "id": "alexsander_common",
+        "name": "Aleksander",
+        "series": "Veil",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/alexsander_common.png",
+        "frame": "common",
+        "version": "common"
       },
       "print": 1,
-      "claimed_at": 1790571036.104846,
-      "tags": "\u035f \ud83d\uddd2\ufe0f\uff0e\u035d\ud80d\udc06 \ud835\udcbbt"
+      "claimed_at": 1787895615.696169,
+      "tags": "\ud80c\ude12\ud83d\udc84\u2800\ud835\udc21\u0e40\ud835\udd92\u2800\ud80c\ude12 \u0ebc"
     },
     {
       "card": {
@@ -129997,6 +130015,20 @@
   "1515535105140064338": [
     {
       "card": {
+        "id": "ryusei_common",
+        "name": "Ryusei Shidou",
+        "series": "BLUELOCK",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ryusei_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1790571762.6418264
+    },
+    {
+      "card": {
         "id": "cha_common_2",
         "name": "Cha Eui-jae",
         "series": "The Hunter's Gonna Lay Low",
@@ -139125,6 +139157,20 @@
     }
   ],
   "775822038601564201": [
+    {
+      "card": {
+        "id": "levi_common",
+        "name": "Levi Ackerman",
+        "series": "Attack on Titan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/levi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1790571777.507992
+    },
     {
       "card": {
         "id": "xavier_common",
@@ -155307,6 +155353,20 @@
     }
   ],
   "1066269748293287997": [
+    {
+      "card": {
+        "id": "agent_common",
+        "name": "Agent Choi",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/agent_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1790571624.502012
+    },
     {
       "card": {
         "id": "seong_common",
@@ -233144,6 +233204,20 @@
   "1429533392705294521": [
     {
       "card": {
+        "id": "sorato_common",
+        "name": "Sorato Ichimiya",
+        "series": "Phantom Busters",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sorato_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1790548394.4142463
+    },
+    {
+      "card": {
         "id": "tamon_common_3",
         "name": "Tamon Fukuhara",
         "series": "Tamon\u2019s B-side",
@@ -239233,20 +239307,6 @@
       },
       "print": 13,
       "claimed_at": 1789717929.3461924
-    },
-    {
-      "card": {
-        "id": "pinkie_common",
-        "name": "Pinkie Pie",
-        "series": "My Little Pony",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/pinkie_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 17,
-      "claimed_at": 1789713635.4206896
     },
     {
       "card": {
@@ -264367,6 +264427,20 @@
     }
   ],
   "1310028877485314098": [
+    {
+      "card": {
+        "id": "lohen_common",
+        "name": "Lohen",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lohen_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 53,
+      "claimed_at": 1790571869.3571877
+    },
     {
       "card": {
         "id": "eternal_common",
@@ -444512,6 +444586,20 @@
   "1382686382690013196": [
     {
       "card": {
+        "id": "naruto_common",
+        "name": "Naruto Uzumaki",
+        "series": "Naruto",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/naruto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1790571860.3063316
+    },
+    {
+      "card": {
         "id": "kento_common",
         "name": "Kento Nanami",
         "series": "Jujutsu Kaisen",
@@ -446508,6 +446596,20 @@
     }
   ],
   "1293557714420498435": [
+    {
+      "card": {
+        "id": "kaguya_common",
+        "name": "Kaguya",
+        "series": "Cosmic Princess Kaguya",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kaguya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1790571865.1671042
+    },
     {
       "card": {
         "id": "hong_common",
@@ -457358,6 +457460,20 @@
     }
   ],
   "769484060824698890": [
+    {
+      "card": {
+        "id": "evanescia_common",
+        "name": "Evanescia",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/evanescia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1790571791.8289833
+    },
     {
       "card": {
         "id": "tobio_common",
@@ -484641,6 +484757,20 @@
     }
   ],
   "1200759841245892653": [
+    {
+      "card": {
+        "id": "tooth_common",
+        "name": "Tooth Fairy",
+        "series": "Reverse: 1999",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tooth_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1790571655.8206766
+    },
     {
       "card": {
         "id": "kageyama_common",
@@ -592830,6 +592960,20 @@
   "1146772200016326676": [
     {
       "card": {
+        "id": "pinkie_common",
+        "name": "Pinkie Pie",
+        "series": "My Little Pony",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/pinkie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789713635.4206896
+    },
+    {
+      "card": {
         "id": "yukari_common",
         "name": "Yukari Takeba",
         "series": "Persona",
@@ -592856,20 +593000,6 @@
       },
       "print": 53,
       "claimed_at": 1790549018.3954365
-    },
-    {
-      "card": {
-        "id": "sorato_common",
-        "name": "Sorato Ichimiya",
-        "series": "Phantom Busters",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/sorato_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 50,
-      "claimed_at": 1790548394.4142463
     },
     {
       "card": {
@@ -767183,6 +767313,20 @@
   "1258773379297841152": [
     {
       "card": {
+        "id": "alucard_common",
+        "name": "Alucard",
+        "series": "HELLSING",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/alucard_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1790571710.888819
+    },
+    {
+      "card": {
         "id": "nagisa_common",
         "name": "Nagisa Hazuki",
         "series": "Free! Iwatobi Swim Club",
@@ -767802,6 +767946,20 @@
     }
   ],
   "1245310885216522280": [
+    {
+      "card": {
+        "id": "evan_common",
+        "name": "Evan",
+        "series": "Light and Night",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/evan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1790571749.763002
+    },
     {
       "card": {
         "id": "the_common_5",
@@ -799666,6 +799824,20 @@
   "1113230728415690843": [
     {
       "card": {
+        "id": "eiden_common",
+        "name": "Eiden",
+        "series": "NU: Carnival",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/eiden_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1790571692.3108091
+    },
+    {
+      "card": {
         "id": "elias_common",
         "name": "Elias Pratt",
         "series": "Tokyo Debunker",
@@ -802328,6 +802500,20 @@
     }
   ],
   "1037427620905766932": [
+    {
+      "card": {
+        "id": "klein_common",
+        "name": "Klein Moretti",
+        "series": "Lord Of The Mysteries",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/klein_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790571668.6504128
+    },
     {
       "card": {
         "id": "shinji_common_2",
@@ -812589,6 +812775,20 @@
     }
   ],
   "1118324764012970164": [
+    {
+      "card": {
+        "id": "ilay_common",
+        "name": "Ilay Riegrow",
+        "series": "Passion",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ilay_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 47,
+      "claimed_at": 1790571816.8311224
+    },
     {
       "card": {
         "id": "dracula_common",
