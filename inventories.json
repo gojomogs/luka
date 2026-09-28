@@ -106651,6 +106651,20 @@
   "998695603359977553": [
     {
       "card": {
+        "id": "michael_common",
+        "name": "Michael Kaiser",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/michael_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1790557312.1161845
+    },
+    {
+      "card": {
         "id": "jean_common",
         "name": "Jean Kirstein",
         "series": "Attack on Titan",
@@ -145629,7 +145643,8 @@
         "version": "common"
       },
       "print": 38,
-      "claimed_at": 1790556966.7357357
+      "claimed_at": 1790556966.7357357,
+      "tags": "\u02d1\ud80c\ude12\ud801\udd0c\ud83e\udee7\ua4b1*"
     },
     {
       "card": {
@@ -310680,6 +310695,20 @@
   "688313291532926976": [
     {
       "card": {
+        "id": "jack_common",
+        "name": "Jack Howl",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jack_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1790557129.671791
+    },
+    {
+      "card": {
         "id": "huiseo_common",
         "name": "Huiseo Kang",
         "series": "Proof of Dignity",
@@ -380623,6 +380652,20 @@
   "934498436575813693": [
     {
       "card": {
+        "id": "marin_common",
+        "name": "Marin Kitagawa",
+        "series": "My Dress-Up Darling",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/marin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1790557298.3240237
+    },
+    {
+      "card": {
         "id": "kaoru_common",
         "name": "Kaoru Sakurayashiki",
         "series": "SK8 THE INFINITY",
@@ -430387,17 +430430,18 @@
   "886247125292306432": [
     {
       "card": {
-        "id": "neuvillette_common_2",
-        "name": "Neuvillette",
-        "series": "Genshin Impact",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/neuvillette_common_2.png",
+        "id": "kwak_common_2",
+        "name": "Kwak Jekang",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kwak_common_2.png",
         "frame": "common",
-        "version": "V1"
+        "version": "common"
       },
-      "print": 4,
-      "claimed_at": 1790556928.0833972
+      "print": 11,
+      "claimed_at": 1788639499.2916927,
+      "tags": "\ud83d\udc89 \uaa86\ud80c\ude12\u2800gsgw"
     },
     {
       "card": {
@@ -497426,6 +497470,20 @@
   "836214830662025227": [
     {
       "card": {
+        "id": "shalom_common",
+        "name": "Shalom",
+        "series": "Path To Nowhere",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shalom_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1790557302.4332821
+    },
+    {
+      "card": {
         "id": "hong_common",
         "name": "Hong Lu",
         "series": "Limbus Company",
@@ -546011,6 +546069,20 @@
     }
   ],
   "1068989639362355252": [
+    {
+      "card": {
+        "id": "ellis_common",
+        "name": "Ellis Twilight",
+        "series": "Ikemen Villains",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ellis_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1790557348.6555846
+    },
     {
       "card": {
         "id": "jude_common_2",
@@ -645475,6 +645547,20 @@
   "1454297163029807329": [
     {
       "card": {
+        "id": "izutsumi_common",
+        "name": "Izutsumi",
+        "series": "Dungeon Meshi",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/izutsumi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790557175.937288
+    },
+    {
+      "card": {
         "id": "clorinde_common",
         "name": "Clorinde",
         "series": "Genshin Impact",
@@ -655778,6 +655864,34 @@
   "1473475651725164714": [
     {
       "card": {
+        "id": "neutralize_common",
+        "name": "Neutralize Nachal The Eight",
+        "series": "Special Civil Servant",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/neutralize_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 45,
+      "claimed_at": 1790557249.1248457
+    },
+    {
+      "card": {
+        "id": "neuvillette_common_2",
+        "name": "Neuvillette",
+        "series": "Genshin Impact",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/neuvillette_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 4,
+      "claimed_at": 1790556928.0833972
+    },
+    {
+      "card": {
         "id": "odette_common",
         "name": "Odette",
         "series": "Genshin Impact",
@@ -657350,21 +657464,6 @@
       "print": 22,
       "claimed_at": 1789947510.4230099,
       "tags": "\ua4b0\ud83d\udcb0\ua4b1\u2800ft"
-    },
-    {
-      "card": {
-        "id": "kwak_common_2",
-        "name": "Kwak Jekang",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kwak_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1788639499.2916927,
-      "tags": "\ud83d\udc89 \uaa86\ud80c\ude12\u2800gsgw"
     },
     {
       "card": {
@@ -667086,6 +667185,20 @@
     }
   ],
   "1058900013201231992": [
+    {
+      "card": {
+        "id": "sushang_common",
+        "name": "Sushang",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sushang_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1790557369.3000488
+    },
     {
       "card": {
         "id": "himmel_common",
@@ -689064,6 +689177,20 @@
     }
   ],
   "1487167743156293632": [
+    {
+      "card": {
+        "id": "joe_common",
+        "name": "Joe Tazuna",
+        "series": "Your Turn To Die",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/joe_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790557161.7370212
+    },
     {
       "card": {
         "id": "dr._common",
@@ -806536,6 +806663,20 @@
     }
   ],
   "1290987967560683580": [
+    {
+      "card": {
+        "id": "superman_rare",
+        "name": "Superboy",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/superman_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 26,
+      "claimed_at": 1790557113.3193095
+    },
     {
       "card": {
         "id": "all_common",
