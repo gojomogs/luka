@@ -1,137 +1,119 @@
 {
   "merchants": [
     {
-      "id": "voyager_merchant_1790258580_9993",
+      "id": "voyager_merchant_1790618151_9394",
       "template_id": "voyager_merchant",
       "wants": [
         {
-          "id": "elysia_common",
-          "name": "Elysia",
-          "series": "Honkai Impact 3rd",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/elysia_common.png"
-        },
-        {
-          "id": "hinomori_common",
-          "name": "Hinomori Shizuku",
-          "series": "Project Sekai: Colorful Stage!",
-          "stars": 2,
-          "frame": "common",
-          "image": "card_art/hinomori_common.png"
-        }
-      ],
-      "rewards": [
-        {
-          "id": "mydei_common",
-          "name": "Mydei",
+          "id": "aventurine_common",
+          "name": "Aventurine",
           "series": "Honkai: Star Rail",
           "stars": 2,
           "frame": "common",
-          "image": "card_art/mydei_common.png"
+          "image": "card_art/aventurine_common.png"
         },
         {
-          "id": "flins_common",
-          "name": "Flins",
-          "series": "Genshin Impact",
-          "stars": 2,
+          "id": "jingliu_common",
+          "name": "Jingliu",
+          "series": "Honkai: Star Rail",
+          "stars": 1,
           "frame": "common",
-          "image": "card_art/flins_common.png"
+          "image": "card_art/jingliu_common.png"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "raiden_common",
+          "name": "Raiden Mei",
+          "series": "Honkai Impact 3rd",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/raiden_common.png"
+        },
+        {
+          "id": "hiyori_common",
+          "name": "Hiyori Tomoe",
+          "series": "Ensemble Stars!",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/hiyori_common.png"
+        },
+        {
+          "id": "kallen_common_2",
+          "name": "Kallen Kaslana",
+          "series": "Honkai Impact 3rd",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/kallen_common_2.png"
         }
       ],
       "stock": 10,
-      "start_ts": 1790258580.8739383,
-      "expires_ts": 1790344980.8739383
+      "start_ts": 1790618151.1806505,
+      "expires_ts": 1790704551.1806505
     },
     {
-      "id": "lucky_merchant_1790258580_7496",
+      "id": "lucky_merchant_1790618151_6985",
       "template_id": "lucky_merchant",
       "wants": [
         {
-          "id": "sae_common",
-          "name": "Sae Itoshi",
-          "series": "BLUELOCK",
+          "id": "kugisaki_common",
+          "name": "Kugisaki Nobara",
+          "series": "Jujutsu Kaisen",
           "stars": 2,
           "frame": "common",
-          "image": "card_art/sae_common.png"
+          "image": "card_art/kugisaki_common.png"
         },
         {
-          "id": "hawks_common_2",
-          "name": "Hawks",
-          "series": "My Hero Academia",
+          "id": "luka_rare",
+          "name": "Luka",
+          "series": "Alien Stage",
+          "stars": 4,
+          "frame": "yellow",
+          "image": "card_art/luka_rare.png"
+        },
+        {
+          "id": "hashibara_common",
+          "name": "Hashibira Inosuke",
+          "series": "Kimetsu no Yaiba",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/hawks_common_2.png"
-        },
-        {
-          "id": "gyutaro_common",
-          "name": "Gyutaro",
-          "series": "Kimetsu no Yaiba",
-          "stars": 2,
-          "frame": "common",
-          "image": "card_art/gyutaro_common.png"
+          "image": "card_art/hashibara_common.png"
         }
       ],
       "rewards": [
         {
-          "id": "tenya_common",
-          "name": "Tenya Iida",
-          "series": "My Hero Academia",
-          "stars": 1,
+          "id": "fushiguro_common_2",
+          "name": "Fushiguro Megumi",
+          "series": "Jujutsu Kaisen",
+          "stars": 2,
           "frame": "common",
-          "image": "card_art/tenya_common.png"
+          "image": "card_art/fushiguro_common_2.png"
         },
         {
-          "id": "michael_common",
-          "name": "Michael Kaiser",
-          "series": "BLUELOCK",
+          "id": "himejima_common",
+          "name": "Himejima Gyomei",
+          "series": "Kimetsu no Yaiba",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/michael_common.png"
+          "image": "card_art/himejima_common.png"
+        },
+        {
+          "id": "ivan_common",
+          "name": "Ivan",
+          "series": "Alien Stage",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/ivan_common.png"
         }
       ],
       "stock": 10,
-      "start_ts": 1790258580.8739383,
-      "expires_ts": 1790344980.8739383
+      "start_ts": 1790618151.1806505,
+      "expires_ts": 1790704551.1806505
     },
     {
-      "id": "collector_merchant_1790258580_5631",
+      "id": "collector_merchant_1790618151_8085",
       "template_id": "collector_merchant",
       "wants": [
-        {
-          "id": "hecate_common",
-          "name": "Hecate",
-          "series": "Path To Nowhere",
-          "stars": 2,
-          "frame": "common",
-          "image": "card_art/hecate_common.png"
-        },
-        {
-          "id": "kim_common_8",
-          "name": "Kim Dokja",
-          "series": "Omniscient Reader's Viewpoint",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/kim_common_8.png"
-        },
-        {
-          "id": "ren_common_3",
-          "name": "Ren Amamiya",
-          "series": "Persona",
-          "stars": 3,
-          "frame": "common",
-          "image": "card_art/ren_common_3.png"
-        }
-      ],
-      "rewards": [
-        {
-          "id": "pepper_common",
-          "name": "Pepper",
-          "series": "Path To Nowhere",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/pepper_common.png"
-        },
         {
           "id": "kasumi_common",
           "name": "Kasumi Yoshizawa",
@@ -141,18 +123,52 @@
           "image": "card_art/kasumi_common.png"
         },
         {
-          "id": "jin_common",
-          "name": "Jin Kamurai",
+          "id": "romeo_common",
+          "name": "Romeo Lucci",
           "series": "Tokyo Debunker",
-          "stars": 3,
+          "stars": 1,
           "frame": "common",
-          "image": "card_art/jin_common.png"
+          "image": "card_art/romeo_common.png"
+        },
+        {
+          "id": "lady_common_2",
+          "name": "Lady Pearl",
+          "series": "Path To Nowhere",
+          "stars": 2,
+          "frame": "common",
+          "image": "card_art/lady_common_2.png"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "rui_common_2",
+          "name": "Rui Mizuki",
+          "series": "Tokyo Debunker",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/rui_common_2.png"
+        },
+        {
+          "id": "ninety-nine_common",
+          "name": "Ninety-Nine",
+          "series": "Path To Nowhere",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/ninety-nine_common.png"
+        },
+        {
+          "id": "garofano_common",
+          "name": "Garofano",
+          "series": "Path To Nowhere",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/garofano_common.png"
         }
       ],
       "stock": 10,
-      "start_ts": 1790258580.8739383,
-      "expires_ts": 1790344980.8739383
+      "start_ts": 1790618151.1806505,
+      "expires_ts": 1790704551.1806505
     }
   ],
-  "next_generation_at": 1790616280.2933786
+  "next_generation_at": null
 }
