@@ -691,7 +691,8 @@
         "Ivan",
         "Osamu Dazai",
         "Hyuna",
-        "Angel Devil"
+        "Angel Devil",
+        "Ruby Hoshino"
       ],
       "id": "6863c69c-a78c-49b3-97c2-fb2be11f8f36",
       "player_a": "899114077706657852",
@@ -739,12 +740,24 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 8,
+      "progress": 10,
       "id": "23d360a0-5f69-4f10-94b0-ba2fdcc6eda9",
       "player_a": "969659066018304031",
       "player_b": "1126822708496318504",
       "started_at": 1790691427.4380314,
       "channel_id": 1540008581649403995
+    },
+    "6ea7bd2d-b639-411f-95fd-dd3d2661c209": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "6ea7bd2d-b639-411f-95fd-dd3d2661c209",
+      "player_a": "1545740226004123728",
+      "player_b": "1279518782838276148",
+      "started_at": 1790695837.6707006,
+      "channel_id": 1543221155584938034
     }
   },
   "weekly": {
