@@ -627,44 +627,12 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 4,
+      "progress": 5,
       "id": "09aa8a80-bde8-4598-828c-f3452d5ff1bf",
       "player_a": "769484060824698890",
       "player_b": "601381718569517076",
       "started_at": 1790578362.3297172,
       "channel_id": 1543409082462113842
-    },
-    "ca1cc5e9-0c32-4dc1-b561-0ce1290daec2": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Chiaki Morisawa",
-        "Leonard Mitchell",
-        "Ritsu Tainaka",
-        "Diona",
-        "Portgas D. Ace",
-        "Ju Minchan",
-        "Lee Jinwoo & Kwon Taeyoung",
-        "Eiden",
-        "Tatsumi Kazehaya",
-        "Teru Mikami",
-        "Yuta Aoi",
-        "Josh Bailey",
-        "Zhu Yuan",
-        "Qi Rong",
-        "Aki Hayakawa",
-        "Asta",
-        "Ciel Phantomhive",
-        "Xueyi",
-        "Rinna"
-      ],
-      "id": "ca1cc5e9-0c32-4dc1-b561-0ce1290daec2",
-      "player_a": "1378462940096761856",
-      "player_b": "1487235612988674130",
-      "started_at": 1790624036.8325975,
-      "channel_id": 1549897851914551336
     },
     "f1b7ea92-1df6-494f-8838-96d7cf530a7c": {
       "type": "claim_rarity4",
@@ -717,7 +685,8 @@
         "Iroha Sakayori",
         "Karna",
         "Tae-geum",
-        "Yuuichirou Hyakuya"
+        "Yuuichirou Hyakuya",
+        "Rise Kujikawa"
       ],
       "id": "8ecb671d-ec71-4abe-b7aa-df3aeffe228d",
       "player_a": "870354420049776710",
@@ -729,7 +698,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 27,
+      "progress": 28,
       "id": "23d360a0-5f69-4f10-94b0-ba2fdcc6eda9",
       "player_a": "969659066018304031",
       "player_b": "1126822708496318504",
@@ -747,7 +716,8 @@
         "Marvel",
         "Sailor Moon",
         "Witch Hat Atelier",
-        "Oshi No Ko"
+        "Oshi No Ko",
+        "Bungo Stray Dogs"
       ],
       "id": "6ea7bd2d-b639-411f-95fd-dd3d2661c209",
       "player_a": "1545740226004123728",
@@ -3744,6 +3714,10 @@
       {
         "timestamp": 1790030650.2777495,
         "partner_id": "1359716535077179463"
+      },
+      {
+        "timestamp": 1790705878.7243848,
+        "partner_id": "1487235612988674130"
       }
     ],
     "533041724638101505": [
@@ -4030,6 +4004,12 @@
       {
         "timestamp": 1790689897.8186777,
         "partner_id": "1313492632076550156"
+      }
+    ],
+    "1487235612988674130": [
+      {
+        "timestamp": 1790705878.7243848,
+        "partner_id": "1378462940096761856"
       }
     ]
   },
@@ -4384,7 +4364,7 @@
     "913777441825255454": 1789817168.9390755,
     "808060427543642163": 1790705810.8475943,
     "818518701539065888": 1789821262.541103,
-    "1378462940096761856": 1790030650.2777495,
+    "1378462940096761856": 1790705878.7243848,
     "533041724638101505": 1790106099.5833464,
     "1151512609409998959": 1790691933.7074478,
     "1415199399469908020": 1790691933.7074478,
@@ -4425,7 +4405,8 @@
     "1278177665450246192": 1790681541.8270214,
     "1321065001212969044": 1790689087.9925034,
     "1115364773039702116": 1790689087.9925034,
-    "1250732182536978548": 1790689897.8186777
+    "1250732182536978548": 1790689897.8186777,
+    "1487235612988674130": 1790705878.7243848
   },
   "bonus": {
     "777925664358531102": {
@@ -4885,7 +4866,7 @@
       "claim": 0
     },
     "1378462940096761856": {
-      "drop": 0,
+      "drop": 1,
       "claim": 0
     },
     "1217653646158860328": {
@@ -8449,8 +8430,8 @@
       "claim": 0
     },
     "1487235612988674130": {
-      "drop": 0,
-      "claim": 5
+      "drop": 1,
+      "claim": 6
     },
     "1142819898205151292": {
       "drop": 0,
