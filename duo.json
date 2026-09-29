@@ -627,7 +627,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 3,
+      "progress": 4,
       "id": "09aa8a80-bde8-4598-828c-f3452d5ff1bf",
       "player_a": "769484060824698890",
       "player_b": "601381718569517076",
@@ -718,7 +718,8 @@
         "Kasumi Yoshizawa",
         "C.C.",
         "Hong Kihoon",
-        "Bones"
+        "Bones",
+        "Ivan"
       ],
       "id": "6863c69c-a78c-49b3-97c2-fb2be11f8f36",
       "player_a": "899114077706657852",
@@ -747,7 +748,8 @@
         "Bianca",
         "Sung Hyunjae",
         "Tsukishima Kei",
-        "Hikaru"
+        "Hikaru",
+        "Malleus Draconia"
       ],
       "id": "72393379-42e8-4db7-99d6-ba7e2d720a44",
       "player_a": "1151512609409998959",
@@ -760,7 +762,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Blue Spring Ride"
+      ],
       "id": "d5823fbc-84c0-413e-b522-9dfc246f26df",
       "player_a": "827119373323206657",
       "player_b": "808060427543642163",
@@ -772,7 +776,11 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Yo-ham & Joo Ui-young",
+        "Iroha Sakayori",
+        "Karna"
+      ],
       "id": "8ecb671d-ec71-4abe-b7aa-df3aeffe228d",
       "player_a": "870354420049776710",
       "player_b": "1388187436894523645",
@@ -5711,7 +5719,7 @@
     },
     "1388187436894523645": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "748667166605443113": {
       "drop": 0,
