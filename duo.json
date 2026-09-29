@@ -660,7 +660,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 37,
+      "progress": 38,
       "id": "041fd4cf-8a1b-49d0-87d8-6fb26f6bcf6a",
       "player_a": "960884355805351977",
       "player_b": "764446760004354048",
@@ -693,7 +693,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 30,
+      "progress": 31,
       "id": "4a6d78e5-b773-47c8-a28a-ca8d0250b60f",
       "player_a": "1135702746692059330",
       "player_b": "968501068524818542",
@@ -741,33 +741,6 @@
       "player_b": "1487235612988674130",
       "started_at": 1790624036.8325975,
       "channel_id": 1549897851914551336
-    },
-    "f78fb86c-0959-43f4-9026-d21bdbac391d": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Gachiakuta",
-        "Puella Magi Madoka Magica",
-        "Dead Plate",
-        "Spongebob Squarepants",
-        "Beastars",
-        "Obey Me!",
-        "Tokyo Debunker",
-        "Project Sekai: Colorful Stage!",
-        "Silver Palace",
-        "Genshin Impact",
-        "Wind Breaker",
-        "Go for it, Nakamura!",
-        "Wuthering Waves",
-        "Tokyo Aliens"
-      ],
-      "id": "f78fb86c-0959-43f4-9026-d21bdbac391d",
-      "player_a": "1379789794422554757",
-      "player_b": "1206014433692876850",
-      "started_at": 1790636658.4132185,
-      "channel_id": 1553970615344431104
     }
   },
   "weekly": {
@@ -3932,6 +3905,18 @@
         "timestamp": 1790643180.6944067,
         "partner_id": "934498436575813693"
       }
+    ],
+    "1379789794422554757": [
+      {
+        "timestamp": 1790650661.306592,
+        "partner_id": "1206014433692876850"
+      }
+    ],
+    "1206014433692876850": [
+      {
+        "timestamp": 1790650661.306592,
+        "partner_id": "1379789794422554757"
+      }
     ]
   },
   "cooldowns": {
@@ -4319,7 +4304,9 @@
     "1012406209824968786": 1790563480.7074244,
     "888720475780444160": 1790579771.8678546,
     "653839860821655601": 1790625717.369322,
-    "1068989639362355252": 1790643180.6944067
+    "1068989639362355252": 1790643180.6944067,
+    "1379789794422554757": 1790650661.306592,
+    "1206014433692876850": 1790650661.306592
   },
   "bonus": {
     "777925664358531102": {
