@@ -667,33 +667,6 @@
       "started_at": 1790538467.324697,
       "channel_id": 1548834752914653254
     },
-    "27dd06aa-312f-4e16-af5a-e5d229d58b0f": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Heaven Official\u2019s Blessing",
-        "Wuthering Waves",
-        "Jojo\u02bcs Bizarre Adventure",
-        "Genshin Impact",
-        "Tokyo Debunker",
-        "Castlevania",
-        "Gachiakuta",
-        "Ensemble Stars!",
-        "My Little Pony",
-        "Your Lie In April",
-        "Jujutsu Kaisen",
-        "Trash of the Counts Family",
-        "Fate Series",
-        "My Hero Academia"
-      ],
-      "id": "27dd06aa-312f-4e16-af5a-e5d229d58b0f",
-      "player_a": "762127115721637898",
-      "player_b": "224627689909256192",
-      "started_at": 1790538633.4624643,
-      "channel_id": 1542722824060407899
-    },
     "041fd4cf-8a1b-49d0-87d8-6fb26f6bcf6a": {
       "type": "claim_count",
       "target": 60,
@@ -785,7 +758,8 @@
         "Puella Magi Madoka Magica",
         "Dead Plate",
         "Spongebob Squarepants",
-        "Beastars"
+        "Beastars",
+        "Obey Me!"
       ],
       "id": "f78fb86c-0959-43f4-9026-d21bdbac391d",
       "player_a": "1379789794422554757",
@@ -3273,11 +3247,19 @@
       {
         "timestamp": 1788626415.2904992,
         "partner_id": "762127115721637898"
+      },
+      {
+        "timestamp": 1790643921.8604722,
+        "partner_id": "762127115721637898"
       }
     ],
     "762127115721637898": [
       {
         "timestamp": 1788626415.2904992,
+        "partner_id": "224627689909256192"
+      },
+      {
+        "timestamp": 1790643921.8604722,
         "partner_id": "224627689909256192"
       }
     ],
@@ -4240,8 +4222,8 @@
     "1465450153182761172": 1789542199.1509278,
     "1022487940137492540": 1788620450.1020567,
     "1279518782838276148": 1790498041.6729245,
-    "224627689909256192": 1788626415.2904992,
-    "762127115721637898": 1788626415.2904992,
+    "224627689909256192": 1790643921.8604722,
+    "762127115721637898": 1790643921.8604722,
     "772183077996331009": 1788627326.7120388,
     "800838590606606346": 1788630829.906689,
     "774481019822669824": 1788630829.906689,
@@ -5395,8 +5377,8 @@
       "claim": 0
     },
     "224627689909256192": {
-      "drop": 0,
-      "claim": 2
+      "drop": 1,
+      "claim": 3
     },
     "675504501204975639": {
       "drop": 0,
