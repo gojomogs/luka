@@ -671,7 +671,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "29c3e099-1145-4f08-8f16-3c6a28d70203",
       "player_a": "826335464532607031",
       "player_b": "1204473206077919295",
@@ -738,13 +738,26 @@
         "Fake Slackers",
         "Under The Green Light",
         "Fragaria Memories",
-        "Wuthering Waves"
+        "Wuthering Waves",
+        "Between The Lines"
       ],
       "id": "20c078af-5e6c-4430-9918-6c3694bce081",
       "player_a": "1310028877485314098",
       "player_b": "1504462632013398208",
       "started_at": 1790942916.642624,
       "channel_id": 1552680008219365437
+    },
+    "4ea22b68-1a4b-4f40-a222-c77eaa7e7f20": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "4ea22b68-1a4b-4f40-a222-c77eaa7e7f20",
+      "player_a": "736235127910432789",
+      "player_b": "1160404871544045629",
+      "started_at": 1790951548.114564,
+      "channel_id": 1545883347622957207
     }
   },
   "weekly": {
@@ -11034,7 +11047,7 @@
       "claim": 0
     },
     "834374188042289162": {
-      "drop": 1,
+      "drop": 0,
       "claim": 1
     },
     "1151512609409998959": {
@@ -11062,8 +11075,8 @@
       "claim": 0
     },
     "547774305803436032": {
-      "drop": 1,
-      "claim": 1
+      "drop": 0,
+      "claim": 0
     },
     "729686302877810805": {
       "drop": 0,
