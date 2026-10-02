@@ -682,7 +682,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 1,
+      "progress": 2,
       "id": "29c3e099-1145-4f08-8f16-3c6a28d70203",
       "player_a": "826335464532607031",
       "player_b": "1204473206077919295",
@@ -732,6 +732,20 @@
       "player_b": "420699083238539285",
       "started_at": 1790939967.2585168,
       "channel_id": 1548954162337943572
+    },
+    "20c078af-5e6c-4430-9918-6c3694bce081": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "How I Attended an All-Guy's Mixer"
+      ],
+      "id": "20c078af-5e6c-4430-9918-6c3694bce081",
+      "player_a": "1310028877485314098",
+      "player_b": "1504462632013398208",
+      "started_at": 1790942916.642624,
+      "channel_id": 1552680008219365437
     }
   },
   "weekly": {
