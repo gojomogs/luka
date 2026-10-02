@@ -745,6 +745,33 @@
       "player_b": "969659066018304031",
       "started_at": 1790965595.855867,
       "channel_id": 1543238982299684934
+    },
+    "5456a391-7ea0-4a7c-bc70-8630186dfadc": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "NU: Carnival",
+        "Arcane"
+      ],
+      "id": "5456a391-7ea0-4a7c-bc70-8630186dfadc",
+      "player_a": "1279518782838276148",
+      "player_b": "727441845789130804",
+      "started_at": 1790983970.0631008,
+      "channel_id": 1543221155584938034
+    },
+    "6847a3e9-9e54-4561-be88-27cfe14cff0c": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "6847a3e9-9e54-4561-be88-27cfe14cff0c",
+      "player_a": "1545740226004123728",
+      "player_b": "1299833889166065743",
+      "started_at": 1790984038.0827048,
+      "channel_id": 1543259382723125388
     }
   },
   "weekly": {
@@ -11262,6 +11289,10 @@
       "claim": 0
     },
     "1303854980452847702": {
+      "drop": 0,
+      "claim": 0
+    },
+    "1170459183406141582": {
       "drop": 0,
       "claim": 0
     }
