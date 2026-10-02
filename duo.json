@@ -649,7 +649,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 0,
+      "progress": 1,
       "id": "fb0fb693-6bb5-462f-9b50-84b604282129",
       "player_a": "764446760004354048",
       "player_b": "1454914344792883305",
@@ -682,7 +682,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 0,
+      "progress": 1,
       "id": "29c3e099-1145-4f08-8f16-3c6a28d70203",
       "player_a": "826335464532607031",
       "player_b": "1204473206077919295",
@@ -11187,6 +11187,10 @@
       "claim": 0
     },
     "799173789404626964": {
+      "drop": 0,
+      "claim": 0
+    },
+    "1368254092320702514": {
       "drop": 0,
       "claim": 0
     }
