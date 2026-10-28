@@ -1,34 +1,42 @@
 {
   "merchants": [
     {
-      "id": "voyager_merchant_1790877695_2302",
+      "id": "voyager_merchant_1793203577_3053",
       "template_id": "voyager_merchant",
       "wants": [
         {
-          "id": "dan_common",
-          "name": "Dan Heng",
+          "id": "kaedehara_common",
+          "name": "Kaedehara Kazuha",
+          "series": "Genshin Impact",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/kaedehara_common.png"
+        },
+        {
+          "id": "sunday_common_2",
+          "name": "Sunday",
+          "series": "Honkai: Star Rail",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/sunday_common_2.png"
+        },
+        {
+          "id": "boothill_common",
+          "name": "Boothill",
           "series": "Honkai: Star Rail",
           "stars": 2,
           "frame": "common",
-          "image": "card_art/dan_common.png"
-        },
-        {
-          "id": "robin_rare",
-          "name": "Robin",
-          "series": "Honkai: Star Rail",
-          "stars": 4,
-          "frame": "yellow",
-          "image": "card_art/robin_rare.png"
+          "image": "card_art/boothill_common.png"
         }
       ],
       "rewards": [
         {
-          "id": "yoisaki_common",
-          "name": "Yoisaki Kanade",
-          "series": "Project Sekai: Colorful Stage!",
-          "stars": 3,
+          "id": "kevin_common",
+          "name": "Kevin Kaslana",
+          "series": "Honkai Impact 3rd",
+          "stars": 1,
           "frame": "common",
-          "image": "card_art/yoisaki_common.png"
+          "image": "card_art/kevin_common.png"
         },
         {
           "id": "asahina_common",
@@ -40,13 +48,39 @@
         }
       ],
       "stock": 10,
-      "start_ts": 1790877695.964334,
-      "expires_ts": 1790964095.964334
+      "start_ts": 1793203577.3458288,
+      "expires_ts": 1793289977.3458288
     },
     {
-      "id": "lucky_merchant_1790877695_2283",
+      "id": "lucky_merchant_1793203577_9953",
       "template_id": "lucky_merchant",
       "wants": [
+        {
+          "id": "present_common",
+          "name": "Present Mic",
+          "series": "My Hero Academia",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/present_common.png"
+        },
+        {
+          "id": "rin_rare",
+          "name": "Rin Itoshi",
+          "series": "BLUELOCK",
+          "stars": 4,
+          "frame": "blue",
+          "image": "card_art/rin_rare.png"
+        },
+        {
+          "id": "oboro_common",
+          "name": "Oboro Shirakumo",
+          "series": "My Hero Academia",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/oboro_common.png"
+        }
+      ],
+      "rewards": [
         {
           "id": "genya_common",
           "name": "Genya Shinaguzawa",
@@ -56,87 +90,69 @@
           "image": "card_art/genya_common.png"
         },
         {
-          "id": "luka_common",
-          "name": "Luka",
-          "series": "Alien Stage",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/luka_common.png"
-        }
-      ],
-      "rewards": [
-        {
-          "id": "luka_rare",
-          "name": "Luka",
-          "series": "Alien Stage",
-          "stars": 4,
-          "frame": "yellow",
-          "image": "card_art/luka_rare.png"
-        },
-        {
-          "id": "rensuke_common",
-          "name": "Rensuke Kunigami",
-          "series": "BLUELOCK",
+          "id": "riko_common",
+          "name": "Riko Amanai",
+          "series": "Jujutsu Kaisen",
           "stars": 2,
           "frame": "common",
-          "image": "card_art/rensuke_common.png"
+          "image": "card_art/riko_common.png"
         }
       ],
-      "stock": 5,
-      "start_ts": 1790877695.964334,
-      "expires_ts": 1790964095.964334
+      "stock": 10,
+      "start_ts": 1793203577.3458288,
+      "expires_ts": 1793289977.3458288
     },
     {
-      "id": "collector_merchant_1790877695_4713",
+      "id": "collector_merchant_1793203577_5252",
       "template_id": "collector_merchant",
       "wants": [
         {
-          "id": "coquelic_common",
-          "name": "Coquelic",
-          "series": "Path To Nowhere",
+          "id": "kazutora_common",
+          "name": "Kazutora Hanemiya",
+          "series": "Tokyo Revengers",
           "stars": 2,
           "frame": "common",
-          "image": "card_art/coquelic_common.png"
+          "image": "card_art/kazutora_common.png"
         },
         {
-          "id": "lucas_common",
-          "name": "Lucas Errant",
+          "id": "jin_common",
+          "name": "Jin Kamurai",
           "series": "Tokyo Debunker",
-          "stars": 2,
+          "stars": 3,
           "frame": "common",
-          "image": "card_art/lucas_common.png"
-        },
-        {
-          "id": "lynn_common",
-          "name": "Lynn",
-          "series": "Path To Nowhere",
-          "stars": 1,
-          "frame": "common",
-          "image": "card_art/lynn_common.png"
+          "image": "card_art/jin_common.png"
         }
       ],
       "rewards": [
         {
-          "id": "ren_rare",
-          "name": "Ren Amamiya",
-          "series": "Persona",
-          "stars": 4,
-          "frame": "red",
-          "image": "card_art/ren_rare.png"
+          "id": "shalom_common",
+          "name": "Shalom",
+          "series": "Path To Nowhere",
+          "stars": 2,
+          "frame": "common",
+          "image": "card_art/shalom_common.png"
         },
         {
-          "id": "leo_common_2",
-          "name": "Leo Kurosagi",
-          "series": "Tokyo Debunker",
+          "id": "chelsea_common",
+          "name": "Chelsea",
+          "series": "Path To Nowhere",
           "stars": 1,
           "frame": "common",
-          "image": "card_art/leo_common_2.png"
+          "image": "card_art/chelsea_common.png"
+        },
+        {
+          "id": "enfer_common",
+          "name": "Enfer",
+          "series": "Path To Nowhere",
+          "stars": 3,
+          "frame": "common",
+          "image": "card_art/enfer_common.png"
         }
       ],
-      "stock": 3,
-      "start_ts": 1790877695.964334,
-      "expires_ts": 1790964095.964334
+      "stock": 10,
+      "start_ts": 1793203577.3458288,
+      "expires_ts": 1793289977.3458288
     }
   ],
-  "next_generation_at": 1791137250.9332545
+  "next_generation_at": null
 }
