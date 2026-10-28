@@ -661,7 +661,18 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Genshin Impact",
+        "BLUELOCK",
+        "Yang Ilwoo and I",
+        "Chainsaw Man",
+        "My Hero Academia",
+        "Special Civil Servant",
+        "Honkai: Star Rail",
+        "10 Years",
+        "The Case Study of Vanitas",
+        "The Sacred Serpents Seduction"
+      ],
       "id": "8f68a39c-5796-4352-9806-4255aebfaed4",
       "player_a": "807341781662302281",
       "player_b": "1489781141211713677",
@@ -770,7 +781,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 6,
+      "progress": 7,
       "id": "fecfe5cd-956b-4141-adc3-58b4ab3a5a0d",
       "player_a": "1058900013201231992",
       "player_b": "551877849192202255",
@@ -7515,8 +7526,8 @@
       "claim": 20
     },
     "514565097981476875": {
-      "drop": 11,
-      "claim": 11
+      "drop": 0,
+      "claim": 1
     },
     "435630813011378187": {
       "drop": 15,
@@ -7559,8 +7570,8 @@
       "claim": 0
     },
     "807341781662302281": {
-      "drop": 15,
-      "claim": 16
+      "drop": 1,
+      "claim": 4
     },
     "900758030038224937": {
       "drop": 0,
@@ -8207,8 +8218,8 @@
       "claim": 0
     },
     "1159760961536786503": {
-      "drop": 6,
-      "claim": 8
+      "drop": 3,
+      "claim": 6
     },
     "1491745095106428958": {
       "drop": 0,
