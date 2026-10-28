@@ -734,7 +734,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 12,
+      "progress": 13,
       "id": "fe479dc2-98eb-4534-a170-be0f2773de75",
       "player_a": "1151512609409998959",
       "player_b": "1415199399469908020",
@@ -746,7 +746,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Honkai Impact 3rd"
+      ],
       "id": "38c9d11c-f82b-4dfc-b4af-60d63d337809",
       "player_a": "1068989639362355252",
       "player_b": "1028046694992064512",
