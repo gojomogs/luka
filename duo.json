@@ -767,7 +767,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 1,
+      "progress": 2,
       "id": "fecfe5cd-956b-4141-adc3-58b4ab3a5a0d",
       "player_a": "1058900013201231992",
       "player_b": "551877849192202255",
@@ -779,7 +779,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Project: Eden\u2019s Garden"
+      ],
       "id": "c1d5b16c-d358-4f92-807f-b62d2cb7709c",
       "player_a": "779218661096292352",
       "player_b": "1529097630552948908",
@@ -6293,8 +6295,8 @@
       "claim": 16
     },
     "979524252124471337": {
-      "drop": 22,
-      "claim": 23
+      "drop": 4,
+      "claim": 17
     },
     "1079314071461044274": {
       "drop": 15,
@@ -11141,8 +11143,8 @@
       "claim": 22
     },
     "653839860821655601": {
-      "drop": 14,
-      "claim": 15
+      "drop": 1,
+      "claim": 11
     },
     "1371685463957704785": {
       "drop": 0,
