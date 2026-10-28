@@ -147941,6 +147941,34 @@
   "737098353485021206": [
     {
       "card": {
+        "id": "qifrey_common",
+        "name": "Qifrey",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/qifrey_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 80,
+      "claimed_at": 1793227262.5003753
+    },
+    {
+      "card": {
+        "id": "hanako_common",
+        "name": "Hanako-kun",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hanako_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793230980.0470715
+    },
+    {
+      "card": {
         "id": "shino_common",
         "name": "Shino Azuma",
         "series": "You and I are Polar Opposites",
@@ -174107,6 +174135,20 @@
     }
   ],
   "1441925768199278643": [
+    {
+      "card": {
+        "id": "jeongcheol_common",
+        "name": "Jeongcheol",
+        "series": "Even in Your Death",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/jeongcheol_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1793231056.972397
+    },
     {
       "card": {
         "id": "shizuku_common_2",
@@ -521888,6 +521930,21 @@
   "758882530391883808": [
     {
       "card": {
+        "id": "baicang_common",
+        "name": "Baicang",
+        "series": "Neverness to Everness",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baicang_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1793231040.4597764,
+      "tags": "\ud83c\udf77"
+    },
+    {
+      "card": {
         "id": "akihiko_common_2",
         "name": "Akihiko Nirei",
         "series": "Wind Breaker",
@@ -678805,20 +678862,6 @@
     }
   ],
   "899806964710801499": [
-    {
-      "card": {
-        "id": "qifrey_common",
-        "name": "Qifrey",
-        "series": "Witch Hat Atelier",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/qifrey_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 80,
-      "claimed_at": 1793227262.5003753
-    },
     {
       "card": {
         "id": "august_common",
@@ -880555,6 +880598,20 @@
   "420699083238539285": [
     {
       "card": {
+        "id": "mami_rare",
+        "name": "Mami Tomoe",
+        "series": "Puella Magi Madoka Magica",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/mami_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 6,
+      "claimed_at": 1793230909.7986345
+    },
+    {
+      "card": {
         "id": "neuvillette_rare",
         "name": "Neuvillette",
         "series": "Genshin Impact",
@@ -986269,6 +986326,20 @@
   "1379416566768205885": [
     {
       "card": {
+        "id": "chika_common",
+        "name": "Chika Takami",
+        "series": "Love Live!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chika_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1793231106.8286474
+    },
+    {
+      "card": {
         "id": "white_common_2",
         "name": "White Lily Cookie",
         "series": "CookieRun Series",
@@ -1013084,6 +1013155,20 @@
     }
   ],
   "547774305803436032": [
+    {
+      "card": {
+        "id": "yanqing_common",
+        "name": "Yanqing",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yanqing_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793231023.0254784
+    },
     {
       "card": {
         "id": "chinatsu_common",
@@ -1040247,6 +1040332,20 @@
     }
   ],
   "1383481899334238248": [
+    {
+      "card": {
+        "id": "fluttershy_common",
+        "name": "Fluttershy",
+        "series": "My Little Pony",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fluttershy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793231075.5707927
+    },
     {
       "card": {
         "id": "columbina_common_2",
@@ -1077262,7 +1077361,8 @@
       "print": 9,
       "claimed_at": 1788612608.1403384,
       "tags": "\ud835\ude08\ud835\ude2c\ud835\ude36\ud835\ude19\ud835\ude2a\ud835\ude2c\ud835\ude36\ud83d\udc8d",
-      "pinned": true
+      "pinned": true,
+      "showcased": true
     },
     {
       "card": {
