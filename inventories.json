@@ -108644,7 +108644,8 @@
         "version": "common"
       },
       "print": 7,
-      "claimed_at": 1788619559.775304
+      "claimed_at": 1788619559.775304,
+      "tags": "holdithink"
     },
     {
       "card": {
@@ -258613,6 +258614,20 @@
   "1427701023102734481": [
     {
       "card": {
+        "id": "kihoon_common",
+        "name": "Hong Kihoon",
+        "series": "Red Thread Quest",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kihoon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 66,
+      "claimed_at": 1793297577.0918322
+    },
+    {
+      "card": {
         "id": "nana_common_2",
         "name": "Nana Osaki & Nana Komatsu",
         "series": "NANA",
@@ -333291,6 +333306,36 @@
   "751661073727225887": [
     {
       "card": {
+        "id": "undertaker_common",
+        "name": "Undertaker",
+        "series": "Black Butler",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/undertaker_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1791006381.0947268,
+      "tags": "\ud83d\udc8cnft"
+    },
+    {
+      "card": {
+        "id": "tartaglia_rare",
+        "name": "Tartaglia",
+        "series": "Genshin Impact",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tartaglia_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 2,
+      "claimed_at": 1790745964.7317626,
+      "tags": "\u2754ask"
+    },
+    {
+      "card": {
         "id": "himiko_common",
         "name": "Himiko Toga",
         "series": "My Hero Academia",
@@ -333301,7 +333346,8 @@
         "version": "common"
       },
       "print": 67,
-      "claimed_at": 1793239952.1511197
+      "claimed_at": 1793239952.1511197,
+      "tags": "\ud83e\uddfeft"
     },
     {
       "card": {
@@ -333315,7 +333361,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1793226117.5698307
+      "claimed_at": 1793226117.5698307,
+      "tags": "\ud83e\uddfeft"
     },
     {
       "card": {
@@ -334026,21 +334073,6 @@
     },
     {
       "card": {
-        "id": "neuvillette_rare",
-        "name": "Neuvillette",
-        "series": "Genshin Impact",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/neuvillette_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 6,
-      "claimed_at": 1790549319.9386516,
-      "tags": "\ud83e\uddfeft"
-    },
-    {
-      "card": {
         "id": "tetsuya_common",
         "name": "Tetsuya Kuroko",
         "series": "Kuroko's Basketball",
@@ -334157,21 +334189,6 @@
       },
       "print": 30,
       "claimed_at": 1790484404.2928443,
-      "tags": "\ud83e\uddfeft"
-    },
-    {
-      "card": {
-        "id": "baek_common_7",
-        "name": "Baek Saheon",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/baek_common_7.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 47,
-      "claimed_at": 1790476785.4286067,
       "tags": "\ud83e\uddfeft"
     },
     {
@@ -421543,6 +421560,20 @@
   "1139721385783066744": [
     {
       "card": {
+        "id": "cinderella_common",
+        "name": "Cinderella",
+        "series": "Silver Palace",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/cinderella_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793297518.0958135
+    },
+    {
+      "card": {
         "id": "jingran_common",
         "name": "Jingran",
         "series": "Wuthering Waves",
@@ -464593,6 +464624,50 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "yoon_common_2",
+        "name": "Yoon Chi-young",
+        "series": "Paws & Claws",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yoon_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1793297588.111797
+    },
+    {
+      "card": {
+        "id": "neuvillette_rare",
+        "name": "Neuvillette",
+        "series": "Genshin Impact",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/neuvillette_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 6,
+      "claimed_at": 1790549319.9386516,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "baek_common_7",
+        "name": "Baek Saheon",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/baek_common_7.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 47,
+      "claimed_at": 1790476785.4286067,
+      "tags": "ft"
+    },
+    {
+      "card": {
         "id": "yi_common",
         "name": "Yi Sang",
         "series": "Limbus Company",
@@ -464664,7 +464739,7 @@
       },
       "print": 52,
       "claimed_at": 1790641364.864925,
-      "tags": "hold"
+      "tags": "ft"
     },
     {
       "card": {
@@ -465744,21 +465819,6 @@
       },
       "print": 48,
       "claimed_at": 1791007121.9489956,
-      "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "undertaker_common",
-        "name": "Undertaker",
-        "series": "Black Butler",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/undertaker_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 35,
-      "claimed_at": 1791006381.0947268,
       "tags": "ft"
     },
     {
@@ -467439,21 +467499,6 @@
       },
       "print": 22,
       "claimed_at": 1790748133.260631,
-      "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "tartaglia_rare",
-        "name": "Tartaglia",
-        "series": "Genshin Impact",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/tartaglia_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 2,
-      "claimed_at": 1790745964.7317626,
       "tags": "ft"
     },
     {
@@ -793734,6 +793779,20 @@
   "909429574083944498": [
     {
       "card": {
+        "id": "baek_common_4",
+        "name": "Baek Kyungbin",
+        "series": "Merry Marbling",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793297446.2707608
+    },
+    {
+      "card": {
         "id": "euini_common_2",
         "name": "Euini",
         "series": "Witch Hat Atelier",
@@ -888935,6 +888994,20 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "bae_common_4",
+        "name": "Bae Sejin",
+        "series": "Debut or Die",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/bae_common_4.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 25,
+      "claimed_at": 1793297399.0172894
+    },
+    {
+      "card": {
         "id": "mo_common_3",
         "name": "Mo Haein",
         "series": "I\u2019m a Young God, Won\u2019t You Raise Me",
@@ -903925,6 +903998,20 @@
     }
   ],
   "1362472737230160184": [
+    {
+      "card": {
+        "id": "gaku_common",
+        "name": "Gaku",
+        "series": "Sakamoto Days",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/gaku_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1793297379.0089557
+    },
     {
       "card": {
         "id": "willmesh_rare",
@@ -968717,6 +968804,20 @@
     }
   ],
   "1303595998714662916": [
+    {
+      "card": {
+        "id": "shoto_common",
+        "name": "Shoto Todoroki",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shoto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793297387.4655056
+    },
     {
       "card": {
         "id": "jin_common",
