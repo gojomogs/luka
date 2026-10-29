@@ -83540,7 +83540,8 @@
       },
       "print": 1,
       "claimed_at": 1788003958.1535652,
-      "tags": "\ud83e\ude75"
+      "tags": "\ud83e\ude75",
+      "showcased": true
     },
     {
       "card": {
@@ -83669,7 +83670,8 @@
       },
       "print": 3,
       "claimed_at": 1788090018.4370303,
-      "tags": "\ud83d\udde1\ufe0f"
+      "tags": "\ud83d\udde1\ufe0f",
+      "showcased": true
     },
     {
       "card": {
@@ -84090,7 +84092,7 @@
       "print": 1,
       "claimed_at": 1787936219.2669303,
       "tags": "\ud83c\udf39",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -84205,7 +84207,7 @@
       "print": 1,
       "claimed_at": 1788016229.630268,
       "tags": "\ud83d\udde1\ufe0f",
-      "showcased": false
+      "showcased": true
     },
     {
       "card": {
@@ -84365,7 +84367,7 @@
       "print": 1,
       "claimed_at": 1787877150.7430887,
       "tags": "\ud83c\udf39",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -260389,6 +260391,20 @@
     }
   ],
   "749958760532934736": [
+    {
+      "card": {
+        "id": "rick_common",
+        "name": "Rick",
+        "series": "Rick And Morty",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/rick_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1793317146.0028214
+    },
     {
       "card": {
         "id": "saiko_common",
@@ -559416,6 +559432,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "eun_common_2",
+        "name": "Eun Nan-jo",
+        "series": "Borderline",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/eun_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793317153.1667366
+    },
+    {
+      "card": {
         "id": "azusawa_common",
         "name": "Azusawa Kohane",
         "series": "Project Sekai: Colorful Stage!",
@@ -679720,6 +679750,20 @@
   "1540413862694756467": [
     {
       "card": {
+        "id": "sasuke_common",
+        "name": "Sasuke Uchiha",
+        "series": "Naruto",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sasuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793317378.2826188
+    },
+    {
+      "card": {
         "id": "yukio_common",
         "name": "Yukio Okumura",
         "series": "Blue Exorcist",
@@ -696451,6 +696495,20 @@
   "888797740392407040": [
     {
       "card": {
+        "id": "ten_common",
+        "name": "Ten Murakumo",
+        "series": "18TRIP",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ten_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1793317194.0006557
+    },
+    {
+      "card": {
         "id": "cielomort_rare",
         "name": "Cielomort",
         "series": "Fragaria Memories",
@@ -710621,6 +710679,20 @@
   "1028046694992064512": [
     {
       "card": {
+        "id": "luo_common",
+        "name": "Luo Binghe",
+        "series": "The Scum Villains Self-Saving System",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/luo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793317346.026048
+    },
+    {
+      "card": {
         "id": "chiikawa_common",
         "name": "Chiikawa",
         "series": "Chiikawa",
@@ -718694,6 +718766,20 @@
     }
   ],
   "1068989639362355252": [
+    {
+      "card": {
+        "id": "tim_common",
+        "name": "Red Robin",
+        "series": "DC",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tim_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793317301.026601
+    },
     {
       "card": {
         "id": "luke_common_3",
@@ -1057512,6 +1057598,20 @@
   "1157033852909400179": [
     {
       "card": {
+        "id": "micah_common",
+        "name": "Micah Yujin",
+        "series": "ERROR143",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/micah_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793317387.0997787
+    },
+    {
+      "card": {
         "id": "yuuna_common",
         "name": "Yuuna",
         "series": "Love Angel Syndrome",
@@ -1124648,6 +1124748,20 @@
   "1159760961536786503": [
     {
       "card": {
+        "id": "rikai_common",
+        "name": "Rikai Kusanagi",
+        "series": "Charisma House",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rikai_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1793317158.9147942
+    },
+    {
+      "card": {
         "id": "silver_rare",
         "name": "Silver Vanrouge",
         "series": "Twisted Wonderland",
@@ -1126396,6 +1126510,20 @@
     }
   ],
   "587912953622298626": [
+    {
+      "card": {
+        "id": "andrew_rare",
+        "name": "Andrew Young & Luke Davis",
+        "series": "Nerd Project",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/andrew_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 51,
+      "claimed_at": 1793317296.7320843
+    },
     {
       "card": {
         "id": "ren_rare",
