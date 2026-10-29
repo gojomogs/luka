@@ -728,7 +728,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 10,
+      "progress": 11,
       "id": "98521d51-65d7-4908-b668-2c232bf6f78c",
       "player_a": "1321065001212969044",
       "player_b": "1126822708496318504",
@@ -740,7 +740,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Mikado Kasuga & Rihito Nakahara"
+      ],
       "id": "82110c26-5500-462e-bce4-eb280d42c8a7",
       "player_a": "1503089847206936719",
       "player_b": "909551241967861770",
