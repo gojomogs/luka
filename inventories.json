@@ -144561,17 +144561,18 @@
   "1321065001212969044": [
     {
       "card": {
-        "id": "seishiro_common",
-        "name": "Seishiro Nagi",
-        "series": "BLUELOCK",
-        "stars": 1,
+        "id": "roxana_common",
+        "name": "Roxana Agriche",
+        "series": "Roxana",
+        "stars": 2,
         "weight": 10,
-        "image": "card_art/seishiro_common.png",
+        "image": "card_art/roxana_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 52,
-      "claimed_at": 1790697167.533638
+      "print": 59,
+      "claimed_at": 1793213814.8669252,
+      "tags": "e\ud83e\udd5elliwif\ud83e\udd7ae"
     },
     {
       "card": {
@@ -144614,20 +144615,6 @@
       },
       "print": 7,
       "claimed_at": 1793226938.0010517
-    },
-    {
-      "card": {
-        "id": "seishiro_common_2",
-        "name": "Seishiro Nagi",
-        "series": "BLUELOCK",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/seishiro_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 15,
-      "claimed_at": 1793245487.76568
     },
     {
       "card": {
@@ -145173,36 +145160,6 @@
       "print": 49,
       "claimed_at": 1790934966.378561,
       "tags": "\u22b9\u208a\u02d6\u029a\ud83e\udd8b\u0b13\u2027\u208a\u02da\u22c5"
-    },
-    {
-      "card": {
-        "id": "seishiro_common",
-        "name": "Seishiro Nagi",
-        "series": "BLUELOCK",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/seishiro_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 43,
-      "claimed_at": 1790556538.5201616,
-      "tags": "\u0ed24wifefae\u10d0"
-    },
-    {
-      "card": {
-        "id": "seishiro_common",
-        "name": "Seishiro Nagi",
-        "series": "BLUELOCK",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/seishiro_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 58,
-      "claimed_at": 1790898264.7907941,
-      "tags": "\u0ed24wifefae\u10d0"
     },
     {
       "card": {
@@ -145904,21 +145861,6 @@
       "print": 32,
       "claimed_at": 1790580540.4834156,
       "tags": "\ud83d\udc9e"
-    },
-    {
-      "card": {
-        "id": "seishiro_common",
-        "name": "Seishiro Nagi",
-        "series": "BLUELOCK",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/seishiro_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 46,
-      "claimed_at": 1790578903.4817052,
-      "tags": "\u0ed24wifefae\u10d0"
     },
     {
       "card": {
@@ -522857,6 +522799,81 @@
   "1016474757723607130": [
     {
       "card": {
+        "id": "seishiro_common",
+        "name": "Seishiro Nagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/seishiro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1790556538.5201616,
+      "tags": "\u0ed24wifefae\u10d0"
+    },
+    {
+      "card": {
+        "id": "seishiro_common",
+        "name": "Seishiro Nagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/seishiro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1790578903.4817052,
+      "tags": "\u0ed24wifefae\u10d0"
+    },
+    {
+      "card": {
+        "id": "seishiro_common",
+        "name": "Seishiro Nagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/seishiro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1790898264.7907941,
+      "tags": "\u0ed24wifefae\u10d0"
+    },
+    {
+      "card": {
+        "id": "seishiro_common_2",
+        "name": "Seishiro Nagi",
+        "series": "BLUELOCK",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/seishiro_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 15,
+      "claimed_at": 1793245487.76568,
+      "tags": "\u0ed24wifefae\u10d0"
+    },
+    {
+      "card": {
+        "id": "seishiro_common",
+        "name": "Seishiro Nagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/seishiro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1790697167.533638,
+      "tags": "\u0ed24wifefae\u10d0"
+    },
+    {
+      "card": {
         "id": "lee_common_14",
         "name": "Lee Jinwoo & Kwon Taeyoung",
         "series": "Behind the Stage",
@@ -523064,21 +523081,6 @@
       "print": 50,
       "claimed_at": 1793214481.1274643,
       "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "roxana_common",
-        "name": "Roxana Agriche",
-        "series": "Roxana",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/roxana_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 59,
-      "claimed_at": 1793213814.8669252,
-      "tags": "e\ud83e\udd5elliwif\ud83e\udd7ae"
     },
     {
       "card": {
@@ -596558,6 +596560,20 @@
     }
   ],
   "417141882611826688": [
+    {
+      "card": {
+        "id": "baek_common_8",
+        "name": "Baek Saheon",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_8.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 24,
+      "claimed_at": 1793258768.584319
+    },
     {
       "card": {
         "id": "kou_common_2",
@@ -745695,6 +745711,62 @@
   "1492950003851854008": [
     {
       "card": {
+        "id": "satan_common",
+        "name": "Satan",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/satan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 47,
+      "claimed_at": 1793259006.4673476
+    },
+    {
+      "card": {
+        "id": "kaito_common_2",
+        "name": "Kaito Fuji",
+        "series": "Tokyo Debunker",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kaito_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1793258674.467522
+    },
+    {
+      "card": {
+        "id": "aiki_common",
+        "name": "Aiki Hirose",
+        "series": "Go for it, Nakamura!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/aiki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793248043.4774704
+    },
+    {
+      "card": {
+        "id": "zen_common",
+        "name": "Zen",
+        "series": "Mystic Messenger",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/zen_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1793258849.0980926
+    },
+    {
+      "card": {
         "id": "haruhi_common",
         "name": "Haruhi Fujioka",
         "series": "Ouran Highschool Host Club",
@@ -813771,20 +813843,6 @@
   "1043630421444935690": [
     {
       "card": {
-        "id": "kaito_common_2",
-        "name": "Kaito Fuji",
-        "series": "Tokyo Debunker",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kaito_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 31,
-      "claimed_at": 1793258674.467522
-    },
-    {
-      "card": {
         "id": "kina_common",
         "name": "Kina Lillet",
         "series": "Player",
@@ -813852,20 +813910,6 @@
       },
       "print": 44,
       "claimed_at": 1793248688.0444453
-    },
-    {
-      "card": {
-        "id": "aiki_common",
-        "name": "Aiki Hirose",
-        "series": "Go for it, Nakamura!",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/aiki_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 60,
-      "claimed_at": 1793248043.4774704
     },
     {
       "card": {
@@ -823040,6 +823084,20 @@
   ],
   "1193281592383242363": [],
   "1380648650459320321": [
+    {
+      "card": {
+        "id": "itadori_rare",
+        "name": "Itadori Yuji",
+        "series": "Jujutsu Kaisen",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/itadori_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 14,
+      "claimed_at": 1793258802.7975569
+    },
     {
       "card": {
         "id": "edward_common",
@@ -840697,6 +840755,20 @@
     }
   ],
   "601381718569517076": [
+    {
+      "card": {
+        "id": "gallagher_common",
+        "name": "Gallagher",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/gallagher_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793259016.3930826
+    },
     {
       "card": {
         "id": "osamu_common",
@@ -1060503,6 +1060575,20 @@
   "1118324764012970164": [
     {
       "card": {
+        "id": "chiikawa_common",
+        "name": "Chiikawa",
+        "series": "Chiikawa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chiikawa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1793258869.1059859
+    },
+    {
+      "card": {
         "id": "sha_common",
         "name": "Sha Gojyo",
         "series": "Saiyuki",
@@ -1093006,6 +1093092,20 @@
     }
   ],
   "1070842549318721567": [
+    {
+      "card": {
+        "id": "makoto_common_4",
+        "name": "Makoto Yuuki",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1793258747.9707897
+    },
     {
       "card": {
         "id": "yeon_common_2",
