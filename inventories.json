@@ -235129,6 +235129,20 @@
   "1218836543515525185": [
     {
       "card": {
+        "id": "hecate_common",
+        "name": "Hecate",
+        "series": "Path To Nowhere",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hecate_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1793259596.4049082
+    },
+    {
+      "card": {
         "id": "eunyung_common",
         "name": "Eunyung Baek",
         "series": "No Home",
@@ -289871,6 +289885,34 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "shohei_common_2",
+        "name": "Shohei Usami",
+        "series": "The Fragrant Flower Blooms With Dignity",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shohei_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1793259610.737536
+    },
+    {
+      "card": {
+        "id": "mafuyu_common",
+        "name": "Mafuyu Sato",
+        "series": "Given",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mafuyu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 47,
+      "claimed_at": 1793259607.3345263
+    },
+    {
+      "card": {
         "id": "tamaki_common",
         "name": "Tamaki Suoh",
         "series": "Ouran Highschool Host Club",
@@ -317260,6 +317302,20 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "dokja_rare",
+        "name": "Kim Dokja",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/dokja_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 16,
+      "claimed_at": 1793259500.0118842
+    },
+    {
+      "card": {
         "id": "agent_common",
         "name": "Agent Choi",
         "series": "Got Dropped into a Ghost Story, Still Gotta Work",
@@ -317270,7 +317326,8 @@
         "version": "common"
       },
       "print": 71,
-      "claimed_at": 1793254050.594378
+      "claimed_at": 1793254050.594378,
+      "tags": "[Fumbler]"
     },
     {
       "card": {
@@ -317284,7 +317341,8 @@
         "version": "common"
       },
       "print": 51,
-      "claimed_at": 1793253215.721208
+      "claimed_at": 1793253215.721208,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -317298,7 +317356,8 @@
         "version": "common"
       },
       "print": 42,
-      "claimed_at": 1793249758.3039598
+      "claimed_at": 1793249758.3039598,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -317312,7 +317371,8 @@
         "version": "common"
       },
       "print": 65,
-      "claimed_at": 1793242668.5562127
+      "claimed_at": 1793242668.5562127,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -596578,6 +596638,34 @@
   "417141882611826688": [
     {
       "card": {
+        "id": "ayn_common_2",
+        "name": "Ayn Alwyn",
+        "series": "Lovebrush Chronicles",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ayn_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 11,
+      "claimed_at": 1793219436.8792853
+    },
+    {
+      "card": {
+        "id": "gintoki_common",
+        "name": "Gintoki Sakata",
+        "series": "Gintama",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/gintoki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1793259500.2396033
+    },
+    {
+      "card": {
         "id": "baek_common_8",
         "name": "Baek Saheon",
         "series": "Got Dropped into a Ghost Story, Still Gotta Work",
@@ -596686,7 +596774,8 @@
         "version": "V1"
       },
       "print": 12,
-      "claimed_at": 1793245503.6021616
+      "claimed_at": 1793245503.6021616,
+      "tags": "\ufe5fhubby\u1160\u203a\u2800\ud81b\ude6d"
     },
     {
       "card": {
@@ -605816,20 +605905,6 @@
       },
       "print": 5,
       "claimed_at": 1789517391.4405375
-    },
-    {
-      "card": {
-        "id": "yoon_common",
-        "name": "Yoon Ji-gu",
-        "series": "Virtual Strangers",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/yoon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 11,
-      "claimed_at": 1789505109.2615726
     },
     {
       "card": {
@@ -625972,6 +626047,20 @@
     }
   ],
   "1125010005066784860": [
+    {
+      "card": {
+        "id": "orugio_common",
+        "name": "Olruggio",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/orugio_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 71,
+      "claimed_at": 1793259460.136677
+    },
     {
       "card": {
         "id": "hanako_common",
@@ -907080,6 +907169,34 @@
   "697803266150629416": [
     {
       "card": {
+        "id": "yoon_common",
+        "name": "Yoon Ji-gu",
+        "series": "Virtual Strangers",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yoon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 11,
+      "claimed_at": 1789505109.2615726
+    },
+    {
+      "card": {
+        "id": "baek_common_9",
+        "name": "Baek Eunsan",
+        "series": "Melting Point",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_9.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793259477.4539592
+    },
+    {
+      "card": {
         "id": "yelan_common",
         "name": "Yelan",
         "series": "Genshin Impact",
@@ -907231,20 +907348,6 @@
       },
       "print": 54,
       "claimed_at": 1793221802.7903185
-    },
-    {
-      "card": {
-        "id": "ayn_common_2",
-        "name": "Ayn Alwyn",
-        "series": "Lovebrush Chronicles",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ayn_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 11,
-      "claimed_at": 1793219436.8792853
     },
     {
       "card": {
@@ -1093152,6 +1093255,20 @@
   "1070842549318721567": [
     {
       "card": {
+        "id": "kagamine_common_2",
+        "name": "Kagamine Len",
+        "series": "Vocaloid",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kagamine_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793259576.8977602
+    },
+    {
+      "card": {
         "id": "makoto_common_4",
         "name": "Makoto Yuuki",
         "series": "Ensemble Stars!",
@@ -1094584,6 +1094701,20 @@
     }
   ],
   "1159760961536786503": [
+    {
+      "card": {
+        "id": "encore_common",
+        "name": "Encore",
+        "series": "Wuthering Waves",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/encore_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793259483.5072427
+    },
     {
       "card": {
         "id": "joseph_common",
