@@ -696,7 +696,8 @@
         "The Guy She Was Interested In Wasn't a Guy at All",
         "Nijisanji",
         "Phantom Busters",
-        "Gokurakugai"
+        "Gokurakugai",
+        "Elevator Hitch"
       ],
       "id": "c1d5b16c-d358-4f92-807f-b62d2cb7709c",
       "player_a": "779218661096292352",
@@ -714,6 +715,22 @@
       "player_b": "755863624873934968",
       "started_at": 1793233095.3276272,
       "channel_id": 1543292052249382962
+    },
+    "52aab75b-e44a-41cc-bef0-a755e5613d36": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Nami",
+        "Yoshiki",
+        "Emma"
+      ],
+      "id": "52aab75b-e44a-41cc-bef0-a755e5613d36",
+      "player_a": "601381718569517076",
+      "player_b": "1108371722979266682",
+      "started_at": 1793245497.184891,
+      "channel_id": 1543207374670659724
     }
   },
   "weekly": {
@@ -7218,8 +7235,8 @@
       "claim": 19
     },
     "1125010005066784860": {
-      "drop": 15,
-      "claim": 19
+      "drop": 0,
+      "claim": 10
     },
     "854508688722493450": {
       "drop": 22,
@@ -11355,7 +11372,7 @@
     },
     "1108371722979266682": {
       "drop": 15,
-      "claim": 15
+      "claim": 14
     },
     "842135672797528064": {
       "drop": 15,
