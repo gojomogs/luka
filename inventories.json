@@ -474676,6 +474676,20 @@
   "1192201166893895725": [
     {
       "card": {
+        "id": "alucard_common_2",
+        "name": "Alucard Tepes",
+        "series": "Castlevania",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/alucard_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 45,
+      "claimed_at": 1793302018.0739987
+    },
+    {
+      "card": {
         "id": "reze_common_2",
         "name": "Reze",
         "series": "Chainsaw Man",
@@ -606142,6 +606156,20 @@
   "417141882611826688": [
     {
       "card": {
+        "id": "satoru_common",
+        "name": "Satoru Gojo",
+        "series": "Jujutsu Kaisen",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/satoru_common.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 26,
+      "claimed_at": 1793302244.3309426
+    },
+    {
+      "card": {
         "id": "lee_common_3",
         "name": "Lee",
         "series": "Punishing: Gray Raven",
@@ -659160,6 +659188,21 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "mizuki_common",
+        "name": "Akiyama Mizuki",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/mizuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1790977681.4130158,
+      "tags": "\ud80c\udffc\ud83c\udf80\ufe52\u2661"
+    },
+    {
+      "card": {
         "id": "tohsaka_common",
         "name": "Tohsaka Rin",
         "series": "Fate Series",
@@ -659964,20 +660007,6 @@
       "print": 17,
       "claimed_at": 1789607133.153658,
       "tags": "\ud80c\udffc\ud83c\udfa8\ufe52\u2661"
-    },
-    {
-      "card": {
-        "id": "satoru_rare",
-        "name": "Satoru Gojo",
-        "series": "Jujutsu Kaisen",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/satoru_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 20,
-      "claimed_at": 1793233180.971763
     },
     {
       "card": {
@@ -883935,6 +883964,20 @@
   "789571689406005269": [
     {
       "card": {
+        "id": "itadori_rare",
+        "name": "Itadori Yuji",
+        "series": "Jujutsu Kaisen",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/itadori_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 16,
+      "claimed_at": 1793302239.052384
+    },
+    {
+      "card": {
         "id": "leon_common",
         "name": "Leon S. Kennedy",
         "series": "Resident Evil",
@@ -1010693,6 +1010736,20 @@
   "755863624873934968": [
     {
       "card": {
+        "id": "xia_common_2",
+        "name": "Xia Fei",
+        "series": "Link Click",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/xia_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 33,
+      "claimed_at": 1793302149.0405138
+    },
+    {
+      "card": {
         "id": "shinonome_rare",
         "name": "Shinonome Ena",
         "series": "Project Sekai: Colorful Stage!",
@@ -1018002,6 +1018059,20 @@
     }
   ],
   "1211028404577632277": [
+    {
+      "card": {
+        "id": "ciel_common",
+        "name": "Ciel Phantomhive",
+        "series": "Black Butler",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ciel_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1793302175.1799657
+    },
     {
       "card": {
         "id": "peko_common",
@@ -1074370,6 +1074441,34 @@
   "1383481899334238248": [
     {
       "card": {
+        "id": "satoru_rare",
+        "name": "Satoru Gojo",
+        "series": "Jujutsu Kaisen",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/satoru_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 20,
+      "claimed_at": 1793233180.971763
+    },
+    {
+      "card": {
+        "id": "annabeth_common",
+        "name": "Annabeth Chase",
+        "series": "Percy Jackson and The Olympians",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/annabeth_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1793302123.5619051
+    },
+    {
+      "card": {
         "id": "gilgamesh_common",
         "name": "Gilgamesh",
         "series": "Fate Series",
@@ -1075153,20 +1075252,6 @@
       },
       "print": 38,
       "claimed_at": 1790978946.409799
-    },
-    {
-      "card": {
-        "id": "mizuki_common",
-        "name": "Akiyama Mizuki",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/mizuki_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 41,
-      "claimed_at": 1790977681.4130158
     },
     {
       "card": {
@@ -1115711,6 +1115796,20 @@
     }
   ],
   "1112468374358868129": [
+    {
+      "card": {
+        "id": "hachiware_common",
+        "name": "Hachiware",
+        "series": "Chiikawa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hachiware_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793302044.0033154
+    },
     {
       "card": {
         "id": "langa_common",
