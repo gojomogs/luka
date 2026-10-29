@@ -20751,6 +20751,20 @@
   "661202852244488192": [
     {
       "card": {
+        "id": "sou_common",
+        "name": "Sou Hiyori",
+        "series": "Your Turn To Die",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sou_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793278801.5508556
+    },
+    {
+      "card": {
         "id": "kalvin_common",
         "name": "Kelvin",
         "series": "Path To Nowhere",
@@ -71411,7 +71425,8 @@
         "version": "common"
       },
       "print": 47,
-      "claimed_at": 1790947213.875881
+      "claimed_at": 1790947213.875881,
+      "tags": "\ud83d\udcf8"
     },
     {
       "card": {
@@ -73305,8 +73320,7 @@
         "version": "rare"
       },
       "print": 5,
-      "claimed_at": 1790511043.6272092,
-      "tags": "hostage"
+      "claimed_at": 1790511043.6272092
     },
     {
       "card": {
@@ -145513,6 +145527,20 @@
   "1321065001212969044": [
     {
       "card": {
+        "id": "tanya_common",
+        "name": "Tanya von Degurechaff",
+        "series": "The Saga of Tanya the Evil",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tanya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793278926.1649108
+    },
+    {
+      "card": {
         "id": "roxana_common",
         "name": "Roxana Agriche",
         "series": "Roxana",
@@ -150196,6 +150224,20 @@
   ],
   "1211781489931452447": [],
   "737098353485021206": [
+    {
+      "card": {
+        "id": "hyuna_common_2",
+        "name": "Hyuna",
+        "series": "Alien Stage",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hyuna_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 17,
+      "claimed_at": 1793278809.7005076
+    },
     {
       "card": {
         "id": "luke_common",
@@ -370090,6 +370132,20 @@
   "931469645897166888": [
     {
       "card": {
+        "id": "alice_common",
+        "name": "Alice",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/alice_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1793278954.0151908
+    },
+    {
+      "card": {
         "id": "benny_common",
         "name": "Benny",
         "series": "Jackpot Crash Course",
@@ -401272,6 +401328,20 @@
   "688313291532926976": [
     {
       "card": {
+        "id": "yanqing_common",
+        "name": "Yanqing",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yanqing_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1793278868.3949888
+    },
+    {
+      "card": {
         "id": "xiao_common",
         "name": "Xiao",
         "series": "Genshin Impact",
@@ -418267,6 +418337,48 @@
     }
   ],
   "1139721385783066744": [
+    {
+      "card": {
+        "id": "superman_rare",
+        "name": "Superboy",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/superman_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 35,
+      "claimed_at": 1793277951.7765458
+    },
+    {
+      "card": {
+        "id": "vyn_common",
+        "name": "Vyn Richter",
+        "series": "Tears of Themis",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/vyn_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793278911.5708284
+    },
+    {
+      "card": {
+        "id": "tamon_rare",
+        "name": "Kotaro Tamon",
+        "series": "Phantom Busters",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tamon_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 21,
+      "claimed_at": 1793277978.3779695
+    },
     {
       "card": {
         "id": "kim_common_2",
@@ -764760,6 +764872,20 @@
   "1092199688154910791": [
     {
       "card": {
+        "id": "ronin_common",
+        "name": "Ronin",
+        "series": "Killer Chat!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ronin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793278794.0988104
+    },
+    {
+      "card": {
         "id": "tori_common",
         "name": "Tori Himemiya",
         "series": "Ensemble Stars!",
@@ -1016205,6 +1016331,20 @@
   "834374188042289162": [
     {
       "card": {
+        "id": "blade_rare",
+        "name": "Blade",
+        "series": "Honkai: Star Rail",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/blade_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 8,
+      "claimed_at": 1793278885.3589377
+    },
+    {
+      "card": {
         "id": "meguru_common",
         "name": "Meguru Bachira",
         "series": "BLUELOCK",
@@ -1025370,6 +1025510,34 @@
   "1151512609409998959": [
     {
       "card": {
+        "id": "yuki_common",
+        "name": "Yuki Haiga & Ryo Kanae",
+        "series": "Pink Heart Jam",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793278974.5112865
+    },
+    {
+      "card": {
+        "id": "yeo_common",
+        "name": "Yeo Jeongwon & Kwon Haewoon",
+        "series": "Bias Wrecker",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yeo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793278972.444177
+    },
+    {
+      "card": {
         "id": "mahito_common",
         "name": "Mahito",
         "series": "Jujutsu Kaisen",
@@ -1033014,34 +1033182,6 @@
       },
       "print": 8,
       "claimed_at": 1793278101.6318336
-    },
-    {
-      "card": {
-        "id": "tamon_rare",
-        "name": "Kotaro Tamon",
-        "series": "Phantom Busters",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/tamon_rare.png",
-        "frame": "red",
-        "version": "rare"
-      },
-      "print": 21,
-      "claimed_at": 1793277978.3779695
-    },
-    {
-      "card": {
-        "id": "superman_rare",
-        "name": "Superboy",
-        "series": "DC",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/superman_rare.png",
-        "frame": "red",
-        "version": "rare"
-      },
-      "print": 35,
-      "claimed_at": 1793277951.7765458
     },
     {
       "card": {
@@ -1069647,6 +1069787,20 @@
   "1118324764012970164": [
     {
       "card": {
+        "id": "sakutaro_common",
+        "name": "Sakutaro Morishige",
+        "series": "Corpse Party",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sakutaro_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 15,
+      "claimed_at": 1793278965.9485326
+    },
+    {
+      "card": {
         "id": "c.c._common",
         "name": "C.C.",
         "series": "Code Geass",
@@ -1099790,6 +1099944,20 @@
     }
   ],
   "823151930414333963": [
+    {
+      "card": {
+        "id": "fushiguro_common_2",
+        "name": "Fushiguro Megumi",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/fushiguro_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 28,
+      "claimed_at": 1793278919.301346
+    },
     {
       "card": {
         "id": "ren_common_3",
