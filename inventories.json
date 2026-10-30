@@ -81354,6 +81354,20 @@
   "994686213967577199": [
     {
       "card": {
+        "id": "fyodor_common",
+        "name": "Fyodor Dostoevsky",
+        "series": "Bungo Stray Dogs",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/fyodor_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 83,
+      "claimed_at": 1793399741.9894276
+    },
+    {
+      "card": {
         "id": "bai_common_4",
         "name": "Bai Liu",
         "series": "I Became a God In A Horror Game",
@@ -350224,6 +350238,50 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "merold_rare",
+        "name": "Merold",
+        "series": "Fragaria Memories",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/merold_rare.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1790162590.672772
+    },
+    {
+      "card": {
+        "id": "merold_rare",
+        "name": "Merold",
+        "series": "Fragaria Memories",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/merold_rare.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793242241.5504215,
+      "tags": "\u2726 \u0323\u0323 \u06df \ufe35ft"
+    },
+    {
+      "card": {
+        "id": "kurode_rare",
+        "name": "Kurode",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kurode_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 34,
+      "claimed_at": 1790728626.7070608,
+      "tags": "\u2726 \u0323\u0323 \u06df \ufe35ft"
+    },
+    {
+      "card": {
         "id": "raiden_rare",
         "name": "Raiden Shogun",
         "series": "Genshin Impact",
@@ -350899,21 +350957,6 @@
     },
     {
       "card": {
-        "id": "leona_common",
-        "name": "Leona Kingscholar",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/leona_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 51,
-      "claimed_at": 1793291732.8588612,
-      "tags": "hold"
-    },
-    {
-      "card": {
         "id": "kaito_rare",
         "name": "KAITO",
         "series": "Vocaloid",
@@ -351186,21 +351229,6 @@
     },
     {
       "card": {
-        "id": "shin_common",
-        "name": "Shin Asakura",
-        "series": "Sakamoto Days",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/shin_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 26,
-      "claimed_at": 1790135319.070715,
-      "tags": "hold"
-    },
-    {
-      "card": {
         "id": "aya_common",
         "name": "Aya Oosawa",
         "series": "The Guy She Was Interested In Wasn't a Guy at All",
@@ -351311,21 +351339,6 @@
       "print": 19,
       "claimed_at": 1789771522.7516272,
       "tags": "nft"
-    },
-    {
-      "card": {
-        "id": "yeon_common",
-        "name": "Yeon Skylar",
-        "series": "Lost in the Cloud",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/yeon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 73,
-      "claimed_at": 1793239930.0484953,
-      "tags": "hold"
     },
     {
       "card": {
@@ -679529,6 +679542,20 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "hyuna_common",
+        "name": "Hyuna",
+        "series": "Alien Stage",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hyuna_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 73,
+      "claimed_at": 1793399736.0638943
+    },
+    {
+      "card": {
         "id": "riko_common",
         "name": "Riko Amanai",
         "series": "Jujutsu Kaisen",
@@ -730598,6 +730625,51 @@
   "1028046694992064512": [
     {
       "card": {
+        "id": "leona_common",
+        "name": "Leona Kingscholar",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/leona_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1793291732.8588612,
+      "tags": "\u2726 \u0323\u0323 \u06df \ufe35\ud83e\uddf8"
+    },
+    {
+      "card": {
+        "id": "shin_common",
+        "name": "Shin Asakura",
+        "series": "Sakamoto Days",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1790135319.070715,
+      "tags": "\u2726 \u0323\u0323 \u06df \ufe35\ud83c\udf6d"
+    },
+    {
+      "card": {
+        "id": "yeon_common",
+        "name": "Yeon Skylar",
+        "series": "Lost in the Cloud",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yeon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 73,
+      "claimed_at": 1793239930.0484953,
+      "tags": "\u2726 \u0323\u0323 \u06df \ufe35\ud83d\udcf8"
+    },
+    {
+      "card": {
         "id": "undertaker_common",
         "name": "Undertaker",
         "series": "Black Butler",
@@ -730609,20 +730681,6 @@
       },
       "print": 41,
       "claimed_at": 1793399161.7155397
-    },
-    {
-      "card": {
-        "id": "merold_rare",
-        "name": "Merold",
-        "series": "Fragaria Memories",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/merold_rare.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 28,
-      "claimed_at": 1790162590.672772
     },
     {
       "card": {
@@ -731503,21 +731561,6 @@
       "print": 49,
       "claimed_at": 1793242665.5864542,
       "tags": "\u2726 \u0323\u0323 \u06df \ufe35\ud83c\udf6c"
-    },
-    {
-      "card": {
-        "id": "merold_rare",
-        "name": "Merold",
-        "series": "Fragaria Memories",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/merold_rare.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 41,
-      "claimed_at": 1793242241.5504215,
-      "tags": "\u2726 \u0323\u0323 \u06df \ufe35ft"
     },
     {
       "card": {
@@ -733107,21 +733150,6 @@
       },
       "print": 25,
       "claimed_at": 1790729581.6955402,
-      "tags": "\u2726 \u0323\u0323 \u06df \ufe35ft"
-    },
-    {
-      "card": {
-        "id": "kurode_rare",
-        "name": "Kurode",
-        "series": "Fragaria Memories",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/kurode_rare.png",
-        "frame": "purple",
-        "version": "rare"
-      },
-      "print": 34,
-      "claimed_at": 1790728626.7070608,
       "tags": "\u2726 \u0323\u0323 \u06df \ufe35ft"
     },
     {
@@ -885361,6 +885389,20 @@
   "1473475651725164714": [
     {
       "card": {
+        "id": "j3_common",
+        "name": "J3",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/j3_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 75,
+      "claimed_at": 1793399700.1852827
+    },
+    {
+      "card": {
         "id": "till_rare",
         "name": "Till",
         "series": "Alien Stage",
@@ -901786,6 +901828,20 @@
     }
   ],
   "1058900013201231992": [
+    {
+      "card": {
+        "id": "jin_common_3",
+        "name": "Jin Nasol",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jin_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 77,
+      "claimed_at": 1793399519.4153032
+    },
     {
       "card": {
         "id": "nico_common",
@@ -947010,6 +947066,20 @@
   "1178380074001645660": [
     {
       "card": {
+        "id": "hamel_rare",
+        "name": "Hamel",
+        "series": "Path To Nowhere",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/hamel_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 41,
+      "claimed_at": 1793399731.3371549
+    },
+    {
+      "card": {
         "id": "mammon_common",
         "name": "Mammon",
         "series": "Obey Me!",
@@ -959364,6 +959434,20 @@
     }
   ],
   "953615292641185804": [
+    {
+      "card": {
+        "id": "firefly_common",
+        "name": "Firefly",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/firefly_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1793399709.6569407
+    },
     {
       "card": {
         "id": "varka_common_2",
@@ -1105965,6 +1106049,20 @@
   "1549815919532970037": [
     {
       "card": {
+        "id": "hinomori_common_2",
+        "name": "Hinomori Shiho",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hinomori_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1793399554.706879
+    },
+    {
+      "card": {
         "id": "mydei_rare",
         "name": "Mydei",
         "series": "Honkai: Star Rail",
@@ -1138873,6 +1138971,20 @@
   "1503089847206936719": [
     {
       "card": {
+        "id": "shin_common_4",
+        "name": "Shin Tsukinami",
+        "series": "Diabolik Lovers",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shin_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1793399549.6405027
+    },
+    {
+      "card": {
         "id": "you_common_2",
         "name": "You Huo",
         "series": "Global Examination",
@@ -1148526,6 +1148638,20 @@
     }
   ],
   "1529097630552948908": [
+    {
+      "card": {
+        "id": "bae_common_4",
+        "name": "Bae Sejin",
+        "series": "Debut or Die",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/bae_common_4.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 28,
+      "claimed_at": 1793399475.1556466
+    },
     {
       "card": {
         "id": "liu_common",
