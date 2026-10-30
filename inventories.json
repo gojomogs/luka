@@ -41605,6 +41605,34 @@
   "1028692731029110846": [
     {
       "card": {
+        "id": "velina_common",
+        "name": "Velina",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/velina_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 4,
+      "claimed_at": 1788600524.6026325
+    },
+    {
+      "card": {
+        "id": "cyrene_common",
+        "name": "Cyrene",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cyrene_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793377960.2147467
+    },
+    {
+      "card": {
         "id": "rafayel_common",
         "name": "Rafayel",
         "series": "Love And Deepspace",
@@ -329367,6 +329395,20 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "rei_common_2",
+        "name": "Rei Ayanami",
+        "series": "Neon Genesis Evangelion",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rei_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793377866.0472126
+    },
+    {
+      "card": {
         "id": "braun_common",
         "name": "Braun",
         "series": "Got Dropped into a Ghost Story, Still Gotta Work",
@@ -381149,6 +381191,20 @@
   "931469645897166888": [
     {
       "card": {
+        "id": "ranto_common",
+        "name": "Ranto Takashina",
+        "series": "BOYS be MAID !",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ranto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1793266791.7303224
+    },
+    {
+      "card": {
         "id": "lloyd_common",
         "name": "Lloyd Frontera",
         "series": "The Greatest Estate Developer",
@@ -384757,20 +384813,6 @@
     },
     {
       "card": {
-        "id": "go_common_2",
-        "name": "Go Youngeun",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/go_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 35,
-      "claimed_at": 1790008111.41339
-    },
-    {
-      "card": {
         "id": "mikado_rare",
         "name": "Mikado Kasuga",
         "series": "KasuRich",
@@ -388193,20 +388235,6 @@
       "print": 4,
       "claimed_at": 1788583668.7170937,
       "tags": "\u29bb hubbie \u29bb"
-    },
-    {
-      "card": {
-        "id": "velina_common",
-        "name": "Velina",
-        "series": "Zenless Zone Zero",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/velina_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 4,
-      "claimed_at": 1788600524.6026325
     },
     {
       "card": {
@@ -408285,6 +408313,20 @@
     }
   ],
   "1132475401701171262": [
+    {
+      "card": {
+        "id": "tooru_common",
+        "name": "Tooru Hagakure",
+        "series": "My Hero Academia",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tooru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1793377880.051556
+    },
     {
       "card": {
         "id": "jinx_common_2",
@@ -620697,6 +620739,20 @@
   "417141882611826688": [
     {
       "card": {
+        "id": "yuri_common_2",
+        "name": "Yuri Gable",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuri_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 71,
+      "claimed_at": 1793378121.5878365
+    },
+    {
+      "card": {
         "id": "wriothesley_common",
         "name": "Wriothesley",
         "series": "Genshin Impact",
@@ -621542,7 +621598,8 @@
         "version": "V1"
       },
       "print": 7,
-      "claimed_at": 1793304452.7204113
+      "claimed_at": 1793304452.7204113,
+      "tags": "hold"
     },
     {
       "card": {
@@ -622169,7 +622226,8 @@
         "version": "V1"
       },
       "print": 9,
-      "claimed_at": 1790678284.8842068
+      "claimed_at": 1790678284.8842068,
+      "tags": "hold"
     },
     {
       "card": {
@@ -623834,7 +623892,8 @@
         "version": "common"
       },
       "print": 71,
-      "claimed_at": 1790891691.0025976
+      "claimed_at": 1790891691.0025976,
+      "tags": "hold"
     },
     {
       "card": {
@@ -625150,7 +625209,8 @@
         "version": "common"
       },
       "print": 56,
-      "claimed_at": 1790563429.1791406
+      "claimed_at": 1790563429.1791406,
+      "tags": "hold"
     },
     {
       "card": {
@@ -629295,7 +629355,8 @@
         "version": "common"
       },
       "print": 25,
-      "claimed_at": 1789834452.2332764
+      "claimed_at": 1789834452.2332764,
+      "tags": "hold"
     },
     {
       "card": {
@@ -632911,6 +632972,20 @@
     }
   ],
   "1183826856449953822": [
+    {
+      "card": {
+        "id": "mika_common",
+        "name": "Mika Shimotsuki",
+        "series": "PSYCHO-PASS",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mika_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1793378063.9289858
+    },
     {
       "card": {
         "id": "devil_rare",
@@ -675895,6 +675970,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "baek_common_7",
+        "name": "Baek Saheon",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/baek_common_7.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 73,
+      "claimed_at": 1793378012.8413773
+    },
     {
       "card": {
         "id": "haruno_common",
@@ -751699,6 +751788,20 @@
   "1204473206077919295": [
     {
       "card": {
+        "id": "go_common_2",
+        "name": "Go Youngeun",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/go_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1790008111.41339
+    },
+    {
+      "card": {
         "id": "yachiyo_common",
         "name": "Yachiyo",
         "series": "Cosmic Princess Kaguya",
@@ -751811,20 +751914,6 @@
       },
       "print": 67,
       "claimed_at": 1793265833.157587
-    },
-    {
-      "card": {
-        "id": "ranto_common",
-        "name": "Ranto Takashina",
-        "series": "BOYS be MAID !",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ranto_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 48,
-      "claimed_at": 1793266791.7303224
     },
     {
       "card": {
@@ -1079846,6 +1079935,20 @@
   "1117889156950020267": [
     {
       "card": {
+        "id": "japan_common",
+        "name": "Japan",
+        "series": "Hetalia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/japan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793378134.2558649
+    },
+    {
+      "card": {
         "id": "lee_common_4",
         "name": "Lee Sejin",
         "series": "Debut or Die",
@@ -1085456,6 +1085559,20 @@
   "1113230728415690843": [
     {
       "card": {
+        "id": "ororon_common",
+        "name": "Ororon",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ororon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793377843.5605896
+    },
+    {
+      "card": {
         "id": "thaddeus_common",
         "name": "Thaddeus",
         "series": "Killer Peter",
@@ -1090412,6 +1090529,20 @@
     }
   ],
   "1037427620905766932": [
+    {
+      "card": {
+        "id": "virgil_common",
+        "name": "Static Shock",
+        "series": "DC",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/virgil_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1793378042.6670563
+    },
     {
       "card": {
         "id": "joonghyuk_common",
@@ -1120691,6 +1120822,20 @@
   "1135011169485197314": [
     {
       "card": {
+        "id": "sua_common",
+        "name": "Sua",
+        "series": "Alien Stage",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sua_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 89,
+      "claimed_at": 1793377922.4858263
+    },
+    {
+      "card": {
         "id": "bruno_common",
         "name": "Bruno Bucciarati",
         "series": "Jojo\u2019s Bizarre Adventure",
@@ -1147418,6 +1147563,20 @@
     }
   ],
   "823151930414333963": [
+    {
+      "card": {
+        "id": "boothill_common_2",
+        "name": "Boothill",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/boothill_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 12,
+      "claimed_at": 1793378046.2758205
+    },
     {
       "card": {
         "id": "cissia_common",
