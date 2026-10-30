@@ -21618,6 +21618,20 @@
   "661202852244488192": [
     {
       "card": {
+        "id": "hachiware_common",
+        "name": "Hachiware",
+        "series": "Chiikawa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/hachiware_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 62,
+      "claimed_at": 1793390871.6645026
+    },
+    {
+      "card": {
         "id": "choso_common",
         "name": "Choso",
         "series": "Jujutsu Kaisen",
@@ -330397,6 +330411,20 @@
     }
   ],
   "1468648929783709768": [
+    {
+      "card": {
+        "id": "kyoko_common",
+        "name": "Kyoko Kirigiri",
+        "series": "Danganronpa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kyoko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793390885.740355
+    },
     {
       "card": {
         "id": "kino_common",
@@ -720381,7 +720409,8 @@
       },
       "print": 1,
       "claimed_at": 1788051557.2541287,
-      "tags": "\ud83e\uddea"
+      "tags": "\ud83e\uddea",
+      "showcased": true
     },
     {
       "card": {
@@ -721970,7 +721999,7 @@
       },
       "print": 1,
       "claimed_at": 1790690643.6578913,
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -917593,6 +917622,20 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "ren_common_3",
+        "name": "Ren Amamiya",
+        "series": "Persona",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ren_common_3.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 15,
+      "claimed_at": 1793390916.9159353
+    },
+    {
+      "card": {
         "id": "ryomen_common_2",
         "name": "Ryomen Sukuna",
         "series": "Jujutsu Kaisen",
@@ -1065490,6 +1065533,20 @@
   "1071837987224158298": [
     {
       "card": {
+        "id": "yuffie_common",
+        "name": "Yuffie Kisaragi",
+        "series": "Final Fantasy",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuffie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1793391100.7138927
+    },
+    {
+      "card": {
         "id": "yukiko_common",
         "name": "Yukiko Amagi",
         "series": "Persona",
@@ -1106389,6 +1106446,34 @@
   "1142143636784558120": [
     {
       "card": {
+        "id": "nicole_rare",
+        "name": "Nicole",
+        "series": "Genshin Impact",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/nicole_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 45,
+      "claimed_at": 1793390929.296866
+    },
+    {
+      "card": {
+        "id": "robin_common",
+        "name": "Robin",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/robin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 69,
+      "claimed_at": 1793390909.6570096
+    },
+    {
+      "card": {
         "id": "kazutora_common",
         "name": "Kazutora Hanemiya",
         "series": "Tokyo Revengers",
@@ -1110563,6 +1110648,20 @@
     }
   ],
   "1383481899334238248": [
+    {
+      "card": {
+        "id": "nino_common",
+        "name": "Nino Nakano",
+        "series": "The Quintessential Quintuplets",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nino_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1793390931.984441
+    },
     {
       "card": {
         "id": "seidou_common",
@@ -1162673,6 +1162772,20 @@
   "479372052638203905": [
     {
       "card": {
+        "id": "promeia_common",
+        "name": "Promeia",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/promeia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793300679.6727083
+    },
+    {
+      "card": {
         "id": "jane_common",
         "name": "Jane Doe",
         "series": "Zenless Zone Zero",
@@ -1163583,20 +1163696,6 @@
       },
       "print": 25,
       "claimed_at": 1793303256.8829963
-    },
-    {
-      "card": {
-        "id": "promeia_common",
-        "name": "Promeia",
-        "series": "Zenless Zone Zero",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/promeia_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1793300679.6727083
     },
     {
       "card": {
