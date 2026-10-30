@@ -688,39 +688,12 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 20,
+      "progress": 21,
       "id": "474f7539-5f70-4a77-9652-186f5078762c",
       "player_a": "1439628725288173759",
       "player_b": "1112468374358868129",
       "started_at": 1793346054.1717765,
       "channel_id": 1565048192028909578
-    },
-    "ad9bf75a-a779-4c05-ba6a-948d38371d2d": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Tears of Themis",
-        "Link Click",
-        "The Quintessential Quintuplets",
-        "CookieRun Series",
-        "Fall in love, false angels",
-        "Castlevania",
-        "Jojo\u2019s Bizarre Adventure",
-        "HELLSING",
-        "Obey Me!",
-        "Got Dropped into a Ghost Story, Still Gotta Work",
-        "Kiss Me If You Can",
-        "Toilet-bound Hanako-kun",
-        "Ensemble Stars!",
-        "Dreaming Of The Dokkaebi"
-      ],
-      "id": "ad9bf75a-a779-4c05-ba6a-948d38371d2d",
-      "player_a": "1118324764012970164",
-      "player_b": "1135011169485197314",
-      "started_at": 1793348342.7994626,
-      "channel_id": 1553461366851899483
     }
   },
   "weekly": {
@@ -2072,6 +2045,10 @@
       {
         "timestamp": 1790483361.8948107,
         "partner_id": "1135011169485197314"
+      },
+      {
+        "timestamp": 1793358165.5981805,
+        "partner_id": "1135011169485197314"
       }
     ],
     "1135011169485197314": [
@@ -2081,6 +2058,10 @@
       },
       {
         "timestamp": 1790483361.8948107,
+        "partner_id": "1118324764012970164"
+      },
+      {
+        "timestamp": 1793358165.5981805,
         "partner_id": "1118324764012970164"
       }
     ],
@@ -4564,8 +4545,8 @@
     "764446760004354048": 1790678230.2672405,
     "1261275450135543822": 1786117015.9174798,
     "1358228187691225088": 1786117015.9174798,
-    "1118324764012970164": 1790483361.8948107,
-    "1135011169485197314": 1790483361.8948107,
+    "1118324764012970164": 1793358165.5981805,
+    "1135011169485197314": 1793358165.5981805,
     "885453562631553024": 1786121114.7692657,
     "756814026968793109": 1786121114.7692657,
     "1414056833248919552": 1786121352.3402135,
@@ -5519,7 +5500,7 @@
       "claim": 22
     },
     "1135011169485197314": {
-      "drop": 0,
+      "drop": 1,
       "claim": 6
     },
     "755211531674845235": {
@@ -7372,7 +7353,7 @@
     },
     "1118324764012970164": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "919658842701307955": {
       "drop": 0,
