@@ -654,7 +654,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 50,
+      "progress": 51,
       "id": "98521d51-65d7-4908-b668-2c232bf6f78c",
       "player_a": "1321065001212969044",
       "player_b": "1126822708496318504",
@@ -687,7 +687,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 5,
+      "progress": 8,
       "id": "474f7539-5f70-4a77-9652-186f5078762c",
       "player_a": "1439628725288173759",
       "player_b": "1112468374358868129",
@@ -699,7 +699,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Tears of Themis"
+      ],
       "id": "ad9bf75a-a779-4c05-ba6a-948d38371d2d",
       "player_a": "1118324764012970164",
       "player_b": "1135011169485197314",
@@ -5015,7 +5017,7 @@
       "claim": 0
     },
     "1510010190315917324": {
-      "drop": 15,
+      "drop": 14,
       "claim": 15
     },
     "1068989639362355252": {
@@ -8212,7 +8214,7 @@
     },
     "1112468374358868129": {
       "drop": 10,
-      "claim": 12
+      "claim": 11
     },
     "1271018988486524961": {
       "drop": 0,
