@@ -73745,20 +73745,6 @@
     },
     {
       "card": {
-        "id": "kwak_common_2",
-        "name": "Kwak Jekang",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kwak_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 70,
-      "claimed_at": 1793362917.3795254
-    },
-    {
-      "card": {
         "id": "he_common_2",
         "name": "He Zhao",
         "series": "Fake Slackers",
@@ -81324,6 +81310,34 @@
     }
   ],
   "994686213967577199": [
+    {
+      "card": {
+        "id": "kwak_common_2",
+        "name": "Kwak Jekang",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kwak_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793362917.3795254
+    },
+    {
+      "card": {
+        "id": "agent_common",
+        "name": "Agent Choi",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/agent_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 75,
+      "claimed_at": 1793396126.0319283
+    },
     {
       "card": {
         "id": "ren_common",
@@ -330661,7 +330675,8 @@
         "version": "common"
       },
       "print": 36,
-      "claimed_at": 1793388760.7890563
+      "claimed_at": 1793388760.7890563,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -331063,7 +331078,7 @@
       },
       "print": 38,
       "claimed_at": 1790525329.1793704,
-      "tags": "omh"
+      "tags": "[\ud83d\udc8d\ud83c\udccf\ud83d\udea9]"
     },
     {
       "card": {
@@ -331092,7 +331107,8 @@
         "version": "common"
       },
       "print": 50,
-      "claimed_at": 1790977651.5423648
+      "claimed_at": 1790977651.5423648,
+      "tags": "[\ud83d\udc8d\ud83c\udccf\ud83d\udea9]"
     },
     {
       "card": {
@@ -678946,6 +678962,20 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "hitoshi_common_2",
+        "name": "Hitoshi Shinso",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/hitoshi_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 10,
+      "claimed_at": 1793396111.4378724
+    },
+    {
+      "card": {
         "id": "killua_common",
         "name": "Killua Zoldyck",
         "series": "Hunter x Hunter",
@@ -832149,6 +832179,20 @@
   "1504462632013398208": [
     {
       "card": {
+        "id": "kalim_common",
+        "name": "Kalim Al-Asim",
+        "series": "Twisted Wonderland",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kalim_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1793396287.3369508
+    },
+    {
+      "card": {
         "id": "utsuro_common",
         "name": "Utsuro",
         "series": "Gokurakugai",
@@ -918618,6 +918662,20 @@
     }
   ],
   "1415199399469908020": [
+    {
+      "card": {
+        "id": "qiuyuan_common",
+        "name": "Qiuyuan",
+        "series": "Wuthering Waves",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/qiuyuan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793396231.8692837
+    },
     {
       "card": {
         "id": "alexsander_common",
@@ -1036578,6 +1036636,20 @@
   "658879787577901068": [
     {
       "card": {
+        "id": "kallen_common_2",
+        "name": "Kallen Kaslana",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kallen_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1793396336.1800187
+    },
+    {
+      "card": {
         "id": "lee_common_8",
         "name": "Lee Song-Rik",
         "series": "One-room TA",
@@ -1066852,6 +1066924,20 @@
     }
   ],
   "1071837987224158298": [
+    {
+      "card": {
+        "id": "tobio_common",
+        "name": "Tobio Kageyama",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tobio_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 82,
+      "claimed_at": 1793396315.4959142
+    },
     {
       "card": {
         "id": "olivine_common",
