@@ -73786,6 +73786,20 @@
   "856783136833667072": [
     {
       "card": {
+        "id": "leonard_common",
+        "name": "Leonard Mitchell",
+        "series": "Lord Of The Mysteries",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/leonard_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1793403737.007501
+    },
+    {
+      "card": {
         "id": "megurine_common",
         "name": "Megurine Luka",
         "series": "Vocaloid",
@@ -96353,6 +96367,20 @@
     }
   ],
   "224627689909256192": [
+    {
+      "card": {
+        "id": "jabber_common",
+        "name": "Jabber Wonger",
+        "series": "Gachiakuta",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/jabber_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793403496.935397
+    },
     {
       "card": {
         "id": "mr._common",
@@ -284432,6 +284460,20 @@
   "842906805406924840": [
     {
       "card": {
+        "id": "andrew_common",
+        "name": "Andrew Young",
+        "series": "Nerd Project",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/andrew_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 66,
+      "claimed_at": 1793403697.3567374
+    },
+    {
+      "card": {
         "id": "midori_common",
         "name": "Midori",
         "series": "Your Turn To Die",
@@ -350432,6 +350474,20 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "kaito_common",
+        "name": "KAITO",
+        "series": "Vocaloid",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kaito_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1790549404.1573477
+    },
+    {
+      "card": {
         "id": "trey_common",
         "name": "Trey Clover",
         "series": "Twisted Wonderland",
@@ -352037,21 +352093,6 @@
       },
       "print": 63,
       "claimed_at": 1790949809.9729116
-    },
-    {
-      "card": {
-        "id": "lu_common_4",
-        "name": "Lu Feng",
-        "series": "Little Mushroom",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/lu_common_4.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 22,
-      "claimed_at": 1790947450.5477986,
-      "tags": "hold"
     },
     {
       "card": {
@@ -439453,6 +439494,20 @@
     }
   ],
   "514565097981476875": [
+    {
+      "card": {
+        "id": "edmond_common",
+        "name": "Edmond",
+        "series": "NU: Carnival",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/edmond_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1793403476.9454691
+    },
     {
       "card": {
         "id": "nei_common",
@@ -653649,6 +653704,20 @@
   "565860327183351815": [
     {
       "card": {
+        "id": "shinobu_common",
+        "name": "Shinobu Kocho",
+        "series": "Kimetsu no Yaiba",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shinobu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793403541.413416
+    },
+    {
+      "card": {
         "id": "yixuan_common",
         "name": "Yixuan",
         "series": "Zenless Zone Zero",
@@ -655805,20 +655874,6 @@
     }
   ],
   "1125010005066784860": [
-    {
-      "card": {
-        "id": "ifa_common",
-        "name": "Ifa",
-        "series": "Genshin Impact",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ifa_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 46,
-      "claimed_at": 1793399028.3570874
-    },
     {
       "card": {
         "id": "jang_common",
@@ -920153,6 +920208,49 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "casper_common",
+        "name": "Casper",
+        "series": "A Date With Death",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/casper_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 80,
+      "claimed_at": 1793403680.1183307
+    },
+    {
+      "card": {
+        "id": "lu_common_4",
+        "name": "Lu Feng",
+        "series": "Little Mushroom",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/lu_common_4.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 22,
+      "claimed_at": 1790947450.5477986,
+      "tags": "hold"
+    },
+    {
+      "card": {
+        "id": "ifa_common",
+        "name": "Ifa",
+        "series": "Genshin Impact",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ifa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793399028.3570874
+    },
+    {
+      "card": {
         "id": "kotone_common",
         "name": "Kotone Shiomi",
         "series": "Persona",
@@ -920178,20 +920276,6 @@
       },
       "print": 14,
       "claimed_at": 1789576717.4015582
-    },
-    {
-      "card": {
-        "id": "kaito_common",
-        "name": "KAITO",
-        "series": "Vocaloid",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/kaito_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 39,
-      "claimed_at": 1790549404.1573477
     },
     {
       "card": {
@@ -1094013,6 +1094097,20 @@
   "1113230728415690843": [
     {
       "card": {
+        "id": "yashiro_common",
+        "name": "Yashiro Nene",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/yashiro_common.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 3,
+      "claimed_at": 1793403768.565703
+    },
+    {
+      "card": {
         "id": "watase_common",
         "name": "Watase Reina",
         "series": "#Gal x Gal Yuri",
@@ -1110256,6 +1110354,20 @@
   ],
   "1110843086805930014": [],
   "1142143636784558120": [
+    {
+      "card": {
+        "id": "mizi_common_2",
+        "name": "Mizi",
+        "series": "Alien Stage",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/mizi_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 34,
+      "claimed_at": 1793403565.6247861
+    },
     {
       "card": {
         "id": "seraph_common",
@@ -1168351,6 +1168463,20 @@
     }
   ],
   "1564097735689375848": [
+    {
+      "card": {
+        "id": "levi_common",
+        "name": "Levi Ackerman",
+        "series": "Attack on Titan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/levi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 62,
+      "claimed_at": 1793403689.3159444
+    },
     {
       "card": {
         "id": "ayato_common_2",
