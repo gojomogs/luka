@@ -46122,6 +46122,21 @@
   "1070404986057531452": [
     {
       "card": {
+        "id": "ren_common_3",
+        "name": "Ren Amamiya",
+        "series": "Persona",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ren_common_3.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 14,
+      "claimed_at": 1793383784.6915717,
+      "tags": "\u2661"
+    },
+    {
+      "card": {
         "id": "yo-ham_common",
         "name": "Yo-ham & Joo Ui-young",
         "series": "Cabinet Maid",
@@ -46216,7 +46231,7 @@
       "print": 5,
       "claimed_at": 1790890735.220959,
       "merchant_reward": true,
-      "tags": "[Depends]"
+      "tags": "\u2661"
     },
     {
       "card": {
@@ -351266,20 +351281,6 @@
     },
     {
       "card": {
-        "id": "ren_common_3",
-        "name": "Ren Amamiya",
-        "series": "Persona",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ren_common_3.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 14,
-      "claimed_at": 1793383784.6915717
-    },
-    {
-      "card": {
         "id": "mao_common",
         "name": "Mao Isara",
         "series": "Ensemble Stars!",
@@ -489085,6 +489086,46 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "izana_common",
+        "name": "Izana Kurokawa",
+        "series": "Tokyo Revengers",
+        "stars": 2,
+        "frame": "common",
+        "image": "card_art/izana_common.png"
+      },
+      "print": 36,
+      "claimed_at": 1793476478.1595128,
+      "merchant_reward": true
+    },
+    {
+      "card": {
+        "id": "demon_common",
+        "name": "Demon",
+        "series": "Path To Nowhere",
+        "stars": 1,
+        "frame": "common",
+        "image": "card_art/demon_common.png"
+      },
+      "print": 23,
+      "claimed_at": 1793476478.159509,
+      "merchant_reward": true
+    },
+    {
+      "card": {
+        "id": "yi_common",
+        "name": "Yi Sang",
+        "series": "Limbus Company",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793476266.2641652
+    },
+    {
+      "card": {
         "id": "jang_common",
         "name": "Jang Baekhee",
         "series": "Yang Ilwoo and I",
@@ -489110,21 +489151,6 @@
       },
       "print": 38,
       "claimed_at": 1793475546.969284
-    },
-    {
-      "card": {
-        "id": "alan_common",
-        "name": "Shohei Haizono",
-        "series": "Tokyo Debunker",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/alan_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 28,
-      "claimed_at": 1793222978.8695905,
-      "tags": "merchant"
     },
     {
       "card": {
@@ -489436,21 +489462,6 @@
       },
       "print": 29,
       "claimed_at": 1793454656.4287176,
-      "tags": "ft"
-    },
-    {
-      "card": {
-        "id": "ena_common",
-        "name": "Shinonome Ena",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ena_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 68,
-      "claimed_at": 1793453558.1466346,
       "tags": "ft"
     },
     {
@@ -540284,17 +540295,18 @@
   "1359716535077179463": [
     {
       "card": {
-        "id": "yi_common",
-        "name": "Yi Sang",
-        "series": "Limbus Company",
+        "id": "ena_common",
+        "name": "Shinonome Ena",
+        "series": "Project Sekai: Colorful Stage!",
         "stars": 2,
         "weight": 10,
-        "image": "card_art/yi_common.png",
+        "image": "card_art/ena_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 44,
-      "claimed_at": 1793476266.2641652
+      "print": 68,
+      "claimed_at": 1793453558.1466346,
+      "tags": "ft"
     },
     {
       "card": {
@@ -543373,21 +543385,6 @@
       },
       "print": 12,
       "claimed_at": 1790182452.9948392,
-      "tags": "\u02d9\u22c6\u272e ft"
-    },
-    {
-      "card": {
-        "id": "edward_common_2",
-        "name": "Edward Hart",
-        "series": "Tokyo Debunker",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/edward_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 16,
-      "claimed_at": 1790181676.7021945,
       "tags": "\u02d9\u22c6\u272e ft"
     },
     {
@@ -581060,6 +581057,21 @@
   "1344738272924143750": [
     {
       "card": {
+        "id": "cinnabar_common",
+        "name": "Cinnabar",
+        "series": "Path To Nowhere",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cinnabar_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1793476481.45779,
+      "tags": "\ud83d\udcb8ft"
+    },
+    {
+      "card": {
         "id": "piper_common_3",
         "name": "Piper McLean",
         "series": "Percy Jackson and The Olympians",
@@ -587293,6 +587305,20 @@
     }
   ],
   "886247125292306432": [
+    {
+      "card": {
+        "id": "shoyo_common",
+        "name": "Shoyo Hinata",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shoyo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1793476307.0327437
+    },
     {
       "card": {
         "id": "linnea_common",
@@ -938574,6 +938600,20 @@
   "1545740226004123728": [
     {
       "card": {
+        "id": "baek_common_4",
+        "name": "Baek Kyungbin",
+        "series": "Merry Marbling",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 61,
+      "claimed_at": 1793476328.8375988
+    },
+    {
+      "card": {
         "id": "giesel_common",
         "name": "Rensley Mallosen",
         "series": "Winterfield",
@@ -1008079,6 +1008119,20 @@
     }
   ],
   "1422891232182407210": [
+    {
+      "card": {
+        "id": "durandal_common",
+        "name": "Durandal",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/durandal_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793476372.8794866
+    },
     {
       "card": {
         "id": "wei_common",
@@ -1089140,6 +1089194,20 @@
   "1197667451786248332": [
     {
       "card": {
+        "id": "sunday_common",
+        "name": "Sunday",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sunday_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 79,
+      "claimed_at": 1793476311.5237823
+    },
+    {
+      "card": {
         "id": "yoshiki_common",
         "name": "Yoshiki",
         "series": "The Summer Hikaru Died",
@@ -1141096,6 +1141164,20 @@
   "1142143636784558120": [
     {
       "card": {
+        "id": "mikasa_common",
+        "name": "Mikasa Ackerman",
+        "series": "Attack on Titan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mikasa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 55,
+      "claimed_at": 1793476476.3769476
+    },
+    {
+      "card": {
         "id": "levi_common",
         "name": "Levi Ackerman",
         "series": "Attack on Titan",
@@ -1184328,6 +1184410,20 @@
   "1529097630552948908": [
     {
       "card": {
+        "id": "jurard_common",
+        "name": "Jurard T Rexford",
+        "series": "Holostars",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jurard_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1793476291.6988215
+    },
+    {
+      "card": {
         "id": "kusanagi_rare",
         "name": "Kusanagi Nene",
         "series": "Project Sekai: Colorful Stage!",
@@ -1190503,6 +1190599,20 @@
   "1371031984230371369": [],
   "1227719606223765687": [],
   "779218661096292352": [
+    {
+      "card": {
+        "id": "yeon_rare",
+        "name": "Lee Yeon",
+        "series": "Red Thread Quest",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/yeon_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 20,
+      "claimed_at": 1793476473.387386
+    },
     {
       "card": {
         "id": "hiromi_rare",
