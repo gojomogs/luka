@@ -306332,6 +306332,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "ralsei_common",
+        "name": "Ralsei",
+        "series": "Deltarune",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ralsei_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793449711.8244731
+    },
+    {
+      "card": {
         "id": "riko_common",
         "name": "Riko Amanai",
         "series": "Jujutsu Kaisen",
@@ -335610,6 +335624,48 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "lee_common_10",
+        "name": "Lee Jaheon",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_10.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 64,
+      "claimed_at": 1793449624.497823
+    },
+    {
+      "card": {
+        "id": "luocha_common_2",
+        "name": "Luocha",
+        "series": "Honkai: Star Rail",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/luocha_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 4,
+      "claimed_at": 1793449596.2801569
+    },
+    {
+      "card": {
+        "id": "braun_common",
+        "name": "Braun",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/braun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 72,
+      "claimed_at": 1793446341.1160674
+    },
+    {
+      "card": {
         "id": "toma_common",
         "name": "Toma Mako",
         "series": "Selection Project",
@@ -336655,21 +336711,6 @@
       },
       "print": 51,
       "claimed_at": 1793253215.721208,
-      "tags": "[Ft]"
-    },
-    {
-      "card": {
-        "id": "merold_rare",
-        "name": "Merold",
-        "series": "Fragaria Memories",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/merold_rare.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 42,
-      "claimed_at": 1793249758.3039598,
       "tags": "[Ft]"
     },
     {
@@ -355234,6 +355275,21 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "merold_rare",
+        "name": "Merold",
+        "series": "Fragaria Memories",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/merold_rare.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1793249758.3039598,
+      "tags": "[Ft]"
+    },
+    {
+      "card": {
         "id": "juste_common",
         "name": "Juste Belmont",
         "series": "Castlevania",
@@ -355259,20 +355315,6 @@
       },
       "print": 53,
       "claimed_at": 1793446746.2092965
-    },
-    {
-      "card": {
-        "id": "braun_common",
-        "name": "Braun",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/braun_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 72,
-      "claimed_at": 1793446341.1160674
     },
     {
       "card": {
@@ -367424,6 +367466,21 @@
   "1065199150498590782": [
     {
       "card": {
+        "id": "tao_common",
+        "name": "Tao Saotome",
+        "series": "Gokurakugai",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/tao_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793440002.7553258,
+      "tags": "\ud80c\ude78\u0f80\u0f72 . NFT"
+    },
+    {
+      "card": {
         "id": "suzaku_common_2",
         "name": "Suzaku Kururugi",
         "series": "Code Geass",
@@ -367462,7 +367519,8 @@
         "version": "common"
       },
       "print": 8,
-      "claimed_at": 1788556375.061697
+      "claimed_at": 1788556375.061697,
+      "tags": "\ud80c\ude78\u0f80\u0f72 . NFT"
     },
     {
       "card": {
@@ -368467,20 +368525,6 @@
       },
       "print": 24,
       "claimed_at": 1790639533.6784756
-    },
-    {
-      "card": {
-        "id": "vil_common",
-        "name": "Vil Schoenheit",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/vil_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 37,
-      "claimed_at": 1790634419.1942263
     },
     {
       "card": {
@@ -671135,6 +671179,21 @@
   "1454914344792883305": [
     {
       "card": {
+        "id": "vil_common",
+        "name": "Vil Schoenheit",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/vil_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1790634419.1942263,
+      "tags": "myking"
+    },
+    {
+      "card": {
         "id": "gohin_common",
         "name": "Gohin",
         "series": "Beastars",
@@ -671263,20 +671322,6 @@
       },
       "print": 62,
       "claimed_at": 1793441290.659232
-    },
-    {
-      "card": {
-        "id": "tao_common",
-        "name": "Tao Saotome",
-        "series": "Gokurakugai",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/tao_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 60,
-      "claimed_at": 1793440002.7553258
     },
     {
       "card": {
@@ -671528,7 +671573,8 @@
         "version": "common"
       },
       "print": 56,
-      "claimed_at": 1793338798.9350386
+      "claimed_at": 1793338798.9350386,
+      "tags": "myking"
     },
     {
       "card": {
@@ -671556,7 +671602,8 @@
         "version": "common"
       },
       "print": 55,
-      "claimed_at": 1793330273.0138993
+      "claimed_at": 1793330273.0138993,
+      "tags": "myking"
     },
     {
       "card": {
@@ -671850,7 +671897,8 @@
         "version": "common"
       },
       "print": 43,
-      "claimed_at": 1790945503.4880016
+      "claimed_at": 1790945503.4880016,
+      "tags": "myking"
     },
     {
       "card": {
@@ -672933,7 +672981,7 @@
       },
       "print": 23,
       "claimed_at": 1789832059.3321683,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -672976,7 +673024,7 @@
       },
       "print": 34,
       "claimed_at": 1790518935.0568573,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -673033,7 +673081,7 @@
       },
       "print": 4,
       "claimed_at": 1788095996.0786073,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -673174,7 +673222,7 @@
       },
       "print": 7,
       "claimed_at": 1788583156.5079713,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -673845,7 +673893,7 @@
       },
       "print": 17,
       "claimed_at": 1789661914.292727,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -673875,7 +673923,7 @@
       },
       "print": 13,
       "claimed_at": 1789514092.5241058,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -673920,7 +673968,7 @@
       },
       "print": 18,
       "claimed_at": 1789677364.4546018,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -674565,7 +674613,7 @@
       },
       "print": 21,
       "claimed_at": 1789746499.6544404,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -674715,7 +674763,7 @@
       },
       "print": 19,
       "claimed_at": 1789692510.4509463,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -674760,7 +674808,7 @@
       },
       "print": 10,
       "claimed_at": 1788603705.2203047,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -674835,7 +674883,7 @@
       },
       "print": 11,
       "claimed_at": 1788664980.8974984,
-      "tags": "my king"
+      "tags": "myking"
     },
     {
       "card": {
@@ -675690,7 +675738,7 @@
       },
       "print": 9,
       "claimed_at": 1788602901.2134578,
-      "tags": "mylove",
+      "tags": "myking",
       "showcased": true
     },
     {
@@ -675811,7 +675859,7 @@
       },
       "print": 8,
       "claimed_at": 1788591311.5798602,
-      "tags": "mylove",
+      "tags": "myking",
       "showcased": true
     },
     {
@@ -676337,7 +676385,7 @@
       },
       "print": 3,
       "claimed_at": 1788089161.2746837,
-      "tags": "mylove",
+      "tags": "myking",
       "showcased": true
     },
     {
@@ -767029,6 +767077,20 @@
     }
   ],
   "1204473206077919295": [
+    {
+      "card": {
+        "id": "xiao_common_2",
+        "name": "Xiao",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/xiao_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 27,
+      "claimed_at": 1793449479.7394981
+    },
     {
       "card": {
         "id": "flins_common",
@@ -1016359,6 +1016421,20 @@
   "1510010190315917324": [
     {
       "card": {
+        "id": "tomura_rare_2",
+        "name": "Tomura Shigaraki",
+        "series": "My Hero Academia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tomura_rare_2.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 21,
+      "claimed_at": 1793449468.1109743
+    },
+    {
+      "card": {
         "id": "lee_common_13",
         "name": "Lee Sunny",
         "series": "Spinach Bouquet",
@@ -1019287,6 +1019363,20 @@
     }
   ],
   "1303595998714662916": [
+    {
+      "card": {
+        "id": "kanon_common",
+        "name": "Kanon Matsubara",
+        "series": "BanG Dream!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kanon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1793449537.7290025
+    },
     {
       "card": {
         "id": "hecate_common",
@@ -1086024,6 +1086114,20 @@
   "1071837987224158298": [
     {
       "card": {
+        "id": "artoria_common",
+        "name": "Artoria Pendragon",
+        "series": "Fate Series",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/artoria_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793449624.195485
+    },
+    {
+      "card": {
         "id": "eiden_common",
         "name": "Eiden",
         "series": "NU: Carnival",
@@ -1142153,6 +1142257,20 @@
   "1118324764012970164": [
     {
       "card": {
+        "id": "carlotta_common",
+        "name": "Carlotta",
+        "series": "Wuthering Waves",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/carlotta_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793449562.706835
+    },
+    {
+      "card": {
         "id": "eren_common",
         "name": "Eren Yeager",
         "series": "Attack on Titan",
@@ -1181255,6 +1181373,20 @@
     }
   ],
   "1544455987338018857": [
+    {
+      "card": {
+        "id": "sophia_common",
+        "name": "Sophia",
+        "series": "D4DJ",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sophia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1793449578.6695712
+    },
     {
       "card": {
         "id": "kang_rare",
