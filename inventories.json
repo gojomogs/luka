@@ -33103,6 +33103,20 @@
   "1095353184471490620": [
     {
       "card": {
+        "id": "joe_common",
+        "name": "Joe Tazuna",
+        "series": "Your Turn To Die",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/joe_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793484549.5069084
+    },
+    {
+      "card": {
         "id": "faye_common",
         "name": "Faye Valentine",
         "series": "Cowboy Bebop",
@@ -75284,6 +75298,20 @@
     }
   ],
   "856783136833667072": [
+    {
+      "card": {
+        "id": "sae_rare",
+        "name": "Sae Itoshi",
+        "series": "BLUELOCK",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/sae_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 20,
+      "claimed_at": 1793484361.4603488
+    },
     {
       "card": {
         "id": "tsugino_common",
@@ -145715,6 +145743,20 @@
   "1508236825557209179": [
     {
       "card": {
+        "id": "kozume_common",
+        "name": "Kozume Kenma",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kozume_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 61,
+      "claimed_at": 1793484454.508686
+    },
+    {
+      "card": {
         "id": "taylor_common",
         "name": "Taylor Hernandez",
         "series": "School Bus Graveyard",
@@ -153808,6 +153850,20 @@
     }
   ],
   "1321065001212969044": [
+    {
+      "card": {
+        "id": "asuka_common",
+        "name": "Asuka Langley",
+        "series": "Neon Genesis Evangelion",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/asuka_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1793484448.8177705
+    },
     {
       "card": {
         "id": "kang_common",
@@ -203252,6 +203308,50 @@
   "1066269748293287997": [
     {
       "card": {
+        "id": "deuce_common",
+        "name": "Deuce Spade",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/deuce_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1793484362.2628963
+    },
+    {
+      "card": {
+        "id": "heo_common",
+        "name": "Heo Chanyoung & Seo Hyunjin",
+        "series": "Protect Your Purity!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/heo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 9,
+      "claimed_at": 1789527812.6411583,
+      "tags": "\ud83d\udc8cyeon"
+    },
+    {
+      "card": {
+        "id": "goo_common",
+        "name": "Goo Yoon-won",
+        "series": "Save The Dae",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/goo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 3,
+      "claimed_at": 1788020352.331098,
+      "tags": "\ud83d\udc8cyeon"
+    },
+    {
+      "card": {
         "id": "jack_common",
         "name": "Jack Howl",
         "series": "Twisted Wonderland",
@@ -203378,20 +203478,6 @@
     },
     {
       "card": {
-        "id": "teru_common_2",
-        "name": "Teru Minamoto",
-        "series": "Toilet-bound Hanako-kun",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/teru_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 9,
-      "claimed_at": 1793437415.049448
-    },
-    {
-      "card": {
         "id": "suguru_common_2",
         "name": "Suguru Geto",
         "series": "Jujutsu Kaisen",
@@ -203417,20 +203503,6 @@
       },
       "print": 42,
       "claimed_at": 1793422389.9679947
-    },
-    {
-      "card": {
-        "id": "yashiro_common",
-        "name": "Yashiro Nene",
-        "series": "Toilet-bound Hanako-kun",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/yashiro_common.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 5,
-      "claimed_at": 1793421180.4954593
     },
     {
       "card": {
@@ -248257,18 +248329,101 @@
   "1198905520422137927": [
     {
       "card": {
-        "id": "heo_common",
-        "name": "Heo Chanyoung & Seo Hyunjin",
-        "series": "Protect Your Purity!",
+        "id": "yu_common",
+        "name": "Yu Fan",
+        "series": "Wait For Me After School",
         "stars": 3,
         "weight": 8,
-        "image": "card_art/heo_common.png",
+        "image": "card_art/yu_common.png",
         "frame": "common",
         "version": "common"
       },
+      "print": 50,
+      "claimed_at": 1793484542.253012
+    },
+    {
+      "card": {
+        "id": "han_common_6",
+        "name": "Han Sooyoung",
+        "series": "Omniscient Reader\u2019s Viewpoint",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/han_common_6.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 20,
+      "claimed_at": 1793484472.0316982
+    },
+    {
+      "card": {
+        "id": "ohn_common_2",
+        "name": "Ohn Wooju",
+        "series": "Honey Trouble",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ohn_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793484454.052828
+    },
+    {
+      "card": {
+        "id": "gi_common",
+        "name": "Gi Taerim",
+        "series": "Don\u2019t Poke the Plum",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/gi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793484400.1703236
+    },
+    {
+      "card": {
+        "id": "han_common_5",
+        "name": "Han Maru & Eden Seonwoo",
+        "series": "Special Civil Servant",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/han_common_5.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 76,
+      "claimed_at": 1793484395.899246
+    },
+    {
+      "card": {
+        "id": "teru_common_2",
+        "name": "Teru Minamoto",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/teru_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
       "print": 9,
-      "claimed_at": 1789527812.6411583,
-      "tags": "\ud83d\udc8cyeon"
+      "claimed_at": 1793437415.049448
+    },
+    {
+      "card": {
+        "id": "yashiro_common",
+        "name": "Yashiro Nene",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/yashiro_common.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 5,
+      "claimed_at": 1793421180.4954593
     },
     {
       "card": {
@@ -248963,21 +249118,6 @@
       },
       "print": 15,
       "claimed_at": 1789649272.6771944
-    },
-    {
-      "card": {
-        "id": "goo_common",
-        "name": "Goo Yoon-won",
-        "series": "Save The Dae",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/goo_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 3,
-      "claimed_at": 1788020352.331098,
-      "tags": "\ud83d\udc8cyeon"
     },
     {
       "card": {
@@ -387976,6 +388116,20 @@
   "1299833889166065743": [
     {
       "card": {
+        "id": "ivan_rare",
+        "name": "Ivan",
+        "series": "Alien Stage",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/ivan_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 31,
+      "claimed_at": 1793484456.6614501
+    },
+    {
+      "card": {
         "id": "nei_common",
         "name": "Nei Takarai",
         "series": "Gokurakugai",
@@ -449976,6 +450130,20 @@
     }
   ],
   "514565097981476875": [
+    {
+      "card": {
+        "id": "billy_common",
+        "name": "Billy Kid",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/billy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793484511.9584374
+    },
     {
       "card": {
         "id": "camellya_common",
@@ -1148245,6 +1148413,20 @@
     }
   ],
   "1383481899334238248": [
+    {
+      "card": {
+        "id": "machina_common",
+        "name": "Machina Soleige",
+        "series": "Demon Lord 2099",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/machina_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1793484427.027489
+    },
     {
       "card": {
         "id": "ryomen_common_2",
