@@ -637,7 +637,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 43,
+      "progress": 44,
       "id": "a8d9ea40-3b2d-4da4-9e3e-fcb7fc4679a1",
       "player_a": "953615292641185804",
       "player_b": "857177938682970132",
@@ -649,7 +649,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Marius Von Hagen"
+      ],
       "id": "7a9603d7-bd80-441e-8400-fc1a9dc53efc",
       "player_a": "908254172074352641",
       "player_b": "647974710470115339",
