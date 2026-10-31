@@ -109547,6 +109547,20 @@
   "1122003954436407336": [
     {
       "card": {
+        "id": "cerydra_common",
+        "name": "Cerydra",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/cerydra_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793419923.6766746
+    },
+    {
+      "card": {
         "id": "monika_common",
         "name": "Monika",
         "series": "Doki Doki Literature Club!",
@@ -260560,6 +260574,20 @@
   "908254172074352641": [
     {
       "card": {
+        "id": "neo_common",
+        "name": "Neo",
+        "series": "D4DJ",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/neo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1793419896.7040966
+    },
+    {
+      "card": {
         "id": "rogue_common",
         "name": "Rogue",
         "series": "Marvel",
@@ -332657,6 +332685,36 @@
   "1468648929783709768": [
     {
       "card": {
+        "id": "ling_common",
+        "name": "Ling Xinlu",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ling_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793395815.558664,
+      "tags": "<Trade>"
+    },
+    {
+      "card": {
+        "id": "braun_common",
+        "name": "Braun",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/braun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 63,
+      "claimed_at": 1793210681.0056345,
+      "tags": "[\ud83d\udcfa\ud83d\udc8d\ud83d\ude0a]"
+    },
+    {
+      "card": {
         "id": "phrolova_common",
         "name": "Phrolova",
         "series": "Wuthering Waves",
@@ -332709,7 +332767,8 @@
         "version": "common"
       },
       "print": 65,
-      "claimed_at": 1793235496.1195211
+      "claimed_at": 1793235496.1195211,
+      "tags": "[\ud83d\udcfa\ud83d\udc8d\ud83d\ude0a]"
     },
     {
       "card": {
@@ -332880,7 +332939,8 @@
         "version": "common"
       },
       "print": 59,
-      "claimed_at": 1793394433.970696
+      "claimed_at": 1793394433.970696,
+      "tags": "[\ud83d\udc11?]"
     },
     {
       "card": {
@@ -338229,21 +338289,6 @@
     },
     {
       "card": {
-        "id": "ibara_common",
-        "name": "Ibara Saegusa",
-        "series": "Ensemble Stars!",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ibara_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 22,
-      "claimed_at": 1790113087.9247696,
-      "tags": "[Ft]"
-    },
-    {
-      "card": {
         "id": "natsume_common_2",
         "name": "Natsume Anan",
         "series": "Magical Girl Witch Trials",
@@ -340038,21 +340083,6 @@
       },
       "print": 12,
       "claimed_at": 1789939059.8409026,
-      "tags": "[Ft]"
-    },
-    {
-      "card": {
-        "id": "ibara_common",
-        "name": "Ibara Saegusa",
-        "series": "Ensemble Stars!",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ibara_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 17,
-      "claimed_at": 1789936244.2387402,
       "tags": "[Ft]"
     },
     {
@@ -432008,6 +432038,20 @@
   "617162611687161859": [
     {
       "card": {
+        "id": "shirley_common",
+        "name": "Shirley Fenette",
+        "series": "Code Geass",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shirley_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793420083.018902
+    },
+    {
+      "card": {
         "id": "don_common_2",
         "name": "Don Quixote",
         "series": "Limbus Company",
@@ -480667,21 +480711,6 @@
     },
     {
       "card": {
-        "id": "monika_common",
-        "name": "Monika",
-        "series": "Doki Doki Literature Club!",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/monika_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 56,
-      "claimed_at": 1793413779.5022628,
-      "tags": "gf"
-    },
-    {
-      "card": {
         "id": "atsushi_common_3",
         "name": "Atsushi Nakajima",
         "series": "Bungo Stray Dogs",
@@ -490894,6 +490923,50 @@
   "1192201166893895725": [
     {
       "card": {
+        "id": "ibara_common",
+        "name": "Ibara Saegusa",
+        "series": "Ensemble Stars!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ibara_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1790113087.9247696,
+      "tags": "\ud83d\udc8d\u2661"
+    },
+    {
+      "card": {
+        "id": "ibara_common",
+        "name": "Ibara Saegusa",
+        "series": "Ensemble Stars!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ibara_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789936244.2387402,
+      "tags": "\ud83d\udc8d\u2661"
+    },
+    {
+      "card": {
+        "id": "jingran_common",
+        "name": "Jingran",
+        "series": "Wuthering Waves",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jingran_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1793419900.868654
+    },
+    {
+      "card": {
         "id": "jade_common",
         "name": "Jade Leech",
         "series": "Twisted Wonderland",
@@ -491107,21 +491180,6 @@
     },
     {
       "card": {
-        "id": "ling_common",
-        "name": "Ling Xinlu",
-        "series": "Passion Raga",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ling_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 70,
-      "claimed_at": 1793395815.558664,
-      "tags": "hold"
-    },
-    {
-      "card": {
         "id": "stain_common",
         "name": "Stain",
         "series": "My Hero Academia",
@@ -491331,20 +491389,6 @@
       },
       "print": 59,
       "claimed_at": 1793333820.8130348
-    },
-    {
-      "card": {
-        "id": "braun_common",
-        "name": "Braun",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/braun_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 63,
-      "claimed_at": 1793210681.0056345
     },
     {
       "card": {
@@ -530546,6 +530590,20 @@
     }
   ],
   "1359716535077179463": [
+    {
+      "card": {
+        "id": "marianne_common",
+        "name": "Marianne",
+        "series": "Into The Light, Once Again",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/marianne_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1793420039.6265006
+    },
     {
       "card": {
         "id": "sousuke_common",
@@ -576761,6 +576819,20 @@
     }
   ],
   "886247125292306432": [
+    {
+      "card": {
+        "id": "fuyume_common",
+        "name": "Fuyume Hanamura",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/fuyume_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1793419843.3345487
+    },
     {
       "card": {
         "id": "zuko_common",
@@ -857638,6 +857710,35 @@
   "1321274187045666918": [
     {
       "card": {
+        "id": "ai_common_2",
+        "name": "Ai Ohto",
+        "series": "Wonder Egg Priority",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ai_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793419967.6512396
+    },
+    {
+      "card": {
+        "id": "monika_common",
+        "name": "Monika",
+        "series": "Doki Doki Literature Club!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/monika_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793413779.5022628,
+      "tags": "\ud83c\udf3b"
+    },
+    {
+      "card": {
         "id": "fu_common_3",
         "name": "Fu Hua & Rita Rossweisse",
         "series": "Honkai Impact 3rd",
@@ -941724,6 +941825,20 @@
   "420699083238539285": [
     {
       "card": {
+        "id": "mahito_common",
+        "name": "Mahito",
+        "series": "Jujutsu Kaisen",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mahito_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1793419899.1355472
+    },
+    {
+      "card": {
         "id": "hero_common",
         "name": "Hero",
         "series": "Omori",
@@ -988642,6 +988757,20 @@
     }
   ],
   "1422891232182407210": [
+    {
+      "card": {
+        "id": "erwin_common",
+        "name": "Erwin Smith",
+        "series": "Attack on Titan",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/erwin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793419904.3954473
+    },
     {
       "card": {
         "id": "maka_common_2",
@@ -1121412,7 +1121541,8 @@
         "version": "common"
       },
       "print": 55,
-      "claimed_at": 1793419558.5708697
+      "claimed_at": 1793419558.5708697,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1121455,7 +1121585,7 @@
       },
       "print": 56,
       "claimed_at": 1790725602.7017596,
-      "tags": "ft\ud83c\udf4b\u200d\ud83d\udfe9"
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1121596,7 +1121726,8 @@
         "version": "common"
       },
       "print": 56,
-      "claimed_at": 1793406224.1261263
+      "claimed_at": 1793406224.1261263,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1121639,7 +1121770,7 @@
       },
       "print": 13,
       "claimed_at": 1789596473.7876396,
-      "tags": "[Ft]"
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1121654,7 +1121785,7 @@
       },
       "print": 61,
       "claimed_at": 1790689113.4074852,
-      "tags": "[Ft]"
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1121668,7 +1121799,8 @@
         "version": "common"
       },
       "print": 37,
-      "claimed_at": 1793402180.629621
+      "claimed_at": 1793402180.629621,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1121822,7 +1121954,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1793385588.4175735
+      "claimed_at": 1793385588.4175735,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122088,7 +1122221,8 @@
         "version": "rare"
       },
       "print": 20,
-      "claimed_at": 1793233180.971763
+      "claimed_at": 1793233180.971763,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122130,7 +1122264,8 @@
         "version": "rare"
       },
       "print": 42,
-      "claimed_at": 1793282027.9867132
+      "claimed_at": 1793282027.9867132,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122200,7 +1122335,8 @@
         "version": "common"
       },
       "print": 23,
-      "claimed_at": 1790056133.0734513
+      "claimed_at": 1790056133.0734513,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122326,7 +1122462,8 @@
         "version": "common"
       },
       "print": 57,
-      "claimed_at": 1793281177.614559
+      "claimed_at": 1793281177.614559,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122410,7 +1122547,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1793247963.134337
+      "claimed_at": 1793247963.134337,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122424,7 +1122562,8 @@
         "version": "V1"
       },
       "print": 27,
-      "claimed_at": 1793247655.7978668
+      "claimed_at": 1793247655.7978668,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122762,7 +1122901,7 @@
       },
       "print": 25,
       "claimed_at": 1790118295.7964091,
-      "tags": "ft"
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122804,7 +1122943,8 @@
         "version": "common"
       },
       "print": 58,
-      "claimed_at": 1790979707.7558734
+      "claimed_at": 1790979707.7558734,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122917,7 +1123057,7 @@
       },
       "print": 31,
       "claimed_at": 1790919510.045535,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1122932,7 +1123072,7 @@
       },
       "print": 20,
       "claimed_at": 1790139532.0334806,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123100,7 +1123240,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790021227.158898
+      "claimed_at": 1790021227.158898,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123114,7 +1123255,8 @@
         "version": "common"
       },
       "print": 26,
-      "claimed_at": 1789974812.6736546
+      "claimed_at": 1789974812.6736546,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123128,7 +1123270,8 @@
         "version": "common"
       },
       "print": 20,
-      "claimed_at": 1789669315.871322
+      "claimed_at": 1789669315.871322,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123716,7 +1123859,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1790903311.0715697
+      "claimed_at": 1790903311.0715697,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123884,7 +1124028,8 @@
         "version": "common"
       },
       "print": 40,
-      "claimed_at": 1790709857.7074993
+      "claimed_at": 1790709857.7074993,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123898,7 +1124043,8 @@
         "version": "rare"
       },
       "print": 37,
-      "claimed_at": 1790623883.1735866
+      "claimed_at": 1790623883.1735866,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123954,7 +1124100,8 @@
         "version": "V1"
       },
       "print": 11,
-      "claimed_at": 1790711349.90433
+      "claimed_at": 1790711349.90433,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1123968,7 +1124115,8 @@
         "version": "rare"
       },
       "print": 16,
-      "claimed_at": 1790235915.54453
+      "claimed_at": 1790235915.54453,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124473,7 +1124621,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1790193391.54682
+      "claimed_at": 1790193391.54682,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124487,7 +1124636,8 @@
         "version": "common"
       },
       "print": 23,
-      "claimed_at": 1789982573.8249922
+      "claimed_at": 1789982573.8249922,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124515,7 +1124665,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1789495407.618812
+      "claimed_at": 1789495407.618812,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124529,7 +1124680,8 @@
         "version": "common"
       },
       "print": 14,
-      "claimed_at": 1789547451.290746
+      "claimed_at": 1789547451.290746,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124739,7 +1124891,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1789669845.4819028
+      "claimed_at": 1789669845.4819028,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124753,7 +1124906,8 @@
         "version": "common"
       },
       "print": 39,
-      "claimed_at": 1789919580.441545
+      "claimed_at": 1789919580.441545,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124767,7 +1124921,8 @@
         "version": "common"
       },
       "print": 39,
-      "claimed_at": 1790453809.402495
+      "claimed_at": 1790453809.402495,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124781,7 +1124936,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1789673023.8133857
+      "claimed_at": 1789673023.8133857,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124795,7 +1124951,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1788635039.9046576
+      "claimed_at": 1788635039.9046576,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124809,7 +1124966,8 @@
         "version": "common"
       },
       "print": 11,
-      "claimed_at": 1788629933.9020417
+      "claimed_at": 1788629933.9020417,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1124823,7 +1124981,8 @@
         "version": "common"
       },
       "print": 53,
-      "claimed_at": 1790527437.2410736
+      "claimed_at": 1790527437.2410736,
+      "tags": "\ud83e\udd88"
     },
     {
       "card": {
@@ -1137106,6 +1137265,20 @@
     }
   ],
   "1135011169485197314": [
+    {
+      "card": {
+        "id": "mithrun_common",
+        "name": "Mithrun",
+        "series": "Dungeon Meshi",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mithrun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793419858.5335865
+    },
     {
       "card": {
         "id": "sayori_common",
@@ -1162369,6 +1162542,20 @@
     }
   ],
   "1046074143440916530": [
+    {
+      "card": {
+        "id": "ishmael_common",
+        "name": "Ishmael",
+        "series": "Limbus Company",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ishmael_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793419975.9236681
+    },
     {
       "card": {
         "id": "an_common_3",
