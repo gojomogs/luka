@@ -8804,6 +8804,76 @@
   "870354420049776710": [
     {
       "card": {
+        "id": "park_common_2",
+        "name": "Park Minseong",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/park_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793206283.302435
+    },
+    {
+      "card": {
+        "id": "baek_common_7",
+        "name": "Baek Saheon",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/baek_common_7.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 55,
+      "claimed_at": 1790685352.9610426
+    },
+    {
+      "card": {
+        "id": "ryu_common_3",
+        "name": "Ryu Jaekwan",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryu_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1790477212.0430539
+    },
+    {
+      "card": {
+        "id": "ryu_common_3",
+        "name": "Ryu Jaekwan",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryu_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1789921512.493866
+    },
+    {
+      "card": {
+        "id": "kim_common_8",
+        "name": "Kim Dokja",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kim_common_8.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 15,
+      "claimed_at": 1793275930.500009
+    },
+    {
+      "card": {
         "id": "kim_common_7",
         "name": "Kim Soleum",
         "series": "Got Dropped into a Ghost Story, Still Gotta Work",
@@ -14798,20 +14868,6 @@
     },
     {
       "card": {
-        "id": "kim_common_8",
-        "name": "Kim Dokja",
-        "series": "Omniscient Reader's Viewpoint",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kim_common_8.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 15,
-      "claimed_at": 1793275930.500009
-    },
-    {
-      "card": {
         "id": "ninety-nine_common",
         "name": "Ninety-Nine",
         "series": "Path To Nowhere",
@@ -15006,20 +15062,6 @@
       },
       "print": 46,
       "claimed_at": 1793206296.3537571
-    },
-    {
-      "card": {
-        "id": "park_common_2",
-        "name": "Park Minseong",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/park_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 52,
-      "claimed_at": 1793206283.302435
     },
     {
       "card": {
@@ -16149,20 +16191,6 @@
     },
     {
       "card": {
-        "id": "baek_common_7",
-        "name": "Baek Saheon",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/baek_common_7.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 55,
-      "claimed_at": 1790685352.9610426
-    },
-    {
-      "card": {
         "id": "natsuki_rare",
         "name": "Natsuki",
         "series": "Doki Doki Literature Club!",
@@ -17289,20 +17317,6 @@
       },
       "print": 43,
       "claimed_at": 1790478021.439111
-    },
-    {
-      "card": {
-        "id": "ryu_common_3",
-        "name": "Ryu Jaekwan",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ryu_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 56,
-      "claimed_at": 1790477212.0430539
     },
     {
       "card": {
@@ -18896,20 +18910,6 @@
       },
       "print": 28,
       "claimed_at": 1789922558.784472
-    },
-    {
-      "card": {
-        "id": "ryu_common_3",
-        "name": "Ryu Jaekwan",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ryu_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 41,
-      "claimed_at": 1789921512.493866
     },
     {
       "card": {
@@ -173763,6 +173763,20 @@
     }
   ],
   "696595496021786654": [
+    {
+      "card": {
+        "id": "funny_common",
+        "name": "Funny Valentine",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/funny_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1793432996.808604
+    },
     {
       "card": {
         "id": "yachiyo_common_2",
@@ -482031,6 +482045,20 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "shinku_common",
+        "name": "Shinku",
+        "series": "Neverness to Everness",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shinku_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1793432898.83012
+    },
+    {
+      "card": {
         "id": "kusuo_common",
         "name": "Kusuo Saiki",
         "series": "The Disastrous Life of Saiki K",
@@ -559857,6 +559885,21 @@
     }
   ],
   "767054445724827718": [
+    {
+      "card": {
+        "id": "x_common",
+        "name": "X",
+        "series": "To Be Hero X",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/x_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1793432916.976355,
+      "tags": "\u2728"
+    },
     {
       "card": {
         "id": "aya_common_2",
@@ -857210,6 +857253,20 @@
   "930186314295427082": [
     {
       "card": {
+        "id": "fushu_common",
+        "name": "Fushu",
+        "series": "Duet Night Abyss",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fushu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1793433047.556218
+    },
+    {
+      "card": {
         "id": "wanshi_common",
         "name": "Wanshi",
         "series": "Punishing: Gray Raven",
@@ -968998,6 +969055,20 @@
   "953615292641185804": [
     {
       "card": {
+        "id": "yae_common",
+        "name": "Yae Miko",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yae_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 64,
+      "claimed_at": 1793432892.1102064
+    },
+    {
+      "card": {
         "id": "seth_common",
         "name": "Seth Lowell",
         "series": "Zenless Zone Zero",
@@ -1033555,6 +1033626,20 @@
     }
   ],
   "989728138219094057": [
+    {
+      "card": {
+        "id": "han_common_2",
+        "name": "Han Yoojin",
+        "series": "The S-classes That I Raised",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/han_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793433011.0292413
+    },
     {
       "card": {
         "id": "powder_common",
@@ -1134412,6 +1134497,20 @@
   "1118324764012970164": [
     {
       "card": {
+        "id": "alice_common",
+        "name": "Alice",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/alice_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1793432806.4131618
+    },
+    {
+      "card": {
         "id": "okuto_common",
         "name": "Okuto Nakamura",
         "series": "Go for it, Nakamura!",
@@ -1182275,6 +1182374,20 @@
     }
   ],
   "1301863198915559508": [
+    {
+      "card": {
+        "id": "jude_common",
+        "name": "Jude Callahan",
+        "series": "Sweet Venom",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/jude_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1793433042.3620746
+    },
     {
       "card": {
         "id": "ulquiorra_common",
