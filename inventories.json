@@ -47328,6 +47328,20 @@
   "1070404986057531452": [
     {
       "card": {
+        "id": "midori_common_2",
+        "name": "Midori Takamine",
+        "series": "Ensemble Stars!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/midori_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1793550000.4080393
+    },
+    {
+      "card": {
         "id": "ren_rare",
         "name": "Ren Amamiya",
         "series": "Persona",
@@ -448033,6 +448047,20 @@
   "617162611687161859": [
     {
       "card": {
+        "id": "nahida_common",
+        "name": "Nahida",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nahida_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1793549780.9769487
+    },
+    {
+      "card": {
         "id": "nei_common",
         "name": "Nei Takarai",
         "series": "Gokurakugai",
@@ -510433,7 +510461,8 @@
         "version": "rare"
       },
       "print": 56,
-      "claimed_at": 1793479394.0407612
+      "claimed_at": 1793479394.0407612,
+      "tags": "hold"
     },
     {
       "card": {
@@ -511790,7 +511819,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1793288859.0412695
+      "claimed_at": 1793288859.0412695,
+      "tags": "hold"
     },
     {
       "card": {
@@ -527545,6 +527575,20 @@
   ],
   "974310526303739964": [],
   "1423323604044742666": [
+    {
+      "card": {
+        "id": "marin_common_2",
+        "name": "Marin Kitagawa",
+        "series": "My Dress-Up Darling",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/marin_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 32,
+      "claimed_at": 1793549780.160459
+    },
     {
       "card": {
         "id": "colleague_common",
@@ -652163,6 +652207,20 @@
   "417141882611826688": [
     {
       "card": {
+        "id": "plotter_rare",
+        "name": "Secretive Plotter",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/plotter_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 20,
+      "claimed_at": 1793549985.0914366
+    },
+    {
+      "card": {
         "id": "reze_common",
         "name": "Reze",
         "series": "Chainsaw Man",
@@ -692844,6 +692902,20 @@
     }
   ],
   "1454914344792883305": [
+    {
+      "card": {
+        "id": "suguru_common_2",
+        "name": "Suguru Geto",
+        "series": "Jujutsu Kaisen",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/suguru_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 41,
+      "claimed_at": 1793549949.3107533
+    },
     {
       "card": {
         "id": "yuta_common_2",
@@ -871431,6 +871503,20 @@
   "1504462632013398208": [
     {
       "card": {
+        "id": "cha_common",
+        "name": "Cha Eui-jae",
+        "series": "The Hunter's Gonna Lay Low",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/cha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 85,
+      "claimed_at": 1793549761.5449433
+    },
+    {
+      "card": {
         "id": "park_common_3",
         "name": "Park Chul-Ho",
         "series": "Spinach Bouquet",
@@ -885458,6 +885544,76 @@
     }
   ],
   "1370666054736543786": [
+    {
+      "card": {
+        "id": "lighter_common",
+        "name": "Lighter",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lighter_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1793549964.359003
+    },
+    {
+      "card": {
+        "id": "sunny_common",
+        "name": "Sunny",
+        "series": "Omori",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sunny_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793549946.6225078
+    },
+    {
+      "card": {
+        "id": "utsugi_common",
+        "name": "Utsugi Uyu",
+        "series": "Holostars",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/utsugi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793549925.4094431
+    },
+    {
+      "card": {
+        "id": "langa_common",
+        "name": "Langa Hasegawa",
+        "series": "SK8 THE INFINITY",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/langa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 65,
+      "claimed_at": 1793549912.4347336
+    },
+    {
+      "card": {
+        "id": "makima_common",
+        "name": "Makima",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makima_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 69,
+      "claimed_at": 1793549898.467911
+    },
     {
       "card": {
         "id": "zanka_common",
@@ -963986,6 +964142,20 @@
     }
   ],
   "1415199399469908020": [
+    {
+      "card": {
+        "id": "kotomi_common",
+        "name": "Kotomi Ichinose",
+        "series": "CLANNAD",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kotomi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1793549746.3619723
+    },
     {
       "card": {
         "id": "marin_common",
@@ -1064936,6 +1065106,20 @@
     }
   ],
   "551877849192202255": [
+    {
+      "card": {
+        "id": "shu_common_3",
+        "name": "Shu Sakamaki",
+        "series": "Diabolik Lovers",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shu_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1793549887.817933
+    },
     {
       "card": {
         "id": "yu_rare_2",
@@ -1168862,6 +1169046,20 @@
   "1142143636784558120": [
     {
       "card": {
+        "id": "iroha_common_2",
+        "name": "Iroha Sakayori",
+        "series": "Cosmic Princess Kaguya",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/iroha_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 5,
+      "claimed_at": 1793549931.275885
+    },
+    {
+      "card": {
         "id": "minato_common",
         "name": "Minato Yukina",
         "series": "BanG Dream!",
@@ -1174159,6 +1174357,20 @@
     }
   ],
   "1383481899334238248": [
+    {
+      "card": {
+        "id": "ryomen_common_2",
+        "name": "Ryomen Sukuna",
+        "series": "Jujutsu Kaisen",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ryomen_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 25,
+      "claimed_at": 1793549948.8318763
+    },
     {
       "card": {
         "id": "diego_common",
@@ -1181845,6 +1182057,20 @@
     }
   ],
   "969659066018304031": [
+    {
+      "card": {
+        "id": "mikasa_common",
+        "name": "Mikasa Ackerman",
+        "series": "Attack on Titan",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mikasa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1793549995.9415193
+    },
     {
       "card": {
         "id": "reki_common_2",
@@ -1223937,6 +1224163,20 @@
     }
   ],
   "823151930414333963": [
+    {
+      "card": {
+        "id": "geto_common",
+        "name": "Suguru Geto",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/geto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 93,
+      "claimed_at": 1793549912.6350982
+    },
     {
       "card": {
         "id": "kazuichi_common",
