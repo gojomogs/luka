@@ -602313,6 +602313,20 @@
   "886247125292306432": [
     {
       "card": {
+        "id": "ren_rare",
+        "name": "Ren Amamiya",
+        "series": "Persona",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/ren_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 23,
+      "claimed_at": 1793564551.8138566
+    },
+    {
+      "card": {
         "id": "go_common",
         "name": "Go Yohan",
         "series": "Eighteen\u2019s Bed",
@@ -716046,6 +716060,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "rin_common",
+        "name": "Rin",
+        "series": "NU: Carnival",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1793564653.4082375
+    },
     {
       "card": {
         "id": "yachiyo_common_2",
@@ -899531,6 +899559,20 @@
   "1043630421444935690": [
     {
       "card": {
+        "id": "yeon_common_2",
+        "name": "Yeon Ji-hyeon",
+        "series": "Our Guild's Idol",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/yeon_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 53,
+      "claimed_at": 1793564561.5444977
+    },
+    {
+      "card": {
         "id": "phrolova_common",
         "name": "Phrolova",
         "series": "Wuthering Waves",
@@ -956017,6 +956059,20 @@
   "1387460892718792718": [
     {
       "card": {
+        "id": "andrew_common",
+        "name": "Andrew Young",
+        "series": "Nerd Project",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/andrew_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 71,
+      "claimed_at": 1793564562.4499226
+    },
+    {
+      "card": {
         "id": "qin_common",
         "name": "Qin Jiu",
         "series": "Global Examination",
@@ -968947,6 +969003,34 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "tae-geum_common",
+        "name": "Tae-geum",
+        "series": "After A Meal",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tae-geum_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 61,
+      "claimed_at": 1793564651.9580095
+    },
+    {
+      "card": {
+        "id": "ado_common",
+        "name": "Ado",
+        "series": "Utaite",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ado_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1790915463.464227
+    },
+    {
+      "card": {
         "id": "neuvillette_common",
         "name": "Neuvillette",
         "series": "Genshin Impact",
@@ -978295,20 +978379,6 @@
       },
       "print": 33,
       "claimed_at": 1789932497.8063097
-    },
-    {
-      "card": {
-        "id": "ryu_common_3",
-        "name": "Ryu Jaekwan",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ryu_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 29,
-      "claimed_at": 1789757926.9312613
     },
     {
       "card": {
@@ -1018667,6 +1018737,20 @@
     }
   ],
   "905294901082738749": [
+    {
+      "card": {
+        "id": "han_common_4",
+        "name": "Han Maru",
+        "series": "Special Civil Servant",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/han_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1793564557.1453295
+    },
     {
       "card": {
         "id": "katsuki_rare",
@@ -1199417,6 +1199501,20 @@
   "1135011169485197314": [
     {
       "card": {
+        "id": "russia_common",
+        "name": "Russia",
+        "series": "Hetalia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/russia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 53,
+      "claimed_at": 1793564674.3071616
+    },
+    {
+      "card": {
         "id": "shouta_common_2",
         "name": "Shouta Aizawa",
         "series": "My Hero Academia",
@@ -1209736,6 +1209834,21 @@
   "1290987967560683580": [
     {
       "card": {
+        "id": "ryu_common_3",
+        "name": "Ryu Jaekwan",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryu_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1789757926.9312613,
+      "tags": "dada"
+    },
+    {
+      "card": {
         "id": "kaedehara_common",
         "name": "Kaedehara Kazuha",
         "series": "Genshin Impact",
@@ -1209760,7 +1209873,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789496599.2098556
+      "claimed_at": 1789496599.2098556,
+      "tags": "dada"
     },
     {
       "card": {
@@ -1209802,7 +1209916,8 @@
         "version": "common"
       },
       "print": 36,
-      "claimed_at": 1789950878.4238224
+      "claimed_at": 1789950878.4238224,
+      "tags": "gsgw"
     },
     {
       "card": {
@@ -1210295,20 +1210410,6 @@
       },
       "print": 59,
       "claimed_at": 1790940053.0082743
-    },
-    {
-      "card": {
-        "id": "ado_common",
-        "name": "Ado",
-        "series": "Utaite",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ado_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 50,
-      "claimed_at": 1790915463.464227
     },
     {
       "card": {
@@ -1221744,6 +1221845,20 @@
     }
   ],
   "1529097630552948908": [
+    {
+      "card": {
+        "id": "kuran_common",
+        "name": "Kuran & Ichiko",
+        "series": "Even the Introverted Gals Wanna Get Out There!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kuran_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1793564604.767431
+    },
     {
       "card": {
         "id": "jing_common",
@@ -1237444,6 +1237559,20 @@
     }
   ],
   "1070842549318721567": [
+    {
+      "card": {
+        "id": "cha_common_2",
+        "name": "Cha Eui-jae",
+        "series": "The Hunter's Gonna Lay Low",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cha_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 39,
+      "claimed_at": 1793564603.021159
+    },
     {
       "card": {
         "id": "lauren_common",
