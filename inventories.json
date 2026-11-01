@@ -14236,6 +14236,20 @@
   "982952116039598161": [
     {
       "card": {
+        "id": "kotoko_common",
+        "name": "Kotoko Utsugi",
+        "series": "Danganronpa",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kotoko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793510356.4184482
+    },
+    {
+      "card": {
         "id": "alya_common",
         "name": "Alya",
         "series": "Alya Sometimes Hides Her Feelings in Russian",
@@ -14436,20 +14450,6 @@
       },
       "print": 22,
       "claimed_at": 1793499310.7362173
-    },
-    {
-      "card": {
-        "id": "nanami_common",
-        "name": "Nanami Momozono",
-        "series": "Kamisama Kiss",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/nanami_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 49,
-      "claimed_at": 1793496939.7954478
     },
     {
       "card": {
@@ -15085,20 +15085,6 @@
     },
     {
       "card": {
-        "id": "katsuki_common_2",
-        "name": "Katsuki Bakugou",
-        "series": "My Hero Academia",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/katsuki_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 30,
-      "claimed_at": 1793443290.7456782
-    },
-    {
-      "card": {
         "id": "ukyo_common",
         "name": "Ukyo Saionji",
         "series": "Dr. Stone",
@@ -15543,20 +15529,6 @@
       },
       "print": 30,
       "claimed_at": 1793400578.5115147
-    },
-    {
-      "card": {
-        "id": "katsuki_common_2",
-        "name": "Katsuki Bakugou",
-        "series": "My Hero Academia",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/katsuki_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 29,
-      "claimed_at": 1793381191.3608341
     },
     {
       "card": {
@@ -88442,6 +88414,20 @@
   ],
   "1194747459101007873": [],
   "909551241967861770": [
+    {
+      "card": {
+        "id": "artem_common",
+        "name": "Artem Wing",
+        "series": "Tears of Themis",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/artem_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793510315.1427913
+    },
     {
       "card": {
         "id": "elias_common",
@@ -515103,6 +515089,20 @@
   "755211531674845235": [
     {
       "card": {
+        "id": "shinya_common",
+        "name": "Shinya Kogami",
+        "series": "PSYCHO-PASS",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shinya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1793510272.8549852
+    },
+    {
+      "card": {
         "id": "x-virus_common",
         "name": "X-Virus",
         "series": "Creepypasta",
@@ -683852,6 +683852,20 @@
     }
   ],
   "1454914344792883305": [
+    {
+      "card": {
+        "id": "amelia_common",
+        "name": "Amelia Park Lee",
+        "series": "I Love Amy",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/amelia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1793510281.468391
+    },
     {
       "card": {
         "id": "norma_common",
@@ -869692,6 +869706,48 @@
     }
   ],
   "1507994684314747000": [
+    {
+      "card": {
+        "id": "nanami_common",
+        "name": "Nanami Momozono",
+        "series": "Kamisama Kiss",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nanami_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793496939.7954478
+    },
+    {
+      "card": {
+        "id": "katsuki_common_2",
+        "name": "Katsuki Bakugou",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/katsuki_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 29,
+      "claimed_at": 1793381191.3608341
+    },
+    {
+      "card": {
+        "id": "katsuki_common_2",
+        "name": "Katsuki Bakugou",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/katsuki_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 30,
+      "claimed_at": 1793443290.7456782
+    },
     {
       "card": {
         "id": "armin_common",
@@ -1201305,6 +1201361,20 @@
   "961900468307623947": [
     {
       "card": {
+        "id": "hong_common_2",
+        "name": "Hong Yijeong",
+        "series": "Don\u2019t Poke the Plum",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hong_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1793510322.1616979
+    },
+    {
+      "card": {
         "id": "puruth_rare",
         "name": "Puruth",
         "series": "Fragaria Memories",
@@ -1202815,6 +1202885,20 @@
   "1371031984230371369": [],
   "1227719606223765687": [],
   "779218661096292352": [
+    {
+      "card": {
+        "id": "emilia_common",
+        "name": "Emilia",
+        "series": "Re: Zero - Starting Life in Another World",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/emilia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1793510464.0131326
+    },
     {
       "card": {
         "id": "lee_common_8",
