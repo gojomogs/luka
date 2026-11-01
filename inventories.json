@@ -23145,6 +23145,20 @@
   "661202852244488192": [
     {
       "card": {
+        "id": "kira_common",
+        "name": "Kira Yoshikage",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kira_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1793563530.386987
+    },
+    {
+      "card": {
         "id": "yeon_common",
         "name": "Yeon Skylar",
         "series": "Lost in the Cloud",
@@ -186648,6 +186662,48 @@
   "775822038601564201": [
     {
       "card": {
+        "id": "yosuke_rare",
+        "name": "Yosuke Hanamura",
+        "series": "Persona",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/yosuke_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 18,
+      "claimed_at": 1793417608.532535
+    },
+    {
+      "card": {
+        "id": "yosuke_common",
+        "name": "Yosuke Hanamura",
+        "series": "Persona",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/yosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1790906909.8855846
+    },
+    {
+      "card": {
+        "id": "yosuke_rare",
+        "name": "Yosuke Hanamura",
+        "series": "Persona",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/yosuke_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 14,
+      "claimed_at": 1790997198.3008657
+    },
+    {
+      "card": {
         "id": "anastasia_common",
         "name": "Anastasia Hoshin",
         "series": "Re: Zero - Starting Life in Another World",
@@ -190905,20 +190961,6 @@
       },
       "print": 6,
       "claimed_at": 1788592211.267169
-    },
-    {
-      "card": {
-        "id": "neuvillette_common",
-        "name": "Neuvillette",
-        "series": "Genshin Impact",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/neuvillette_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 8,
-      "claimed_at": 1788591149.1503124
     },
     {
       "card": {
@@ -271048,6 +271090,20 @@
     }
   ],
   "908254172074352641": [
+    {
+      "card": {
+        "id": "teru_common",
+        "name": "Teru Minamoto",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/teru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793563304.9039307
+    },
     {
       "card": {
         "id": "augusta_common",
@@ -655028,7 +655084,8 @@
         "version": "V1"
       },
       "print": 21,
-      "claimed_at": 1793559574.583377
+      "claimed_at": 1793559574.583377,
+      "tags": "\ufe5fhubby\u1160\u203a\u2800\ud81b\ude6d"
     },
     {
       "card": {
@@ -968590,6 +968647,20 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "neuvillette_common",
+        "name": "Neuvillette",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/neuvillette_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1788591149.1503124
+    },
+    {
+      "card": {
         "id": "lu_common_4",
         "name": "Lu Feng",
         "series": "Little Mushroom",
@@ -968629,48 +968700,6 @@
       },
       "print": 80,
       "claimed_at": 1793562530.3082871
-    },
-    {
-      "card": {
-        "id": "yosuke_rare",
-        "name": "Yosuke Hanamura",
-        "series": "Persona",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/yosuke_rare.png",
-        "frame": "yellow",
-        "version": "rare"
-      },
-      "print": 18,
-      "claimed_at": 1793417608.532535
-    },
-    {
-      "card": {
-        "id": "yosuke_common",
-        "name": "Yosuke Hanamura",
-        "series": "Persona",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/yosuke_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 49,
-      "claimed_at": 1790906909.8855846
-    },
-    {
-      "card": {
-        "id": "yosuke_rare",
-        "name": "Yosuke Hanamura",
-        "series": "Persona",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/yosuke_rare.png",
-        "frame": "yellow",
-        "version": "rare"
-      },
-      "print": 14,
-      "claimed_at": 1790997198.3008657
     },
     {
       "card": {
@@ -1180151,6 +1180180,20 @@
     }
   ],
   "1383481899334238248": [
+    {
+      "card": {
+        "id": "akihiko_common_2",
+        "name": "Akihiko Nirei",
+        "series": "Wind Breaker",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/akihiko_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793563476.0095189
+    },
     {
       "card": {
         "id": "akane_common",
