@@ -14236,6 +14236,20 @@
   "982952116039598161": [
     {
       "card": {
+        "id": "kageyama_common",
+        "name": "Kageyama Shigeo",
+        "series": "Mob Psycho 100",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/kageyama_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 21,
+      "claimed_at": 1793494247.225132
+    },
+    {
+      "card": {
         "id": "iroha_common_2",
         "name": "Iroha Sakayori",
         "series": "Cosmic Princess Kaguya",
@@ -291670,6 +291684,20 @@
     }
   ],
   "842906805406924840": [
+    {
+      "card": {
+        "id": "baek_common_2",
+        "name": "Baek Yeongwoon",
+        "series": "Backlight",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1793494294.4359925
+    },
     {
       "card": {
         "id": "welt_common",
@@ -608308,6 +608336,20 @@
   "1293557714420498435": [
     {
       "card": {
+        "id": "yuzuru_common",
+        "name": "Yuzuru Fushimi",
+        "series": "Ensemble Stars!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yuzuru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793494400.0998743
+    },
+    {
+      "card": {
         "id": "black_common_3",
         "name": "Black Widow",
         "series": "Marvel",
@@ -699579,6 +699621,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "yuri_common_2",
+        "name": "Yuri Gable",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuri_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 75,
+      "claimed_at": 1793494434.771027
+    },
     {
       "card": {
         "id": "reki_common_2",
@@ -832247,6 +832303,50 @@
   "736235127910432789": [
     {
       "card": {
+        "id": "castorice_common",
+        "name": "Castorice",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/castorice_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1793286050.9866905
+    },
+    {
+      "card": {
+        "id": "phainon_common",
+        "name": "Phainon",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/phainon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1790983600.4917297,
+      "tags": "\ud83d\udc51"
+    },
+    {
+      "card": {
+        "id": "silver_common",
+        "name": "Silver Wolf",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/silver_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 12,
+      "claimed_at": 1789565043.3482625,
+      "tags": "\ud83d\udc9bhsr"
+    },
+    {
+      "card": {
         "id": "herta_common",
         "name": "Herta",
         "series": "Honkai: Star Rail",
@@ -832257,7 +832357,8 @@
         "version": "common"
       },
       "print": 50,
-      "claimed_at": 1793494025.5438728
+      "claimed_at": 1793494025.5438728,
+      "tags": "\ud83d\udc9bhsr"
     },
     {
       "card": {
@@ -832706,21 +832807,6 @@
       "print": 67,
       "claimed_at": 1793347295.060882,
       "tags": "\ud83c\udf6eft"
-    },
-    {
-      "card": {
-        "id": "dokja_rare",
-        "name": "Kim Dokja",
-        "series": "Omniscient Reader's Viewpoint",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/dokja_rare.png",
-        "frame": "purple",
-        "version": "rare"
-      },
-      "print": 17,
-      "claimed_at": 1793347291.6905746,
-      "tags": "\ud83c\udf70koa"
     },
     {
       "card": {
@@ -833696,21 +833782,6 @@
       "print": 9,
       "claimed_at": 1789808939.9896338,
       "tags": "\ud83c\udf6eft"
-    },
-    {
-      "card": {
-        "id": "silver_common",
-        "name": "Silver Wolf",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/silver_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 17,
-      "claimed_at": 1789806748.399902,
-      "tags": "\ud83d\udc9bhsr"
     },
     {
       "card": {
@@ -878798,6 +878869,20 @@
   "1043630421444935690": [
     {
       "card": {
+        "id": "anaxa_rare",
+        "name": "Anaxa",
+        "series": "Honkai: Star Rail",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/anaxa_rare.png",
+        "frame": "green",
+        "version": "rare"
+      },
+      "print": 13,
+      "claimed_at": 1793273580.7536163
+    },
+    {
+      "card": {
         "id": "rem_common",
         "name": "Rem",
         "series": "Re: Zero - Starting Life in Another World",
@@ -884391,20 +884476,6 @@
       },
       "print": 27,
       "claimed_at": 1790051806.6385126
-    },
-    {
-      "card": {
-        "id": "shin_common",
-        "name": "Shin Asakura",
-        "series": "Sakamoto Days",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/shin_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 23,
-      "claimed_at": 1790022853.6900704
     },
     {
       "card": {
@@ -918559,6 +918630,20 @@
   "606063258226655235": [
     {
       "card": {
+        "id": "suika_common",
+        "name": "Suika",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/suika_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1793494383.6960027
+    },
+    {
+      "card": {
         "id": "mitsuki_common_2",
         "name": "Mitsuki Koga",
         "series": "The Guy She Was Interested In Wasn't a Guy at All",
@@ -946478,6 +946563,20 @@
         "frame": "common",
         "version": "common"
       },
+      "print": 23,
+      "claimed_at": 1790022853.6900704
+    },
+    {
+      "card": {
+        "id": "shin_common",
+        "name": "Shin Asakura",
+        "series": "Sakamoto Days",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
       "print": 30,
       "claimed_at": 1790282446.0526707
     },
@@ -947074,20 +947173,6 @@
       },
       "print": 23,
       "claimed_at": 1793448378.2033603
-    },
-    {
-      "card": {
-        "id": "anaxa_rare",
-        "name": "Anaxa",
-        "series": "Honkai: Star Rail",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/anaxa_rare.png",
-        "frame": "green",
-        "version": "rare"
-      },
-      "print": 13,
-      "claimed_at": 1793273580.7536163
     },
     {
       "card": {
@@ -1031461,6 +1031546,36 @@
   "1510010190315917324": [
     {
       "card": {
+        "id": "dokja_rare",
+        "name": "Kim Dokja",
+        "series": "Omniscient Reader's Viewpoint",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/dokja_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 17,
+      "claimed_at": 1793347291.6905746,
+      "tags": "\ud83c\udf70"
+    },
+    {
+      "card": {
+        "id": "silver_common",
+        "name": "Silver Wolf",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/silver_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789806748.399902,
+      "tags": "\ud83c\udf70"
+    },
+    {
+      "card": {
         "id": "argenti_common",
         "name": "Argenti",
         "series": "Honkai: Star Rail",
@@ -1031942,20 +1032057,6 @@
     },
     {
       "card": {
-        "id": "castorice_common",
-        "name": "Castorice",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/castorice_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 51,
-      "claimed_at": 1793286050.9866905
-    },
-    {
-      "card": {
         "id": "midnight_common",
         "name": "Midnight",
         "series": "My Hero Academia",
@@ -1032193,20 +1032294,6 @@
       },
       "print": 49,
       "claimed_at": 1790984385.6946948
-    },
-    {
-      "card": {
-        "id": "phainon_common",
-        "name": "Phainon",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/phainon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 59,
-      "claimed_at": 1790983600.4917297
     },
     {
       "card": {
@@ -1032947,20 +1033034,6 @@
       "print": 8,
       "claimed_at": 1789811437.877144,
       "pinned": true
-    },
-    {
-      "card": {
-        "id": "silver_common",
-        "name": "Silver Wolf",
-        "series": "Honkai: Star Rail",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/silver_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 12,
-      "claimed_at": 1789565043.3482625
     },
     {
       "card": {
@@ -1034543,6 +1034616,20 @@
     }
   ],
   "1303595998714662916": [
+    {
+      "card": {
+        "id": "spiderman_common_2",
+        "name": "Spiderman",
+        "series": "Marvel",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/spiderman_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 13,
+      "claimed_at": 1793494208.1656327
+    },
     {
       "card": {
         "id": "miya_common_2",
@@ -1212285,6 +1212372,20 @@
   "1564097735689375848": [
     {
       "card": {
+        "id": "rei_common_4",
+        "name": "Rei Ryuugazaki",
+        "series": "Free! Iwatobi Swim Club",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rei_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793494254.3634353
+    },
+    {
+      "card": {
         "id": "galbrena_common",
         "name": "Galbrena",
         "series": "Wuthering Waves",
@@ -1214341,6 +1214442,20 @@
     }
   ],
   "1112064718958493806": [
+    {
+      "card": {
+        "id": "itadori_rare",
+        "name": "Itadori Yuji",
+        "series": "Jujutsu Kaisen",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/itadori_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 19,
+      "claimed_at": 1793494454.9963036
+    },
     {
       "card": {
         "id": "dominique_common",
