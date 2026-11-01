@@ -14236,6 +14236,48 @@
   "982952116039598161": [
     {
       "card": {
+        "id": "jingran_common_2",
+        "name": "Jingran",
+        "series": "Wuthering Waves",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/jingran_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 3,
+      "claimed_at": 1793318528.6671445
+    },
+    {
+      "card": {
+        "id": "cielomort_rare",
+        "name": "Cielomort",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/cielomort_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 43,
+      "claimed_at": 1791017237.584732
+    },
+    {
+      "card": {
+        "id": "sparxie_rare",
+        "name": "Sparxie",
+        "series": "Honkai: Star Rail",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/sparxie_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 10,
+      "claimed_at": 1790932460.7838624
+    },
+    {
+      "card": {
         "id": "willmesh_rare",
         "name": "Willmesh",
         "series": "Fragaria Memories",
@@ -20661,22 +20703,6 @@
       },
       "print": 23,
       "claimed_at": 1789742386.6359606
-    },
-    {
-      "card": {
-        "id": "hua_common",
-        "name": "Hua Cheng",
-        "series": "Heaven Official\u2019s Blessing",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/hua_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 1,
-      "claimed_at": 1788011767.8704748,
-      "showcased": false,
-      "tags": "ask"
     },
     {
       "card": {
@@ -141841,6 +141867,20 @@
     }
   ],
   "1423443575357575178": [
+    {
+      "card": {
+        "id": "kusanagi_rare",
+        "name": "Kusanagi Nene",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kusanagi_rare.png",
+        "frame": "pink",
+        "version": "rare"
+      },
+      "print": 14,
+      "claimed_at": 1793503594.4475703
+    },
     {
       "card": {
         "id": "razor_common",
@@ -360328,6 +360368,20 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "tsukasa_rare",
+        "name": "Tenma Tsukasa",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsukasa_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 24,
+      "claimed_at": 1793453929.577979
+    },
+    {
+      "card": {
         "id": "yosuke_rare",
         "name": "Yosuke Hanamura",
         "series": "Persona",
@@ -360339,20 +360393,6 @@
       },
       "print": 20,
       "claimed_at": 1793503257.7284143
-    },
-    {
-      "card": {
-        "id": "xavier_common",
-        "name": "Xavier",
-        "series": "Love And Deepspace",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/xavier_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 51,
-      "claimed_at": 1793497880.3989177
     },
     {
       "card": {
@@ -446023,6 +446063,35 @@
   "1139721385783066744": [
     {
       "card": {
+        "id": "jingran_common_2",
+        "name": "Jingran",
+        "series": "Wuthering Waves",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/jingran_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 9,
+      "claimed_at": 1793427835.8031104
+    },
+    {
+      "card": {
+        "id": "xavier_common",
+        "name": "Xavier",
+        "series": "Love And Deepspace",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/xavier_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1793497880.3989177,
+      "tags": "\u27e2 \u05a2 nft"
+    },
+    {
+      "card": {
         "id": "caleb_common_2",
         "name": "Caleb",
         "series": "Love And Deepspace",
@@ -446246,20 +446315,6 @@
       },
       "print": 60,
       "claimed_at": 1793454619.8909752
-    },
-    {
-      "card": {
-        "id": "tsukasa_rare",
-        "name": "Tenma Tsukasa",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/tsukasa_rare.png",
-        "frame": "yellow",
-        "version": "rare"
-      },
-      "print": 24,
-      "claimed_at": 1793453929.577979
     },
     {
       "card": {
@@ -448995,7 +449050,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1789808093.4836473
+      "claimed_at": 1789808093.4836473,
+      "tags": "\u27e2 \u05a2 nft"
     },
     {
       "card": {
@@ -449562,7 +449618,8 @@
         "version": "common"
       },
       "print": 18,
-      "claimed_at": 1789659568.7437692
+      "claimed_at": 1789659568.7437692,
+      "tags": "\u27e2 \u05a2 nft"
     },
     {
       "card": {
@@ -920692,6 +920749,20 @@
   "606063258226655235": [
     {
       "card": {
+        "id": "gakupo_common",
+        "name": "Gakupo Kamui",
+        "series": "Vocaloid",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/gakupo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1793503522.8207657
+    },
+    {
+      "card": {
         "id": "joonghyuk_common",
         "name": "Yoo Joonghyuk",
         "series": "Omniscient Reader\u2019s Viewpoint",
@@ -991233,6 +991304,21 @@
   "953615292641185804": [
     {
       "card": {
+        "id": "hua_common",
+        "name": "Hua Cheng",
+        "series": "Heaven Official\u2019s Blessing",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/hua_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 1,
+      "claimed_at": 1788011767.8704748,
+      "showcased": true
+    },
+    {
+      "card": {
         "id": "ejiro_rare",
         "name": "Eijirou Kirishima",
         "series": "My Hero Academia",
@@ -992143,20 +992229,6 @@
     },
     {
       "card": {
-        "id": "jingran_common_2",
-        "name": "Jingran",
-        "series": "Wuthering Waves",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/jingran_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 3,
-      "claimed_at": 1793318528.6671445
-    },
-    {
-      "card": {
         "id": "l_common",
         "name": "L Lawliet",
         "series": "Death Note",
@@ -992413,20 +992485,6 @@
       },
       "print": 23,
       "claimed_at": 1793276349.8356118
-    },
-    {
-      "card": {
-        "id": "cielomort_rare",
-        "name": "Cielomort",
-        "series": "Fragaria Memories",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/cielomort_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 43,
-      "claimed_at": 1791017237.584732
     },
     {
       "card": {
@@ -992753,20 +992811,6 @@
       "print": 5,
       "claimed_at": 1790933631.5976353,
       "tags": "\ud83d\udc1f"
-    },
-    {
-      "card": {
-        "id": "sparxie_rare",
-        "name": "Sparxie",
-        "series": "Honkai: Star Rail",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/sparxie_rare.png",
-        "frame": "purple",
-        "version": "rare"
-      },
-      "print": 10,
-      "claimed_at": 1790932460.7838624
     },
     {
       "card": {
@@ -996699,7 +996743,7 @@
       "print": 12,
       "claimed_at": 1788626632.9274242,
       "tags": "Gift \ud83c\udf3b",
-      "showcased": true
+      "showcased": false
     },
     {
       "card": {
@@ -1209518,6 +1209562,20 @@
   "1361776101889806417": [
     {
       "card": {
+        "id": "sara_common",
+        "name": "Sara Chidouin",
+        "series": "Your Turn To Die",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sara_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1793503580.6621356
+    },
+    {
+      "card": {
         "id": "russia_common",
         "name": "Russia",
         "series": "Hetalia",
@@ -1216313,20 +1216371,6 @@
     },
     {
       "card": {
-        "id": "jingran_common_2",
-        "name": "Jingran",
-        "series": "Wuthering Waves",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/jingran_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 9,
-      "claimed_at": 1793427835.8031104
-    },
-    {
-      "card": {
         "id": "tomoe_common",
         "name": "Tomoe",
         "series": "Kamisama Kiss",
@@ -1217478,6 +1217522,20 @@
     }
   ],
   "587912953622298626": [
+    {
+      "card": {
+        "id": "asa_common",
+        "name": "Asa Mitaka",
+        "series": "Chainsaw Man",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/asa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793503643.627469
+    },
     {
       "card": {
         "id": "blade_rare",
