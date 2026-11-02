@@ -205930,6 +205930,20 @@
   "1411686981468946664": [
     {
       "card": {
+        "id": "velina_common",
+        "name": "Velina",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/velina_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793640875.8504806
+    },
+    {
+      "card": {
         "id": "kallen_common_2",
         "name": "Kallen Kaslana",
         "series": "Honkai Impact 3rd",
@@ -513640,6 +513654,21 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "still_common",
+        "name": "Still In Love",
+        "series": "Umamusume: Pretty Derby",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/still_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1790943301.3278573,
+      "tags": "gf"
+    },
+    {
+      "card": {
         "id": "domina_common",
         "name": "Domina",
         "series": "Overwatch",
@@ -513651,9 +513680,10 @@
       },
       "print": 1,
       "claimed_at": 1788051759.515946,
-      "tags": "\ufe36\u3002\u301d\ud83d\udcb2\ufe12\ufe59\u1a36\u1092\u1a5a\ufe5a",
+      "tags": "hot woman",
       "original_owner": "1279169282126643292",
-      "recovered_at": 1793203582.4113886
+      "recovered_at": 1793203582.4113886,
+      "pinned": true
     },
     {
       "card": {
@@ -516906,21 +516936,6 @@
       "print": 36,
       "claimed_at": 1790582584.2777627,
       "tags": "wife"
-    },
-    {
-      "card": {
-        "id": "nakahara_common",
-        "name": "Nakahara Chuuya",
-        "series": "Bungo Stray Dogs",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/nakahara_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 63,
-      "claimed_at": 1793328598.8499968,
-      "tags": "ft"
     },
     {
       "card": {
@@ -521181,7 +521196,7 @@
       "print": 1,
       "claimed_at": 1788014377.4316905,
       "tags": "2nd wife",
-      "pinned": true,
+      "pinned": false,
       "showcased": false
     },
     {
@@ -637344,6 +637359,20 @@
     }
   ],
   "1293557714420498435": [
+    {
+      "card": {
+        "id": "izuku_common_2",
+        "name": "Izuku Midoriya & Katsuki Bakugou",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/izuku_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 88,
+      "claimed_at": 1793640923.0756583
+    },
     {
       "card": {
         "id": "marin_common",
@@ -789816,7 +789845,8 @@
       "print": 1,
       "claimed_at": 1793623373.005829,
       "tags": "\u2726 \u0323\u0323 \u06df \ufe35\ud83e\udd65",
-      "showcased": true
+      "showcased": true,
+      "pinned": true
     },
     {
       "card": {
@@ -799035,6 +799065,20 @@
     }
   ],
   "1068989639362355252": [
+    {
+      "card": {
+        "id": "yu_rare_2",
+        "name": "Yu Fan & Chen Jingshen",
+        "series": "Wait For Me After School",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/yu_rare_2.png",
+        "frame": "green",
+        "version": "rare"
+      },
+      "print": 56,
+      "claimed_at": 1793640975.8057694
+    },
     {
       "card": {
         "id": "basil_common",
@@ -828870,6 +828914,20 @@
   "1273022793931292694": [
     {
       "card": {
+        "id": "caleb_common",
+        "name": "Zayne",
+        "series": "Love And Deepspace",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/caleb_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793641006.2882004
+    },
+    {
+      "card": {
         "id": "han_common_4",
         "name": "Han Maru",
         "series": "Special Civil Servant",
@@ -844889,6 +844947,20 @@
     }
   ],
   "1492950003851854008": [
+    {
+      "card": {
+        "id": "tamon_rare",
+        "name": "Kotaro Tamon",
+        "series": "Phantom Busters",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tamon_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 33,
+      "claimed_at": 1793640885.4064589
+    },
     {
       "card": {
         "id": "kuzuha_common",
@@ -894942,6 +895014,20 @@
   "772144591251177503": [
     {
       "card": {
+        "id": "baizhu_common",
+        "name": "Baizhu",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/baizhu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793640847.2605958
+    },
+    {
+      "card": {
         "id": "jou_common",
         "name": "Jou Togame",
         "series": "Wind Breaker",
@@ -922889,6 +922975,20 @@
     }
   ],
   "1043630421444935690": [
+    {
+      "card": {
+        "id": "mikado_common",
+        "name": "Mikado Kasuga & Rihito Nakahara",
+        "series": "KasuRich",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mikado_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 72,
+      "claimed_at": 1793640923.7010589
+    },
     {
       "card": {
         "id": "tamsy_common",
@@ -1183464,6 +1183564,20 @@
   "1117889156950020267": [
     {
       "card": {
+        "id": "boothill_common",
+        "name": "Boothill",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/boothill_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793641038.1161788
+    },
+    {
+      "card": {
         "id": "ame-chan_common_2",
         "name": "Ame-chan & KAngel",
         "series": "Needy Streamer Overload",
@@ -1246172,6 +1246286,21 @@
   "1503089847206936719": [
     {
       "card": {
+        "id": "nakahara_common",
+        "name": "Nakahara Chuuya",
+        "series": "Bungo Stray Dogs",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/nakahara_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 63,
+      "claimed_at": 1793328598.8499968,
+      "tags": "ft"
+    },
+    {
+      "card": {
         "id": "nakahara_common_2",
         "name": "Nakahara Chuuya",
         "series": "Bungo Stray Dogs",
@@ -1249297,21 +1249426,6 @@
       },
       "print": 23,
       "claimed_at": 1790944067.5231903,
-      "tags": "\u2e1d\ud835\ude8f\ud835\ude9d\u2022\u0f1d\u2022\u2e1d\ud83e\udd0d"
-    },
-    {
-      "card": {
-        "id": "still_common",
-        "name": "Still In Love",
-        "series": "Umamusume: Pretty Derby",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/still_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 25,
-      "claimed_at": 1790943301.3278573,
       "tags": "\u2e1d\ud835\ude8f\ud835\ude9d\u2022\u0f1d\u2022\u2e1d\ud83e\udd0d"
     },
     {
@@ -1284950,6 +1285064,21 @@
   "479372052638203905": [
     {
       "card": {
+        "id": "cipher_common",
+        "name": "Cipher",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/cipher_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 57,
+      "claimed_at": 1793641013.2753336,
+      "tags": "\u2728"
+    },
+    {
+      "card": {
         "id": "izuku_rare",
         "name": "Izuku Midoriya",
         "series": "My Hero Academia",
@@ -1284960,7 +1285089,8 @@
         "version": "V1"
       },
       "print": 23,
-      "claimed_at": 1793634891.7732313
+      "claimed_at": 1793634891.7732313,
+      "tags": "\ud83d\udca5"
     },
     {
       "card": {
@@ -1284988,7 +1285118,8 @@
         "version": "common"
       },
       "print": 52,
-      "claimed_at": 1793595496.6842835
+      "claimed_at": 1793595496.6842835,
+      "tags": "\ud83d\udca5"
     },
     {
       "card": {
@@ -1285016,7 +1285147,8 @@
         "version": "common"
       },
       "print": 62,
-      "claimed_at": 1793588641.7129753
+      "claimed_at": 1793588641.7129753,
+      "tags": "\ud83c\udf0a"
     },
     {
       "card": {
@@ -1285044,7 +1285176,8 @@
         "version": "common"
       },
       "print": 45,
-      "claimed_at": 1793558741.8902671
+      "claimed_at": 1793558741.8902671,
+      "tags": "\ud83c\udf19"
     },
     {
       "card": {
@@ -1285058,7 +1285191,8 @@
         "version": "common"
       },
       "print": 50,
-      "claimed_at": 1793558777.6713467
+      "claimed_at": 1793558777.6713467,
+      "tags": "\ud83c\udf1f"
     },
     {
       "card": {
@@ -1285072,7 +1285206,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1793557267.3047216
+      "claimed_at": 1793557267.3047216,
+      "tags": "\ud83c\udf07"
     },
     {
       "card": {
