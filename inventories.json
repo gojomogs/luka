@@ -416700,6 +416700,20 @@
   "1079527293355036842": [
     {
       "card": {
+        "id": "ren_common",
+        "name": "Ren Amamiya",
+        "series": "Persona",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ren_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 80,
+      "claimed_at": 1793644386.1267817
+    },
+    {
+      "card": {
         "id": "hugo_common_2",
         "name": "Hugo Vlad",
         "series": "Zenless Zone Zero",
@@ -513807,6 +513821,20 @@
     }
   ],
   "857177938682970132": [
+    {
+      "card": {
+        "id": "ellen_common",
+        "name": "Ellen Joe",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ellen_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1793644309.8197496
+    },
     {
       "card": {
         "id": "ten_common",
@@ -705376,6 +705404,20 @@
     }
   ],
   "565860327183351815": [
+    {
+      "card": {
+        "id": "sakuya_common",
+        "name": "Sakuya Watanuki",
+        "series": "Servamp",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sakuya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1793644352.8729103
+    },
     {
       "card": {
         "id": "eijirou_common",
@@ -923497,6 +923539,34 @@
   "1043630421444935690": [
     {
       "card": {
+        "id": "rui_rare",
+        "name": "Kamishiro Rui",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rui_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 50,
+      "claimed_at": 1793593136.6766188
+    },
+    {
+      "card": {
+        "id": "dan_common_2",
+        "name": "Dan Heng",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/dan_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 5,
+      "claimed_at": 1790950170.6122048
+    },
+    {
+      "card": {
         "id": "plotter_rare",
         "name": "Secretive Plotter",
         "series": "Omniscient Reader's Viewpoint",
@@ -923564,20 +923634,6 @@
       },
       "print": 72,
       "claimed_at": 1793640923.7010589
-    },
-    {
-      "card": {
-        "id": "tamsy_common",
-        "name": "Tamsy Caines",
-        "series": "Gachiakuta",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/tamsy_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 70,
-      "claimed_at": 1793639397.859549
     },
     {
       "card": {
@@ -923704,20 +923760,6 @@
       },
       "print": 71,
       "claimed_at": 1793620595.818718
-    },
-    {
-      "card": {
-        "id": "ryomen_common",
-        "name": "Ryomen Sukuna",
-        "series": "Jujutsu Kaisen",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ryomen_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 65,
-      "claimed_at": 1793619851.9861557
     },
     {
       "card": {
@@ -924545,34 +924587,6 @@
       },
       "print": 17,
       "claimed_at": 1793383203.368811
-    },
-    {
-      "card": {
-        "id": "fushiguro_common_2",
-        "name": "Fushiguro Megumi",
-        "series": "Jujutsu Kaisen",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/fushiguro_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 33,
-      "claimed_at": 1793382106.1591847
-    },
-    {
-      "card": {
-        "id": "jonathan_common",
-        "name": "Jonathan Joestar",
-        "series": "Jojo\u02bcs Bizarre Adventure",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/jonathan_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1793381378.337274
     },
     {
       "card": {
@@ -925669,20 +925683,6 @@
     },
     {
       "card": {
-        "id": "riyo_common_2",
-        "name": "Riyo Reaper",
-        "series": "Gachiakuta",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/riyo_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 12,
-      "claimed_at": 1793206148.452571
-    },
-    {
-      "card": {
         "id": "akira_common_2",
         "name": "Akira Gunji",
         "series": "Tokyo Aliens",
@@ -925778,20 +925778,6 @@
       },
       "print": 48,
       "claimed_at": 1790981178.167811
-    },
-    {
-      "card": {
-        "id": "geto_common",
-        "name": "Suguru Geto",
-        "series": "Jujutsu Kaisen",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/geto_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 77,
-      "claimed_at": 1790978502.8708858
     },
     {
       "card": {
@@ -926659,20 +926645,6 @@
       },
       "print": 49,
       "claimed_at": 1790877262.6882806
-    },
-    {
-      "card": {
-        "id": "ry\u014dta_common",
-        "name": "Ryota Kise",
-        "series": "Kuroko's Basketball",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ry\u014dta_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 23,
-      "claimed_at": 1790756130.9754314
     },
     {
       "card": {
@@ -975998,6 +975970,20 @@
     }
   ],
   "1058900013201231992": [
+    {
+      "card": {
+        "id": "usagi_common",
+        "name": "Usagi",
+        "series": "Chiikawa",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/usagi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793644413.9987109
+    },
     {
       "card": {
         "id": "kang_common_5",
@@ -1031722,6 +1031708,20 @@
     }
   ],
   "697803266150629416": [
+    {
+      "card": {
+        "id": "yoshiki_common",
+        "name": "Yoshiki",
+        "series": "The Summer Hikaru Died",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yoshiki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 93,
+      "claimed_at": 1793644496.474368
+    },
     {
       "card": {
         "id": "yu_rare_2",
@@ -1214312,6 +1214312,104 @@
   "1383481899334238248": [
     {
       "card": {
+        "id": "jonathan_common",
+        "name": "Jonathan Joestar",
+        "series": "Jojo\u02bcs Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jonathan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793381378.337274
+    },
+    {
+      "card": {
+        "id": "tamsy_common",
+        "name": "Tamsy Caines",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tamsy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793639397.859549
+    },
+    {
+      "card": {
+        "id": "riyo_common_2",
+        "name": "Riyo Reaper",
+        "series": "Gachiakuta",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/riyo_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 12,
+      "claimed_at": 1793206148.452571
+    },
+    {
+      "card": {
+        "id": "ry\u014dta_common",
+        "name": "Ryota Kise",
+        "series": "Kuroko's Basketball",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ry\u014dta_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1790756130.9754314
+    },
+    {
+      "card": {
+        "id": "ryomen_common",
+        "name": "Ryomen Sukuna",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ryomen_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 65,
+      "claimed_at": 1793619851.9861557
+    },
+    {
+      "card": {
+        "id": "fushiguro_common_2",
+        "name": "Fushiguro Megumi",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/fushiguro_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 33,
+      "claimed_at": 1793382106.1591847
+    },
+    {
+      "card": {
+        "id": "geto_common",
+        "name": "Suguru Geto",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/geto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 77,
+      "claimed_at": 1790978502.8708858
+    },
+    {
+      "card": {
         "id": "gambit_rare",
         "name": "Gambit",
         "series": "Marvel",
@@ -1214607,20 +1214705,6 @@
       "print": 26,
       "claimed_at": 1793594439.6649168,
       "tags": "\ud83e\udd88"
-    },
-    {
-      "card": {
-        "id": "rui_rare",
-        "name": "Kamishiro Rui",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/rui_rare.png",
-        "frame": "purple",
-        "version": "rare"
-      },
-      "print": 50,
-      "claimed_at": 1793593136.6766188
     },
     {
       "card": {
@@ -1215091,20 +1215175,6 @@
       },
       "print": 37,
       "claimed_at": 1793550834.6495206
-    },
-    {
-      "card": {
-        "id": "dan_common_2",
-        "name": "Dan Heng",
-        "series": "Honkai: Star Rail",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/dan_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 5,
-      "claimed_at": 1790950170.6122048
     },
     {
       "card": {
@@ -1247182,7 +1247252,7 @@
       },
       "print": 17,
       "claimed_at": 1789690537.2823465,
-      "tags": "ft"
+      "tags": "\u02d7\u02cf\u02cb\ud835\ude93\ud835\ude92\ud835\ude9b\ud835\ude98\u2661\u0cc0"
     },
     {
       "card": {
@@ -1247283,7 +1247353,7 @@
       },
       "print": 3,
       "claimed_at": 1788048691.704432,
-      "tags": "ft"
+      "tags": "\u02d7\u02cf\u02cb\ud835\ude93\ud835\ude92\ud835\ude9b\ud835\ude98\u2661\u0cc0"
     },
     {
       "card": {
@@ -1249783,7 +1249853,8 @@
       },
       "print": 1,
       "claimed_at": 1788020430.084608,
-      "tags": "\u02d7\u02cf\u02cb\ud835\ude93\ud835\ude92\ud835\ude9b\ud835\ude98\u2661\u0cc0,"
+      "tags": "\u02d7\u02cf\u02cb\ud835\ude93\ud835\ude92\ud835\ude9b\ud835\ude98\u2661\u0cc0,",
+      "showcased": true
     },
     {
       "card": {
@@ -1274855,6 +1274926,20 @@
     }
   ],
   "1112468374358868129": [
+    {
+      "card": {
+        "id": "shoto_common",
+        "name": "Shoto Todoroki",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/shoto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 80,
+      "claimed_at": 1793644448.3941712
+    },
     {
       "card": {
         "id": "midori_common",
