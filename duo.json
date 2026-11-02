@@ -629,6 +629,20 @@
       "player_b": "1523865177592959078",
       "started_at": 1793590493.8215072,
       "channel_id": 1543582638785175652
+    },
+    "1c77ede9-2e77-477a-9827-d9630d34814b": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Witch Hat Atelier"
+      ],
+      "id": "1c77ede9-2e77-477a-9827-d9630d34814b",
+      "player_a": "834374188042289162",
+      "player_b": "1529097630552948908",
+      "started_at": 1793618071.1171126,
+      "channel_id": 1550899049077416078
     }
   },
   "weekly": {
@@ -11364,7 +11378,7 @@
     },
     "834374188042289162": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "1151512609409998959": {
       "drop": 1,
