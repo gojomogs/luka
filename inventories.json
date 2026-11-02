@@ -151557,6 +151557,20 @@
   "1508236825557209179": [
     {
       "card": {
+        "id": "edgar_common_2",
+        "name": "Edgar",
+        "series": "Neverness to Everness",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/edgar_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1793648612.2443018
+    },
+    {
+      "card": {
         "id": "laios_common",
         "name": "Laios Touden",
         "series": "Dungeon Meshi",
@@ -219624,6 +219638,20 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "kyouko_common",
+        "name": "Kyouko Hori",
+        "series": "Horimiya",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kyouko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793648736.4185035
+    },
+    {
+      "card": {
         "id": "geto_common",
         "name": "Suguru Geto",
         "series": "Jujutsu Kaisen",
@@ -284087,6 +284115,20 @@
     }
   ],
   "1427701023102734481": [
+    {
+      "card": {
+        "id": "daiki_common",
+        "name": "Daiki Aomine",
+        "series": "Kuroko's Basketball",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/daiki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1793648744.446518
+    },
     {
       "card": {
         "id": "suo_common",
@@ -447200,6 +447242,20 @@
   "1229889322698674216": [
     {
       "card": {
+        "id": "lu_common_5",
+        "name": "Lu Guang",
+        "series": "Link Click",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lu_common_5.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 20,
+      "claimed_at": 1793648778.9390423
+    },
+    {
+      "card": {
         "id": "dokja_common",
         "name": "Kim Dokja",
         "series": "Omniscient Reader's Viewpoint",
@@ -598257,6 +598313,20 @@
   "767054445724827718": [
     {
       "card": {
+        "id": "durin_common",
+        "name": "Durin",
+        "series": "Genshin Impact",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/durin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793648852.0171766
+    },
+    {
+      "card": {
         "id": "yu_rare_2",
         "name": "Yu Fan & Chen Jingshen",
         "series": "Wait For Me After School",
@@ -709010,6 +709080,20 @@
   "1125010005066784860": [
     {
       "card": {
+        "id": "nana_common_3",
+        "name": "Nana Komatsu",
+        "series": "NANA",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/nana_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793648659.237112
+    },
+    {
+      "card": {
         "id": "seishiro_common_2",
         "name": "Seishiro Nagi",
         "series": "BLUELOCK",
@@ -736610,6 +736694,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "jinwoo_rare",
+        "name": "Lee Jinwoo",
+        "series": "Behind The Stage",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/jinwoo_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 33,
+      "claimed_at": 1793648730.6873982
+    },
     {
       "card": {
         "id": "lorin_common",
@@ -959023,6 +959121,20 @@
   "1473475651725164714": [
     {
       "card": {
+        "id": "devil_rare",
+        "name": "Devil Homura",
+        "series": "Puella Magi Madoka Magica",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/devil_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 49,
+      "claimed_at": 1793648604.656917
+    },
+    {
+      "card": {
         "id": "dongdang_common",
         "name": "Dongdang",
         "series": "Utaite",
@@ -967059,6 +967171,20 @@
   "606063258226655235": [
     {
       "card": {
+        "id": "kei_rare",
+        "name": "Slur",
+        "series": "Sakamoto Days",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kei_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 14,
+      "claimed_at": 1793648584.8003588
+    },
+    {
+      "card": {
         "id": "haru_common_2",
         "name": "Haru Sagara",
         "series": "Tokyo Debunker",
@@ -967111,7 +967237,8 @@
         "version": "common"
       },
       "print": 72,
-      "claimed_at": 1793631822.5506625
+      "claimed_at": 1793631822.5506625,
+      "tags": "nft"
     },
     {
       "card": {
@@ -967167,7 +967294,8 @@
         "version": "common"
       },
       "print": 54,
-      "claimed_at": 1793587120.3849995
+      "claimed_at": 1793587120.3849995,
+      "tags": "nft"
     },
     {
       "card": {
@@ -967195,7 +967323,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1790209482.4864726
+      "claimed_at": 1790209482.4864726,
+      "tags": "nft"
     },
     {
       "card": {
@@ -1108903,6 +1109032,20 @@
   "1339200602844168246": [
     {
       "card": {
+        "id": "joo_common",
+        "name": "Joo Mirye",
+        "series": "Merry Marbling",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/joo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 72,
+      "claimed_at": 1793648804.8682604
+    },
+    {
+      "card": {
         "id": "kirara_common",
         "name": "Kirara Hoshi",
         "series": "Jujutsu Kaisen",
@@ -1216183,6 +1216326,20 @@
   "1383481899334238248": [
     {
       "card": {
+        "id": "julibee_common",
+        "name": "Jubilee",
+        "series": "Marvel",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/julibee_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1793648840.6547458
+    },
+    {
+      "card": {
         "id": "dante_common_3",
         "name": "Dante",
         "series": "Devil May Cry",
@@ -1241981,6 +1242138,20 @@
     }
   ],
   "770978445798277130": [
+    {
+      "card": {
+        "id": "shouta_rare",
+        "name": "Shouta Aizawa",
+        "series": "My Hero Academia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/shouta_rare.png",
+        "frame": "green",
+        "version": "rare"
+      },
+      "print": 9,
+      "claimed_at": 1793648789.6987975
+    },
     {
       "card": {
         "id": "totsuki_common",
@@ -1296173,5 +1296344,6 @@
       "claimed_at": 1793619896.348981
     }
   ],
-  "897070243296452619": []
+  "897070243296452619": [],
+  "763825862075613184": []
 }
