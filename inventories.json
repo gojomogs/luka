@@ -6535,6 +6535,20 @@
   "770651160695537697": [
     {
       "card": {
+        "id": "lucifer_common",
+        "name": "Lucifer",
+        "series": "Obey Me!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lucifer_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 48,
+      "claimed_at": 1793580923.477189
+    },
+    {
+      "card": {
         "id": "bamboo_common",
         "name": "Bamboo Memory",
         "series": "Umamusume: Pretty Derby",
@@ -163023,6 +163037,20 @@
   ],
   "1211781489931452447": [],
   "737098353485021206": [
+    {
+      "card": {
+        "id": "nemari_common",
+        "name": "Namari",
+        "series": "Dungeon Meshi",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nemari_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1793581028.5398679
+    },
     {
       "card": {
         "id": "mikado_common",
@@ -514679,7 +514707,8 @@
         "version": "common"
       },
       "print": 38,
-      "claimed_at": 1793575106.4906044
+      "claimed_at": 1793575106.4906044,
+      "tags": "\u22b1 \ud835\uddfb\ud835\uddf3\ud835\ude01"
     },
     {
       "card": {
@@ -836219,6 +836248,20 @@
   "1146772200016326676": [
     {
       "card": {
+        "id": "sae_rare",
+        "name": "Sae Itoshi",
+        "series": "BLUELOCK",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/sae_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 23,
+      "claimed_at": 1793581138.9255702
+    },
+    {
+      "card": {
         "id": "rin_common",
         "name": "Rin",
         "series": "NU: Carnival",
@@ -837740,20 +837783,6 @@
       },
       "print": 52,
       "claimed_at": 1790572102.3223386
-    },
-    {
-      "card": {
-        "id": "pinkie_common",
-        "name": "Pinkie Pie",
-        "series": "My Little Pony",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/pinkie_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 17,
-      "claimed_at": 1789713635.4206896
     },
     {
       "card": {
@@ -898802,6 +898831,20 @@
   "930186314295427082": [
     {
       "card": {
+        "id": "tobio_common",
+        "name": "Tobio Kageyama",
+        "series": "Haikyuu!!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tobio_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 88,
+      "claimed_at": 1793581007.4439924
+    },
+    {
+      "card": {
         "id": "chiikawa_common",
         "name": "Chiikawa",
         "series": "Chiikawa",
@@ -903876,6 +903919,20 @@
     }
   ],
   "1043630421444935690": [
+    {
+      "card": {
+        "id": "sun_common_2",
+        "name": "Sun Jing",
+        "series": "SQ: Begin W/Your Name!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sun_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793580905.256194
+    },
     {
       "card": {
         "id": "katsura_common",
@@ -913032,6 +913089,48 @@
   ],
   "1139026769123483698": [],
   "1379599903319392318": [
+    {
+      "card": {
+        "id": "baek_common_6",
+        "name": "Baek Dohu & Seo Juheon",
+        "series": "Between The Lines",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/baek_common_6.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 69,
+      "claimed_at": 1793581152.158901
+    },
+    {
+      "card": {
+        "id": "reki_common",
+        "name": "Reki Kyan",
+        "series": "SK8 THE INFINITY",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/reki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 62,
+      "claimed_at": 1793581138.3802571
+    },
+    {
+      "card": {
+        "id": "name_common",
+        "name": "Sonny Brisko",
+        "series": "Nijisanji",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/name_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793581136.2491555
+    },
     {
       "card": {
         "id": "josh_common",
@@ -992229,6 +992328,20 @@
   "420699083238539285": [
     {
       "card": {
+        "id": "ulquiorra_common",
+        "name": "Ulquiorra Cifer",
+        "series": "Bleach",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ulquiorra_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793580918.9135103
+    },
+    {
+      "card": {
         "id": "sephiroth_common",
         "name": "Sephiroth",
         "series": "Final Fantasy",
@@ -1061615,6 +1061728,36 @@
   "1510010190315917324": [
     {
       "card": {
+        "id": "omaru_common",
+        "name": "Omaru Polka",
+        "series": "Hololive",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/omaru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793581162.9077394,
+      "tags": "\ud83c\udf1f"
+    },
+    {
+      "card": {
+        "id": "pinkie_common",
+        "name": "Pinkie Pie",
+        "series": "My Little Pony",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/pinkie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789713635.4206896,
+      "tags": "\ud83c\udf70"
+    },
+    {
+      "card": {
         "id": "pinkie_common",
         "name": "Pinkie Pie",
         "series": "My Little Pony",
@@ -1061625,8 +1061768,7 @@
         "version": "common"
       },
       "print": 13,
-      "claimed_at": 1789605991.339033,
-      "tags": "hold"
+      "claimed_at": 1789605991.339033
     },
     {
       "card": {
@@ -1152172,6 +1152314,20 @@
     }
   ],
   "547774305803436032": [
+    {
+      "card": {
+        "id": "leon_common",
+        "name": "Leon S. Kennedy",
+        "series": "Resident Evil",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/leon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 79,
+      "claimed_at": 1793581062.4100564
+    },
     {
       "card": {
         "id": "an_common_2",
@@ -1250057,6 +1250213,20 @@
   "992526647804825600": [
     {
       "card": {
+        "id": "ling_common",
+        "name": "Ling Xinlu",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ling_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 77,
+      "claimed_at": 1793581044.090546
+    },
+    {
+      "card": {
         "id": "shion_common_2",
         "name": "Shion Tatsunami",
         "series": "Saihate Station",
@@ -1254619,6 +1254789,20 @@
     }
   ],
   "1564097735689375848": [
+    {
+      "card": {
+        "id": "yoshiki_common_2",
+        "name": "Yoshiki",
+        "series": "The Summer Hikaru Died",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yoshiki_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 43,
+      "claimed_at": 1793581076.536359
+    },
     {
       "card": {
         "id": "sariel_common",
