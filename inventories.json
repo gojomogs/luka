@@ -58453,6 +58453,48 @@
   "968501068524818542": [
     {
       "card": {
+        "id": "monica_common",
+        "name": "Monica Everett",
+        "series": "Secrets of the Silent Witch",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/monica_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1793609530.9234169
+    },
+    {
+      "card": {
+        "id": "grayson_rare",
+        "name": "Nightwing",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/grayson_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 32,
+      "claimed_at": 1790462437.5182035
+    },
+    {
+      "card": {
+        "id": "zatanna_rare",
+        "name": "Zatanna Zatara",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/zatanna_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 21,
+      "claimed_at": 1790114326.9901638
+    },
+    {
+      "card": {
         "id": "kai_common_2",
         "name": "Kai Han",
         "series": "Rebound Of The Heart",
@@ -58928,20 +58970,6 @@
       },
       "print": 52,
       "claimed_at": 1790909888.5257492
-    },
-    {
-      "card": {
-        "id": "asahina_common",
-        "name": "Asahina Mafuyu",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/asahina_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 50,
-      "claimed_at": 1790908965.7770119
     },
     {
       "card": {
@@ -60236,20 +60264,6 @@
       },
       "print": 9,
       "claimed_at": 1789633216.41761
-    },
-    {
-      "card": {
-        "id": "iroha_common",
-        "name": "Iroha Sakayori",
-        "series": "Cosmic Princess Kaguya",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/iroha_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1789621010.4595692
     },
     {
       "card": {
@@ -318579,6 +318593,20 @@
   "647974710470115339": [
     {
       "card": {
+        "id": "fushi_common_2",
+        "name": "Fushi",
+        "series": "To Your Eternity",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/fushi_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 8,
+      "claimed_at": 1793609504.3665717
+    },
+    {
+      "card": {
         "id": "takina_common",
         "name": "Takina Inoue",
         "series": "Lycoris Recoil",
@@ -369959,6 +369987,20 @@
     }
   ],
   "1310028877485314098": [
+    {
+      "card": {
+        "id": "braun_common",
+        "name": "Braun",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/braun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 77,
+      "claimed_at": 1793609394.8841348
+    },
     {
       "card": {
         "id": "alexsander_common",
@@ -699600,6 +699642,20 @@
   "1125010005066784860": [
     {
       "card": {
+        "id": "choi_common",
+        "name": "Choi Yikyung",
+        "series": "Sketch",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/choi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793609370.7556708
+    },
+    {
+      "card": {
         "id": "qifrey_common",
         "name": "Qifrey",
         "series": "Witch Hat Atelier",
@@ -726336,6 +726392,49 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "evanescia_common",
+        "name": "Evanescia",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/evanescia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793609564.6028264
+    },
+    {
+      "card": {
+        "id": "asahina_common",
+        "name": "Asahina Mafuyu",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/asahina_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 50,
+      "claimed_at": 1790908965.7770119
+    },
+    {
+      "card": {
+        "id": "iroha_common",
+        "name": "Iroha Sakayori",
+        "series": "Cosmic Princess Kaguya",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/iroha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789621010.4595692,
+      "tags": "mae"
+    },
+    {
+      "card": {
         "id": "yuri_common_3",
         "name": "Yuri Isami",
         "series": "Tokyo Debunker",
@@ -733658,20 +733757,6 @@
     },
     {
       "card": {
-        "id": "grayson_rare",
-        "name": "Nightwing",
-        "series": "DC",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/grayson_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 32,
-      "claimed_at": 1790462437.5182035
-    },
-    {
-      "card": {
         "id": "fu_common_5",
         "name": "Fu Xuan",
         "series": "Honkai: Star Rail",
@@ -734783,20 +734868,6 @@
       },
       "print": 31,
       "claimed_at": 1790117037.3367765
-    },
-    {
-      "card": {
-        "id": "zatanna_rare",
-        "name": "Zatanna Zatara",
-        "series": "DC",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/zatanna_rare.png",
-        "frame": "red",
-        "version": "rare"
-      },
-      "print": 21,
-      "claimed_at": 1790114326.9901638
     },
     {
       "card": {
@@ -1071317,6 +1071388,20 @@
   "1510010190315917324": [
     {
       "card": {
+        "id": "yashiro_common",
+        "name": "Yashiro Nene",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/yashiro_common.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 11,
+      "claimed_at": 1793609428.150529
+    },
+    {
+      "card": {
         "id": "luka_common",
         "name": "Luka",
         "series": "Alien Stage",
@@ -1102920,6 +1103005,20 @@
     }
   ],
   "1049566310192918528": [
+    {
+      "card": {
+        "id": "calcharo_common",
+        "name": "Calcharo",
+        "series": "Wuthering Waves",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/calcharo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 37,
+      "claimed_at": 1793609510.5479343
+    },
     {
       "card": {
         "id": "opera_common",
@@ -1260729,7 +1260828,7 @@
       },
       "print": 10,
       "claimed_at": 1793606680.5448933,
-      "tags": "mae"
+      "tags": "\ud835\ude97\ud835\ude8f\ud835\ude9d \ud83e\udd87\u2726 \u0741\u02d6"
     },
     {
       "card": {
