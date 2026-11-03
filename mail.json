@@ -33521,7 +33521,7 @@
       "receiver_id": "514565097981476875",
       "timestamp": 1793676263.2157269,
       "message": "that\u2019s fine with me",
-      "read": false
+      "read": true
     },
     {
       "id": "295a44a4-c4ba-4d2f-87e6-64248c30a2a6",
@@ -33529,7 +33529,7 @@
       "receiver_id": "514565097981476875",
       "timestamp": 1793676270.669499,
       "message": "sure",
-      "read": false
+      "read": true
     }
   ],
   "856393524240711681": [
@@ -69731,6 +69731,14 @@
       "timestamp": 1793503651.7407231,
       "message": "hihi",
       "read": true
+    },
+    {
+      "id": "bbe7cdef-ea65-491e-8fc9-b517f01790c3",
+      "sender_id": "587912953622298626",
+      "receiver_id": "1108371722979266682",
+      "timestamp": 1793677495.0536823,
+      "message": "same",
+      "read": false
     }
   ],
   "1009551857389158400": [],
