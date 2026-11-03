@@ -560,7 +560,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 44,
+      "progress": 45,
       "id": "0d07422b-6ba4-4afa-81d8-75e31055348c",
       "player_a": "1454914344792883305",
       "player_b": "1523865177592959078",
@@ -571,7 +571,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 43,
+      "progress": 44,
       "id": "c16f3fda-dfdf-4e9f-87be-ff9e16b7d063",
       "player_a": "1439628725288173759",
       "player_b": "1504462632013398208",
@@ -654,33 +654,6 @@
       "player_b": "823151930414333963",
       "started_at": 1793678286.8314116,
       "channel_id": 1540149985650282596
-    },
-    "649a65a4-8de8-4bcf-a3f0-62bd40127722": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Code Geass",
-        "Even in Your Death",
-        "NU: Carnival",
-        "Obey Me!",
-        "I Want to Love You Till Your Dying Day",
-        "Got Dropped into a Ghost Story, Still Gotta Work",
-        "Genshin Impact",
-        "One Piece",
-        "Omniscient Reader's Viewpoint",
-        "My Hero Academia",
-        "WINX CLUB",
-        "Zenless Zone Zero",
-        "Chainsaw Man",
-        "Bleach"
-      ],
-      "id": "649a65a4-8de8-4bcf-a3f0-62bd40127722",
-      "player_a": "1107950737251651626",
-      "player_b": "1146772200016326676",
-      "started_at": 1793684287.2850313,
-      "channel_id": 1543770626425098342
     }
   },
   "weekly": {
@@ -4494,11 +4467,19 @@
       {
         "timestamp": 1790991157.476815,
         "partner_id": "1146772200016326676"
+      },
+      {
+        "timestamp": 1793694766.6771822,
+        "partner_id": "1146772200016326676"
       }
     ],
     "1146772200016326676": [
       {
         "timestamp": 1790991157.476815,
+        "partner_id": "1107950737251651626"
+      },
+      {
+        "timestamp": 1793694766.6771822,
         "partner_id": "1107950737251651626"
       }
     ],
@@ -5029,8 +5010,8 @@
     "601381718569517076": 1793670745.8757048,
     "953615292641185804": 1793477791.1415095,
     "547774305803436032": 1793270803.0565152,
-    "1107950737251651626": 1790991157.476815,
-    "1146772200016326676": 1790991157.476815,
+    "1107950737251651626": 1793694766.6771822,
+    "1146772200016326676": 1793694766.6771822,
     "727441845789130804": 1791013655.1875215,
     "823151930414333963": 1793330669.1458454,
     "1529097630552948908": 1793633346.6412482,
@@ -6635,7 +6616,7 @@
       "claim": 0
     },
     "1441925768199278643": {
-      "drop": 20,
+      "drop": 19,
       "claim": 20
     },
     "888797740392407040": {
@@ -8339,7 +8320,7 @@
       "claim": 0
     },
     "1107950737251651626": {
-      "drop": 0,
+      "drop": 1,
       "claim": 12
     },
     "870354420049776710": {
