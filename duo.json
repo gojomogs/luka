@@ -571,7 +571,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 53,
+      "progress": 54,
       "id": "c16f3fda-dfdf-4e9f-87be-ff9e16b7d063",
       "player_a": "1439628725288173759",
       "player_b": "1504462632013398208",
@@ -644,7 +644,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Twisted Wonderland"
+      ],
       "id": "0704dd01-9d0e-4b2a-8e48-2284588886e8",
       "player_a": "1321065001212969044",
       "player_b": "908254172074352641",
