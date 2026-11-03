@@ -2,6 +2,20 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "tamsy_common",
+        "name": "Tamsy Caines",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tamsy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 72,
+      "claimed_at": 1793694664.7951503
+    },
+    {
+      "card": {
         "id": "guren_common",
         "name": "Guren Ichinose",
         "series": "Seraph of the End",
@@ -198091,6 +198105,34 @@
   "1441925768199278643": [
     {
       "card": {
+        "id": "fushu_common",
+        "name": "Fushu",
+        "series": "Duet Night Abyss",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/fushu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1793694887.3110619
+    },
+    {
+      "card": {
+        "id": "kang_common_6",
+        "name": "Kang Chana",
+        "series": "Special Civil Servant",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kang_common_6.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 76,
+      "claimed_at": 1793694844.4342582
+    },
+    {
+      "card": {
         "id": "euphemia_common",
         "name": "Euphemia Li Britannia",
         "series": "Code Geass",
@@ -267425,7 +267467,9 @@
         "version": "V1"
       },
       "print": 1,
-      "claimed_at": 1793694114.2143807
+      "claimed_at": 1793694114.2143807,
+      "pinned": true,
+      "showcased": true
     },
     {
       "card": {
@@ -270653,7 +270697,8 @@
       "print": 1,
       "claimed_at": 1788051395.8223665,
       "tags": "\u0f7b\u06ea\u06ea\u2661",
-      "pinned": true
+      "pinned": true,
+      "showcased": true
     },
     {
       "card": {
@@ -270682,7 +270727,7 @@
       },
       "print": 3,
       "claimed_at": 1793206797.125414,
-      "showcased": true,
+      "showcased": false,
       "tags": "\u0361\u0359\u0358\u2605"
     },
     {
@@ -274507,8 +274552,8 @@
       "print": 1,
       "claimed_at": 1787874162.211405,
       "tags": "\u0361\u0359\u0358\u2605",
-      "showcased": true,
-      "pinned": true
+      "showcased": false,
+      "pinned": false
     },
     {
       "card": {
@@ -604898,6 +604943,20 @@
   "758882530391883808": [
     {
       "card": {
+        "id": "eijirou_common",
+        "name": "Eijirou Kirishima",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/eijirou_common.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 12,
+      "claimed_at": 1793694807.3807878
+    },
+    {
+      "card": {
         "id": "hu_common",
         "name": "Hu Tao",
         "series": "Genshin Impact",
@@ -729401,6 +729460,20 @@
     }
   ],
   "1454914344792883305": [
+    {
+      "card": {
+        "id": "wise_common",
+        "name": "Wise",
+        "series": "Zenless Zone Zero",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/wise_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1793694654.0042639
+    },
     {
       "card": {
         "id": "katsuki_common",
@@ -871505,6 +871578,20 @@
   "1146772200016326676": [
     {
       "card": {
+        "id": "julien_common",
+        "name": "Julien Loki",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/julien_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 53,
+      "claimed_at": 1793694765.7400029
+    },
+    {
+      "card": {
         "id": "angel_common_2",
         "name": "Angel Devil",
         "series": "Chainsaw Man",
@@ -917472,6 +917559,20 @@
     }
   ],
   "1504462632013398208": [
+    {
+      "card": {
+        "id": "yumemizuki_common",
+        "name": "Yumemizuki Mizuki",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yumemizuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793694687.4031408
+    },
     {
       "card": {
         "id": "anjo_common",
@@ -1252937,6 +1253038,20 @@
   "1118324764012970164": [
     {
       "card": {
+        "id": "olivine_common",
+        "name": "Olivine",
+        "series": "NU: Carnival",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/olivine_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793694633.1184669
+    },
+    {
+      "card": {
         "id": "mystic_common",
         "name": "Mystic Flour Cookie",
         "series": "CookieRun Series",
@@ -1297501,6 +1297616,20 @@
   "823151930414333963": [
     {
       "card": {
+        "id": "male_common",
+        "name": "Male Rover",
+        "series": "Wuthering Waves",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/male_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 55,
+      "claimed_at": 1793694800.1951907
+    },
+    {
+      "card": {
         "id": "cantarella_common",
         "name": "Cantarella",
         "series": "Wuthering Waves",
@@ -1314157,6 +1314286,20 @@
   "1159760961536786503": [
     {
       "card": {
+        "id": "white_common_2",
+        "name": "White Lily Cookie",
+        "series": "CookieRun Series",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/white_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793694835.5983598
+    },
+    {
+      "card": {
         "id": "percy_common",
         "name": "Percy Jackson",
         "series": "Percy Jackson and The Olympians",
@@ -1324415,6 +1324558,20 @@
     }
   ],
   "718479669870985267": [
+    {
+      "card": {
+        "id": "park_common_2",
+        "name": "Park Minseong",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/park_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 69,
+      "claimed_at": 1793694784.2382913
+    },
     {
       "card": {
         "id": "baek_common_2",
