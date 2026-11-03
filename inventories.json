@@ -532120,6 +532120,20 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "nagisa_common",
+        "name": "Nagisa Hazuki",
+        "series": "Free! Iwatobi Swim Club",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nagisa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793738408.0148375
+    },
+    {
+      "card": {
         "id": "julien_common",
         "name": "Julien Loki",
         "series": "BLUELOCK",
@@ -532144,7 +532158,8 @@
         "version": "common"
       },
       "print": 8,
-      "claimed_at": 1793737092.418391
+      "claimed_at": 1793737092.418391,
+      "tags": "hold"
     },
     {
       "card": {
@@ -762975,6 +762990,20 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "tetia_common",
+        "name": "Tetia",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tetia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 78,
+      "claimed_at": 1793738589.6412544
+    },
+    {
+      "card": {
         "id": "baek_common_10",
         "name": "Baek Dohu",
         "series": "Between The Lines",
@@ -842308,6 +842337,21 @@
   "1523865177592959078": [
     {
       "card": {
+        "id": "lee_common_6",
+        "name": "Lee Cheongyeon",
+        "series": "Emergency! Youth Record Book",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_6.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793738450.4197361,
+      "tags": "\u2601\ufe0f: FTFS"
+    },
+    {
+      "card": {
         "id": "marin_common",
         "name": "Marin Kitagawa",
         "series": "My Dress-Up Darling",
@@ -864530,7 +864574,8 @@
       },
       "print": 1,
       "claimed_at": 1793676207.5952218,
-      "tags": "hak\u2019s bf"
+      "tags": "naoya\ud83e\udd24\ud83e\udd24",
+      "pinned": true
     },
     {
       "card": {
@@ -864558,7 +864603,8 @@
         "version": "common"
       },
       "print": 1,
-      "claimed_at": 1787852910.310216
+      "claimed_at": 1787852910.310216,
+      "pinned": true
     },
     {
       "card": {
@@ -868618,7 +868664,7 @@
       "print": 2,
       "claimed_at": 1788090587.8997374,
       "tags": "\ud83d\udc97",
-      "pinned": true
+      "pinned": false
     },
     {
       "card": {
@@ -868662,7 +868708,7 @@
       "print": 2,
       "claimed_at": 1788015306.197394,
       "tags": "\ud83d\udc97",
-      "pinned": true
+      "pinned": false
     },
     {
       "card": {
@@ -975028,6 +975074,126 @@
   "1133866485203353661": [
     {
       "card": {
+        "id": "funny_common",
+        "name": "Funny Valentine",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/funny_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1793383500.8253467,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "matthew_common",
+        "name": "Matthew Raynor",
+        "series": "Under The Green Light",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/matthew_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 73,
+      "claimed_at": 1793398354.9160242,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "yujin_common",
+        "name": "Yujin Hart",
+        "series": "Flashlight",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yujin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793428662.8929718,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "hot_common",
+        "name": "Hot Pants",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hot_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 25,
+      "claimed_at": 1793471354.5567038,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "ryu_common_2",
+        "name": "Ryu Ian",
+        "series": "Melting Point",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ryu_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 65,
+      "claimed_at": 1793478221.7807415,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "kars_common",
+        "name": "Kars",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kars_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793547500.6874866,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "jolyne_common",
+        "name": "Jolyne Cujoh",
+        "series": "Jojo\u02bcs Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jolyne_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1793564441.7864718,
+      "tags": "remi"
+    },
+    {
+      "card": {
+        "id": "han_common",
+        "name": "Han Seo-in",
+        "series": "Backlight",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/han_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1793606243.359923,
+      "tags": "remi"
+    },
+    {
+      "card": {
         "id": "giorno_common",
         "name": "Giorno Giovanna",
         "series": "Jojo\u02bcs Bizarre Adventure",
@@ -1028470,6 +1028636,21 @@
   "1545740226004123728": [
     {
       "card": {
+        "id": "tamsy_common",
+        "name": "Tamsy Caines",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/tamsy_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 73,
+      "claimed_at": 1793738523.980319,
+      "tags": "\ud83d\udcb4"
+    },
+    {
+      "card": {
         "id": "heo_common",
         "name": "Heo Chanyoung & Seo Hyunjin",
         "series": "Protect Your Purity!",
@@ -1028480,7 +1028661,8 @@
         "version": "common"
       },
       "print": 60,
-      "claimed_at": 1793737649.73103
+      "claimed_at": 1793737649.73103,
+      "tags": "\ud83c\udf70"
     },
     {
       "card": {
@@ -1028494,7 +1028676,8 @@
         "version": "common"
       },
       "print": 89,
-      "claimed_at": 1793736966.9553785
+      "claimed_at": 1793736966.9553785,
+      "tags": "\ud83c\udf70"
     },
     {
       "card": {
@@ -1028508,7 +1028691,8 @@
         "version": "common"
       },
       "print": 72,
-      "claimed_at": 1793726850.426435
+      "claimed_at": 1793726850.426435,
+      "tags": "\ud83d\udcb4"
     },
     {
       "card": {
@@ -1028522,7 +1028706,8 @@
         "version": "common"
       },
       "print": 84,
-      "claimed_at": 1793724929.3531137
+      "claimed_at": 1793724929.3531137,
+      "tags": "\ud83c\udf70"
     },
     {
       "card": {
@@ -1028536,7 +1028721,8 @@
         "version": "common"
       },
       "print": 67,
-      "claimed_at": 1793722139.7482972
+      "claimed_at": 1793722139.7482972,
+      "tags": "\ud83c\udf70"
     },
     {
       "card": {
@@ -1028550,7 +1028736,8 @@
         "version": "V1"
       },
       "print": 47,
-      "claimed_at": 1793721327.9149554
+      "claimed_at": 1793721327.9149554,
+      "tags": "\ud83d\udcb4"
     },
     {
       "card": {
@@ -1028564,7 +1028751,8 @@
         "version": "V1"
       },
       "print": 34,
-      "claimed_at": 1793719359.7880893
+      "claimed_at": 1793719359.7880893,
+      "tags": "\ud83d\udcb4"
     },
     {
       "card": {
@@ -1028578,7 +1028766,8 @@
         "version": "common"
       },
       "print": 57,
-      "claimed_at": 1793718411.1747622
+      "claimed_at": 1793718411.1747622,
+      "tags": "\ud83d\udcb4"
     },
     {
       "card": {
@@ -1028592,7 +1028781,8 @@
         "version": "common"
       },
       "print": 58,
-      "claimed_at": 1793655743.182009
+      "claimed_at": 1793655743.182009,
+      "tags": "\ud83d\udcb4"
     },
     {
       "card": {
@@ -1028606,7 +1028796,8 @@
         "version": "common"
       },
       "print": 67,
-      "claimed_at": 1793653336.0664427
+      "claimed_at": 1793653336.0664427,
+      "tags": "\ud83d\udcb4"
     },
     {
       "card": {
@@ -1071033,6 +1071224,20 @@
   "697803266150629416": [
     {
       "card": {
+        "id": "mochizuki_common",
+        "name": "Mochizuki Honami",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/mochizuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1793738586.9340332
+    },
+    {
+      "card": {
         "id": "ainosuke_common",
         "name": "Ainosuke Shindo",
         "series": "SK8 THE INFINITY",
@@ -1079491,6 +1079696,20 @@
     }
   ],
   "953615292641185804": [
+    {
+      "card": {
+        "id": "shouta_rare",
+        "name": "Shouta Aizawa",
+        "series": "My Hero Academia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/shouta_rare.png",
+        "frame": "green",
+        "version": "rare"
+      },
+      "print": 12,
+      "claimed_at": 1793738315.1301124
+    },
     {
       "card": {
         "id": "prussia_common",
@@ -1213614,6 +1213833,20 @@
   "1151512609409998959": [
     {
       "card": {
+        "id": "kazutora_common",
+        "name": "Kazutora Hanemiya",
+        "series": "Tokyo Revengers",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kazutora_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 55,
+      "claimed_at": 1793738443.107371
+    },
+    {
+      "card": {
         "id": "vanitas_common",
         "name": "Vanitas",
         "series": "The Case Study of Vanitas",
@@ -1312072,6 +1312305,20 @@
   "1529097630552948908": [
     {
       "card": {
+        "id": "vyn_common",
+        "name": "Vyn Richter",
+        "series": "Tears of Themis",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/vyn_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1793738544.0121539
+    },
+    {
+      "card": {
         "id": "jade_common",
         "name": "Jade Leech",
         "series": "Twisted Wonderland",
@@ -1328531,6 +1328778,20 @@
   "1544455987338018857": [
     {
       "card": {
+        "id": "alice_common",
+        "name": "Alice",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/alice_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 32,
+      "claimed_at": 1793738549.43462
+    },
+    {
+      "card": {
         "id": "edgar_common",
         "name": "Edgar Valden",
         "series": "Identity V",
@@ -1336158,21 +1336419,6 @@
     },
     {
       "card": {
-        "id": "han_common",
-        "name": "Han Seo-in",
-        "series": "Backlight",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/han_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 68,
-      "claimed_at": 1793606243.359923,
-      "tags": "remi"
-    },
-    {
-      "card": {
         "id": "sakutaro_common",
         "name": "Sakutaro Morishige",
         "series": "Corpse Party",
@@ -1336413,21 +1336659,6 @@
     },
     {
       "card": {
-        "id": "jolyne_common",
-        "name": "Jolyne Cujoh",
-        "series": "Jojo\u02bcs Bizarre Adventure",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/jolyne_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 31,
-      "claimed_at": 1793564441.7864718,
-      "tags": "remi"
-    },
-    {
-      "card": {
         "id": "baek_common_3",
         "name": "Baek Yugun",
         "series": "Merry Marbling",
@@ -1336635,21 +1336866,6 @@
       "print": 58,
       "claimed_at": 1793548954.4913616,
       "tags": "\ud835\ude97\ud835\ude8f\ud835\ude9d \ud83e\udd87\u2726 \u0741\u02d6"
-    },
-    {
-      "card": {
-        "id": "kars_common",
-        "name": "Kars",
-        "series": "Jojo\u2019s Bizarre Adventure",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/kars_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 30,
-      "claimed_at": 1793547500.6874866,
-      "tags": "remi"
     },
     {
       "card": {
@@ -1336998,21 +1337214,6 @@
     },
     {
       "card": {
-        "id": "ryu_common_2",
-        "name": "Ryu Ian",
-        "series": "Melting Point",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ryu_common_2.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 65,
-      "claimed_at": 1793478221.7807415,
-      "tags": "remi"
-    },
-    {
-      "card": {
         "id": "agatsuma_common",
         "name": "Agatsuma Zenitsu",
         "series": "Kimetsu no Yaiba",
@@ -1337055,21 +1337256,6 @@
       "print": 25,
       "claimed_at": 1793472721.8757024,
       "tags": "\ud835\ude8a\ud835\ude9c\ud835\ude94 \ud83d\udd4a\ufe0f\u2726 \u0741\u02d6"
-    },
-    {
-      "card": {
-        "id": "hot_common",
-        "name": "Hot Pants",
-        "series": "Jojo\u2019s Bizarre Adventure",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/hot_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 25,
-      "claimed_at": 1793471354.5567038,
-      "tags": "remi"
     },
     {
       "card": {
@@ -1337403,21 +1337589,6 @@
     },
     {
       "card": {
-        "id": "yujin_common",
-        "name": "Yujin Hart",
-        "series": "Flashlight",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/yujin_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 60,
-      "claimed_at": 1793428662.8929718,
-      "tags": "remi"
-    },
-    {
-      "card": {
         "id": "xiao_common_2",
         "name": "Xiao",
         "series": "Genshin Impact",
@@ -1337430,21 +1337601,6 @@
       "print": 26,
       "claimed_at": 1793400132.1340315,
       "tags": "\ua242\u02da\u02d6\ud83c\udf65 \u02da\ud835\udc1f\ud835\udc2d"
-    },
-    {
-      "card": {
-        "id": "matthew_common",
-        "name": "Matthew Raynor",
-        "series": "Under The Green Light",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/matthew_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 73,
-      "claimed_at": 1793398354.9160242,
-      "tags": "remi"
     },
     {
       "card": {
@@ -1337535,21 +1337691,6 @@
       "print": 11,
       "claimed_at": 1793206580.5446672,
       "tags": "\ud835\ude97\ud835\ude8f\ud835\ude9d \ud83e\udd42\u2726 \u0741\u02d6"
-    },
-    {
-      "card": {
-        "id": "funny_common",
-        "name": "Funny Valentine",
-        "series": "Jojo\u2019s Bizarre Adventure",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/funny_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 29,
-      "claimed_at": 1793383500.8253467,
-      "tags": "remi"
     },
     {
       "card": {
