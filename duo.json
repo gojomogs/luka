@@ -125,7 +125,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 8,
+      "progress": 9,
       "id": "626aab4f-8443-467d-ac30-82ddfcd44843",
       "player_a": "1513671121067573281",
       "player_b": "1255325260778307604",
@@ -711,13 +711,25 @@
         "Spongebob Squarepants",
         "Twisted Wonderland",
         "Project: Eden\u2019s Garden",
-        "Little Mushroom"
+        "Little Mushroom",
+        "Genshin Impact"
       ],
       "id": "d92a08af-6359-422e-ad35-03695aa8c5d0",
       "player_a": "891662969107255338",
       "player_b": "601381718569517076",
       "started_at": 1793662343.135729,
       "channel_id": 1543207374670659724
+    },
+    "2cd1c09d-4838-416f-a791-ab54a34ee296": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 0,
+      "id": "2cd1c09d-4838-416f-a791-ab54a34ee296",
+      "player_a": "1068989639362355252",
+      "player_b": "1423443575357575178",
+      "started_at": 1793667761.2019572,
+      "channel_id": 1543761867137097738
     }
   },
   "weekly": {
