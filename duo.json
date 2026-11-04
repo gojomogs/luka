@@ -527,7 +527,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 11,
+      "progress": 12,
       "id": "8b13c8c5-4806-4e15-90e4-aa3f8af70d66",
       "player_a": "762127115721637898",
       "player_b": "224627689909256192",
@@ -573,7 +573,9 @@
         "Things That Deserve To Die",
         "Flashlight",
         "BLUELOCK",
-        "Kaiju No. 8"
+        "Kaiju No. 8",
+        "Castlevania",
+        "School Bus Graveyard"
       ],
       "id": "ab3b4429-6596-4eac-af8c-05e76eca9e6f",
       "player_a": "737098353485021206",
@@ -585,12 +587,23 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 2,
+      "progress": 4,
       "id": "44e7d495-044f-4ba2-aee1-cbd0991d132d",
       "player_a": "1473475651725164714",
       "player_b": "857177938682970132",
       "started_at": 1793795386.5282087,
       "channel_id": 1541231165703454730
+    },
+    "7a97602a-536c-41ba-b67c-83ce392ffbc3": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "7a97602a-536c-41ba-b67c-83ce392ffbc3",
+      "player_a": "779218661096292352",
+      "player_b": "799173789404626964",
+      "started_at": 1793797490.286358,
+      "channel_id": 1554750617086590996
     }
   },
   "weekly": {
@@ -7947,8 +7960,8 @@
       "claim": 0
     },
     "1049566310192918528": {
-      "drop": 4,
-      "claim": 2
+      "drop": 1,
+      "claim": 0
     },
     "601536559036235777": {
       "drop": 0,
@@ -9171,8 +9184,8 @@
       "claim": 0
     },
     "1329046143929155605": {
-      "drop": 15,
-      "claim": 15
+      "drop": 0,
+      "claim": 0
     },
     "1499533049954566155": {
       "drop": 0,
