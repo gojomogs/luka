@@ -119191,6 +119191,20 @@
   "1122003954436407336": [
     {
       "card": {
+        "id": "huohuo_common",
+        "name": "Huohuo",
+        "series": "Honkai: Star Rail",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/huohuo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793786283.4000757
+    },
+    {
+      "card": {
         "id": "tanjiro_rare",
         "name": "Kamado Tanjiro",
         "series": "Kimetsu no Yaiba",
@@ -166313,17 +166327,17 @@
   "1321065001212969044": [
     {
       "card": {
-        "id": "nakahara_common_2",
-        "name": "Nakahara Chuuya",
-        "series": "Bungo Stray Dogs",
+        "id": "roxana_common_2",
+        "name": "Roxana Agriche",
+        "series": "Roxana",
         "stars": 1,
         "weight": 10,
-        "image": "card_art/nakahara_common_2.png",
+        "image": "card_art/roxana_common_2.png",
         "frame": "common",
         "version": "V1"
       },
-      "print": 47,
-      "claimed_at": 1793786164.4170508
+      "print": 21,
+      "claimed_at": 1793755282.6918714
     },
     {
       "card": {
@@ -215821,6 +215835,20 @@
   "1411686981468946664": [
     {
       "card": {
+        "id": "cha_common_3",
+        "name": "Cha Eui-jae & Lee Sa-young",
+        "series": "The Hunter\u2019s Gonna Lay Low",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cha_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 83,
+      "claimed_at": 1793786204.6629167
+    },
+    {
+      "card": {
         "id": "hayato_common",
         "name": "Hayato Suou",
         "series": "Wind Breaker",
@@ -230206,6 +230234,34 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "nakahara_common_2",
+        "name": "Nakahara Chuuya",
+        "series": "Bungo Stray Dogs",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/nakahara_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 47,
+      "claimed_at": 1793786164.4170508
+    },
+    {
+      "card": {
+        "id": "pantalone_common",
+        "name": "Pantalone",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/pantalone_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 71,
+      "claimed_at": 1793786358.9891899
+    },
+    {
+      "card": {
         "id": "kim_common_4",
         "name": "Kim Giryeo",
         "series": "Illusion Hunter from Another World",
@@ -230611,20 +230667,6 @@
       },
       "print": 58,
       "claimed_at": 1793756218.6395984
-    },
-    {
-      "card": {
-        "id": "roxana_common_2",
-        "name": "Roxana Agriche",
-        "series": "Roxana",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/roxana_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 21,
-      "claimed_at": 1793755282.6918714
     },
     {
       "card": {
@@ -275823,6 +275865,20 @@
     }
   ],
   "1208748350523052062": [
+    {
+      "card": {
+        "id": "angel_common_3",
+        "name": "Maria De La Rosa",
+        "series": "Killer Chat!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/angel_common_3.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 11,
+      "claimed_at": 1793786419.2570221
+    },
     {
       "card": {
         "id": "idia_common",
@@ -348592,6 +348648,20 @@
   "990363988422447154": [],
   "356268235697553409": [],
   "1429533392705294521": [
+    {
+      "card": {
+        "id": "mogari_common_1",
+        "name": "Shishikuno Mogari",
+        "series": "Phantom Busters",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mogari_common_1.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 30,
+      "claimed_at": 1793786299.0129075
+    },
     {
       "card": {
         "id": "vash_common",
@@ -902357,6 +902427,20 @@
   "1146772200016326676": [
     {
       "card": {
+        "id": "klarkstella_rare",
+        "name": "Klarkstella",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/klarkstella_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 55,
+      "claimed_at": 1793786220.4192193
+    },
+    {
+      "card": {
         "id": "floyd_common",
         "name": "Floyd Leech",
         "series": "Twisted Wonderland",
@@ -1147844,7 +1147928,8 @@
         "version": "common"
       },
       "print": 3,
-      "claimed_at": 1793773518.6915324
+      "claimed_at": 1793773518.6915324,
+      "tags": "sahsols"
     },
     {
       "card": {
@@ -1176498,6 +1176583,20 @@
     }
   ],
   "989728138219094057": [
+    {
+      "card": {
+        "id": "natsuki_common",
+        "name": "Natsuki",
+        "series": "Doki Doki Literature Club!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/natsuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1793786480.4739368
+    },
     {
       "card": {
         "id": "willmesh_rare",
@@ -1317207,6 +1317306,20 @@
   "770978445798277130": [
     {
       "card": {
+        "id": "gen_common",
+        "name": "Gen Asagiri",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/gen_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 41,
+      "claimed_at": 1793786405.290057
+    },
+    {
+      "card": {
         "id": "himmel_common",
         "name": "Himmel",
         "series": "Frieren: Beyond Journey\u2019s End",
@@ -1378544,6 +1378657,20 @@
   "1433262269155770449": [
     {
       "card": {
+        "id": "march_common",
+        "name": "March 7th",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/march_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 78,
+      "claimed_at": 1793786373.4823565
+    },
+    {
+      "card": {
         "id": "you_common_2",
         "name": "You Huo",
         "series": "Global Examination",
@@ -1381634,6 +1381761,20 @@
   ],
   "1421919812338057276": [],
   "595084117998043137": [
+    {
+      "card": {
+        "id": "kris_common",
+        "name": "Kris",
+        "series": "Deltarune",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kris_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1793786466.654523
+    },
     {
       "card": {
         "id": "ruby_common_2",
