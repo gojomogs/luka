@@ -145019,6 +145019,20 @@
   "1389607840288608377": [
     {
       "card": {
+        "id": "kanna_common",
+        "name": "Kanna",
+        "series": "Love Bullet",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kanna_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 51,
+      "claimed_at": 1793811560.373178
+    },
+    {
+      "card": {
         "id": "kang_common_4",
         "name": "Kang Do-Jin",
         "series": "Robber x Lover",
@@ -396692,20 +396706,6 @@
     }
   ],
   "1310028877485314098": [
-    {
-      "card": {
-        "id": "asahina_common_2",
-        "name": "Asahina Mafuyu",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/asahina_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 27,
-      "claimed_at": 1793811289.9468527
-    },
     {
       "card": {
         "id": "hangyon_rare",
@@ -774212,6 +774212,20 @@
   "964375874998792242": [
     {
       "card": {
+        "id": "cloud_common",
+        "name": "Cloud Strife",
+        "series": "Final Fantasy",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cloud_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 74,
+      "claimed_at": 1793811476.4822333
+    },
+    {
+      "card": {
         "id": "tartaglia_rare",
         "name": "Tartaglia",
         "series": "Genshin Impact",
@@ -786015,6 +786029,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "asahina_common_2",
+        "name": "Asahina Mafuyu",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/asahina_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 27,
+      "claimed_at": 1793811289.9468527
+    },
     {
       "card": {
         "id": "lee_common_4",
@@ -889784,6 +889812,20 @@
     }
   ],
   "1054746696019615775": [
+    {
+      "card": {
+        "id": "kaito_rare",
+        "name": "KAITO",
+        "series": "Vocaloid",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kaito_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 23,
+      "claimed_at": 1793811440.9175844
+    },
     {
       "card": {
         "id": "meguru_common",
@@ -1104054,6 +1104096,20 @@
   "697803266150629416": [
     {
       "card": {
+        "id": "varka_common_2",
+        "name": "Varka",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/varka_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 28,
+      "claimed_at": 1793811368.9763412
+    },
+    {
+      "card": {
         "id": "coco_common",
         "name": "Coco",
         "series": "Witch Hat Atelier",
@@ -1252678,7 +1252734,8 @@
         "version": "common"
       },
       "print": 10,
-      "claimed_at": 1793810003.0379672
+      "claimed_at": 1793810003.0379672,
+      "tags": "hold"
     },
     {
       "card": {
@@ -1384932,6 +1384989,20 @@
   "992526647804825600": [
     {
       "card": {
+        "id": "elysia_common",
+        "name": "Elysia",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/elysia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 72,
+      "claimed_at": 1793811432.4579105
+    },
+    {
+      "card": {
         "id": "varka_common_2",
         "name": "Varka",
         "series": "Genshin Impact",
@@ -1403718,5 +1403789,6 @@
       "print": 88,
       "claimed_at": 1793810751.1313214
     }
-  ]
+  ],
+  "1529231506885709924": []
 }
