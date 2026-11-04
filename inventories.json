@@ -547337,6 +547337,20 @@
   "857177938682970132": [
     {
       "card": {
+        "id": "orphie_common",
+        "name": "Orphie",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/orphie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1793810999.2129765
+    },
+    {
+      "card": {
         "id": "javier_common",
         "name": "Javier Garcia",
         "series": "The Walking Dead",
@@ -580394,6 +580408,20 @@
   ],
   "974310526303739964": [],
   "1423323604044742666": [
+    {
+      "card": {
+        "id": "shirou_common",
+        "name": "Shirou Kamui",
+        "series": "X/1999",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shirou_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793810757.657484
+    },
     {
       "card": {
         "id": "tingyun_common",
@@ -731467,6 +731495,34 @@
   "1183826856449953822": [
     {
       "card": {
+        "id": "vein_common",
+        "name": "Vein",
+        "series": "Link Click",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/vein_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789814682.0508573
+    },
+    {
+      "card": {
+        "id": "liu_common_2",
+        "name": "Liu Xiao",
+        "series": "Link Click",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/liu_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 22,
+      "claimed_at": 1793535046.1409218
+    },
+    {
+      "card": {
         "id": "aya_common",
         "name": "Aya Oosawa",
         "series": "The Guy She Was Interested In Wasn't a Guy at All",
@@ -754609,20 +754665,6 @@
     },
     {
       "card": {
-        "id": "michael_common",
-        "name": "Michael Kaiser",
-        "series": "BLUELOCK",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/michael_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 44,
-      "claimed_at": 1790571439.3201056
-    },
-    {
-      "card": {
         "id": "tang_common",
         "name": "Tang Bo",
         "series": "Return of the Blossoming Blade",
@@ -756270,20 +756312,6 @@
       },
       "print": 39,
       "claimed_at": 1793538599.971097
-    },
-    {
-      "card": {
-        "id": "liu_common_2",
-        "name": "Liu Xiao",
-        "series": "Link Click",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/liu_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 22,
-      "claimed_at": 1793535046.1409218
     },
     {
       "card": {
@@ -760743,20 +760771,6 @@
       },
       "print": 21,
       "claimed_at": 1789817041.2451243
-    },
-    {
-      "card": {
-        "id": "vein_common",
-        "name": "Vein",
-        "series": "Link Click",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/vein_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 22,
-      "claimed_at": 1789814682.0508573
     },
     {
       "card": {
@@ -774073,6 +774087,21 @@
   "964375874998792242": [
     {
       "card": {
+        "id": "tartaglia_rare",
+        "name": "Tartaglia",
+        "series": "Genshin Impact",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tartaglia_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 13,
+      "claimed_at": 1793810858.932792,
+      "tags": "nft!!"
+    },
+    {
+      "card": {
         "id": "bae_rare",
         "name": "Bae Changdeok",
         "series": "After A Meal",
@@ -774363,7 +774392,8 @@
         "version": "V1"
       },
       "print": 12,
-      "claimed_at": 1793542442.0829918
+      "claimed_at": 1793542442.0829918,
+      "tags": "nft!!"
     },
     {
       "card": {
@@ -774923,7 +774953,8 @@
         "version": "common"
       },
       "print": 63,
-      "claimed_at": 1793362812.814226
+      "claimed_at": 1793362812.814226,
+      "tags": "nft!!"
     },
     {
       "card": {
@@ -775259,7 +775290,8 @@
         "version": "common"
       },
       "print": 48,
-      "claimed_at": 1790957412.3536568
+      "claimed_at": 1790957412.3536568,
+      "tags": "nft!!"
     },
     {
       "card": {
@@ -775693,7 +775725,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1790089107.4948294
+      "claimed_at": 1790089107.4948294,
+      "tags": "nft!!"
     },
     {
       "card": {
@@ -785857,6 +785890,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "lee_common_4",
+        "name": "Lee Sejin",
+        "series": "Debut or Die",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/lee_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 63,
+      "claimed_at": 1793810767.0549319
+    },
     {
       "card": {
         "id": "okumura_common",
@@ -946746,6 +946793,34 @@
   "909429574083944498": [
     {
       "card": {
+        "id": "aoyagi_common",
+        "name": "Aoyagi Toya",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/aoyagi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1793810839.54538
+    },
+    {
+      "card": {
+        "id": "michael_common",
+        "name": "Michael Kaiser",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/michael_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1790571439.3201056
+    },
+    {
+      "card": {
         "id": "edd_common",
         "name": "Edd",
         "series": "Eddsworld",
@@ -960776,6 +960851,20 @@
     }
   ],
   "1504462632013398208": [
+    {
+      "card": {
+        "id": "dan_common_2",
+        "name": "Dan Heng",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/dan_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 31,
+      "claimed_at": 1793810744.366275
+    },
     {
       "card": {
         "id": "welt_common",
@@ -1084743,6 +1084832,20 @@
   "420699083238539285": [
     {
       "card": {
+        "id": "akugetsu_common",
+        "name": "Akugetsu",
+        "series": "Utaite",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/akugetsu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 71,
+      "claimed_at": 1793810925.9849918
+    },
+    {
+      "card": {
         "id": "ash_common",
         "name": "Ash Lynx",
         "series": "Banana Fish",
@@ -1103781,6 +1103884,20 @@
     }
   ],
   "697803266150629416": [
+    {
+      "card": {
+        "id": "coco_common",
+        "name": "Coco",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/coco_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 87,
+      "claimed_at": 1793810767.5863712
+    },
     {
       "card": {
         "id": "eiden_common_2",
@@ -1375545,6 +1375662,20 @@
   "1112468374358868129": [
     {
       "card": {
+        "id": "kafka_common",
+        "name": "Kafka",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kafka_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 72,
+      "claimed_at": 1793810946.666468
+    },
+    {
+      "card": {
         "id": "yoichi_common_2",
         "name": "Yoichi Nagumo",
         "series": "Sakamoto Days",
@@ -1384563,6 +1384694,20 @@
   "992526647804825600": [
     {
       "card": {
+        "id": "varka_common_2",
+        "name": "Varka",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/varka_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 27,
+      "claimed_at": 1793810813.0177774
+    },
+    {
+      "card": {
         "id": "kaito_common_2",
         "name": "Kaito Fuji",
         "series": "Tokyo Debunker",
@@ -1384714,20 +1384859,6 @@
       },
       "print": 45,
       "claimed_at": 1793793926.7123888
-    },
-    {
-      "card": {
-        "id": "cha_common_3",
-        "name": "Cha Eui-jae & Lee Sa-young",
-        "series": "The Hunter\u2019s Gonna Lay Low",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/cha_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 84,
-      "claimed_at": 1793793323.6788995
     },
     {
       "card": {
@@ -1397440,6 +1397571,20 @@
   "757603484802744381": [
     {
       "card": {
+        "id": "klein_common",
+        "name": "Klein Moretti",
+        "series": "Lord Of The Mysteries",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/klein_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 46,
+      "claimed_at": 1793810726.775491
+    },
+    {
+      "card": {
         "id": "xiao_common",
         "name": "Xiao",
         "series": "Genshin Impact",
@@ -1403304,6 +1403449,36 @@
       },
       "print": 57,
       "claimed_at": 1793782638.5347662
+    }
+  ],
+  "873063279373742151": [
+    {
+      "card": {
+        "id": "cha_common_3",
+        "name": "Cha Eui-jae & Lee Sa-young",
+        "series": "The Hunter\u2019s Gonna Lay Low",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cha_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 84,
+      "claimed_at": 1793793323.6788995
+    },
+    {
+      "card": {
+        "id": "katsuki_common",
+        "name": "Katsuki Bakugou",
+        "series": "My Hero Academia",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/katsuki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 88,
+      "claimed_at": 1793810751.1313214
     }
   ]
 }
