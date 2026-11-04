@@ -272547,6 +272547,20 @@
         "frame": "common",
         "version": "common"
       },
+      "print": 68,
+      "claimed_at": 1793745299.1073291
+    },
+    {
+      "card": {
+        "id": "ace_common",
+        "name": "Ace Trappola",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ace_common.png",
+        "frame": "common",
+        "version": "common"
+      },
       "print": 43,
       "claimed_at": 1790572367.4246986,
       "tags": "\u0f7b\u06ea\u06ea\u2661"
@@ -275185,20 +275199,6 @@
       "print": 53,
       "claimed_at": 1793289688.6201646,
       "tags": "\u0f7b\u06ea\u06ea\u2661"
-    },
-    {
-      "card": {
-        "id": "stephanie_common",
-        "name": "Spoiler",
-        "series": "DC",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/stephanie_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 31,
-      "claimed_at": 1793352686.0120034
     },
     {
       "card": {
@@ -387836,6 +387836,35 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "rafayel_rare",
+        "name": "Rafayel",
+        "series": "Love And Deepspace",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rafayel_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 3,
+      "claimed_at": 1793753517.9554636,
+      "tags": "yed"
+    },
+    {
+      "card": {
+        "id": "kurode_rare",
+        "name": "Kurode",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kurode_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 50,
+      "claimed_at": 1793737585.1753972
+    },
+    {
+      "card": {
         "id": "mei_common",
         "name": "Mei Kinosaki",
         "series": "Marriagetoxin",
@@ -388161,21 +388190,6 @@
       "print": 40,
       "claimed_at": 1793281211.8147838,
       "tags": "nft"
-    },
-    {
-      "card": {
-        "id": "ryunosuke_common",
-        "name": "Ryunosuke Akutagawa",
-        "series": "Bungo Stray Dogs",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ryunosuke_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 79,
-      "claimed_at": 1793709010.7487822,
-      "tags": "vodyanitsa"
     },
     {
       "card": {
@@ -482105,6 +482119,20 @@
     }
   ],
   "1139721385783066744": [
+    {
+      "card": {
+        "id": "hero_common",
+        "name": "Hero",
+        "series": "Omori",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hero_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 62,
+      "claimed_at": 1793753514.8898993
+    },
     {
       "card": {
         "id": "tsukishima_common",
@@ -658285,6 +658313,21 @@
   "1157782319483068476": [
     {
       "card": {
+        "id": "lee_common_8",
+        "name": "Lee Song-Rik",
+        "series": "One-room TA",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lee_common_8.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 79,
+      "claimed_at": 1793753612.8020685,
+      "tags": "ft"
+    },
+    {
+      "card": {
         "id": "rui_rare",
         "name": "Kamishiro Rui",
         "series": "Project Sekai: Colorful Stage!",
@@ -658295,7 +658338,8 @@
         "version": "rare"
       },
       "print": 54,
-      "claimed_at": 1793745644.716653
+      "claimed_at": 1793745644.716653,
+      "tags": "ft"
     },
     {
       "card": {
@@ -663934,6 +663978,20 @@
     }
   ],
   "1293557714420498435": [
+    {
+      "card": {
+        "id": "gong_common",
+        "name": "Gong Ian",
+        "series": "Guiding Me Mad",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/gong_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793753628.6495464
+    },
     {
       "card": {
         "id": "valko_common",
@@ -678773,6 +678831,20 @@
     }
   ],
   "1231712480858869884": [
+    {
+      "card": {
+        "id": "shiraishi_common",
+        "name": "Shiraishi An",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/shiraishi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 65,
+      "claimed_at": 1793753487.2299428
+    },
     {
       "card": {
         "id": "mizi_common_2",
@@ -767367,6 +767439,20 @@
     }
   ],
   "1286641208176934996": [
+    {
+      "card": {
+        "id": "yoichi_common_2",
+        "name": "Yoichi Nagumo",
+        "series": "Sakamoto Days",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yoichi_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 13,
+      "claimed_at": 1793753538.587917
+    },
     {
       "card": {
         "id": "alberu_common",
@@ -1000211,6 +1000297,20 @@
   "1473475651725164714": [
     {
       "card": {
+        "id": "satoru_rare",
+        "name": "Satoru Gojo",
+        "series": "Jujutsu Kaisen",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/satoru_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 35,
+      "claimed_at": 1793753489.2511408
+    },
+    {
+      "card": {
         "id": "euini_common_2",
         "name": "Euini",
         "series": "Witch Hat Atelier",
@@ -1008830,6 +1008930,20 @@
     }
   ],
   "606063258226655235": [
+    {
+      "card": {
+        "id": "arataki_common",
+        "name": "Arataki Itto",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/arataki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 58,
+      "claimed_at": 1793753481.7360802
+    },
     {
       "card": {
         "id": "braun_common",
@@ -1149594,6 +1149708,20 @@
   "551877849192202255": [
     {
       "card": {
+        "id": "kasane_common",
+        "name": "Kasane Teto",
+        "series": "UTAU",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kasane_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1793753580.6109853
+    },
+    {
+      "card": {
         "id": "nazuna_common",
         "name": "Nazuna Nanakusa",
         "series": "Call of the Night",
@@ -1271885,6 +1272013,20 @@
   "1383481899334238248": [
     {
       "card": {
+        "id": "stephanie_common",
+        "name": "Spoiler",
+        "series": "DC",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/stephanie_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 31,
+      "claimed_at": 1793352686.0120034
+    },
+    {
+      "card": {
         "id": "jason_common",
         "name": "Red Hood",
         "series": "DC",
@@ -1271954,20 +1272096,6 @@
       "print": 12,
       "claimed_at": 1789491719.8841023,
       "tags": "\ud83e\udd88"
-    },
-    {
-      "card": {
-        "id": "ace_common",
-        "name": "Ace Trappola",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ace_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 68,
-      "claimed_at": 1793745299.1073291
     },
     {
       "card": {
@@ -1303441,6 +1303569,20 @@
     }
   ],
   "1379789794422554757": [
+    {
+      "card": {
+        "id": "nakahara_common",
+        "name": "Nakahara Chuuya",
+        "series": "Bungo Stray Dogs",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/nakahara_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 78,
+      "claimed_at": 1793753455.1080525
+    },
     {
       "card": {
         "id": "ji-min_common",
@@ -1340360,6 +1340502,21 @@
   "1070842549318721567": [
     {
       "card": {
+        "id": "ryunosuke_common",
+        "name": "Ryunosuke Akutagawa",
+        "series": "Bungo Stray Dogs",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ryunosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 79,
+      "claimed_at": 1793709010.7487822,
+      "tags": "\ud835\ude08\ud835\ude2c\ud835\ude36\ud835\ude19\ud835\ude2a\ud835\ude2c\ud835\ude36\ud83d\udc8d"
+    },
+    {
+      "card": {
         "id": "mao_common",
         "name": "Mao Isara",
         "series": "Ensemble Stars!",
@@ -1340385,20 +1340542,6 @@
       },
       "print": 36,
       "claimed_at": 1793742463.2797081
-    },
-    {
-      "card": {
-        "id": "kurode_rare",
-        "name": "Kurode",
-        "series": "Fragaria Memories",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/kurode_rare.png",
-        "frame": "purple",
-        "version": "rare"
-      },
-      "print": 50,
-      "claimed_at": 1793737585.1753972
     },
     {
       "card": {
