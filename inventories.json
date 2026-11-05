@@ -9067,6 +9067,21 @@
   "870354420049776710": [
     {
       "card": {
+        "id": "leon_common",
+        "name": "Leon S. Kennedy",
+        "series": "Resident Evil",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/leon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 8,
+      "claimed_at": 1788631086.8075545,
+      "tags": "< \ud83e\udd24 leon 3"
+    },
+    {
+      "card": {
         "id": "dan_common_2",
         "name": "Dan Heng",
         "series": "Honkai: Star Rail",
@@ -9078,7 +9093,7 @@
       },
       "print": 6,
       "claimed_at": 1790969131.037168,
-      "tags": "busts"
+      "tags": "< \ud83d\udc09 3"
     },
     {
       "card": {
@@ -9220,7 +9235,8 @@
         "version": "common"
       },
       "print": 87,
-      "claimed_at": 1793790436.3524244
+      "claimed_at": 1793790436.3524244,
+      "tags": "< \ud83e\udd24 leon 3"
     },
     {
       "card": {
@@ -9346,7 +9362,8 @@
         "version": "common"
       },
       "print": 58,
-      "claimed_at": 1790879079.1661878
+      "claimed_at": 1790879079.1661878,
+      "tags": "< \ud83e\udd24 leon 3"
     },
     {
       "card": {
@@ -9361,7 +9378,7 @@
       },
       "print": 3,
       "claimed_at": 1788574746.1456468,
-      "tags": "< leon \ud83e\udd24 3"
+      "tags": "< \ud83e\udd24 leon 3"
     },
     {
       "card": {
@@ -15247,6 +15264,34 @@
   "982952116039598161": [
     {
       "card": {
+        "id": "lu_common_5",
+        "name": "Lu Guang",
+        "series": "Link Click",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lu_common_5.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 37,
+      "claimed_at": 1793864087.1401634
+    },
+    {
+      "card": {
+        "id": "merold_rare_2",
+        "name": "Merold",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/merold_rare_2.png",
+        "frame": "pink",
+        "version": "rare"
+      },
+      "print": 18,
+      "claimed_at": 1793862315.8914459
+    },
+    {
+      "card": {
         "id": "merold_rare",
         "name": "Merold",
         "series": "Fragaria Memories",
@@ -17414,20 +17459,6 @@
       },
       "print": 73,
       "claimed_at": 1793529725.6765058
-    },
-    {
-      "card": {
-        "id": "ryomen_common_2",
-        "name": "Ryomen Sukuna",
-        "series": "Jujutsu Kaisen",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ryomen_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 24,
-      "claimed_at": 1793527823.2137938
     },
     {
       "card": {
@@ -59329,6 +59360,20 @@
   "745734578005737623": [
     {
       "card": {
+        "id": "march_common",
+        "name": "March 7th",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/march_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 83,
+      "claimed_at": 1793864215.8641129
+    },
+    {
+      "card": {
         "id": "morvay_common",
         "name": "Morvay",
         "series": "NU: Carnival",
@@ -62950,6 +62995,21 @@
   "968501068524818542": [
     {
       "card": {
+        "id": "emma_rare",
+        "name": "Emma Frost",
+        "series": "Marvel",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/emma_rare.png",
+        "frame": "white",
+        "version": "rare"
+      },
+      "print": 1,
+      "claimed_at": 1788009492.838937,
+      "showcased": true
+    },
+    {
+      "card": {
         "id": "yoon_common_3",
         "name": "Yoon Ga-eul",
         "series": "The Hunter\u2019s Gonna Lay Low",
@@ -63171,21 +63231,6 @@
       },
       "print": 6,
       "claimed_at": 1788107443.2779574,
-      "showcased": true
-    },
-    {
-      "card": {
-        "id": "emma_rare",
-        "name": "Emma Frost",
-        "series": "Marvel",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/emma_rare.png",
-        "frame": "white",
-        "version": "rare"
-      },
-      "print": 1,
-      "claimed_at": 1788009492.838937,
       "showcased": true
     },
     {
@@ -91261,6 +91306,20 @@
     }
   ],
   "994686213967577199": [
+    {
+      "card": {
+        "id": "xia_common_2",
+        "name": "Xia Fei",
+        "series": "Link Click",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/xia_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 55,
+      "claimed_at": 1793864113.0654488
+    },
     {
       "card": {
         "id": "ruan_common",
@@ -237666,6 +237725,34 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "azul_common",
+        "name": "Azul Ashengrotto",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/azul_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793864046.8719893
+    },
+    {
+      "card": {
+        "id": "ryomen_common_2",
+        "name": "Ryomen Sukuna",
+        "series": "Jujutsu Kaisen",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ryomen_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 24,
+      "claimed_at": 1793527823.2137938
+    },
+    {
+      "card": {
         "id": "kim_common_5",
         "name": "Kim Suhan",
         "series": "Emergency! Youth Record Book",
@@ -237677,20 +237764,6 @@
       },
       "print": 84,
       "claimed_at": 1793863320.1274626
-    },
-    {
-      "card": {
-        "id": "merold_rare_2",
-        "name": "Merold",
-        "series": "Fragaria Memories",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/merold_rare_2.png",
-        "frame": "pink",
-        "version": "rare"
-      },
-      "print": 18,
-      "claimed_at": 1793862315.8914459
     },
     {
       "card": {
@@ -299005,6 +299078,20 @@
     }
   ],
   "908254172074352641": [
+    {
+      "card": {
+        "id": "sosuke_common",
+        "name": "Sousuke Mitsuba",
+        "series": "Toilet-bound Hanako-kun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sosuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 99,
+      "claimed_at": 1793864165.459882
+    },
     {
       "card": {
         "id": "diego_common",
@@ -383729,6 +383816,34 @@
     }
   ],
   "1468648929783709768": [
+    {
+      "card": {
+        "id": "huohuo_common",
+        "name": "Huohuo",
+        "series": "Honkai: Star Rail",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/huohuo_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 56,
+      "claimed_at": 1793864167.5437794
+    },
+    {
+      "card": {
+        "id": "yoshiki_common_3",
+        "name": "Yoshiki Kishinuma",
+        "series": "Corpse Party",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yoshiki_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1793864165.103893
+    },
     {
       "card": {
         "id": "qiuyuan_common",
@@ -575544,6 +575659,20 @@
   "1192201166893895725": [
     {
       "card": {
+        "id": "scarlet_common_2",
+        "name": "Scarlet Witch",
+        "series": "Marvel",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/scarlet_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1793864100.9441266
+    },
+    {
+      "card": {
         "id": "higashikata_common",
         "name": "Higashikata Josuke",
         "series": "Jojo\u02bcs Bizarre Adventure",
@@ -696146,6 +696275,20 @@
     }
   ],
   "1293557714420498435": [
+    {
+      "card": {
+        "id": "chase_common",
+        "name": "Chase Miller",
+        "series": "Kiss Me If You Can",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/chase_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 87,
+      "claimed_at": 1793864170.7899098
+    },
     {
       "card": {
         "id": "barbatos_common",
@@ -1091045,18 +1091188,18 @@
   "1415199399469908020": [
     {
       "card": {
-        "id": "makoto_common_4",
-        "name": "Makoto Yuuki",
-        "series": "Ensemble Stars!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/makoto_common_4.png",
-        "frame": "common",
-        "version": "common"
+        "id": "kim_rare",
+        "name": "Kim Soleum",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 4,
+        "weight": 8,
+        "image": "card_art/kim_rare.png",
+        "frame": "green",
+        "version": "rare"
       },
       "print": 2,
-      "claimed_at": 1788088536.9059181,
-      "tags": "UGLY"
+      "claimed_at": 1793833653.5512726,
+      "tags": "sahsols"
     },
     {
       "card": {
@@ -1092003,21 +1092146,6 @@
       },
       "print": 59,
       "claimed_at": 1791023941.4105132
-    },
-    {
-      "card": {
-        "id": "leon_common",
-        "name": "Leon S. Kennedy",
-        "series": "Resident Evil",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/leon_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 8,
-      "claimed_at": 1788631086.8075545,
-      "tags": "ngh"
     },
     {
       "card": {
@@ -1417990,6 +1418118,20 @@
   "1439628725288173759": [
     {
       "card": {
+        "id": "batman_rare",
+        "name": "Batman",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/batman_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 40,
+      "claimed_at": 1793864148.792017
+    },
+    {
+      "card": {
         "id": "aisha_common",
         "name": "Aisha",
         "series": "WINX CLUB",
@@ -1435819,6 +1435961,20 @@
   "1497293513941844000": [
     {
       "card": {
+        "id": "bloom_common",
+        "name": "Bloom",
+        "series": "WINX CLUB",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/bloom_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1793864118.175234
+    },
+    {
+      "card": {
         "id": "suzaku_common",
         "name": "Suzaku Kururugi",
         "series": "Code Geass",
@@ -1440029,6 +1440185,21 @@
   "595084117998043137": [
     {
       "card": {
+        "id": "makoto_common_4",
+        "name": "Makoto Yuuki",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 2,
+      "claimed_at": 1788088536.9059181,
+      "tags": "\ud801\udd0c\u2022myluv\ud83e\uddc1"
+    },
+    {
+      "card": {
         "id": "michael_common_2",
         "name": "Michael Kaiser",
         "series": "BLUELOCK",
@@ -1440494,21 +1440665,6 @@
       },
       "print": 7,
       "claimed_at": 1793834259.6025536
-    },
-    {
-      "card": {
-        "id": "kim_rare",
-        "name": "Kim Soleum",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 4,
-        "weight": 8,
-        "image": "card_art/kim_rare.png",
-        "frame": "green",
-        "version": "rare"
-      },
-      "print": 2,
-      "claimed_at": 1793833653.5512726,
-      "tags": "sahsols"
     },
     {
       "card": {
