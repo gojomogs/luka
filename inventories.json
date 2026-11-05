@@ -111141,6 +111141,20 @@
   "224627689909256192": [
     {
       "card": {
+        "id": "jinpachi_common",
+        "name": "Jinpachi Ego",
+        "series": "Blue Lock",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jinpachi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 10,
+      "claimed_at": 1793905845.513713
+    },
+    {
+      "card": {
         "id": "chilchuck_common",
         "name": "Chilchuck Tims",
         "series": "Dungeon Meshi",
@@ -152773,6 +152787,20 @@
     }
   ],
   "1231316819395084340": [
+    {
+      "card": {
+        "id": "marius_common",
+        "name": "Marius Von Hagen",
+        "series": "Tears of Themis",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/marius_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793905704.6063685
+    },
     {
       "card": {
         "id": "till_common_2",
@@ -228667,20 +228695,6 @@
     },
     {
       "card": {
-        "id": "grayson_rare",
-        "name": "Nightwing",
-        "series": "DC",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/grayson_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 51,
-      "claimed_at": 1793362355.786963
-    },
-    {
-      "card": {
         "id": "ochako_common_2",
         "name": "Ochako Uraraka",
         "series": "My Hero Academia",
@@ -229550,20 +229564,6 @@
       },
       "print": 38,
       "claimed_at": 1790477450.0492935
-    },
-    {
-      "card": {
-        "id": "emma_rare",
-        "name": "Emma Frost",
-        "series": "Marvel",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/emma_rare.png",
-        "frame": "white",
-        "version": "rare"
-      },
-      "print": 28,
-      "claimed_at": 1790475843.069274
     },
     {
       "card": {
@@ -314182,6 +314182,34 @@
   "1427701023102734481": [
     {
       "card": {
+        "id": "grayson_rare",
+        "name": "Nightwing",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/grayson_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 51,
+      "claimed_at": 1793362355.786963
+    },
+    {
+      "card": {
+        "id": "emma_rare",
+        "name": "Emma Frost",
+        "series": "Marvel",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/emma_rare.png",
+        "frame": "white",
+        "version": "rare"
+      },
+      "print": 28,
+      "claimed_at": 1790475843.069274
+    },
+    {
+      "card": {
         "id": "yoseok_common",
         "name": "Yoseok Nam",
         "series": "Special Civil Servant",
@@ -356225,6 +356253,20 @@
     }
   ],
   "647974710470115339": [
+    {
+      "card": {
+        "id": "tohsaka_common",
+        "name": "Tohsaka Rin",
+        "series": "Fate Series",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/tohsaka_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 38,
+      "claimed_at": 1793905804.271462
+    },
     {
       "card": {
         "id": "tartah_common",
@@ -462066,6 +462108,20 @@
   "1079527293355036842": [
     {
       "card": {
+        "id": "isagi_common",
+        "name": "Yoichi Isagi",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/isagi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 89,
+      "claimed_at": 1793905838.1451602
+    },
+    {
+      "card": {
         "id": "yu_rare",
         "name": "Yu Narukami",
         "series": "Persona",
@@ -554273,7 +554329,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1793894704.390565
+      "claimed_at": 1793894704.390565,
+      "tags": "Hold"
     },
     {
       "card": {
@@ -561985,7 +562042,7 @@
       },
       "print": 22,
       "claimed_at": 1790195729.8881083,
-      "tags": "\ua4b0\ud83e\udd0d\ua4b1\ufe52\ud835\ude0d\ud835\ude1b\ufe52\u27e2"
+      "tags": "Hold"
     },
     {
       "card": {
@@ -822797,6 +822854,34 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "castorice_common",
+        "name": "Castorice",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/castorice_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 74,
+      "claimed_at": 1793905725.2860436
+    },
+    {
+      "card": {
+        "id": "maria_common",
+        "name": "Maria De La Rosa",
+        "series": "Killer Chat!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/maria_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1793905586.27856
+    },
+    {
+      "card": {
         "id": "tsuchigomori_common",
         "name": "Tsuchigomori",
         "series": "Toilet-bound Hanako-kun",
@@ -913250,6 +913335,20 @@
     }
   ],
   "1204473206077919295": [
+    {
+      "card": {
+        "id": "qin_common",
+        "name": "Qin Jiu",
+        "series": "Global Examination",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/qin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 84,
+      "claimed_at": 1793905680.2790098
+    },
     {
       "card": {
         "id": "baek_common_8",
@@ -1113673,6 +1113772,20 @@
   "1415199399469908020": [
     {
       "card": {
+        "id": "agott_common",
+        "name": "Agott",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/agott_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 88,
+      "claimed_at": 1793905488.1458693
+    },
+    {
+      "card": {
         "id": "lee_common_15",
         "name": "Lee Ja-kyung",
         "series": "Things That Deserve To Die",
@@ -1277750,6 +1277863,20 @@
   "755863624873934968": [
     {
       "card": {
+        "id": "kaoruko_common",
+        "name": "Kaoruko Waguri",
+        "series": "The Fragrant Flower Blooms with Dignity",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kaoruko_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 45,
+      "claimed_at": 1793905772.5103664
+    },
+    {
+      "card": {
         "id": "yuuichirou_common",
         "name": "Yuuichirou Hyakuya",
         "series": "Seraph of the End",
@@ -1288166,6 +1288293,20 @@
     }
   ],
   "1211028404577632277": [
+    {
+      "card": {
+        "id": "sakura_common_2",
+        "name": "Sakura Kinomoto",
+        "series": "Cardcaptor Sakura",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sakura_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 36,
+      "claimed_at": 1793905790.6252728
+    },
     {
       "card": {
         "id": "kento_common",
@@ -1312596,20 +1312737,6 @@
     }
   ],
   "1151512609409998959": [
-    {
-      "card": {
-        "id": "agott_common",
-        "name": "Agott",
-        "series": "Witch Hat Atelier",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/agott_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 88,
-      "claimed_at": 1793905488.1458693
-    },
     {
       "card": {
         "id": "jude_common",
@@ -1366744,6 +1366871,20 @@
     }
   ],
   "1288793094447169600": [
+    {
+      "card": {
+        "id": "lee_common_2",
+        "name": "Lee Yeo-woon",
+        "series": "Virtual Strangers",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lee_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 101,
+      "claimed_at": 1793905681.073491
+    },
     {
       "card": {
         "id": "columbina_common_2",
@@ -1461239,6 +1461380,20 @@
     }
   ],
   "479372052638203905": [
+    {
+      "card": {
+        "id": "guoba_common",
+        "name": "Guoba",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/guoba_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 28,
+      "claimed_at": 1793905783.5773299
+    },
     {
       "card": {
         "id": "huiseo_common_2",
