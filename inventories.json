@@ -160306,6 +160306,65 @@
   "1508236825557209179": [
     {
       "card": {
+        "id": "vyn_common_2",
+        "name": "Vyn Richter",
+        "series": "Tears of Themis",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/vyn_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 5,
+      "claimed_at": 1793844288.093951
+    },
+    {
+      "card": {
+        "id": "dabi_common",
+        "name": "Dabi",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/dabi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 88,
+      "claimed_at": 1793771703.9473076,
+      "tags": "\ud83d\udc8b"
+    },
+    {
+      "card": {
+        "id": "dabi_common",
+        "name": "Dabi",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/dabi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1790890437.9823675,
+      "tags": "\ud83d\udc8b"
+    },
+    {
+      "card": {
+        "id": "dabi_rare",
+        "name": "Dabi",
+        "series": "My Hero Academia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/dabi_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 24,
+      "claimed_at": 1793768271.1790977,
+      "tags": "\ud83d\udc8b"
+    },
+    {
+      "card": {
         "id": "mikasa_common",
         "name": "Mikasa Ackerman",
         "series": "Attack on Titan",
@@ -160513,20 +160572,6 @@
       },
       "print": 26,
       "claimed_at": 1793782640.3622322
-    },
-    {
-      "card": {
-        "id": "krul_common",
-        "name": "Krul Tepes",
-        "series": "Seraph of the End",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/krul_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 7,
-      "claimed_at": 1793781955.7568445
     },
     {
       "card": {
@@ -235038,6 +235083,20 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "ifa_common",
+        "name": "Ifa",
+        "series": "Genshin Impact",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ifa_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1793844217.6034784
+    },
+    {
+      "card": {
         "id": "sandrone_common",
         "name": "Sandrone",
         "series": "Genshin Impact",
@@ -235188,7 +235247,8 @@
         "version": "common"
       },
       "print": 70,
-      "claimed_at": 1793793608.3533528
+      "claimed_at": 1793793608.3533528,
+      "tags": "\u0743 \ud83c\udf90\u02da\u0323\u0323\u0323 \ud80c\ude12"
     },
     {
       "card": {
@@ -281167,6 +281227,20 @@
   "1208748350523052062": [
     {
       "card": {
+        "id": "krul_common",
+        "name": "Krul Tepes",
+        "series": "Seraph of the End",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/krul_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 7,
+      "claimed_at": 1793781955.7568445
+    },
+    {
+      "card": {
         "id": "silver_rare",
         "name": "Silver Vanrouge",
         "series": "Twisted Wonderland",
@@ -281193,20 +281267,6 @@
       },
       "print": 72,
       "claimed_at": 1793843589.198714
-    },
-    {
-      "card": {
-        "id": "dabi_common",
-        "name": "Dabi",
-        "series": "My Hero Academia",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/dabi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 88,
-      "claimed_at": 1793771703.9473076
     },
     {
       "card": {
@@ -281432,35 +281492,6 @@
       },
       "print": 37,
       "claimed_at": 1793799737.6933887
-    },
-    {
-      "card": {
-        "id": "dabi_common",
-        "name": "Dabi",
-        "series": "My Hero Academia",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/dabi_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 54,
-      "claimed_at": 1790890437.9823675,
-      "tags": "\u2726 \u0323\u0323 \u06df \ufe35ft"
-    },
-    {
-      "card": {
-        "id": "dabi_rare",
-        "name": "Dabi",
-        "series": "My Hero Academia",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/dabi_rare.png",
-        "frame": "blue",
-        "version": "rare"
-      },
-      "print": 24,
-      "claimed_at": 1793768271.1790977
     },
     {
       "card": {
@@ -379288,7 +379319,8 @@
         "version": "common"
       },
       "print": 40,
-      "claimed_at": 1793844127.8615224
+      "claimed_at": 1793844127.8615224,
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -382630,7 +382662,7 @@
       },
       "print": 13,
       "claimed_at": 1790909108.0054698,
-      "tags": "<Hold>"
+      "tags": "[Ft]"
     },
     {
       "card": {
@@ -506975,6 +507007,20 @@
   "514565097981476875": [
     {
       "card": {
+        "id": "lin_common",
+        "name": "Lin Qingyu",
+        "series": "Married Thrice to Salted Fish",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/lin_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793844235.3108058
+    },
+    {
+      "card": {
         "id": "gong_common",
         "name": "Gong Ian",
         "series": "Guiding Me Mad",
@@ -514348,6 +514394,20 @@
     }
   ],
   "807341781662302281": [
+    {
+      "card": {
+        "id": "han_common_2",
+        "name": "Han Yoojin",
+        "series": "The S-classes That I Raised",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/han_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793844281.1423655
+    },
     {
       "card": {
         "id": "kaori_common_2",
@@ -523941,6 +524001,20 @@
   "1012406209824968786": [
     {
       "card": {
+        "id": "wang_common",
+        "name": "Wang Yi",
+        "series": "I Want To Be A Big Baddie",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/wang_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 64,
+      "claimed_at": 1793844255.5704987
+    },
+    {
+      "card": {
         "id": "tooru_common",
         "name": "Tooru Hagakure",
         "series": "My Hero Academia",
@@ -529376,6 +529450,20 @@
     }
   ],
   "1489781141211713677": [
+    {
+      "card": {
+        "id": "rimicha_common",
+        "name": "Hangyon",
+        "series": "Fragaria Memories",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rimicha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 64,
+      "claimed_at": 1793844301.4338212
+    },
     {
       "card": {
         "id": "tim_common",
@@ -568308,6 +568396,20 @@
     }
   ],
   "1192201166893895725": [
+    {
+      "card": {
+        "id": "baek_common_9",
+        "name": "Baek Eunsan",
+        "series": "Melting Point",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/baek_common_9.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 74,
+      "claimed_at": 1793844433.0827765
+    },
     {
       "card": {
         "id": "aoi_common",
@@ -658858,6 +658960,21 @@
   "1344738272924143750": [
     {
       "card": {
+        "id": "lan_common",
+        "name": "Lan Wangji",
+        "series": "Mo Dao Zu Shi",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/lan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 69,
+      "claimed_at": 1793844241.497598,
+      "tags": "\ud83d\udcb8ft"
+    },
+    {
+      "card": {
         "id": "nunnally_common",
         "name": "Nunnally Lamperouge",
         "series": "Code Geass",
@@ -687451,6 +687568,20 @@
     }
   ],
   "1293557714420498435": [
+    {
+      "card": {
+        "id": "toma_common",
+        "name": "Toma Mako",
+        "series": "Selection Project",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/toma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1793844381.0944817
+    },
     {
       "card": {
         "id": "lauma_common",
@@ -752657,6 +752788,20 @@
     }
   ],
   "764446760004354048": [
+    {
+      "card": {
+        "id": "yoshiki_common",
+        "name": "Yoshiki",
+        "series": "The Summer Hikaru Died",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yoshiki_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 102,
+      "claimed_at": 1793844467.4540434
+    },
     {
       "card": {
         "id": "ukyo_common",
@@ -836581,6 +836726,20 @@
     }
   ],
   "1398751184373678231": [
+    {
+      "card": {
+        "id": "amo_common_1",
+        "name": "Amo Empool",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/amo_common_1.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 76,
+      "claimed_at": 1793844371.987172
+    },
     {
       "card": {
         "id": "yujin_common",
@@ -943185,6 +943344,20 @@
     }
   ],
   "1029068754526687232": [
+    {
+      "card": {
+        "id": "rin_common_4",
+        "name": "Rin",
+        "series": "Muse Dash",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/rin_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 1,
+      "claimed_at": 1793844449.4565103
+    },
     {
       "card": {
         "id": "thistle_common",
@@ -1237681,6 +1237854,20 @@
   "755863624873934968": [
     {
       "card": {
+        "id": "silver_common",
+        "name": "Silver Wolf",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/silver_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 70,
+      "claimed_at": 1793844365.0821373
+    },
+    {
+      "card": {
         "id": "asahina_rare",
         "name": "Asahina Mafuyu",
         "series": "Project Sekai: Colorful Stage!",
@@ -1247635,6 +1247822,20 @@
     }
   ],
   "1211028404577632277": [
+    {
+      "card": {
+        "id": "caitlyn_common",
+        "name": "Caitlyn Kiramman",
+        "series": "Arcane",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/caitlyn_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 35,
+      "claimed_at": 1793844378.8504019
+    },
     {
       "card": {
         "id": "all_common",
@@ -1281627,6 +1281828,20 @@
     }
   ],
   "729686302877810805": [
+    {
+      "card": {
+        "id": "lee_common_14",
+        "name": "Lee Jinwoo & Kwon Taeyoung",
+        "series": "Behind the Stage",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/lee_common_14.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 79,
+      "claimed_at": 1793844273.7388878
+    },
     {
       "card": {
         "id": "tatsumi_common",
@@ -1377386,6 +1377601,20 @@
     }
   ],
   "1529097630552948908": [
+    {
+      "card": {
+        "id": "sua_common_2",
+        "name": "Sua",
+        "series": "Alien Stage",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/sua_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 54,
+      "claimed_at": 1793844409.5738313
+    },
     {
       "card": {
         "id": "mika_common",
