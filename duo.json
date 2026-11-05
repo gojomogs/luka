@@ -614,7 +614,8 @@
         "My Hero Academia",
         "Genshin Impact",
         "Your Turn To Die",
-        "Ouran Highschool Host Club"
+        "Ouran Highschool Host Club",
+        "Haikyuu!!"
       ],
       "id": "fef591e1-5871-450e-8da3-0621c79e18f9",
       "player_a": "1454914344792883305",
@@ -632,6 +633,31 @@
       "player_b": "1433262269155770449",
       "started_at": 1793886003.008331,
       "channel_id": 1543278325772853438
+    },
+    "f41b54dc-52db-4def-93f1-8a40fd786a8b": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Chainsaw Man"
+      ],
+      "id": "f41b54dc-52db-4def-93f1-8a40fd786a8b",
+      "player_a": "1112468374358868129",
+      "player_b": "1422891232182407210",
+      "started_at": 1793889517.0388627,
+      "channel_id": 1540149985650282596
+    },
+    "279651e5-1f10-468d-9d03-cd7d1d8d1376": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 1,
+      "id": "279651e5-1f10-468d-9d03-cd7d1d8d1376",
+      "player_a": "1439628725288173759",
+      "player_b": "661202852244488192",
+      "started_at": 1793889653.9820075,
+      "channel_id": 1543268797119729704
     }
   },
   "weekly": {
