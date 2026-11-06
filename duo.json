@@ -439,7 +439,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 7,
+      "progress": 8,
       "id": "9a4eaa2b-1455-4c52-ac67-ec0402bd3ce0",
       "player_a": "808060427543642163",
       "player_b": "818518701539065888",
@@ -566,6 +566,20 @@
       "player_b": "1504462632013398208",
       "started_at": 1793961830.1909945,
       "channel_id": 1567092659313578075
+    },
+    "f4dd81cb-f3d6-4c8e-a38e-11803cc1a52b": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Ren Shiranami"
+      ],
+      "id": "f4dd81cb-f3d6-4c8e-a38e-11803cc1a52b",
+      "player_a": "1012406209824968786",
+      "player_b": "807341781662302281",
+      "started_at": 1793981248.6490998,
+      "channel_id": 1567281703574179860
     }
   },
   "weekly": {
@@ -8045,7 +8059,7 @@
     },
     "807341781662302281": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "900758030038224937": {
       "drop": 0,
