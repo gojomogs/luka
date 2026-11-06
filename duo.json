@@ -601,7 +601,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 3,
+      "progress": 4,
       "id": "0a5c49d7-93b5-4225-a23e-b707fb4fc4f2",
       "player_a": "1310028877485314098",
       "player_b": "1504462632013398208",
@@ -613,7 +613,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Haruhi Fujioka"
+      ],
       "id": "48f346b4-1bd6-41aa-852e-bea52727c10b",
       "player_a": "723376284389998614",
       "player_b": "1411686981468946664",
@@ -5677,7 +5679,7 @@
     },
     "661202852244488192": {
       "drop": 0,
-      "claim": 2
+      "claim": 1
     },
     "1064312739150954570": {
       "drop": 22,
@@ -8317,7 +8319,7 @@
     },
     "1439628725288173759": {
       "drop": 1,
-      "claim": 1
+      "claim": 0
     },
     "1144299503348891751": {
       "drop": 22,
