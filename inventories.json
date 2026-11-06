@@ -15733,6 +15733,20 @@
   "982952116039598161": [
     {
       "card": {
+        "id": "jack_common",
+        "name": "Jack Howl",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jack_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 1,
+      "claimed_at": 1788017742.906997
+    },
+    {
+      "card": {
         "id": "iroha_common_2",
         "name": "Iroha Sakayori",
         "series": "Cosmic Princess Kaguya",
@@ -26435,21 +26449,6 @@
       },
       "print": 3,
       "claimed_at": 1788630727.2643065
-    },
-    {
-      "card": {
-        "id": "ame-chan_common",
-        "name": "Ame-chan",
-        "series": "Needy Streamer Overload",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/ame-chan_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 1,
-      "claimed_at": 1788010088.3177779,
-      "tags": "nft"
     },
     {
       "card": {
@@ -179854,6 +179853,20 @@
     }
   ],
   "1321065001212969044": [
+    {
+      "card": {
+        "id": "sayori_common",
+        "name": "Sayori",
+        "series": "Doki Doki Literature Club!",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sayori_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1793974520.284975
+    },
     {
       "card": {
         "id": "qiu_common",
@@ -379593,6 +379606,20 @@
   "1429533392705294521": [
     {
       "card": {
+        "id": "kiyotaka_common_2",
+        "name": "Kiyotaka Ayanokoji",
+        "series": "Classroom of the Elite",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kiyotaka_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 62,
+      "claimed_at": 1793974405.232996
+    },
+    {
+      "card": {
         "id": "tang_common",
         "name": "Tang Bo",
         "series": "Return of the Blossoming Blade",
@@ -424676,6 +424703,20 @@
   "1367904349430218943": [
     {
       "card": {
+        "id": "ame-chan_common",
+        "name": "Ame-chan",
+        "series": "Needy Streamer Overload",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/ame-chan_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 1,
+      "claimed_at": 1788010088.3177779
+    },
+    {
+      "card": {
         "id": "zhezhi_common",
         "name": "Zhezhi",
         "series": "Wuthering Waves",
@@ -426146,20 +426187,6 @@
     },
     {
       "card": {
-        "id": "jack_common",
-        "name": "Jack Howl",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/jack_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 1,
-      "claimed_at": 1788017742.906997
-    },
-    {
-      "card": {
         "id": "kuran_common",
         "name": "Kuran & Ichiko",
         "series": "Even the Introverted Gals Wanna Get Out There!",
@@ -426312,7 +426339,8 @@
         "version": "common"
       },
       "print": 67,
-      "claimed_at": 1793974359.2769158
+      "claimed_at": 1793974359.2769158,
+      "tags": "stars"
     },
     {
       "card": {
@@ -426356,7 +426384,8 @@
         "version": "common"
       },
       "print": 60,
-      "claimed_at": 1793904896.8448484
+      "claimed_at": 1793904896.8448484,
+      "tags": "nft"
     },
     {
       "card": {
@@ -426398,7 +426427,8 @@
         "version": "rare"
       },
       "print": 57,
-      "claimed_at": 1793888479.5391812
+      "claimed_at": 1793888479.5391812,
+      "tags": "nft"
     },
     {
       "card": {
@@ -426441,7 +426471,8 @@
         "version": "rare"
       },
       "print": 4,
-      "claimed_at": 1793937528.0624063
+      "claimed_at": 1793937528.0624063,
+      "tags": "bich??"
     },
     {
       "card": {
@@ -426530,7 +426561,8 @@
         "version": "V1"
       },
       "print": 5,
-      "claimed_at": 1793215697.0852861
+      "claimed_at": 1793215697.0852861,
+      "tags": "bich"
     },
     {
       "card": {
@@ -426544,7 +426576,8 @@
         "version": "rare"
       },
       "print": 3,
-      "claimed_at": 1793872607.2403514
+      "claimed_at": 1793872607.2403514,
+      "tags": "bich"
     },
     {
       "card": {
@@ -663701,6 +663734,20 @@
   "659551200366034953": [
     {
       "card": {
+        "id": "cerydra_common",
+        "name": "Cerydra",
+        "series": "Honkai: Star Rail",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/cerydra_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 63,
+      "claimed_at": 1793974579.8595517
+    },
+    {
+      "card": {
         "id": "eden_common",
         "name": "Eden Seonwoo",
         "series": "Special Civil Servant",
@@ -787826,6 +787873,20 @@
   "1183826856449953822": [
     {
       "card": {
+        "id": "orihime_common",
+        "name": "Orihime Inoue",
+        "series": "Bleach",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/orihime_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1793974488.9538908
+    },
+    {
+      "card": {
         "id": "ju_common",
         "name": "Ju Fufu",
         "series": "Zenless Zone Zero",
@@ -800018,6 +800079,20 @@
     }
   ],
   "764446760004354048": [
+    {
+      "card": {
+        "id": "rimuru_common",
+        "name": "Rimuru Tempest",
+        "series": "That Time I Got Reincarnated As A Slime",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/rimuru_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793974597.5594256
+    },
     {
       "card": {
         "id": "euini_common_2",
@@ -917927,6 +918002,20 @@
   "1068989639362355252": [
     {
       "card": {
+        "id": "kang_common_3",
+        "name": "Kang Do-hui",
+        "series": "Masked by Love",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/kang_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 49,
+      "claimed_at": 1793974617.2927945
+    },
+    {
+      "card": {
         "id": "garu_common",
         "name": "Garu",
         "series": "NU: Carnival",
@@ -938368,6 +938457,20 @@
     }
   ],
   "1204473206077919295": [
+    {
+      "card": {
+        "id": "kasane_common",
+        "name": "Kasane Teto",
+        "series": "UTAU",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/kasane_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 76,
+      "claimed_at": 1793974434.2823708
+    },
     {
       "card": {
         "id": "deokman_common",
@@ -979334,6 +979437,20 @@
     }
   ],
   "1146772200016326676": [
+    {
+      "card": {
+        "id": "turing_common",
+        "name": "Turing",
+        "series": "Neural Cloud",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/turing_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 23,
+      "claimed_at": 1793974439.2700624
+    },
     {
       "card": {
         "id": "baek_common_2",
@@ -1148059,20 +1148176,6 @@
     },
     {
       "card": {
-        "id": "bae_common",
-        "name": "Bae Changdeok",
-        "series": "After A Meal",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/bae_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 2,
-      "claimed_at": 1787932778.89378
-    },
-    {
-      "card": {
         "id": "welt_common",
         "name": "Welt Yang",
         "series": "Honkai: Star Rail",
@@ -1164330,6 +1164433,34 @@
     }
   ],
   "1362472737230160184": [
+    {
+      "card": {
+        "id": "bae_common",
+        "name": "Bae Changdeok",
+        "series": "After A Meal",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/bae_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 2,
+      "claimed_at": 1787932778.89378
+    },
+    {
+      "card": {
+        "id": "geto_common",
+        "name": "Suguru Geto",
+        "series": "Jujutsu Kaisen",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/geto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 105,
+      "claimed_at": 1793974456.3145473
+    },
     {
       "card": {
         "id": "mari_common",
@@ -1336218,6 +1336349,20 @@
   "834374188042289162": [
     {
       "card": {
+        "id": "vash_common",
+        "name": "Vash the Stampede",
+        "series": "Trigun",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/vash_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 52,
+      "claimed_at": 1793974628.7673848
+    },
+    {
+      "card": {
         "id": "silver_rare",
         "name": "Silver Vanrouge",
         "series": "Twisted Wonderland",
@@ -1362267,6 +1362412,20 @@
     }
   ],
   "547774305803436032": [
+    {
+      "card": {
+        "id": "makoto_common",
+        "name": "Makoto Yuki",
+        "series": "Persona",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 103,
+      "claimed_at": 1793974621.0057251
+    },
     {
       "card": {
         "id": "josh_common_2",
@@ -1416283,6 +1416442,20 @@
   "1126822708496318504": [
     {
       "card": {
+        "id": "suwon_common",
+        "name": "Suwon",
+        "series": "Guiding Me Mad",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/suwon_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 61,
+      "claimed_at": 1793974669.2582333
+    },
+    {
+      "card": {
         "id": "yukito_common",
         "name": "Yukito Tsukishiro",
         "series": "Cardcaptor Sakura",
@@ -1436902,6 +1437075,20 @@
     }
   ],
   "1135011169485197314": [
+    {
+      "card": {
+        "id": "isolde_common_2",
+        "name": "Isolde",
+        "series": "Reverse: 1999",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/isolde_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 21,
+      "claimed_at": 1793974438.9700537
+    },
     {
       "card": {
         "id": "chidori_common",
