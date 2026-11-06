@@ -538,7 +538,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 55,
+      "progress": 56,
       "id": "f5b1cbc9-ae4c-46ec-9cce-c46e34e39bfe",
       "player_a": "1286641208176934996",
       "player_b": "836214830662025227",
@@ -566,6 +566,17 @@
       "player_b": "1178380074001645660",
       "started_at": 1793988080.796018,
       "channel_id": 1548954162337943572
+    },
+    "2c8e9e76-802e-4384-b4ed-e998745581ce": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 0,
+      "id": "2c8e9e76-802e-4384-b4ed-e998745581ce",
+      "player_a": "1427701023102734481",
+      "player_b": "1429533392705294521",
+      "started_at": 1794003406.0303128,
+      "channel_id": 1540149985650282596
     }
   },
   "weekly": {
@@ -5657,7 +5668,7 @@
     },
     "1468648929783709768": {
       "drop": 0,
-      "claim": 12
+      "claim": 11
     },
     "1028692731029110846": {
       "drop": 14,
