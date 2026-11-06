@@ -15635,6 +15635,20 @@
   "982952116039598161": [
     {
       "card": {
+        "id": "youhu_common",
+        "name": "Youhu",
+        "series": "Wuthering Waves",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/youhu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 27,
+      "claimed_at": 1793964105.9953263
+    },
+    {
+      "card": {
         "id": "shinonome_rare",
         "name": "Shinonome Ena",
         "series": "Project Sekai: Colorful Stage!",
@@ -27028,6 +27042,20 @@
     }
   ],
   "661202852244488192": [
+    {
+      "card": {
+        "id": "yuzuriha_common_2",
+        "name": "Yuzuriha Ogawa",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/yuzuriha_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1793964108.3672388
+    },
     {
       "card": {
         "id": "adler_common",
@@ -248902,6 +248930,20 @@
   "891662969107255338": [
     {
       "card": {
+        "id": "yae_common",
+        "name": "Yae Miko",
+        "series": "Genshin Impact",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yae_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 78,
+      "claimed_at": 1793964138.9976702
+    },
+    {
+      "card": {
         "id": "itadori_common_2",
         "name": "Itadori Yuji",
         "series": "Jujutsu Kaisen",
@@ -377325,6 +377367,20 @@
   "1429533392705294521": [
     {
       "card": {
+        "id": "komano_common",
+        "name": "Komano Manato",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/komano_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 47,
+      "claimed_at": 1793963960.1541662
+    },
+    {
+      "card": {
         "id": "yoru_common",
         "name": "Yoru Saotome",
         "series": "Gokurakugai",
@@ -423907,6 +423963,22 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "fuyume_rare",
+        "name": "Fuyume Hanamura",
+        "series": "Ensemble Stars!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/fuyume_rare.png",
+        "frame": "pink",
+        "version": "rare"
+      },
+      "print": 1,
+      "claimed_at": 1793907724.7650912,
+      "tags": "nft",
+      "showcased": true
+    },
+    {
+      "card": {
         "id": "tartaglia_common_2",
         "name": "Tartaglia",
         "series": "Genshin Impact",
@@ -423948,51 +424020,6 @@
       },
       "print": 83,
       "claimed_at": 1793961775.2886684
-    },
-    {
-      "card": {
-        "id": "makoto_common_4",
-        "name": "Makoto Yuuki",
-        "series": "Ensemble Stars!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/makoto_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 14,
-      "claimed_at": 1789673340.9233472,
-      "tags": "terra"
-    },
-    {
-      "card": {
-        "id": "makoto_common_4",
-        "name": "Makoto Yuuki",
-        "series": "Ensemble Stars!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/makoto_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 16,
-      "claimed_at": 1789787434.9546635,
-      "tags": "terra"
-    },
-    {
-      "card": {
-        "id": "makoto_common_4",
-        "name": "Makoto Yuuki",
-        "series": "Ensemble Stars!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/makoto_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 19,
-      "claimed_at": 1790083904.965236,
-      "tags": "terra"
     },
     {
       "card": {
@@ -424092,21 +424119,6 @@
       },
       "print": 38,
       "claimed_at": 1793953331.6570284
-    },
-    {
-      "card": {
-        "id": "makoto_common_4",
-        "name": "Makoto Yuuki",
-        "series": "Ensemble Stars!",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/makoto_common_4.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 4,
-      "claimed_at": 1788582759.6241777,
-      "tags": "terra"
     },
     {
       "card": {
@@ -424966,7 +424978,7 @@
       },
       "print": 1,
       "claimed_at": 1790463682.6294415,
-      "showcased": true,
+      "showcased": false,
       "tags": "picky with"
     },
     {
@@ -766206,6 +766218,20 @@
   "417141882611826688": [
     {
       "card": {
+        "id": "bae_common_5",
+        "name": "Bae Changdeok",
+        "series": "After A Meal",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/bae_common_5.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 5,
+      "claimed_at": 1793963976.5683978
+    },
+    {
+      "card": {
         "id": "varka_common_2",
         "name": "Varka",
         "series": "Genshin Impact",
@@ -1027483,6 +1027509,20 @@
   "1504462632013398208": [
     {
       "card": {
+        "id": "shun_common",
+        "name": "Shun Kaidou",
+        "series": "The Disastrous Life of Saiki K",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/shun_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 64,
+      "claimed_at": 1793964103.5526028
+    },
+    {
+      "card": {
         "id": "yosuke_rare",
         "name": "Yosuke Hanamura",
         "series": "Persona",
@@ -1105925,6 +1105965,20 @@
   "606063258226655235": [
     {
       "card": {
+        "id": "yuri_common_2",
+        "name": "Yuri Gable",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuri_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 86,
+      "claimed_at": 1793964052.380667
+    },
+    {
+      "card": {
         "id": "tartaglia_rare",
         "name": "Tartaglia",
         "series": "Genshin Impact",
@@ -1180467,6 +1180521,20 @@
     }
   ],
   "697803266150629416": [
+    {
+      "card": {
+        "id": "aurelia_common",
+        "name": "Aurelia",
+        "series": "Neverness to Everness",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/aurelia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1793963983.4949493
+    },
     {
       "card": {
         "id": "kei_common",
@@ -1283529,6 +1283597,34 @@
   "1517671039159501040": [
     {
       "card": {
+        "id": "veliona_common",
+        "name": "Veliona",
+        "series": "Honkai Impact 3rd",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/veliona_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 34,
+      "claimed_at": 1793964093.3090184
+    },
+    {
+      "card": {
+        "id": "mydei_common_2",
+        "name": "Mydei",
+        "series": "Honkai: Star Rail",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/mydei_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 34,
+      "claimed_at": 1793964090.3664253
+    },
+    {
+      "card": {
         "id": "getian_common",
         "name": "Getian",
         "series": "Reverse: 1999",
@@ -1329670,6 +1329766,20 @@
     }
   ],
   "834374188042289162": [
+    {
+      "card": {
+        "id": "rensuke_common",
+        "name": "Rensuke Kunigami",
+        "series": "BLUELOCK",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/rensuke_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 79,
+      "claimed_at": 1793964131.5832734
+    },
     {
       "card": {
         "id": "azul_common",
@@ -1452215,6 +1452325,34 @@
   "1312941517756698635": [
     {
       "card": {
+        "id": "dabi_rare",
+        "name": "Dabi",
+        "series": "My Hero Academia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/dabi_rare.png",
+        "frame": "blue",
+        "version": "rare"
+      },
+      "print": 33,
+      "claimed_at": 1793964040.7262635
+    },
+    {
+      "card": {
+        "id": "ren_rare",
+        "name": "Ren Amamiya",
+        "series": "Persona",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/ren_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 35,
+      "claimed_at": 1793964038.9658725
+    },
+    {
+      "card": {
         "id": "kinich_rare",
         "name": "Kinich",
         "series": "Genshin Impact",
@@ -1467476,6 +1467614,20 @@
   "961900468307623947": [
     {
       "card": {
+        "id": "rui_rare",
+        "name": "Kamishiro Rui",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rui_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 61,
+      "claimed_at": 1793963999.4884813
+    },
+    {
+      "card": {
         "id": "kirisaki_common",
         "name": "Kirisaki Shidou",
         "series": "MILGRAM",
@@ -1473067,6 +1473219,20 @@
     }
   ],
   "823151930414333963": [
+    {
+      "card": {
+        "id": "orugio_common",
+        "name": "Olruggio",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/orugio_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 97,
+      "claimed_at": 1793963863.117242
+    },
     {
       "card": {
         "id": "stelle_common_2",
@@ -1487331,6 +1487497,20 @@
     }
   ],
   "1439628725288173759": [
+    {
+      "card": {
+        "id": "tenma_rare",
+        "name": "Tenma Tsukasa",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tenma_rare.png",
+        "frame": "orange",
+        "version": "rare"
+      },
+      "print": 28,
+      "claimed_at": 1793964099.7167487
+    },
     {
       "card": {
         "id": "minase_common",
@@ -1513445,6 +1513625,66 @@
   "595084117998043137": [
     {
       "card": {
+        "id": "makoto_common_4",
+        "name": "Makoto Yuuki",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1789673340.9233472,
+      "tags": "\ud801\udd0c\u2022myluv\ud83e\uddc1"
+    },
+    {
+      "card": {
+        "id": "makoto_common_4",
+        "name": "Makoto Yuuki",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 16,
+      "claimed_at": 1789787434.9546635,
+      "tags": "\ud801\udd0c\u2022myluv\ud83e\uddc1"
+    },
+    {
+      "card": {
+        "id": "makoto_common_4",
+        "name": "Makoto Yuuki",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 19,
+      "claimed_at": 1790083904.965236,
+      "tags": "\ud801\udd0c\u2022myluv\ud83e\uddc1"
+    },
+    {
+      "card": {
+        "id": "makoto_common_4",
+        "name": "Makoto Yuuki",
+        "series": "Ensemble Stars!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/makoto_common_4.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 4,
+      "claimed_at": 1788582759.6241777,
+      "tags": "\ud801\udd0c\u2022myluv\ud83e\uddc1"
+    },
+    {
+      "card": {
         "id": "katsuki_common_2",
         "name": "Katsuki Bakugou",
         "series": "My Hero Academia",
@@ -1514190,21 +1514430,6 @@
       },
       "print": 62,
       "claimed_at": 1793909169.7383904
-    },
-    {
-      "card": {
-        "id": "fuyume_rare",
-        "name": "Fuyume Hanamura",
-        "series": "Ensemble Stars!",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/fuyume_rare.png",
-        "frame": "pink",
-        "version": "rare"
-      },
-      "print": 1,
-      "claimed_at": 1793907724.7650912,
-      "tags": "sharkscove"
     },
     {
       "card": {
