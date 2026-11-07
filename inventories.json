@@ -51486,21 +51486,6 @@
     },
     {
       "card": {
-        "id": "yuzuriha_common_3",
-        "name": "Yuzuriha",
-        "series": "Hell\u2019s Paradise",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/yuzuriha_common_3.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 1,
-      "claimed_at": 1788010261.349068,
-      "showcased": false
-    },
-    {
-      "card": {
         "id": "vee_common",
         "name": "Vee",
         "series": "Neural Cloud",
@@ -62658,6 +62643,20 @@
     }
   ],
   "745734578005737623": [
+    {
+      "card": {
+        "id": "giovanni_common",
+        "name": "Giovanni Batlan",
+        "series": "The Painter Who Draws Dungeon",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/giovanni_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 14,
+      "claimed_at": 1794014593.2590268
+    },
     {
       "card": {
         "id": "mizi_common_2",
@@ -172824,6 +172823,35 @@
     },
     {
       "card": {
+        "id": "yuzuriha_common_3",
+        "name": "Yuzuriha",
+        "series": "Hell\u2019s Paradise",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yuzuriha_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 1,
+      "claimed_at": 1788010261.349068,
+      "showcased": true
+    },
+    {
+      "card": {
+        "id": "hero_common",
+        "name": "Hero",
+        "series": "Omori",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/hero_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 74,
+      "claimed_at": 1794014386.5695136
+    },
+    {
+      "card": {
         "id": "dabi_common",
         "name": "Dabi",
         "series": "My Hero Academia",
@@ -182137,6 +182165,20 @@
     }
   ],
   "1321065001212969044": [
+    {
+      "card": {
+        "id": "orihime_common",
+        "name": "Orihime Inoue",
+        "series": "Bleach",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/orihime_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 47,
+      "claimed_at": 1794014371.7517111
+    },
     {
       "card": {
         "id": "casper_common",
@@ -211573,6 +211615,20 @@
     }
   ],
   "696595496021786654": [
+    {
+      "card": {
+        "id": "nejire_common",
+        "name": "Nejire Hado",
+        "series": "My Hero Academia",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/nejire_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 60,
+      "claimed_at": 1794014496.8265915
+    },
     {
       "card": {
         "id": "tsugino_common_2",
@@ -355366,7 +355422,8 @@
         "version": "common"
       },
       "print": 4,
-      "claimed_at": 1793977553.6312888
+      "claimed_at": 1793977553.6312888,
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -355380,7 +355437,8 @@
         "version": "common"
       },
       "print": 57,
-      "claimed_at": 1794012681.1629753
+      "claimed_at": 1794012681.1629753,
+      "tags": "\ud83c\udf4f"
     },
     {
       "card": {
@@ -355394,7 +355452,8 @@
         "version": "common"
       },
       "print": 2,
-      "claimed_at": 1794009461.3101993
+      "claimed_at": 1794009461.3101993,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355408,7 +355467,8 @@
         "version": "common"
       },
       "print": 82,
-      "claimed_at": 1794007560.2854438
+      "claimed_at": 1794007560.2854438,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355422,7 +355482,8 @@
         "version": "common"
       },
       "print": 61,
-      "claimed_at": 1794005040.4113634
+      "claimed_at": 1794005040.4113634,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355436,7 +355497,8 @@
         "version": "rare"
       },
       "print": 26,
-      "claimed_at": 1794004029.4676256
+      "claimed_at": 1794004029.4676256,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355450,7 +355512,8 @@
         "version": "common"
       },
       "print": 35,
-      "claimed_at": 1794001436.7009108
+      "claimed_at": 1794001436.7009108,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355464,7 +355527,8 @@
         "version": "common"
       },
       "print": 71,
-      "claimed_at": 1794000189.5891802
+      "claimed_at": 1794000189.5891802,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355478,7 +355542,8 @@
         "version": "common"
       },
       "print": 78,
-      "claimed_at": 1793999472.8656995
+      "claimed_at": 1793999472.8656995,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355507,7 +355572,8 @@
         "version": "V1"
       },
       "print": 60,
-      "claimed_at": 1793998111.1257274
+      "claimed_at": 1793998111.1257274,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355521,7 +355587,8 @@
         "version": "common"
       },
       "print": 49,
-      "claimed_at": 1793969795.000719
+      "claimed_at": 1793969795.000719,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355550,7 +355617,8 @@
         "version": "common"
       },
       "print": 36,
-      "claimed_at": 1793968454.5130134
+      "claimed_at": 1793968454.5130134,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355581,7 +355649,8 @@
         "version": "common"
       },
       "print": 51,
-      "claimed_at": 1793964306.5385842
+      "claimed_at": 1793964306.5385842,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355595,7 +355664,8 @@
         "version": "V1"
       },
       "print": 32,
-      "claimed_at": 1793959499.648135
+      "claimed_at": 1793959499.648135,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355609,7 +355679,8 @@
         "version": "common"
       },
       "print": 57,
-      "claimed_at": 1793957022.1262968
+      "claimed_at": 1793957022.1262968,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355623,7 +355694,8 @@
         "version": "common"
       },
       "print": 66,
-      "claimed_at": 1793953188.0715883
+      "claimed_at": 1793953188.0715883,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355637,7 +355709,8 @@
         "version": "V1"
       },
       "print": 14,
-      "claimed_at": 1793952460.4078348
+      "claimed_at": 1793952460.4078348,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355651,7 +355724,8 @@
         "version": "common"
       },
       "print": 90,
-      "claimed_at": 1793951646.2058132
+      "claimed_at": 1793951646.2058132,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355665,7 +355739,8 @@
         "version": "rare"
       },
       "print": 33,
-      "claimed_at": 1793949914.5587945
+      "claimed_at": 1793949914.5587945,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355679,7 +355754,8 @@
         "version": "common"
       },
       "print": 69,
-      "claimed_at": 1793948640.0895052
+      "claimed_at": 1793948640.0895052,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355693,7 +355769,8 @@
         "version": "common"
       },
       "print": 35,
-      "claimed_at": 1793945906.8267522
+      "claimed_at": 1793945906.8267522,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355707,7 +355784,8 @@
         "version": "common"
       },
       "print": 70,
-      "claimed_at": 1793944492.9728103
+      "claimed_at": 1793944492.9728103,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355721,7 +355799,8 @@
         "version": "common"
       },
       "print": 56,
-      "claimed_at": 1793942692.0081835
+      "claimed_at": 1793942692.0081835,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355735,7 +355814,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1793940202.8825457
+      "claimed_at": 1793940202.8825457,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355749,7 +355829,8 @@
         "version": "common"
       },
       "print": 52,
-      "claimed_at": 1793940032.8999388
+      "claimed_at": 1793940032.8999388,
+      "tags": "\ud83c\udf80"
     },
     {
       "card": {
@@ -355763,7 +355844,8 @@
         "version": "common"
       },
       "print": 47,
-      "claimed_at": 1793936979.5566406
+      "claimed_at": 1793936979.5566406,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355777,7 +355859,8 @@
         "version": "common"
       },
       "print": 78,
-      "claimed_at": 1793936029.134727
+      "claimed_at": 1793936029.134727,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355791,7 +355874,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1793935377.6669319
+      "claimed_at": 1793935377.6669319,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355820,7 +355904,8 @@
         "version": "common"
       },
       "print": 100,
-      "claimed_at": 1793933634.1701982
+      "claimed_at": 1793933634.1701982,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355834,7 +355919,8 @@
         "version": "common"
       },
       "print": 72,
-      "claimed_at": 1793920447.8860233
+      "claimed_at": 1793920447.8860233,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355848,7 +355934,8 @@
         "version": "common"
       },
       "print": 47,
-      "claimed_at": 1793910653.4876783
+      "claimed_at": 1793910653.4876783,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355862,7 +355949,8 @@
         "version": "common"
       },
       "print": 30,
-      "claimed_at": 1793883744.1789527
+      "claimed_at": 1793883744.1789527,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355876,7 +355964,8 @@
         "version": "common"
       },
       "print": 68,
-      "claimed_at": 1793872985.0499866
+      "claimed_at": 1793872985.0499866,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355890,7 +355979,8 @@
         "version": "common"
       },
       "print": 33,
-      "claimed_at": 1793829265.3330405
+      "claimed_at": 1793829265.3330405,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355904,7 +355994,8 @@
         "version": "rare"
       },
       "print": 60,
-      "claimed_at": 1793827676.1312377
+      "claimed_at": 1793827676.1312377,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355918,7 +356009,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1790121131.7109423
+      "claimed_at": 1790121131.7109423,
+      "tags": "\ud83c\udf80"
     },
     {
       "card": {
@@ -355932,7 +356024,8 @@
         "version": "common"
       },
       "print": 48,
-      "claimed_at": 1793773670.5647752
+      "claimed_at": 1793773670.5647752,
+      "tags": "\ud83c\udf80"
     },
     {
       "card": {
@@ -355946,7 +356039,8 @@
         "version": "common"
       },
       "print": 53,
-      "claimed_at": 1793824250.144778
+      "claimed_at": 1793824250.144778,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355960,7 +356054,8 @@
         "version": "common"
       },
       "print": 57,
-      "claimed_at": 1793822739.4561212
+      "claimed_at": 1793822739.4561212,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355974,7 +356069,8 @@
         "version": "common"
       },
       "print": 50,
-      "claimed_at": 1793794654.5727847
+      "claimed_at": 1793794654.5727847,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -355988,7 +356084,8 @@
         "version": "common"
       },
       "print": 41,
-      "claimed_at": 1793786801.7081304
+      "claimed_at": 1793786801.7081304,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356002,7 +356099,8 @@
         "version": "common"
       },
       "print": 62,
-      "claimed_at": 1793785299.656608
+      "claimed_at": 1793785299.656608,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356016,7 +356114,8 @@
         "version": "common"
       },
       "print": 67,
-      "claimed_at": 1793763583.8705888
+      "claimed_at": 1793763583.8705888,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356030,7 +356129,8 @@
         "version": "V1"
       },
       "print": 30,
-      "claimed_at": 1793760916.6756544
+      "claimed_at": 1793760916.6756544,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356044,7 +356144,8 @@
         "version": "common"
       },
       "print": 49,
-      "claimed_at": 1793759976.8295307
+      "claimed_at": 1793759976.8295307,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356058,7 +356159,8 @@
         "version": "common"
       },
       "print": 51,
-      "claimed_at": 1793749853.704116
+      "claimed_at": 1793749853.704116,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356072,7 +356174,8 @@
         "version": "common"
       },
       "print": 59,
-      "claimed_at": 1793748300.6547444
+      "claimed_at": 1793748300.6547444,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356086,7 +356189,8 @@
         "version": "common"
       },
       "print": 79,
-      "claimed_at": 1793742063.4865272
+      "claimed_at": 1793742063.4865272,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356100,7 +356204,8 @@
         "version": "common"
       },
       "print": 63,
-      "claimed_at": 1793737723.4487925
+      "claimed_at": 1793737723.4487925,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356114,7 +356219,8 @@
         "version": "rare"
       },
       "print": 48,
-      "claimed_at": 1793736160.296982
+      "claimed_at": 1793736160.296982,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356128,7 +356234,8 @@
         "version": "common"
       },
       "print": 60,
-      "claimed_at": 1793711044.0887086
+      "claimed_at": 1793711044.0887086,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356142,7 +356249,8 @@
         "version": "common"
       },
       "print": 61,
-      "claimed_at": 1793704758.1515348
+      "claimed_at": 1793704758.1515348,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356156,7 +356264,8 @@
         "version": "common"
       },
       "print": 31,
-      "claimed_at": 1793703710.7776463
+      "claimed_at": 1793703710.7776463,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356170,7 +356279,8 @@
         "version": "common"
       },
       "print": 81,
-      "claimed_at": 1793686131.9664633
+      "claimed_at": 1793686131.9664633,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356184,7 +356294,8 @@
         "version": "common"
       },
       "print": 26,
-      "claimed_at": 1793650839.3588471
+      "claimed_at": 1793650839.3588471,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356198,7 +356309,8 @@
         "version": "common"
       },
       "print": 62,
-      "claimed_at": 1793625628.685577
+      "claimed_at": 1793625628.685577,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356212,7 +356324,8 @@
         "version": "common"
       },
       "print": 32,
-      "claimed_at": 1793588427.0112927
+      "claimed_at": 1793588427.0112927,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356226,7 +356339,8 @@
         "version": "common"
       },
       "print": 43,
-      "claimed_at": 1793583173.3727653
+      "claimed_at": 1793583173.3727653,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356240,7 +356354,8 @@
         "version": "common"
       },
       "print": 28,
-      "claimed_at": 1793580723.9275925
+      "claimed_at": 1793580723.9275925,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356254,7 +356369,8 @@
         "version": "common"
       },
       "print": 32,
-      "claimed_at": 1793578182.111856
+      "claimed_at": 1793578182.111856,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356268,7 +356384,8 @@
         "version": "common"
       },
       "print": 83,
-      "claimed_at": 1793569284.4191961
+      "claimed_at": 1793569284.4191961,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356282,7 +356399,8 @@
         "version": "common"
       },
       "print": 55,
-      "claimed_at": 1793562958.242841
+      "claimed_at": 1793562958.242841,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356296,7 +356414,8 @@
         "version": "common"
       },
       "print": 69,
-      "claimed_at": 1793562954.5940602
+      "claimed_at": 1793562954.5940602,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356310,7 +356429,8 @@
         "version": "common"
       },
       "print": 61,
-      "claimed_at": 1793539041.8889494
+      "claimed_at": 1793539041.8889494,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356339,7 +356459,8 @@
         "version": "common"
       },
       "print": 61,
-      "claimed_at": 1793538436.0896215
+      "claimed_at": 1793538436.0896215,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356353,7 +356474,8 @@
         "version": "common"
       },
       "print": 76,
-      "claimed_at": 1793538415.0188358
+      "claimed_at": 1793538415.0188358,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356367,7 +356489,8 @@
         "version": "common"
       },
       "print": 52,
-      "claimed_at": 1793522688.9283178
+      "claimed_at": 1793522688.9283178,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356381,7 +356504,8 @@
         "version": "common"
       },
       "print": 27,
-      "claimed_at": 1793516986.7782278
+      "claimed_at": 1793516986.7782278,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356395,7 +356519,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1793491590.6314385
+      "claimed_at": 1793491590.6314385,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356409,7 +356534,8 @@
         "version": "common"
       },
       "print": 25,
-      "claimed_at": 1793454619.7230487
+      "claimed_at": 1793454619.7230487,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356423,7 +356549,8 @@
         "version": "common"
       },
       "print": 55,
-      "claimed_at": 1793446767.5223324
+      "claimed_at": 1793446767.5223324,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356437,7 +356564,8 @@
         "version": "common"
       },
       "print": 51,
-      "claimed_at": 1793417901.7555814
+      "claimed_at": 1793417901.7555814,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356451,7 +356579,8 @@
         "version": "rare"
       },
       "print": 39,
-      "claimed_at": 1793328371.6680574
+      "claimed_at": 1793328371.6680574,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356465,7 +356594,8 @@
         "version": "common"
       },
       "print": 61,
-      "claimed_at": 1793327608.1201766
+      "claimed_at": 1793327608.1201766,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356479,7 +356609,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1793305845.5269988
+      "claimed_at": 1793305845.5269988,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356493,7 +356624,8 @@
         "version": "common"
       },
       "print": 47,
-      "claimed_at": 1793274801.0026498
+      "claimed_at": 1793274801.0026498,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356507,7 +356639,8 @@
         "version": "common"
       },
       "print": 40,
-      "claimed_at": 1793272010.9790328
+      "claimed_at": 1793272010.9790328,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356521,7 +356654,8 @@
         "version": "common"
       },
       "print": 59,
-      "claimed_at": 1793236843.3839953
+      "claimed_at": 1793236843.3839953,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356535,7 +356669,8 @@
         "version": "rare"
       },
       "print": 34,
-      "claimed_at": 1793236838.2435443
+      "claimed_at": 1793236838.2435443,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356549,7 +356684,8 @@
         "version": "common"
       },
       "print": 42,
-      "claimed_at": 1793235151.7505639
+      "claimed_at": 1793235151.7505639,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356563,7 +356699,8 @@
         "version": "common"
       },
       "print": 40,
-      "claimed_at": 1793233358.7149644
+      "claimed_at": 1793233358.7149644,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356577,7 +356714,8 @@
         "version": "common"
       },
       "print": 36,
-      "claimed_at": 1793233356.121691
+      "claimed_at": 1793233356.121691,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356591,7 +356729,8 @@
         "version": "common"
       },
       "print": 33,
-      "claimed_at": 1793231663.7956562
+      "claimed_at": 1793231663.7956562,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356605,7 +356744,8 @@
         "version": "common"
       },
       "print": 41,
-      "claimed_at": 1793228419.3517792
+      "claimed_at": 1793228419.3517792,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356619,7 +356759,8 @@
         "version": "common"
       },
       "print": 59,
-      "claimed_at": 1793220312.7456753
+      "claimed_at": 1793220312.7456753,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356633,7 +356774,8 @@
         "version": "common"
       },
       "print": 56,
-      "claimed_at": 1793220308.4713135
+      "claimed_at": 1793220308.4713135,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356647,7 +356789,8 @@
         "version": "common"
       },
       "print": 41,
-      "claimed_at": 1793220279.6361816
+      "claimed_at": 1793220279.6361816,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356662,7 +356805,7 @@
       },
       "print": 16,
       "claimed_at": 1793220253.825314,
-      "tags": "onhold"
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356676,7 +356819,8 @@
         "version": "common"
       },
       "print": 69,
-      "claimed_at": 1793220243.213277
+      "claimed_at": 1793220243.213277,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356690,7 +356834,8 @@
         "version": "common"
       },
       "print": 47,
-      "claimed_at": 1793220226.3879733
+      "claimed_at": 1793220226.3879733,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356704,7 +356849,8 @@
         "version": "common"
       },
       "print": 68,
-      "claimed_at": 1793220206.0849242
+      "claimed_at": 1793220206.0849242,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356719,7 +356865,7 @@
       },
       "print": 78,
       "claimed_at": 1793220171.475089,
-      "tags": "onhold"
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356733,7 +356879,8 @@
         "version": "common"
       },
       "print": 49,
-      "claimed_at": 1793220162.964122
+      "claimed_at": 1793220162.964122,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356747,7 +356894,8 @@
         "version": "common"
       },
       "print": 65,
-      "claimed_at": 1793220151.1114285
+      "claimed_at": 1793220151.1114285,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356761,7 +356909,8 @@
         "version": "V1"
       },
       "print": 14,
-      "claimed_at": 1793220136.8091006
+      "claimed_at": 1793220136.8091006,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356775,7 +356924,8 @@
         "version": "common"
       },
       "print": 43,
-      "claimed_at": 1791023348.6762047
+      "claimed_at": 1791023348.6762047,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356789,7 +356939,8 @@
         "version": "common"
       },
       "print": 24,
-      "claimed_at": 1791022274.2625713
+      "claimed_at": 1791022274.2625713,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356803,7 +356954,8 @@
         "version": "common"
       },
       "print": 58,
-      "claimed_at": 1790957146.2748818
+      "claimed_at": 1790957146.2748818,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356817,7 +356969,8 @@
         "version": "common"
       },
       "print": 46,
-      "claimed_at": 1790951198.3002079
+      "claimed_at": 1790951198.3002079,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356831,7 +356984,8 @@
         "version": "common"
       },
       "print": 28,
-      "claimed_at": 1790949101.6074505
+      "claimed_at": 1790949101.6074505,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356845,7 +356999,8 @@
         "version": "common"
       },
       "print": 15,
-      "claimed_at": 1789769508.7606933
+      "claimed_at": 1789769508.7606933,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356859,7 +357014,8 @@
         "version": "common"
       },
       "print": 46,
-      "claimed_at": 1790947732.9634337
+      "claimed_at": 1790947732.9634337,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356873,7 +357029,8 @@
         "version": "common"
       },
       "print": 38,
-      "claimed_at": 1790947358.6554937
+      "claimed_at": 1790947358.6554937,
+      "tags": "\ud83c\udf80"
     },
     {
       "card": {
@@ -356887,7 +357044,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1790947088.7098486
+      "claimed_at": 1790947088.7098486,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356901,7 +357059,8 @@
         "version": "common"
       },
       "print": 44,
-      "claimed_at": 1790939609.1125844
+      "claimed_at": 1790939609.1125844,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356915,7 +357074,8 @@
         "version": "rare"
       },
       "print": 37,
-      "claimed_at": 1790918006.7808676
+      "claimed_at": 1790918006.7808676,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356929,7 +357089,8 @@
         "version": "rare"
       },
       "print": 19,
-      "claimed_at": 1790916819.6178777
+      "claimed_at": 1790916819.6178777,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356943,7 +357104,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790747841.9598455
+      "claimed_at": 1790747841.9598455,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356957,7 +357119,8 @@
         "version": "common"
       },
       "print": 51,
-      "claimed_at": 1790700656.6227512
+      "claimed_at": 1790700656.6227512,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356971,7 +357134,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790635770.4991462
+      "claimed_at": 1790635770.4991462,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356985,7 +357149,8 @@
         "version": "common"
       },
       "print": 19,
-      "claimed_at": 1790629295.9447355
+      "claimed_at": 1790629295.9447355,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -356999,7 +357164,8 @@
         "version": "rare"
       },
       "print": 3,
-      "claimed_at": 1790556820.391047
+      "claimed_at": 1790556820.391047,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357028,7 +357194,8 @@
         "version": "common"
       },
       "print": 36,
-      "claimed_at": 1790553802.4356976
+      "claimed_at": 1790553802.4356976,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357042,7 +357209,8 @@
         "version": "rare"
       },
       "print": 4,
-      "claimed_at": 1790519168.4228864
+      "claimed_at": 1790519168.4228864,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357056,7 +357224,8 @@
         "version": "common"
       },
       "print": 22,
-      "claimed_at": 1790515122.1718366
+      "claimed_at": 1790515122.1718366,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357070,7 +357239,8 @@
         "version": "common"
       },
       "print": 21,
-      "claimed_at": 1790502420.0679197
+      "claimed_at": 1790502420.0679197,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357085,7 +357255,7 @@
       },
       "print": 7,
       "claimed_at": 1788621178.4121263,
-      "tags": "FT"
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357099,7 +357269,8 @@
         "version": "common"
       },
       "print": 32,
-      "claimed_at": 1790494998.3248413
+      "claimed_at": 1790494998.3248413,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357113,7 +357284,8 @@
         "version": "common"
       },
       "print": 34,
-      "claimed_at": 1790488121.3919077
+      "claimed_at": 1790488121.3919077,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357127,7 +357299,8 @@
         "version": "common"
       },
       "print": 40,
-      "claimed_at": 1790480119.7466702
+      "claimed_at": 1790480119.7466702,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357141,7 +357314,8 @@
         "version": "common"
       },
       "print": 26,
-      "claimed_at": 1790307871.3720016
+      "claimed_at": 1790307871.3720016,
+      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
     },
     {
       "card": {
@@ -357351,7 +357525,7 @@
       },
       "print": 11,
       "claimed_at": 1789703315.600562,
-      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -357966,7 +358140,7 @@
       },
       "print": 9,
       "claimed_at": 1789566974.6587656,
-      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1",
+      "tags": "\ud83d\udc8d",
       "pinned": false,
       "showcased": false
     },
@@ -357998,7 +358172,7 @@
       },
       "print": 6,
       "claimed_at": 1789551516.7716734,
-      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1",
+      "tags": "\ud83d\udc8d",
       "pinned": false,
       "showcased": false
     },
@@ -358015,7 +358189,7 @@
       },
       "print": 7,
       "claimed_at": 1789552476.5028734,
-      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -358255,7 +358429,7 @@
       },
       "print": 6,
       "claimed_at": 1788661560.7919285,
-      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
+      "tags": "\ud83c\udf4f"
     },
     {
       "card": {
@@ -358422,7 +358596,7 @@
       "claimed_at": 1788085109.408028,
       "showcased": true,
       "pinned": true,
-      "tags": "\ud801\udd0c.\u05b9\ud835\udc6d\ud835\udc95 \u208a \ua4b1"
+      "tags": "\ud83d\udc8d"
     },
     {
       "card": {
@@ -431743,6 +431917,21 @@
   "1310028877485314098": [
     {
       "card": {
+        "id": "merold_rare_2",
+        "name": "Merold",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/merold_rare_2.png",
+        "frame": "pink",
+        "version": "rare"
+      },
+      "print": 17,
+      "claimed_at": 1793837774.5020685,
+      "tags": "nftleuask"
+    },
+    {
+      "card": {
         "id": "makoto_common_4",
         "name": "Makoto Yuuki",
         "series": "Ensemble Stars!",
@@ -431947,20 +432136,6 @@
       "print": 60,
       "claimed_at": 1793904896.8448484,
       "tags": "nft"
-    },
-    {
-      "card": {
-        "id": "mitya_common",
-        "name": "Mitya",
-        "series": "Genshin Impact",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/mitya_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 20,
-      "claimed_at": 1793971653.7778
     },
     {
       "card": {
@@ -537728,18 +537903,32 @@
   "1139721385783066744": [
     {
       "card": {
-        "id": "rui_rare",
-        "name": "Kamishiro Rui",
-        "series": "Project Sekai: Colorful Stage!",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/rui_rare.png",
-        "frame": "purple",
-        "version": "rare"
+        "id": "mitya_common",
+        "name": "Mitya",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mitya_common.png",
+        "frame": "common",
+        "version": "common"
       },
-      "print": 59,
-      "claimed_at": 1793911756.5625691,
-      "tags": "\u27e2 \u05a2 silas"
+      "print": 22,
+      "claimed_at": 1794013659.6325226,
+      "tags": "for yedira"
+    },
+    {
+      "card": {
+        "id": "mitya_common",
+        "name": "Mitya",
+        "series": "Genshin Impact",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mitya_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1793971653.7778
     },
     {
       "card": {
@@ -537768,7 +537957,8 @@
       },
       "print": 1,
       "claimed_at": 1793813968.3210957,
-      "tags": "\u27e2 \u05a2 nft"
+      "tags": "\u27e2 \u05a2 nft",
+      "pinned": true
     },
     {
       "card": {
@@ -537812,21 +538002,6 @@
       "print": 55,
       "claimed_at": 1793858633.4001539,
       "tags": "\u27e2 \u05a2 nft"
-    },
-    {
-      "card": {
-        "id": "merold_rare_2",
-        "name": "Merold",
-        "series": "Fragaria Memories",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/merold_rare_2.png",
-        "frame": "pink",
-        "version": "rare"
-      },
-      "print": 17,
-      "claimed_at": 1793837774.5020685,
-      "tags": "nftleuask"
     },
     {
       "card": {
@@ -542405,7 +542580,7 @@
       "print": 4,
       "claimed_at": 1793339276.2399824,
       "tags": "\u27e2 \u05a2 nft",
-      "pinned": true,
+      "pinned": false,
       "showcased": true
     },
     {
@@ -579386,6 +579561,20 @@
     }
   ],
   "1401622768214347796": [
+    {
+      "card": {
+        "id": "nicole_rare",
+        "name": "Nicole",
+        "series": "Genshin Impact",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/nicole_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 66,
+      "claimed_at": 1794014425.9675777
+    },
     {
       "card": {
         "id": "alhaitham_common",
@@ -858148,18 +858337,32 @@
   "1286641208176934996": [
     {
       "card": {
-        "id": "mitya_common",
-        "name": "Mitya",
-        "series": "Genshin Impact",
-        "stars": 1,
+        "id": "rui_rare",
+        "name": "Kamishiro Rui",
+        "series": "Project Sekai: Colorful Stage!",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rui_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 59,
+      "claimed_at": 1793911756.5625691,
+      "tags": "\u27e2 \u05a2 silas"
+    },
+    {
+      "card": {
+        "id": "opera_common",
+        "name": "Opera",
+        "series": "Welcome to Demon School! Iruma-kun",
+        "stars": 2,
         "weight": 10,
-        "image": "card_art/mitya_common.png",
+        "image": "card_art/opera_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 22,
-      "claimed_at": 1794013659.6325226,
-      "tags": "for yedira"
+      "print": 52,
+      "claimed_at": 1794014393.788893
     },
     {
       "card": {
@@ -960857,6 +961060,20 @@
     }
   ],
   "1328096032260755507": [
+    {
+      "card": {
+        "id": "norma_common",
+        "name": "Norma Hollowell",
+        "series": "Zenless Zone Zero",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/norma_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 30,
+      "claimed_at": 1794014592.2566078
+    },
     {
       "card": {
         "id": "gyeon_common",
@@ -1215900,6 +1216117,20 @@
   "953615292641185804": [
     {
       "card": {
+        "id": "cha_common_3",
+        "name": "Cha Eui-jae & Lee Sa-young",
+        "series": "The Hunter\u2019s Gonna Lay Low",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/cha_common_3.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 96,
+      "claimed_at": 1794014413.0725524
+    },
+    {
+      "card": {
         "id": "ren_common_3",
         "name": "Ren Amamiya",
         "series": "Persona",
@@ -1288911,6 +1289142,20 @@
     }
   ],
   "551877849192202255": [
+    {
+      "card": {
+        "id": "satoshi_common",
+        "name": "Satoshi Mochida",
+        "series": "Corpse Party",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/satoshi_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 20,
+      "claimed_at": 1794014567.3047547
+    },
     {
       "card": {
         "id": "lee_common_9",
@@ -1473905,6 +1474150,20 @@
   "1379789794422554757": [
     {
       "card": {
+        "id": "yui_common",
+        "name": "Yui Hirasawa",
+        "series": "K-On!",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/yui_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 43,
+      "claimed_at": 1794014617.3266826
+    },
+    {
+      "card": {
         "id": "simeon_common",
         "name": "Simeon",
         "series": "Obey Me!",
@@ -1494437,6 +1494696,20 @@
     }
   ],
   "1529097630552948908": [
+    {
+      "card": {
+        "id": "andrew_common",
+        "name": "Andrew Young",
+        "series": "Nerd Project",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/andrew_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 96,
+      "claimed_at": 1794014589.7921462
+    },
     {
       "card": {
         "id": "hella_common",
@@ -1556591,6 +1556864,20 @@
     }
   ],
   "1122139798220591115": [
+    {
+      "card": {
+        "id": "badobarm_common",
+        "name": "Badobarm",
+        "series": "Fragaria Memories",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/badobarm_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 24,
+      "claimed_at": 1794014439.008163
+    },
     {
       "card": {
         "id": "ciel_common",
