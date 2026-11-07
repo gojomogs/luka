@@ -571,12 +571,24 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 17,
+      "progress": 18,
       "id": "859b1348-5799-41f6-8591-95bbc8b8853d",
       "player_a": "737098353485021206",
       "player_b": "899806964710801499",
       "started_at": 1794007621.0834508,
       "channel_id": 1555713389500829706
+    },
+    "9e4a9601-ca23-43ca-8423-e166dae91bc1": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "9e4a9601-ca23-43ca-8423-e166dae91bc1",
+      "player_a": "1210501746477244438",
+      "player_b": "1060473663834554368",
+      "started_at": 1794017057.8408067,
+      "channel_id": 1543409082462113842
     }
   },
   "weekly": {
