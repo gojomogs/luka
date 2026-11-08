@@ -619,6 +619,21 @@
       "player_b": "1028046694992064512",
       "started_at": 1794154240.8461096,
       "channel_id": 1543761867137097738
+    },
+    "34daaf99-1ec4-4333-880b-640d0a1c6731": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Osamu Dazai",
+        "Cloud Strife"
+      ],
+      "id": "34daaf99-1ec4-4333-880b-640d0a1c6731",
+      "player_a": "1378462940096761856",
+      "player_b": "1043630421444935690",
+      "started_at": 1794159695.546141,
+      "channel_id": 1550203558778110022
     }
   },
   "weekly": {
@@ -5967,7 +5982,7 @@
     },
     "1378462940096761856": {
       "drop": 0,
-      "claim": 8
+      "claim": 5
     },
     "1217653646158860328": {
       "drop": 0,
