@@ -483,7 +483,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 55,
+      "progress": 56,
       "id": "fd51e5a7-7285-46cd-82fb-429891fedf9c",
       "player_a": "953615292641185804",
       "player_b": "1433990788622323757",
@@ -527,7 +527,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 33,
+      "progress": 34,
       "id": "1150b2e9-0abc-49ee-8f10-71c08fa8bf66",
       "player_a": "1439628725288173759",
       "player_b": "697803266150629416",
@@ -544,6 +544,29 @@
       "player_b": "1415199399469908020",
       "started_at": 1794146897.8045006,
       "channel_id": 1542683842354090054
+    },
+    "5d7c500e-7d12-4cdc-a6b5-6591b3e1b2c9": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 0,
+      "id": "5d7c500e-7d12-4cdc-a6b5-6591b3e1b2c9",
+      "player_a": "1015773671081656331",
+      "player_b": "857177938682970132",
+      "started_at": 1794148724.9522727,
+      "channel_id": 1548746518410821773
+    },
+    "9a2b1d90-595d-49a9-b91e-d2f2d1c7cc43": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "9a2b1d90-595d-49a9-b91e-d2f2d1c7cc43",
+      "player_a": "909429574083944498",
+      "player_b": "1427948992268079157",
+      "started_at": 1794148856.1052718,
+      "channel_id": 1543500231692263485
     }
   },
   "weekly": {
@@ -11771,8 +11794,8 @@
       "claim": 22
     },
     "911330071464267776": {
-      "drop": 9,
-      "claim": 16
+      "drop": 8,
+      "claim": 14
     },
     "833726582908256317": {
       "drop": 22,
