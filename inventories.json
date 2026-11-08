@@ -168990,6 +168990,104 @@
   "1231316819395084340": [
     {
       "card": {
+        "id": "epel_common",
+        "name": "Epel Felmier",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/epel_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 29,
+      "claimed_at": 1790189738.2346678
+    },
+    {
+      "card": {
+        "id": "vil_common",
+        "name": "Vil Schoenheit",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/vil_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 40,
+      "claimed_at": 1790712926.8903515
+    },
+    {
+      "card": {
+        "id": "floyd_common",
+        "name": "Floyd Leech",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/floyd_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 44,
+      "claimed_at": 1790963857.7666056
+    },
+    {
+      "card": {
+        "id": "malleus_common",
+        "name": "Malleus Draconia",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/malleus_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 83,
+      "claimed_at": 1793887849.0967476
+    },
+    {
+      "card": {
+        "id": "riddle_common",
+        "name": "Riddle Rosehearts",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/riddle_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 26,
+      "claimed_at": 1789849753.5129523
+    },
+    {
+      "card": {
+        "id": "floyd_common",
+        "name": "Floyd Leech",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/floyd_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789823014.574599
+    },
+    {
+      "card": {
+        "id": "riddle_common",
+        "name": "Riddle Rosehearts",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/riddle_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 17,
+      "claimed_at": 1789540468.659018
+    },
+    {
+      "card": {
         "id": "mari_common",
         "name": "Mari",
         "series": "Omori",
@@ -169031,21 +169129,6 @@
       "print": 3,
       "claimed_at": 1790878568.497002,
       "tags": "ASK\u22c6.\u02da\ud83e\udda9\u22c6"
-    },
-    {
-      "card": {
-        "id": "kuzuha_rare",
-        "name": "Kuzuha",
-        "series": "Nijisanji",
-        "stars": 4,
-        "weight": 5,
-        "image": "card_art/kuzuha_rare.png",
-        "frame": "red",
-        "version": "rare"
-      },
-      "print": 1,
-      "claimed_at": 1794162712.1374025,
-      "tags": "HOLD\u22c6.\u02da\ud83e\udda9\u22c6"
     },
     {
       "card": {
@@ -202760,6 +202843,35 @@
   "737098353485021206": [
     {
       "card": {
+        "id": "richeh_common",
+        "name": "Richeh",
+        "series": "Witch Hat Atelier",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/richeh_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 33,
+      "claimed_at": 1790096195.3060699
+    },
+    {
+      "card": {
+        "id": "euini_common_2",
+        "name": "Euini",
+        "series": "Witch Hat Atelier",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/euini_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 40,
+      "claimed_at": 1794145530.1325893,
+      "tags": "\ud83d\udca2\ua4b1 \u266a\ud80c\ude12 ft"
+    },
+    {
+      "card": {
         "id": "jinshi_common_2",
         "name": "Jinshi",
         "series": "The Apothecary Diaries",
@@ -210101,20 +210213,6 @@
     },
     {
       "card": {
-        "id": "ling_common",
-        "name": "Ling Xinlu",
-        "series": "Passion Raga",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ling_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 58,
-      "claimed_at": 1790973923.532829
-    },
-    {
-      "card": {
         "id": "marie-jos\u00e8phe_common",
         "name": "Marie-Jos\u00e8phe Sanson",
         "series": "Innocent Rouge",
@@ -212805,20 +212903,6 @@
       },
       "print": 41,
       "claimed_at": 1790556553.8627193
-    },
-    {
-      "card": {
-        "id": "ling_common",
-        "name": "Ling Xinlu",
-        "series": "Passion Raga",
-        "stars": 2,
-        "weight": 10,
-        "image": "card_art/ling_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 42,
-      "claimed_at": 1790555553.8742685
     },
     {
       "card": {
@@ -476829,6 +476913,20 @@
   "1175711320868405288": [
     {
       "card": {
+        "id": "rafayel_rare",
+        "name": "Rafayel",
+        "series": "Love And Deepspace",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rafayel_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 17,
+      "claimed_at": 1794165333.8727932
+    },
+    {
+      "card": {
         "id": "azusawa_common",
         "name": "Azusawa Kohane",
         "series": "Project Sekai: Colorful Stage!",
@@ -543792,6 +543890,20 @@
   "1132475401701171262": [
     {
       "card": {
+        "id": "rafayel_rare",
+        "name": "Rafayel",
+        "series": "Love And Deepspace",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/rafayel_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 18,
+      "claimed_at": 1794165444.769584
+    },
+    {
+      "card": {
         "id": "woo_common_2",
         "name": "Woo Jongwoo",
         "series": "After A Meal",
@@ -562557,6 +562669,20 @@
     }
   ],
   "1274155690331734175": [
+    {
+      "card": {
+        "id": "agape_common",
+        "name": "Agape",
+        "series": "SHTDN",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/agape_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 68,
+      "claimed_at": 1794165494.1844015
+    },
     {
       "card": {
         "id": "kuzuha_common_2",
@@ -791715,6 +791841,20 @@
   "1293557714420498435": [
     {
       "card": {
+        "id": "luocha_common",
+        "name": "Luocha",
+        "series": "Honkai: Star Rail",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/luocha_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 75,
+      "claimed_at": 1794165471.2204125
+    },
+    {
+      "card": {
         "id": "kokomi_common",
         "name": "Kokomi Teruhashi",
         "series": "The Disastrous Life of Saiki K",
@@ -918245,6 +918385,20 @@
   "1286641208176934996": [
     {
       "card": {
+        "id": "lee_rare",
+        "name": "Lee Areum",
+        "series": "Night of Shadows",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/lee_rare.png",
+        "frame": "yellow",
+        "version": "rare"
+      },
+      "print": 69,
+      "claimed_at": 1794165546.0371487
+    },
+    {
+      "card": {
         "id": "mizuki_common",
         "name": "Akiyama Mizuki",
         "series": "Project Sekai: Colorful Stage!",
@@ -974865,6 +975019,20 @@
   "899806964710801499": [
     {
       "card": {
+        "id": "isolde_common",
+        "name": "Isolde",
+        "series": "Reverse: 1999",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/isolde_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 69,
+      "claimed_at": 1794165301.2790117
+    },
+    {
+      "card": {
         "id": "august_common",
         "name": "August Stilza",
         "series": "Gachiakuta",
@@ -985282,6 +985450,20 @@
   ],
   "653774824883093523": [],
   "1028046694992064512": [
+    {
+      "card": {
+        "id": "amelia_common",
+        "name": "Amelia Park Lee",
+        "series": "I Love Amy",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/amelia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 59,
+      "claimed_at": 1794165326.626225
+    },
     {
       "card": {
         "id": "kaveh_common",
@@ -1018238,6 +1018420,21 @@
   "1204473206077919295": [
     {
       "card": {
+        "id": "baek_common_11",
+        "name": "Baek Saheon",
+        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
+        "stars": 3,
+        "weight": 8,
+        "image": "card_art/baek_common_11.png",
+        "frame": "common",
+        "version": "V2"
+      },
+      "print": 8,
+      "claimed_at": 1794164501.284794,
+      "tags": "dokja~"
+    },
+    {
+      "card": {
         "id": "daitaku_common",
         "name": "Daitaku Helios",
         "series": "Umamusume: Pretty Derby",
@@ -1018915,20 +1019112,6 @@
     },
     {
       "card": {
-        "id": "idia_common",
-        "name": "Idia Shroud",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/idia_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 88,
-      "claimed_at": 1794046021.3765528
-    },
-    {
-      "card": {
         "id": "rio_common",
         "name": "Rio",
         "series": "Lying Puppies Get Eaten",
@@ -1019276,8 +1019459,7 @@
         "version": "V1"
       },
       "print": 3,
-      "claimed_at": 1790565054.3118682,
-      "tags": "\u2e1d\ud835\ude8f\ud835\ude9d\u2022\u0f1d\u2022\u2e1d\ud83e\ude75"
+      "claimed_at": 1790565054.3118682
     },
     {
       "card": {
@@ -1021298,20 +1021480,6 @@
       },
       "print": 9,
       "claimed_at": 1788632925.9087346
-    },
-    {
-      "card": {
-        "id": "lilia_common",
-        "name": "Lilia Vanrouge",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/lilia_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 54,
-      "claimed_at": 1790949874.2016017
     },
     {
       "card": {
@@ -1025433,20 +1025601,6 @@
       },
       "print": 18,
       "claimed_at": 1789749366.7748415
-    },
-    {
-      "card": {
-        "id": "jade_common",
-        "name": "Jade Leech",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/jade_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 22,
-      "claimed_at": 1789749056.3857841
     },
     {
       "card": {
@@ -1151497,6 +1151651,21 @@
   "1043630421444935690": [
     {
       "card": {
+        "id": "kuzuha_rare",
+        "name": "Kuzuha",
+        "series": "Nijisanji",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kuzuha_rare.png",
+        "frame": "red",
+        "version": "rare"
+      },
+      "print": 1,
+      "claimed_at": 1794162712.1374025,
+      "tags": "HOLD\u22c6.\u02da\ud83e\udda9\u22c6"
+    },
+    {
+      "card": {
         "id": "sayori_common",
         "name": "Sayori",
         "series": "Doki Doki Literature Club!",
@@ -1154189,20 +1154358,6 @@
       },
       "print": 46,
       "claimed_at": 1793888458.0053532
-    },
-    {
-      "card": {
-        "id": "malleus_common",
-        "name": "Malleus Draconia",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/malleus_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 83,
-      "claimed_at": 1793887849.0967476
     },
     {
       "card": {
@@ -1158422,20 +1158577,6 @@
     },
     {
       "card": {
-        "id": "floyd_common",
-        "name": "Floyd Leech",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/floyd_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 44,
-      "claimed_at": 1790963857.7666056
-    },
-    {
-      "card": {
         "id": "saya_common",
         "name": "Saya Kisaragi",
         "series": "Blood-C",
@@ -1159061,20 +1159202,6 @@
       },
       "print": 32,
       "claimed_at": 1790714711.0420952
-    },
-    {
-      "card": {
-        "id": "vil_common",
-        "name": "Vil Schoenheit",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/vil_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 40,
-      "claimed_at": 1790712926.8903515
     },
     {
       "card": {
@@ -1160893,20 +1161020,6 @@
     },
     {
       "card": {
-        "id": "epel_common",
-        "name": "Epel Felmier",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/epel_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 29,
-      "claimed_at": 1790189738.2346678
-    },
-    {
-      "card": {
         "id": "hubble_common",
         "name": "Hubble",
         "series": "Neural Cloud",
@@ -1162493,20 +1162606,6 @@
     },
     {
       "card": {
-        "id": "riddle_common",
-        "name": "Riddle Rosehearts",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/riddle_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 26,
-      "claimed_at": 1789849753.5129523
-    },
-    {
-      "card": {
         "id": "hanako_common",
         "name": "Hanako-kun",
         "series": "Toilet-bound Hanako-kun",
@@ -1162777,20 +1162876,6 @@
       "print": 24,
       "claimed_at": 1789750224.0026133,
       "tags": "\u2e1d\u2e1dorv\u2e1d\u2e1d"
-    },
-    {
-      "card": {
-        "id": "floyd_common",
-        "name": "Floyd Leech",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/floyd_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 22,
-      "claimed_at": 1789823014.574599
     },
     {
       "card": {
@@ -1164117,20 +1164202,6 @@
       },
       "print": 8,
       "claimed_at": 1789540469.390038
-    },
-    {
-      "card": {
-        "id": "riddle_common",
-        "name": "Riddle Rosehearts",
-        "series": "Twisted Wonderland",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/riddle_common.png",
-        "frame": "common",
-        "version": "common"
-      },
-      "print": 17,
-      "claimed_at": 1789540468.659018
     },
     {
       "card": {
@@ -1428990,6 +1429061,48 @@
   "1328464837537304586": [
     {
       "card": {
+        "id": "idia_common",
+        "name": "Idia Shroud",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/idia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 88,
+      "claimed_at": 1794046021.3765528
+    },
+    {
+      "card": {
+        "id": "lilia_common",
+        "name": "Lilia Vanrouge",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/lilia_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 54,
+      "claimed_at": 1790949874.2016017
+    },
+    {
+      "card": {
+        "id": "jade_common",
+        "name": "Jade Leech",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jade_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1789749056.3857841
+    },
+    {
+      "card": {
         "id": "ruby_common",
         "name": "Ruby Hoshino",
         "series": "Oshi No Ko",
@@ -1429001,21 +1429114,6 @@
       },
       "print": 47,
       "claimed_at": 1794165209.2280395
-    },
-    {
-      "card": {
-        "id": "baek_common_11",
-        "name": "Baek Saheon",
-        "series": "Got Dropped into a Ghost Story, Still Gotta Work",
-        "stars": 3,
-        "weight": 8,
-        "image": "card_art/baek_common_11.png",
-        "frame": "common",
-        "version": "V2"
-      },
-      "print": 8,
-      "claimed_at": 1794164501.284794,
-      "tags": "hold"
     },
     {
       "card": {
@@ -1504344,6 +1504442,20 @@
   "1113230728415690843": [
     {
       "card": {
+        "id": "jamil_common_2",
+        "name": "Jamil Viper",
+        "series": "Twisted Wonderland",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/jamil_common_2.png",
+        "frame": "common",
+        "version": "V1"
+      },
+      "print": 52,
+      "claimed_at": 1794165335.8505578
+    },
+    {
+      "card": {
         "id": "ruggie_common",
         "name": "Ruggie Bucchi",
         "series": "Twisted Wonderland",
@@ -1560329,6 +1560441,20 @@
   "1118324764012970164": [
     {
       "card": {
+        "id": "chinatsu_common",
+        "name": "Chinatsu",
+        "series": "Touch Within the Abyss",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/chinatsu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 64,
+      "claimed_at": 1794165464.5424721
+    },
+    {
+      "card": {
         "id": "ukinami_common",
         "name": "Ukinami Yuzuha",
         "series": "Zenless Zone Zero",
@@ -1600997,6 +1601123,20 @@
     }
   ],
   "1312941517756698635": [
+    {
+      "card": {
+        "id": "kurode_rare",
+        "name": "Kurode",
+        "series": "Fragaria Memories",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/kurode_rare.png",
+        "frame": "purple",
+        "version": "rare"
+      },
+      "print": 65,
+      "claimed_at": 1794165308.558979
+    },
     {
       "card": {
         "id": "chongyun_common",
@@ -1642897,17 +1643037,45 @@
   "1439628725288173759": [
     {
       "card": {
-        "id": "richeh_common",
-        "name": "Richeh",
-        "series": "Witch Hat Atelier",
+        "id": "ling_common",
+        "name": "Ling Xinlu",
+        "series": "Passion Raga",
         "stars": 2,
         "weight": 10,
-        "image": "card_art/richeh_common.png",
+        "image": "card_art/ling_common.png",
         "frame": "common",
         "version": "common"
       },
-      "print": 33,
-      "claimed_at": 1790096195.3060699
+      "print": 58,
+      "claimed_at": 1790973923.532829
+    },
+    {
+      "card": {
+        "id": "ling_common",
+        "name": "Ling Xinlu",
+        "series": "Passion Raga",
+        "stars": 2,
+        "weight": 10,
+        "image": "card_art/ling_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1790555553.8742685
+    },
+    {
+      "card": {
+        "id": "mayu_common",
+        "name": "Mayu Suzumoto",
+        "series": "Corpse Party",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/mayu_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 22,
+      "claimed_at": 1794165340.753882
     },
     {
       "card": {
@@ -1642964,21 +1643132,6 @@
       },
       "print": 27,
       "claimed_at": 1794163402.1354897
-    },
-    {
-      "card": {
-        "id": "euini_common_2",
-        "name": "Euini",
-        "series": "Witch Hat Atelier",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/euini_common_2.png",
-        "frame": "common",
-        "version": "V1"
-      },
-      "print": 40,
-      "claimed_at": 1794145530.1325893,
-      "tags": "\ud83d\udca2\ua4b1 \u266a\ud80c\ude12 ft"
     },
     {
       "card": {
@@ -1649521,6 +1649674,20 @@
     }
   ],
   "992526647804825600": [
+    {
+      "card": {
+        "id": "sakura_common_2",
+        "name": "Sakura Kinomoto",
+        "series": "Cardcaptor Sakura",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/sakura_common_2.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 39,
+      "claimed_at": 1794165265.4286008
+    },
     {
       "card": {
         "id": "gallagher_common",
@@ -1696602,6 +1696769,21 @@
     }
   ],
   "1477098766308999384": [
+    {
+      "card": {
+        "id": "funny_common",
+        "name": "Funny Valentine",
+        "series": "Jojo\u2019s Bizarre Adventure",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/funny_common.png",
+        "frame": "common",
+        "version": "common"
+      },
+      "print": 42,
+      "claimed_at": 1794165295.0961187,
+      "tags": "\ud83c\udf80"
+    },
     {
       "card": {
         "id": "sunday_common_2",
