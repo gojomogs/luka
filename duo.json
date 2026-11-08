@@ -483,7 +483,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 56,
+      "progress": 57,
       "id": "fd51e5a7-7285-46cd-82fb-429891fedf9c",
       "player_a": "953615292641185804",
       "player_b": "1433990788622323757",
@@ -527,7 +527,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 34,
+      "progress": 35,
       "id": "1150b2e9-0abc-49ee-8f10-71c08fa8bf66",
       "player_a": "1439628725288173759",
       "player_b": "697803266150629416",
@@ -549,7 +549,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 1,
+      "progress": 2,
       "id": "5d7c500e-7d12-4cdc-a6b5-6591b3e1b2c9",
       "player_a": "1015773671081656331",
       "player_b": "857177938682970132",
@@ -563,13 +563,26 @@
       "progress": 0,
       "characters_seen": [
         "Yo-ham & Joo Ui-young",
-        "Tsuyu Asui"
+        "Tsuyu Asui",
+        "Creeper"
       ],
       "id": "9a2b1d90-595d-49a9-b91e-d2f2d1c7cc43",
       "player_a": "909429574083944498",
       "player_b": "1427948992268079157",
       "started_at": 1794148856.1052718,
       "channel_id": 1543500231692263485
+    },
+    "641a9b15-37b3-4ae0-9bbc-c7366bab0d16": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "641a9b15-37b3-4ae0-9bbc-c7366bab0d16",
+      "player_a": "745734578005737623",
+      "player_b": "1000002084667658290",
+      "started_at": 1794150424.3389115,
+      "channel_id": 1542570456643674253
     }
   },
   "weekly": {
@@ -6130,7 +6143,7 @@
     },
     "762127115721637898": {
       "drop": 0,
-      "claim": 5
+      "claim": 4
     },
     "864741712256827414": {
       "drop": 22,
