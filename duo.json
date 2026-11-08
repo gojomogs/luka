@@ -439,7 +439,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "7a97602a-536c-41ba-b67c-83ce392ffbc3",
       "player_a": "779218661096292352",
       "player_b": "799173789404626964",
@@ -532,13 +532,26 @@
         "Shion",
         "Susie",
         "Bomi Yun",
-        "Fushi"
+        "Fushi",
+        "Dongdang",
+        "Yotsuba Nakano"
       ],
       "id": "3695b1f3-6ca9-410a-b0a6-83712a6fc305",
       "player_a": "1454914344792883305",
       "player_b": "743938831107096637",
       "started_at": 1794072077.386078,
       "channel_id": 1567894217404194989
+    },
+    "fd51e5a7-7285-46cd-82fb-429891fedf9c": {
+      "type": "claim_count",
+      "target": 60,
+      "label": "Claim 60 cards together",
+      "progress": 0,
+      "id": "fd51e5a7-7285-46cd-82fb-429891fedf9c",
+      "player_a": "953615292641185804",
+      "player_b": "1433990788622323757",
+      "started_at": 1794105081.9455209,
+      "channel_id": 1543500231692263485
     }
   },
   "weekly": {
@@ -5954,7 +5967,7 @@
     },
     "989728138219094057": {
       "drop": 0,
-      "claim": 8
+      "claim": 7
     },
     "1199100312993153039": {
       "drop": 0,
