@@ -565,33 +565,6 @@
       "started_at": 1794106648.8566685,
       "channel_id": 1548825499076268053
     },
-    "332d7a50-a688-4c9a-8eb1-e8799e68ef99": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Genshin Impact",
-        "Hetalia",
-        "Naruto",
-        "Flashlight",
-        "Blossoms of the White Night",
-        "Yang Ilwoo and I",
-        "Pokemon",
-        "Project Sekai: Colorful Stage!",
-        "Needy Streamer Overload",
-        "Omori",
-        "Borderline",
-        "I Stan The Prince",
-        "Fragaria Memories",
-        "The Pizza Delivery Man and Gold Palace"
-      ],
-      "id": "332d7a50-a688-4c9a-8eb1-e8799e68ef99",
-      "player_a": "1496045912420782202",
-      "player_b": "682185043203981330",
-      "started_at": 1794109966.278247,
-      "channel_id": 1543271453212803092
-    },
     "6734c257-976b-428d-9bca-c07d9298a94c": {
       "type": "claim_series",
       "target": 15,
@@ -606,7 +579,8 @@
         "Holostars",
         "Project Sekai: Colorful Stage!",
         "Puella Magi Madoka Magica",
-        "Sweet Venom"
+        "Sweet Venom",
+        "ZENO"
       ],
       "id": "6734c257-976b-428d-9bca-c07d9298a94c",
       "player_a": "764446760004354048",
@@ -939,11 +913,19 @@
       {
         "timestamp": 1786072862.2929697,
         "partner_id": "1496045912420782202"
+      },
+      {
+        "timestamp": 1794123958.2742162,
+        "partner_id": "1496045912420782202"
       }
     ],
     "1496045912420782202": [
       {
         "timestamp": 1786072862.2929697,
+        "partner_id": "682185043203981330"
+      },
+      {
+        "timestamp": 1794123958.2742162,
         "partner_id": "682185043203981330"
       }
     ],
@@ -5041,8 +5023,8 @@
     "742620728993513522": 1786072532.6875944,
     "763857440189317180": 1786072590.5469239,
     "1248433917904683160": 1790279261.7568486,
-    "682185043203981330": 1786072862.2929697,
-    "1496045912420782202": 1786072862.2929697,
+    "682185043203981330": 1794123958.2742162,
+    "1496045912420782202": 1794123958.2742162,
     "1266998768851746897": 1786072936.6891525,
     "693503862191030343": 1786072936.6891525,
     "1256569950341169155": 1786073232.6139276,
@@ -6838,7 +6820,7 @@
     },
     "1496045912420782202": {
       "drop": 13,
-      "claim": 6
+      "claim": 7
     },
     "766730142356734014": {
       "drop": 0,
