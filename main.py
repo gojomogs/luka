@@ -735,6 +735,9 @@ def get_weighted_card():
             # The template itself no longer exists (e.g. removed since
             # this print was recycled) -- nothing sensible to drop.
             continue
+        if is_event_card(underlying_card) and not event_drops_enabled():
+            # Event drops are switched off (`leventcontrol`).
+            continue
         recycled_card = dict(
             underlying_card,
             _recycled_entry_id=entry.get("id"),
@@ -747,7 +750,11 @@ def get_weighted_card():
         # before any base Commons exist in cards.json yet. Never crash a
         # drop; fall back to the full (unfiltered) pool rather than
         # raise on an empty random.choice().
-        weighted = [card for card in cards for _ in range(card.get("weight", 1))]
+        weighted = [
+            card for card in cards
+            if not is_event_card(card) or event_card_in_drop_pool(card)
+            for _ in range(card.get("weight", 1))
+        ]
 
     return random.choice(weighted)
 
@@ -768,8 +775,98 @@ def weight_for_stars(stars_val: int) -> int:
     return STAR_WEIGHTS.get(stars_val, 10)
 
 
-def format_print(print_num):
-    """Formats print number for display."""
+# =========================
+# EVENT CARDS (frame "event1")
+# =========================
+# A special card category identified EXCLUSIVELY by its frame name --
+# never by name/series/stars/id -- so `leventcontrol` can stop/resume
+# exactly these cards and nothing else. Every rule specific to them
+# (5 stars, weight 4, "Beta event" version, 200-claim stock, real print
+# numbers instead of "L") keys off is_event_card() below.
+EVENT_FRAME_NAME = "event1"
+EVENT_CARD_STARS = 5
+EVENT_CARD_WEIGHT = 4
+EVENT_CARD_MAX_CLAIMS = 200
+EVENT_VERSION_LABEL = "Beta event"
+
+
+def is_event_card(card) -> bool:
+    """True only for a card whose frame is exactly `event1` (case-insensitive)."""
+    return isinstance(card, dict) and (card.get("frame") or "").strip().lower() == EVENT_FRAME_NAME
+
+
+def weight_for_card(card: dict) -> int:
+    """Drop weight for a card: fixed 4 for event cards, otherwise the
+    unchanged per-star weight (weight_for_stars)."""
+    if is_event_card(card):
+        return EVENT_CARD_WEIGHT
+    return weight_for_stars(card.get("stars", 1))
+
+
+# Owner-adjustable event settings (`leventcontrol`), persisted inside the
+# existing version_system.json under this one key -- same lock/save/
+# GitHub-sync pipeline as `lsetdate`, no new file:
+#   version_system["event_control"] = {"max_claims": int, "enabled": bool}
+# Absent key (or absent field) = the defaults: EVENT_CARD_MAX_CLAIMS and
+# enabled. These settings only ever gate event1 cards in the drop pool /
+# stock check -- they never touch inventories, claim counts or prints.
+EVENT_CONTROL_KEY = "event_control"
+
+# Where the `levent` thumbnail artwork must be uploaded in the GitHub repo
+# (repo root, same place as cooldown.png). The bot builds the raw URL from
+# the existing GITHUB_USERNAME / GITHUB_REPO / GITHUB_BRANCH env vars.
+EVENT_STOCK_IMAGE_PATH = "event_stock.png"
+
+# The six event characters `levent` lists, in display order.
+EVENT_STOCK_CHARACTERS = ("Hyuna", "Luka", "Mizi", "Sua", "Ivan", "Till")
+
+
+def event_max_claims() -> int:
+    """Current lifetime claim limit per event card (owner-adjustable)."""
+    value = (version_system.get(EVENT_CONTROL_KEY) or {}).get("max_claims")
+    if isinstance(value, int) and not isinstance(value, bool) and value >= 1:
+        return value
+    return EVENT_CARD_MAX_CLAIMS
+
+
+def event_drops_enabled() -> bool:
+    """Whether event1 cards are currently allowed in the normal drop pool."""
+    return (version_system.get(EVENT_CONTROL_KEY) or {}).get("enabled", True) is not False
+
+
+def event_card_sold_out(card) -> bool:
+    """True if this is an event card whose claim stock is used up (claims
+    >= the current limit). Stock is read from card_prints (successful
+    claims per exact card id -- trading/gifting only moves ownership and
+    never changes it), which is rebuilt from inventories + the recyclable
+    pool at every startup -- so it survives restarts with no separate
+    stock file. Lowering the limit below an existing count simply leaves
+    that card sold out; nothing is reset."""
+    return is_event_card(card) and card_prints.get(card.get("id"), 0) >= event_max_claims()
+
+
+def event_card_in_drop_pool(card) -> bool:
+    """Whether an event1 card may currently be picked for a normal drop:
+    drops enabled AND stock remaining."""
+    return is_event_card(card) and event_drops_enabled() and not event_card_sold_out(card)
+
+
+def _event_stock_image_url():
+    """Raw GitHub URL of the `levent` thumbnail, or None if the GitHub env
+    vars aren't all set (the embed then simply has no thumbnail)."""
+    owner = os.environ.get("GITHUB_USERNAME")
+    repo = os.environ.get("GITHUB_REPO")
+    branch = os.environ.get("GITHUB_BRANCH")
+    if not (owner and repo and branch):
+        return None
+    return f"https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{EVENT_STOCK_IMAGE_PATH}"
+
+
+def format_print(print_num, card=None):
+    """Formats print number for display. Event cards (frame event1) always
+    show their real number (1-200), never "L"; everything else is unchanged."""
+    if card is not None and is_event_card(card) and isinstance(print_num, int):
+        return f"#{print_num}"
     if print_num < 100:
         return f"#{print_num}"
     if print_num == 100:
@@ -784,6 +881,8 @@ def card_version_label(card):
     never the frame color/name itself. Any frame other than exactly
     "common" (case-insensitive) counts as Rare.
     """
+    if is_event_card(card):
+        return EVENT_VERSION_LABEL
     return "Common" if card.get("frame", "").strip().lower() == "common" else "Rare"
 
 
@@ -799,6 +898,8 @@ def card_version_display(card):
     card with no `version` field yet (e.g. a cards.json that predates
     the migration and hasn't been reloaded).
     """
+    if is_event_card(card):
+        return EVENT_VERSION_LABEL
     version = card.get("version")
     if version:
         # Display-only capitalization fix: "common"/"rare" should read as
@@ -3476,7 +3577,9 @@ def _cards_for_template(template: dict) -> list:
     request a card outside its allowed series.
     """
     allowed = template.get("allowed_series", [])
-    return [c for c in cards if c.get("series") in allowed]
+    # Event cards (frame event1) are excluded: merchants mint real prints
+    # outside the normal claim path, which would bypass the 200-claim stock.
+    return [c for c in cards if c.get("series") in allowed and not is_event_card(c)]
 
 
 def _generate_merchant_for_template(template: dict, now: float):
@@ -4180,7 +4283,7 @@ async def pending_recovery_check_loop():
 # One-time, startup-only pass -- nothing polls or re-runs this later.
 _weights_migrated = 0
 for _card in cards:
-    _correct_weight = weight_for_stars(_card.get("stars", 1))
+    _correct_weight = weight_for_card(_card)
     if _card.get("weight") != _correct_weight:
         _card["weight"] = _correct_weight
         _weights_migrated += 1
@@ -4367,6 +4470,14 @@ def _card_is_eligible_to_drop(card, now, base_by_character, prev_common_by_card_
     Claims are always read per exact card id from `card_prints` --
     never shared across characters or versions.
     """
+    # Event cards (frame event1) are a standalone category: they never
+    # wait on a character's base Common, the base-card period, or an
+    # `lsetdate` release -- they're droppable as long as their own
+    # 200-claim stock isn't used up. (`leventcontrol` in Part 2 will add
+    # its stop/resume check here, keyed on is_event_card() only.)
+    if is_event_card(card):
+        return event_card_in_drop_pool(card)
+
     # A character with no Common card at all (i.e. it only has Rare/
     # 4-star cards) has nothing to gate its Rare behind -- no base
     # Common to sit through the 5-day base-card period for, and no
@@ -4421,6 +4532,8 @@ def _next_version_for_new_card(char_name: str, series: str, frame_name: str) -> 
     never two separate implementations of this logic. Must be called
     with the new card NOT YET appended to `cards`.
     """
+    if frame_name.strip().lower() == EVENT_FRAME_NAME:
+        return EVENT_VERSION_LABEL
     if frame_name.strip().lower() != "common":
         return "rare"
     key = (char_name.strip().lower(), series.strip().lower())
@@ -4457,6 +4570,8 @@ def _recompute_card_versions() -> int:
             n = common_seen_count.get(key, 0)
             new_version = "common" if n == 0 else f"V{n}"
             common_seen_count[key] = n + 1
+        elif is_event_card(card):
+            new_version = EVENT_VERSION_LABEL
         else:
             new_version = "rare"
 
@@ -5797,7 +5912,7 @@ def render_card(card: dict, print_num, hide_print: bool = False, force_real_prin
     # Card art shows just the number (no "#"); format_print() itself is left
     # untouched since it's still used with the "#" elsewhere in the bot.
     if not hide_print:
-        print_source = format_merchant_print(print_num) if force_real_print else format_print(print_num)
+        print_source = format_merchant_print(print_num) if force_real_print else format_print(print_num, card)
         print_text = print_source.lstrip("#")
         print_font = get_font(PRINT_FONT_SIZE)
         base_x, base_y = PRINT_POS_RARE if rare else PRINT_POS_COMMON
@@ -7294,6 +7409,14 @@ class CardView(discord.ui.View):
 
         card = self.card1 if which == 1 else self.card2
 
+        # Event cards (frame event1) have a hard 200-claim stock. Refuse
+        # a sold-out one BEFORE any cooldown/bonus-claim is touched, so a
+        # claim that can't succeed never consumes anything. (A recycled
+        # print re-issues an existing number and never adds a new one,
+        # so it isn't stock-limited.)
+        if card.get("_recycled_entry_id") is None and event_card_sold_out(card):
+            return await interaction.response.send_message("This card is sold out.", ephemeral=True)
+
         now = time.time()
 
         if user_id in claim_cooldowns:
@@ -7352,6 +7475,27 @@ class CardView(discord.ui.View):
             claim_cooldowns[user_id] = now
 
         async with inventories_lock:
+            # Authoritative event-stock re-check, inside the same lock
+            # that assigns prints: two claims can pass the early check
+            # above for the last copy, but only one can pass this one.
+            if recycled_entry_won is None and event_card_sold_out(card):
+                if which == 1:
+                    self.card1_claimed = False
+                else:
+                    self.card2_claimed = False
+                button.disabled = True
+                if not used_bonus_claim:
+                    claim_cooldowns.pop(user_id, None)
+                else:
+                    async with duo_lock:
+                        add_bonus(user_id, "claim", 1)
+                        try:
+                            save_duo_local()
+                            mark_duo_dirty()
+                        except Exception:
+                            traceback.print_exc()
+                return await interaction.response.send_message("This card is sold out.", ephemeral=True)
+
             if recycled_entry_won is not None:
                 add_recycled_card(user_id, card, recycled_entry_won.get("print"))
             else:
@@ -7368,6 +7512,11 @@ class CardView(discord.ui.View):
                 # silently duplicates or loses a card, or blocks the
                 # user's next claim attempt.
                 get_inventory(user_id).pop(0)
+                if recycled_entry_won is None and is_event_card(card):
+                    # A failed claim must not consume event stock: hand
+                    # the print number back (done under inventories_lock,
+                    # so nothing else can have advanced the counter).
+                    card_prints[card["id"]] = max(0, card_prints.get(card["id"], 0) - 1)
                 if which == 1:
                     self.card1_claimed = False
                 else:
@@ -7491,7 +7640,7 @@ class InventoryView(discord.ui.View):
 
             text += (
                 f"{pin_prefix}`{display_number:02d}` ✦ "
-                f"• `{format_print(print_num)}` "
+                f"• `{format_print(print_num, card)}` "
                 f"• `★ {star_val}` "
                 f"• {tag_prefix}**{name}** • *{series}*\n"
             )
@@ -7690,10 +7839,11 @@ class OwnersPaginationView(discord.ui.View):
             embed.description = "Nobody owns this card yet."
         else:
             lines = []
+            owners_card = get_card_by_id(self.card_id)
             for print_num, owner_id in self._page_slice(self.page):
                 member = self.member_cache.get(owner_id)
                 mention_text = member.mention if member is not None else "Unknown User"
-                lines.append(f"`{format_print(print_num)}.` • {mention_text}")
+                lines.append(f"`{format_print(print_num, owners_card)}.` • {mention_text}")
             embed.description = "\n".join(lines)
             embed.set_footer(text=f"Page {self.page + 1}/{self.max_page + 1}")
 
@@ -7854,7 +8004,9 @@ class CharacterVersionView(discord.ui.View):
                     # Legacy (L) prints are anything above 100, per
                     # format_print(). This also caps the list at 100
                     # owners -> a maximum of 10 pages.
-                    if print_num <= 100:
+                    # (Event cards show their real 1-200 prints, so they
+                    # aren't capped at 100.)
+                    if print_num <= 100 or is_event_card(card):
                         owners.append((print_num, owner_id))
 
         owners.sort()
@@ -8125,7 +8277,7 @@ class GiftView(discord.ui.View):
         star_val = card.get("stars", 1)
         print_display = (
             format_merchant_print(self.print_num) if self.is_merchant_reward
-            else format_print(self.print_num)
+            else format_print(self.print_num, self.card)
         )
 
         embed = discord.Embed(color=THEME_COLOR)
@@ -8748,7 +8900,7 @@ class TradeView(discord.ui.View):
                         inv_num = owner_inv_len - card_index
                     else:
                         inv_num = "?"
-                    block += f"### `{inv_num} • {format_print(print_num)} • ☆{star_val} • {name} • {series}`\n"
+                    block += f"### `{inv_num} • {format_print(print_num, card)} • ☆{star_val} • {name} • {series}`\n"
             else:
                 block += "### `No cards selected yet.`\n"
             return block
@@ -9191,7 +9343,7 @@ class MerchantTradeView(discord.ui.View):
             offered = self.selections.get(i)
             if offered:
                 oc = offered["card"]
-                status = f"offering `{format_print(offered['print'])}` **{oc.get('name', 'Unknown')}**"
+                status = f"offering `{format_print(offered['print'], oc)}` **{oc.get('name', 'Unknown')}**"
             else:
                 status = "not yet offered"
             lines.append(
@@ -9641,7 +9793,10 @@ class EditCardView(discord.ui.View):
         except ValueError:
             return await interaction.followup.send("Stars must be a whole number between 1 and 4.", ephemeral=True)
 
-        if new_stars not in (1, 2, 3, 4):
+        if is_event_card(self.card):
+            if new_stars != EVENT_CARD_STARS:
+                return await interaction.followup.send(f"Event cards must stay {EVENT_CARD_STARS} stars.", ephemeral=True)
+        elif new_stars not in (1, 2, 3, 4):
             return await interaction.followup.send("Stars must be between 1 and 4.", ephemeral=True)
 
         old_stars = self.card.get("stars")
@@ -10145,7 +10300,12 @@ class Client(discord.Client):
                 frame_name = candidate
                 is_rare = (frame_name.lower() != "common")
 
-                if stars_val not in [1, 2, 3, 4]:
+                if frame_name.lower() == EVENT_FRAME_NAME:
+                    # Event cards are always 5-star, and 5-star is only
+                    # valid for the event1 frame.
+                    if stars_val != EVENT_CARD_STARS:
+                        return await reply(message, f"`{EVENT_FRAME_NAME}` cards must be {EVENT_CARD_STARS} stars.")
+                elif stars_val not in [1, 2, 3, 4]:
                     return await reply(message, "Stars must be 1, 2, 3, or 4.")
 
                 # Generate card ID based on rarity (common/rare), not the
@@ -10196,7 +10356,7 @@ class Client(discord.Client):
                             "name": char_name,
                             "series": series,
                             "stars": stars_val,
-                            "weight": weight_for_stars(stars_val),
+                            "weight": weight_for_card({"frame": frame_name, "stars": stars_val}),
                             "image": save_path,
                             "frame": frame_name,
                             # Same character-grouped Common numbering the
@@ -10475,6 +10635,134 @@ class Client(discord.Client):
             cooldown_image_file = discord.File("cooldown.png", filename="cooldown.png")
             await reply(message, embed=embed, file=cooldown_image_file)
             return
+
+        # =========================
+        # LEVENT COMMAND (event card stock)
+        # =========================
+        if content_lower == "levent":
+            if is_command_spam(user_id, "levent"):
+                return await reply(message,
+                    "Please wait a few seconds before using this command again."
+                )
+
+            limit = event_max_claims()
+            lines = []
+            for char_name in EVENT_STOCK_CHARACTERS:
+                matches = [
+                    c for c in cards
+                    if is_event_card(c) and c.get("name", "").strip().lower() == char_name.lower()
+                ]
+                # Prefer the Alien Stage card if a name ever exists twice.
+                matches.sort(key=lambda c: c.get("series", "").strip().lower() != "alien stage")
+                if not matches:
+                    lines.append(f"{char_name} — not available yet")
+                    continue
+                used = card_prints.get(matches[0]["id"], 0)
+                line = f"{char_name} — {used}/{limit} cards"
+                if used >= limit:
+                    line += " (sold out)"
+                lines.append(line)
+
+            embed = discord.Embed(
+                color=THEME_COLOR,
+                title="> ## Lukanet: Event stock",
+                description="\n".join(lines)
+            )
+            thumb_url = _event_stock_image_url()
+            if thumb_url:
+                embed.set_thumbnail(url=thumb_url)
+
+            return await reply(message, embed=embed)
+
+        # =========================
+        # LEVENTCONTROL COMMAND (owner-only: event limit + drop on/off)
+        # =========================
+        # Only ever edits version_system["event_control"]. Never touches
+        # inventories, card_prints (claim counts/print sequences), cards,
+        # or any non-event1 card.
+        if content_lower == "leventcontrol" or content_lower.startswith("leventcontrol "):
+            if message.author.id not in OWNER_USER_IDS:
+                return
+
+            parts = message.content.split()
+            sub = parts[1].lower() if len(parts) > 1 else ""
+
+            usage = (
+                "Usage: `leventcontrol` (show status), `leventcontrol limit <number>`, "
+                "`leventcontrol enable`, `leventcontrol disable`."
+            )
+
+            if sub == "":
+                return await reply(message,
+                    f"Event cards: **{'enabled' if event_drops_enabled() else 'disabled'}** in the drop pool. "
+                    f"Claim limit: **{event_max_claims()}** per card.\n{usage}"
+                )
+
+            if sub not in ("limit", "enable", "on", "disable", "off"):
+                return await reply(message, usage)
+
+            new_limit = None
+            new_enabled = None
+            if sub == "limit":
+                if len(parts) != 3 or not parts[2].isdigit() or int(parts[2]) < 1 or int(parts[2]) > 100000:
+                    return await reply(message,
+                        "Please give a whole number from 1 to 100000, e.g. `leventcontrol limit 300`."
+                    )
+                new_limit = int(parts[2])
+            else:
+                new_enabled = sub in ("enable", "on")
+
+            async with version_system_lock:
+                had_previous = EVENT_CONTROL_KEY in version_system
+                previous_settings = copy.deepcopy(version_system.get(EVENT_CONTROL_KEY))
+                settings = version_system.setdefault(EVENT_CONTROL_KEY, {})
+
+                if new_limit is not None and settings.get("max_claims") == new_limit:
+                    return await reply(message, f"The event claim limit is already **{new_limit}**. Nothing changed.")
+                if new_enabled is not None and (settings.get("enabled", True) is not False) == new_enabled:
+                    if not had_previous:
+                        version_system.pop(EVENT_CONTROL_KEY, None)
+                    return await reply(message,
+                        f"Event cards are already **{'enabled' if new_enabled else 'disabled'}**. Nothing changed."
+                    )
+
+                if new_limit is not None:
+                    settings["max_claims"] = new_limit
+                else:
+                    settings["enabled"] = new_enabled
+
+                try:
+                    save_version_system_local()
+                    mark_version_system_dirty()
+                except Exception:
+                    if had_previous:
+                        version_system[EVENT_CONTROL_KEY] = previous_settings
+                    else:
+                        version_system.pop(EVENT_CONTROL_KEY, None)
+                    return await reply(message, "Something went wrong saving that. Please try again.")
+
+            if new_limit is not None:
+                at_or_over = [
+                    c.get("name", "Unknown") for c in cards
+                    if is_event_card(c) and card_prints.get(c.get("id"), 0) >= new_limit
+                ]
+                note = (
+                    f" Already at or above the new limit (stay unavailable): {', '.join(at_or_over)}."
+                    if at_or_over else ""
+                )
+                return await reply(message,
+                    f"Event claim limit is now **{new_limit}** per card. "
+                    f"Claim counts and print numbers were not changed.{note}"
+                )
+
+            if new_enabled:
+                return await reply(message,
+                    "Event cards are **enabled** in the drop pool again (cards with stock remaining can drop)."
+                )
+            return await reply(message,
+                "Event cards are **disabled** in the drop pool. Existing cards, inventories, claims and "
+                "prints are unaffected."
+            )
 
         # =========================
         # INVENTORY COMMAND (lc)
@@ -11868,7 +12156,7 @@ class Client(discord.Client):
                         "fields": [
                             ("Series", card.get("series", "Unknown Series")),
                             ("Stars", stars(card.get("stars", 1))),
-                            ("Print", format_print(owned_card.get("print"))),
+                            ("Print", format_print(owned_card.get("print"), card)),
                             ("Version/Frame", card_version_label(card)),
                             ("Original Owner", owner_display),
                             ("Recovery Status", f"{days_left:.1f} day(s) until automatic transfer"),
@@ -11912,7 +12200,7 @@ class Client(discord.Client):
                     "fields": [
                         ("Series", card.get("series", "Unknown Series")),
                         ("Stars", stars(card.get("stars", 1))),
-                        ("Print", format_print(entry.get("print"))),
+                        ("Print", format_print(entry.get("print"), card)),
                         ("Version/Frame", card_version_label(card)),
                         ("Original Owner", owner_display),
                         ("Status", status),
@@ -12117,7 +12405,7 @@ class Client(discord.Client):
                     f"## {card.get('name', 'Unknown Character')}\n"
                     f"**Series:** {card.get('series', 'Unknown Series')}\n"
                     f"**Stars:** {stars(card.get('stars', 1))}\n"
-                    f"**Print:** {format_print(owned_card.get('print'))}\n"
+                    f"**Print:** {format_print(owned_card.get('print'), card)}\n"
                     f"**Version:** {card_version_label(card)}\n"
                     f"**Current Owner:** <@{owner_key}> (`{owner_key}`, still pending recovery)\n\n"
                     "This will remove this exact card from that user's inventory and move it into "
@@ -12169,7 +12457,7 @@ class Client(discord.Client):
 
                 await interaction.followup.send(
                     f"Recovered **{card.get('name', 'Unknown Character')}** "
-                    f"{format_print(removed_card.get('print'))} into Luka's inventory. "
+                    f"{format_print(removed_card.get('print'), card)} into Luka's inventory. "
                     f"Original owner (`{live_owner_key}`) is otherwise unaffected."
                 )
 
@@ -12200,7 +12488,7 @@ class Client(discord.Client):
                 fields = [
                     ("Series", card.get("series", "Unknown Series")),
                     ("Stars", stars(card.get("stars", 1))),
-                    ("Print", format_print(owned_card.get("print"))),
+                    ("Print", format_print(owned_card.get("print"), card)),
                     ("Version/Frame", card_version_label(card)),
                     ("Inventory #", f"`{display_number}` (use with `lgw`)"),
                 ]
@@ -13114,7 +13402,7 @@ class Client(discord.Client):
             # past 100 -- see render_card's force_real_print. Every other
             # card is completely unaffected (owned_card.get(...) is False).
             is_merchant_reward = bool(owned_card.get("merchant_reward"))
-            print_display = format_merchant_print(print_num) if is_merchant_reward else format_print(print_num)
+            print_display = format_merchant_print(print_num) if is_merchant_reward else format_print(print_num, card)
 
             embed = discord.Embed(color=THEME_COLOR)
             embed.set_author(name=f"{message.author.name}'s Card", icon_url=message.author.display_avatar.url)
