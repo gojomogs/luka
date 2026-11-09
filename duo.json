@@ -505,7 +505,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 39,
+      "progress": 40,
       "id": "e41d89e4-623b-4ee4-82b8-09490edc45f7",
       "player_a": "1068989639362355252",
       "player_b": "1028046694992064512",
@@ -656,7 +656,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 4,
+      "progress": 5,
       "id": "b7be003c-4e5a-47b5-a8fa-3cf2712ffd62",
       "player_a": "1192201166893895725",
       "player_b": "1411870609360551996",
@@ -668,7 +668,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Yao Guang"
+      ],
       "id": "5c8fe92d-b7fe-4f13-b60b-873865a6ee14",
       "player_a": "1473192820318802062",
       "player_b": "992526647804825600",
@@ -6077,8 +6079,8 @@
       "claim": 22
     },
     "1487041378918858924": {
-      "drop": 15,
-      "claim": 15
+      "drop": 5,
+      "claim": 6
     },
     "1132475401701171262": {
       "drop": 0,
