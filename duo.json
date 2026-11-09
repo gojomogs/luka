@@ -505,7 +505,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 41,
+      "progress": 42,
       "id": "5d7c500e-7d12-4cdc-a6b5-6591b3e1b2c9",
       "player_a": "1015773671081656331",
       "player_b": "857177938682970132",
@@ -555,6 +555,32 @@
       "player_b": "1383481899334238248",
       "started_at": 1794189685.2602944,
       "channel_id": 1565802310926336060
+    },
+    "84b21faf-5a40-4d69-a363-5aac305e473a": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Hiromi Higuruma"
+      ],
+      "id": "84b21faf-5a40-4d69-a363-5aac305e473a",
+      "player_a": "514565097981476875",
+      "player_b": "1208748350523052062",
+      "started_at": 1794193699.1960895,
+      "channel_id": 1543268797119729704
+    },
+    "974bf46f-1c21-49cf-b885-79bda9731151": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "974bf46f-1c21-49cf-b885-79bda9731151",
+      "player_a": "807341781662302281",
+      "player_b": "1489781141211713677",
+      "started_at": 1794193756.7338195,
+      "channel_id": 1543292052249382962
     }
   },
   "weekly": {
@@ -11867,7 +11893,7 @@
     },
     "911330071464267776": {
       "drop": 0,
-      "claim": 8
+      "claim": 7
     },
     "833726582908256317": {
       "drop": 22,
