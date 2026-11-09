@@ -21814,7 +21814,7 @@
     "name": "Kanae",
     "series": "Nijisanji",
     "stars": 3,
-    "weight": 10,
+    "weight": 8,
     "image": "card_art/kanae_common_2.png",
     "frame": "common",
     "version": "V1"
@@ -21824,7 +21824,7 @@
     "name": "Kuzuha",
     "series": "Nijisanji",
     "stars": 3,
-    "weight": 10,
+    "weight": 8,
     "image": "card_art/kuzuha_common_2.png",
     "frame": "common",
     "version": "V1"
@@ -22518,5 +22518,15 @@
     "image": "card_art/acheron_common_2.png",
     "frame": "common",
     "version": "V1"
+  },
+  {
+    "id": "luka_rare_2",
+    "name": "Luka",
+    "series": "Alien Stage",
+    "stars": 5,
+    "weight": 4,
+    "image": "card_art/luka_rare_2.png",
+    "frame": "event1",
+    "version": "Beta event"
   }
 ]
