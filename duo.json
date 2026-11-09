@@ -571,7 +571,8 @@
         "Tartaglia",
         "Bai Liu",
         "Fuyume Hanamura",
-        "Ryu"
+        "Ryu",
+        "Varka"
       ],
       "id": "fc90ae78-956d-40ae-9167-15e38e67ef9f",
       "player_a": "859836902119309325",
@@ -600,38 +601,6 @@
       "player_b": "1411870609360551996",
       "started_at": 1794222893.7489,
       "channel_id": 1543670656539824189
-    },
-    "5c8fe92d-b7fe-4f13-b60b-873865a6ee14": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Yao Guang",
-        "Konata Izumi",
-        "Sangonomiya Kokomi",
-        "Utage Kinoshita",
-        "Aya Oosawa",
-        "Lisa",
-        "Hyuna",
-        "Leviathan",
-        "Ruruna Von Bettelheim",
-        "Ryo Yamada",
-        "Xie Yu",
-        "Kyouka Jirou",
-        "Dongdang",
-        "Marius Von Hagen",
-        "Yashiro Nene",
-        "Bai Liu",
-        "Taooka Yua",
-        "Mikasa Ackerman",
-        "Lee Sa-young"
-      ],
-      "id": "5c8fe92d-b7fe-4f13-b60b-873865a6ee14",
-      "player_a": "1473192820318802062",
-      "player_b": "992526647804825600",
-      "started_at": 1794225962.2303736,
-      "channel_id": 1565355556305379388
     },
     "b9c73a8a-f835-4823-b253-0654d12f6ec0": {
       "type": "claim_count",
@@ -5236,6 +5205,18 @@
         "timestamp": 1794230562.7363865,
         "partner_id": "1070842549318721567"
       }
+    ],
+    "1473192820318802062": [
+      {
+        "timestamp": 1794246652.0623994,
+        "partner_id": "992526647804825600"
+      }
+    ],
+    "992526647804825600": [
+      {
+        "timestamp": 1794246652.0623994,
+        "partner_id": "1473192820318802062"
+      }
     ]
   },
   "cooldowns": {
@@ -5684,7 +5665,9 @@
     "757617865435119697": 1794165334.8906503,
     "1175711320868405288": 1794165334.8906503,
     "1043630421444935690": 1794171752.1522613,
-    "799418788848205825": 1794230562.7363865
+    "799418788848205825": 1794230562.7363865,
+    "1473192820318802062": 1794246652.0623994,
+    "992526647804825600": 1794246652.0623994
   },
   "bonus": {
     "777925664358531102": {
@@ -8541,7 +8524,7 @@
     },
     "992526647804825600": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "1098665543994712234": {
       "drop": 0,
@@ -12533,7 +12516,7 @@
     },
     "1473192820318802062": {
       "drop": 0,
-      "claim": 0
+      "claim": 1
     },
     "1339274973134590034": {
       "drop": 0,
