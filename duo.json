@@ -494,7 +494,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 45,
+      "progress": 46,
       "id": "ccf446f0-96f8-4a45-b6f5-eca111bd9b71",
       "player_a": "1411686981468946664",
       "player_b": "1328096032260755507",
@@ -591,7 +591,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Jamil Viper"
+      ],
       "id": "465b6ee6-683f-479f-a3de-e2db44a2b33d",
       "player_a": "1487234092520181931",
       "player_b": "1312941517756698635",
