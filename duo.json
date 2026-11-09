@@ -494,7 +494,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 46,
+      "progress": 48,
       "id": "e41d89e4-623b-4ee4-82b8-09490edc45f7",
       "player_a": "1068989639362355252",
       "player_b": "1028046694992064512",
@@ -623,7 +623,8 @@
         "Marius Von Hagen",
         "Yashiro Nene",
         "Bai Liu",
-        "Taooka Yua"
+        "Taooka Yua",
+        "Mikasa Ackerman"
       ],
       "id": "5c8fe92d-b7fe-4f13-b60b-873865a6ee14",
       "player_a": "1473192820318802062",
@@ -664,6 +665,17 @@
       "player_a": "826335464532607031",
       "player_b": "658702243100491791",
       "started_at": 1794241791.283332,
+      "channel_id": 1543389320373862461
+    },
+    "48aaa263-903f-478b-9ea7-5f9cb1e8fdf2": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "48aaa263-903f-478b-9ea7-5f9cb1e8fdf2",
+      "player_a": "1204473206077919295",
+      "player_b": "1151512609409998959",
+      "started_at": 1794245874.043234,
       "channel_id": 1543389320373862461
     }
   },
