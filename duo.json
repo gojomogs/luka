@@ -494,7 +494,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "d39a5b68-204a-4cc7-a03b-34aec6df5490",
       "player_a": "856783136833667072",
       "player_b": "1415199399469908020",
@@ -579,7 +579,8 @@
         "Shi Luo",
         "Kai Monteago",
         "Joo Mirye",
-        "Tartaglia"
+        "Tartaglia",
+        "Bai Liu"
       ],
       "id": "fc90ae78-956d-40ae-9167-15e38e67ef9f",
       "player_a": "859836902119309325",
@@ -626,7 +627,8 @@
         "Ruruna Von Bettelheim",
         "Ryo Yamada",
         "Xie Yu",
-        "Kyouka Jirou"
+        "Kyouka Jirou",
+        "Dongdang"
       ],
       "id": "5c8fe92d-b7fe-4f13-b60b-873865a6ee14",
       "player_a": "1473192820318802062",
@@ -644,6 +646,18 @@
       "player_b": "885730335378264084",
       "started_at": 1794235876.5005174,
       "channel_id": 1542570456643674253
+    },
+    "aae63d73-90ad-4b6d-8a92-1471fe128bba": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "aae63d73-90ad-4b6d-8a92-1471fe128bba",
+      "player_a": "826335464532607031",
+      "player_b": "658702243100491791",
+      "started_at": 1794241791.283332,
+      "channel_id": 1543389320373862461
     }
   },
   "weekly": {
@@ -5878,7 +5892,7 @@
       "claim": 0
     },
     "727441845789130804": {
-      "drop": 17,
+      "drop": 16,
       "claim": 28
     },
     "789571689406005269": {
