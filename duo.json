@@ -461,7 +461,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 47,
+      "progress": 48,
       "id": "c07a6810-ec69-4cac-8cf1-c7ed39059a08",
       "player_a": "1126822708496318504",
       "player_b": "969659066018304031",
@@ -569,7 +569,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 36,
+      "progress": 37,
       "id": "b9c73a8a-f835-4823-b253-0654d12f6ec0",
       "player_a": "823151930414333963",
       "player_b": "885730335378264084",
@@ -634,6 +634,20 @@
       "player_b": "868971242047299616",
       "started_at": 1794261913.4507809,
       "channel_id": 1543751498247307295
+    },
+    "cedeff48-c1c2-431c-8786-d74a42d9831d": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Fragaria Memories"
+      ],
+      "id": "cedeff48-c1c2-431c-8786-d74a42d9831d",
+      "player_a": "1422891232182407210",
+      "player_b": "886247125292306432",
+      "started_at": 1794276462.2039137,
+      "channel_id": 1548329521608925285
     }
   },
   "weekly": {
@@ -6213,7 +6227,7 @@
     },
     "534547375033679873": {
       "drop": 0,
-      "claim": 18
+      "claim": 17
     },
     "1331947442824020031": {
       "drop": 0,
@@ -7456,7 +7470,7 @@
       "claim": 0
     },
     "1085294225182183514": {
-      "drop": 23,
+      "drop": 0,
       "claim": 23
     },
     "718479669870985267": {
