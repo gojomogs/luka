@@ -483,7 +483,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 8,
+      "progress": 9,
       "id": "48aaa263-903f-478b-9ea7-5f9cb1e8fdf2",
       "player_a": "1204473206077919295",
       "player_b": "1151512609409998959",
@@ -590,13 +590,26 @@
         "Vi",
         "Still In Love",
         "Serval Landau",
-        "Lynae"
+        "Lynae",
+        "Sagiri"
       ],
       "id": "6c5db3cd-ac06-4465-877b-20b850621c26",
       "player_a": "737098353485021206",
       "player_b": "924416537387991040",
       "started_at": 1794342331.198108,
       "channel_id": 1543004021877514251
+    },
+    "19796979-b689-4f95-87cd-c1e96f81578b": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "19796979-b689-4f95-87cd-c1e96f81578b",
+      "player_a": "891662969107255338",
+      "player_b": "1480643238699466977",
+      "started_at": 1794352380.8506515,
+      "channel_id": 1543207374670659724
     }
   },
   "weekly": {
@@ -6735,7 +6748,7 @@
       "claim": 0
     },
     "905294901082738749": {
-      "drop": 4,
+      "drop": 0,
       "claim": 5
     },
     "1019430844814872678": {
@@ -9532,7 +9545,7 @@
     },
     "1328096032260755507": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "882919289399676939": {
       "drop": 0,
