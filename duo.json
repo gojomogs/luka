@@ -439,7 +439,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 40,
+      "progress": 41,
       "id": "742bb84b-5786-4ed8-8a8c-9929e735a1a7",
       "player_a": "749958760532934736",
       "player_b": "755211531674845235",
@@ -461,7 +461,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 7,
+      "progress": 8,
       "id": "91ad1b1b-b5de-4198-a32b-7e7bfa6c3115",
       "player_a": "994686213967577199",
       "player_b": "870354420049776710",
@@ -537,37 +537,6 @@
       "started_at": 1794337033.9888227,
       "channel_id": 1540149985650282596
     },
-    "2efab400-4a6d-4783-ba34-aa8bdaf19b38": {
-      "type": "claim_characters",
-      "target": 20,
-      "label": "Obtain 20 unique characters together",
-      "progress": 0,
-      "characters_seen": [
-        "Kento Nanami",
-        "Hinata Aoi",
-        "Ame-chan & KAngel",
-        "Black Cat",
-        "Hajime Hinata",
-        "Ukinami Yuzuha",
-        "Touko Nanami",
-        "Akiyama Mizuki",
-        "Mary de Capet",
-        "Narita Brian",
-        "Nico",
-        "Dominique de Sade",
-        "Caelus",
-        "Kamado Tanjiro",
-        "Toshiro Hitsugaya",
-        "Ruan Mei",
-        "Idia Shroud",
-        "Rei Ayanami"
-      ],
-      "id": "2efab400-4a6d-4783-ba34-aa8bdaf19b38",
-      "player_a": "1029068754526687232",
-      "player_b": "911330071464267776",
-      "started_at": 1794341066.4915133,
-      "channel_id": 1567633173108752435
-    },
     "6c5db3cd-ac06-4465-877b-20b850621c26": {
       "type": "claim_characters",
       "target": 20,
@@ -607,7 +576,8 @@
       "progress": 0,
       "series_seen": [
         "Girls X Vampire",
-        "Honkai: Star Rail"
+        "Honkai: Star Rail",
+        "NANA"
       ],
       "id": "19796979-b689-4f95-87cd-c1e96f81578b",
       "player_a": "891662969107255338",
@@ -5342,6 +5312,18 @@
         "timestamp": 1794354640.103074,
         "partner_id": "1192201166893895725"
       }
+    ],
+    "1029068754526687232": [
+      {
+        "timestamp": 1794355483.0100873,
+        "partner_id": "911330071464267776"
+      }
+    ],
+    "911330071464267776": [
+      {
+        "timestamp": 1794355483.0100873,
+        "partner_id": "1029068754526687232"
+      }
     ]
   },
   "cooldowns": {
@@ -5799,7 +5781,9 @@
     "1241920314502418467": 1794281964.86823,
     "885730335378264084": 1794293738.0907323,
     "1328096032260755507": 1794321340.8277996,
-    "1411870609360551996": 1794354640.103074
+    "1411870609360551996": 1794354640.103074,
+    "1029068754526687232": 1794355483.0100873,
+    "911330071464267776": 1794355483.0100873
   },
   "bonus": {
     "777925664358531102": {
@@ -6975,8 +6959,8 @@
       "claim": 0
     },
     "960884355805351977": {
-      "drop": 4,
-      "claim": 5
+      "drop": 0,
+      "claim": 4
     },
     "910310678206746664": {
       "drop": 0,
@@ -11932,7 +11916,7 @@
     },
     "1029068754526687232": {
       "drop": 0,
-      "claim": 3
+      "claim": 4
     },
     "1117032031881277501": {
       "drop": 0,
