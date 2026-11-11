@@ -475,12 +475,27 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 4,
+      "progress": 5,
       "id": "58f38332-607f-4d15-9aa9-bd716f44d6ae",
       "player_a": "953615292641185804",
       "player_b": "595084117998043137",
       "started_at": 1794401474.690592,
       "channel_id": 1543538400726880257
+    },
+    "a3b96df8-0d47-4367-a074-400ce64458e7": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Nevermore",
+        "Global Examination"
+      ],
+      "id": "a3b96df8-0d47-4367-a074-400ce64458e7",
+      "player_a": "1328464837537304586",
+      "player_b": "764446760004354048",
+      "started_at": 1794402686.2361524,
+      "channel_id": 1552919187150741574
     }
   },
   "weekly": {
