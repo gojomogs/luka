@@ -395,7 +395,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "d9c20c06-4d31-4eb3-988b-97764d9ff622",
       "player_a": "1310677632769327257",
       "player_b": "1537933905615659049",
@@ -476,7 +476,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Little Mushroom"
+      ],
       "id": "86f1ed9a-e995-4b06-a6b0-56e12f32257f",
       "player_a": "1368254092320702514",
       "player_b": "547774305803436032",
