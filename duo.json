@@ -439,12 +439,23 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 0,
+      "progress": 1,
       "id": "9e2166cb-d09e-4596-a6d8-6b8ddbdfc95f",
       "player_a": "1112468374358868129",
       "player_b": "1427948992268079157",
       "started_at": 1794562961.0672889,
       "channel_id": 1565048192028909578
+    },
+    "19dc6094-b2f8-498f-9b09-1b41f79330a7": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "19dc6094-b2f8-498f-9b09-1b41f79330a7",
+      "player_a": "1126822708496318504",
+      "player_b": "1473475651725164714",
+      "started_at": 1794582337.3232698,
+      "channel_id": 1554501915352764538
     }
   },
   "weekly": {
@@ -8861,7 +8872,7 @@
     },
     "1423323604044742666": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "771052194292039681": {
       "drop": 0,
