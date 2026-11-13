@@ -479,12 +479,24 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 18,
+      "progress": 19,
       "id": "f4dd068c-61ff-49d4-953b-4017c8b5332b",
       "player_a": "1328096032260755507",
       "player_b": "551877849192202255",
       "started_at": 1794523184.668825,
       "channel_id": 1548825499076268053
+    },
+    "1fae3976-ed5e-4746-a015-ba2ea24942c6": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "1fae3976-ed5e-4746-a015-ba2ea24942c6",
+      "player_a": "1310028877485314098",
+      "player_b": "1429533392705294521",
+      "started_at": 1794531853.8812973,
+      "channel_id": 1543268797119729704
     }
   },
   "weekly": {
