@@ -463,7 +463,8 @@
         "Yoimiya",
         "Kasane Teto",
         "Pantalone",
-        "Aglaea"
+        "Aglaea",
+        "Coco"
       ],
       "id": "a3067dc7-fd3e-4baa-afb2-f605a23d4290",
       "player_a": "1454914344792883305",
@@ -498,6 +499,20 @@
       "player_b": "899114077706657852",
       "started_at": 1794567936.6879516,
       "channel_id": 1541958013861105816
+    },
+    "be3cb901-c48c-4ce0-95ee-b7af07ad688e": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Xilonen"
+      ],
+      "id": "be3cb901-c48c-4ce0-95ee-b7af07ad688e",
+      "player_a": "1491745095106428958",
+      "player_b": "1293557714420498435",
+      "started_at": 1794568487.6906753,
+      "channel_id": 1540149985650282596
     }
   },
   "weekly": {
@@ -12738,7 +12753,7 @@
     },
     "1060473663834554368": {
       "drop": 0,
-      "claim": 3
+      "claim": 2
     },
     "528685601109835796": {
       "drop": 0,
