@@ -514,7 +514,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 0,
+      "progress": 1,
       "id": "8b558b18-c410-4ea3-8974-4157f4f954ba",
       "player_a": "1125010005066784860",
       "player_b": "1287784193987711000",
@@ -526,7 +526,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "My Hero Academia"
+      ],
       "id": "156536e4-2cb1-4bf5-bf55-15b4509f7eb5",
       "player_a": "1151512609409998959",
       "player_b": "1211028404577632277",
@@ -6207,8 +6209,8 @@
       "claim": 0
     },
     "727441845789130804": {
-      "drop": 5,
-      "claim": 76
+      "drop": 0,
+      "claim": 75
     },
     "789571689406005269": {
       "drop": 5,
@@ -6271,7 +6273,7 @@
       "claim": 0
     },
     "1241420729933758514": {
-      "drop": 10,
+      "drop": 9,
       "claim": 31
     },
     "1149535834756874250": {
