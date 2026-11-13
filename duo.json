@@ -417,7 +417,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 5,
+      "progress": 6,
       "id": "7cefaf31-3ef0-4c6f-84ec-872d4356ec61",
       "player_a": "587912953622298626",
       "player_b": "999240421404311562",
@@ -505,7 +505,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Choi Han"
+      ],
       "id": "7d6f99bf-3bc0-4a6d-a146-e9053d0bbd34",
       "player_a": "647974710470115339",
       "player_b": "908254172074352641",
@@ -516,7 +518,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 6,
+      "progress": 8,
       "id": "8b558b18-c410-4ea3-8974-4157f4f954ba",
       "player_a": "1125010005066784860",
       "player_b": "1287784193987711000",
@@ -531,7 +533,8 @@
       "series_seen": [
         "My Hero Academia",
         "Honkai: Star Rail",
-        "On the Way to Meet Mom"
+        "On the Way to Meet Mom",
+        "One Piece"
       ],
       "id": "156536e4-2cb1-4bf5-bf55-15b4509f7eb5",
       "player_a": "1151512609409998959",
