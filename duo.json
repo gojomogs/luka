@@ -450,7 +450,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 5,
+      "progress": 6,
       "id": "19dc6094-b2f8-498f-9b09-1b41f79330a7",
       "player_a": "1126822708496318504",
       "player_b": "1473475651725164714",
@@ -475,7 +475,8 @@
         "Asahina Mafuyu",
         "Han Maru",
         "Jogasaki Noa",
-        "Gwon Young"
+        "Gwon Young",
+        "Anaxa"
       ],
       "id": "7d6f99bf-3bc0-4a6d-a146-e9053d0bbd34",
       "player_a": "647974710470115339",
@@ -525,7 +526,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Nerd Project"
+      ],
       "id": "1a636496-f34d-4a0e-af4b-6e3650130460",
       "player_a": "1122003954436407336",
       "player_b": "764446760004354048",
@@ -6494,8 +6497,8 @@
       "claim": 0
     },
     "1322851438644166766": {
-      "drop": 1,
-      "claim": 1
+      "drop": 0,
+      "claim": 0
     },
     "1071156516167614524": {
       "drop": 0,
