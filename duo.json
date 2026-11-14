@@ -428,7 +428,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 29,
+      "progress": 30,
       "id": "9fcd567d-b09e-44b7-8760-10b7a7420166",
       "player_a": "967341549354614814",
       "player_b": "755211531674845235",
@@ -521,7 +521,10 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Genshin Impact",
+        "Da Wang Rao Ming"
+      ],
       "id": "01302a5e-833a-489c-a2bf-69aafada261f",
       "player_a": "1409796045118115913",
       "player_b": "1213941636829155338",
