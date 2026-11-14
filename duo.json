@@ -450,7 +450,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 53,
+      "progress": 54,
       "id": "8b558b18-c410-4ea3-8974-4157f4f954ba",
       "player_a": "1125010005066784860",
       "player_b": "1287784193987711000",
@@ -482,7 +482,8 @@
         "Kaworu Nagisa",
         "Ainosuke Shindo",
         "Daki",
-        "Donald"
+        "Donald",
+        "Natural Harmonia Gropius"
       ],
       "id": "dbdaa1eb-040b-4749-8894-74182cec9700",
       "player_a": "1433990788622323757",
@@ -509,6 +510,20 @@
       "player_b": "767054445724827718",
       "started_at": 1794640092.9678087,
       "channel_id": 1543392892138033202
+    },
+    "4fc5ad84-8f50-4660-bf55-b49fc92e533d": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Natsume Anan"
+      ],
+      "id": "4fc5ad84-8f50-4660-bf55-b49fc92e533d",
+      "player_a": "994686213967577199",
+      "player_b": "856783136833667072",
+      "started_at": 1794662092.5443106,
+      "channel_id": 1542683842354090054
     }
   },
   "weekly": {
@@ -13020,6 +13035,10 @@
       "claim": 0
     },
     "1560141406964551802": {
+      "drop": 0,
+      "claim": 0
+    },
+    "1533797965565526126": {
       "drop": 0,
       "claim": 0
     }
