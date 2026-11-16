@@ -547,7 +547,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 4,
+      "progress": 5,
       "id": "b7c91669-6f4b-4d34-877f-21559702d9df",
       "player_a": "697803266150629416",
       "player_b": "905294901082738749",
@@ -580,12 +580,24 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 2,
+      "progress": 3,
       "id": "4975a487-c168-4e11-b682-42763726be7b",
       "player_a": "1378462940096761856",
       "player_b": "1359716535077179463",
       "started_at": 1794861346.6494853,
       "channel_id": 1549897851914551336
+    },
+    "f079da66-e5d1-4442-88ae-162841751bf6": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "f079da66-e5d1-4442-88ae-162841751bf6",
+      "player_a": "551877849192202255",
+      "player_b": "1051844078184173573",
+      "started_at": 1794862368.8864622,
+      "channel_id": 1554491945433309304
     }
   },
   "weekly": {
@@ -6448,7 +6460,7 @@
     },
     "1178380074001645660": {
       "drop": 24,
-      "claim": 22
+      "claim": 21
     },
     "936932775393632266": {
       "drop": 27,
@@ -6543,7 +6555,7 @@
       "claim": 11
     },
     "899806964710801499": {
-      "drop": 7,
+      "drop": 6,
       "claim": 8
     },
     "1028994831466369055": {
@@ -7039,8 +7051,8 @@
       "claim": 0
     },
     "772144591251177503": {
-      "drop": 5,
-      "claim": 17
+      "drop": 0,
+      "claim": 15
     },
     "1422891232182407210": {
       "drop": 0,
@@ -9895,8 +9907,8 @@
       "claim": 0
     },
     "1157782319483068476": {
-      "drop": 6,
-      "claim": 10
+      "drop": 0,
+      "claim": 8
     },
     "1314385357864697896": {
       "drop": 12,
@@ -12644,7 +12656,7 @@
     },
     "1142143636784558120": {
       "drop": 0,
-      "claim": 6
+      "claim": 5
     },
     "1311153240007507970": {
       "drop": 27,
