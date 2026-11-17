@@ -428,7 +428,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 55,
+      "progress": 56,
       "id": "9fcd567d-b09e-44b7-8760-10b7a7420166",
       "player_a": "967341549354614814",
       "player_b": "755211531674845235",
@@ -596,6 +596,20 @@
       "player_b": "707210420917633135",
       "started_at": 1794874988.329445,
       "channel_id": 1567633173108752435
+    },
+    "b190f0b1-bbd5-4c49-b135-f304d336d416": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Phoenix Wright"
+      ],
+      "id": "b190f0b1-bbd5-4c49-b135-f304d336d416",
+      "player_a": "762127115721637898",
+      "player_b": "224627689909256192",
+      "started_at": 1794879013.5914094,
+      "channel_id": 1542722824060407899
     }
   },
   "weekly": {
@@ -7384,8 +7398,8 @@
       "claim": 0
     },
     "736235127910432789": {
-      "drop": 8,
-      "claim": 7
+      "drop": 0,
+      "claim": 0
     },
     "716071317987786814": {
       "drop": 0,
@@ -8512,7 +8526,7 @@
       "claim": 0
     },
     "767054445724827718": {
-      "drop": 7,
+      "drop": 5,
       "claim": 7
     },
     "1194747459101007873": {
@@ -9172,7 +9186,7 @@
       "claim": 31
     },
     "1454914344792883305": {
-      "drop": 7,
+      "drop": 3,
       "claim": 9
     },
     "903905044322222081": {
