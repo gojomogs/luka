@@ -450,7 +450,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 54,
+      "progress": 55,
       "id": "b7c91669-6f4b-4d34-877f-21559702d9df",
       "player_a": "697803266150629416",
       "player_b": "905294901082738749",
@@ -472,7 +472,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 33,
+      "progress": 34,
       "id": "ae55bf96-601b-42b5-a648-dba66beb0fa7",
       "player_a": "1125010005066784860",
       "player_b": "1387460892718792718",
@@ -624,7 +624,9 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Nami"
+      ],
       "id": "feb05b54-4906-4cca-8c24-e6bd7b24f324",
       "player_a": "1439628725288173759",
       "player_b": "1229889322698674216",
