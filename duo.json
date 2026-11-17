@@ -442,7 +442,8 @@
         "Hallritt",
         "Otogi Katsura",
         "Giesel Zvendard",
-        "Veltol Velvet Velsvalt"
+        "Veltol Velvet Velsvalt",
+        "Rin"
       ],
       "id": "6156f1f3-aed5-4b25-8fda-edf603942d4c",
       "player_a": "1357357406782488588",
@@ -577,7 +578,8 @@
       "progress": 0,
       "characters_seen": [
         "Phoenix Wright",
-        "Seo Gio"
+        "Seo Gio",
+        "Lu Feng & An Zhe"
       ],
       "id": "b190f0b1-bbd5-4c49-b135-f304d336d416",
       "player_a": "762127115721637898",
@@ -605,6 +607,18 @@
       "player_b": "886247125292306432",
       "started_at": 1794879463.118677,
       "channel_id": 1554491945433309304
+    },
+    "c4687e4c-55b0-4acf-853d-7234a36273d6": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [],
+      "id": "c4687e4c-55b0-4acf-853d-7234a36273d6",
+      "player_a": "1454914344792883305",
+      "player_b": "743938831107096637",
+      "started_at": 1794885511.537398,
+      "channel_id": 1567894217404194989
     }
   },
   "weekly": {
@@ -6432,8 +6446,8 @@
       "claim": 4
     },
     "784651032084086794": {
-      "drop": 7,
-      "claim": 16
+      "drop": 0,
+      "claim": 15
     },
     "314498688418578432": {
       "drop": 0,
@@ -7348,7 +7362,7 @@
       "claim": 0
     },
     "1245817648193867876": {
-      "drop": 12,
+      "drop": 4,
       "claim": 32
     },
     "1498786280169935062": {
@@ -7421,7 +7435,7 @@
     },
     "595084117998043137": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "1213941636829155338": {
       "drop": 0,
@@ -9201,7 +9215,7 @@
     },
     "1454914344792883305": {
       "drop": 0,
-      "claim": 9
+      "claim": 8
     },
     "903905044322222081": {
       "drop": 0,
@@ -12605,7 +12619,7 @@
     },
     "1197667451786248332": {
       "drop": 0,
-      "claim": 8
+      "claim": 7
     },
     "932497221331591188": {
       "drop": 7,
