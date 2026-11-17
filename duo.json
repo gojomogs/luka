@@ -417,7 +417,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 58,
+      "progress": 59,
       "id": "90f732ca-7bf2-4522-bf90-e395de70e720",
       "player_a": "1504462632013398208",
       "player_b": "1139721385783066744",
@@ -556,7 +556,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 8,
+      "progress": 9,
       "id": "3a55a01b-9f77-4a62-9bb7-d73840a14522",
       "player_a": "1415199399469908020",
       "player_b": "1208748350523052062",
@@ -593,6 +593,20 @@
       "player_b": "1271705559162163241",
       "started_at": 1794924735.118904,
       "channel_id": 1548595346312003594
+    },
+    "ae73f06d-1b77-4472-97d7-ebcbd6c27027": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Danganronpa"
+      ],
+      "id": "ae73f06d-1b77-4472-97d7-ebcbd6c27027",
+      "player_a": "953615292641185804",
+      "player_b": "1122003954436407336",
+      "started_at": 1794928853.376441,
+      "channel_id": 1543538400726880257
     }
   },
   "weekly": {
