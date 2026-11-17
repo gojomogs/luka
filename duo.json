@@ -428,7 +428,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 54,
+      "progress": 55,
       "id": "9fcd567d-b09e-44b7-8760-10b7a7420166",
       "player_a": "967341549354614814",
       "player_b": "755211531674845235",
@@ -532,7 +532,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 28,
+      "progress": 29,
       "id": "b7c91669-6f4b-4d34-877f-21559702d9df",
       "player_a": "697803266150629416",
       "player_b": "905294901082738749",
@@ -588,7 +588,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Wuthering Waves"
+      ],
       "id": "a3aae7ad-a67d-436c-83d4-3bc52ac56b86",
       "player_a": "911330071464267776",
       "player_b": "707210420917633135",
