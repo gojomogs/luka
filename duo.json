@@ -417,7 +417,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 52,
+      "progress": 53,
       "id": "90f732ca-7bf2-4522-bf90-e395de70e720",
       "player_a": "1504462632013398208",
       "player_b": "1139721385783066744",
@@ -450,7 +450,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 57,
+      "progress": 58,
       "id": "b7c91669-6f4b-4d34-877f-21559702d9df",
       "player_a": "697803266150629416",
       "player_b": "905294901082738749",
@@ -579,7 +579,8 @@
         "Krul Tepes",
         "Simeon",
         "Jeongcheol",
-        "Bruno Bucciarati"
+        "Bruno Bucciarati",
+        "Ji Eunoh"
       ],
       "id": "feb05b54-4906-4cca-8c24-e6bd7b24f324",
       "player_a": "1439628725288173759",
@@ -608,6 +609,22 @@
       "player_b": "1028538307975589939",
       "started_at": 1794919157.6994455,
       "channel_id": 1540149985650282596
+    },
+    "d847fbec-2f84-41e2-bb4d-d992e890d090": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Wanshi",
+        "Anjo Nala",
+        "Hikaru Kirishima"
+      ],
+      "id": "d847fbec-2f84-41e2-bb4d-d992e890d090",
+      "player_a": "1249975155204161569",
+      "player_b": "1271705559162163241",
+      "started_at": 1794924735.118904,
+      "channel_id": 1548595346312003594
     }
   },
   "weekly": {
@@ -9850,8 +9867,8 @@
       "claim": 27
     },
     "1271705559162163241": {
-      "drop": 7,
-      "claim": 11
+      "drop": 3,
+      "claim": 8
     },
     "1209477744845393950": {
       "drop": 0,
