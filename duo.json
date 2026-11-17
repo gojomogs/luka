@@ -446,7 +446,8 @@
         "Rin",
         "Amelia Park Lee",
         "Daki",
-        "Male Esper Zero"
+        "Male Esper Zero",
+        "Suika"
       ],
       "id": "6156f1f3-aed5-4b25-8fda-edf603942d4c",
       "player_a": "1357357406782488588",
@@ -585,7 +586,8 @@
         "Phoenix Wright",
         "Seo Gio",
         "Lu Feng & An Zhe",
-        "6"
+        "6",
+        "Dante"
       ],
       "id": "b190f0b1-bbd5-4c49-b135-f304d336d416",
       "player_a": "762127115721637898",
@@ -631,6 +633,20 @@
       "player_b": "743938831107096637",
       "started_at": 1794885511.537398,
       "channel_id": 1567894217404194989
+    },
+    "08f64252-6622-459a-8e5d-4aab100738b4": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Bad Friend"
+      ],
+      "id": "08f64252-6622-459a-8e5d-4aab100738b4",
+      "player_a": "1157782319483068476",
+      "player_b": "834374188042289162",
+      "started_at": 1794888957.5646107,
+      "channel_id": 1550899049077416078
     }
   },
   "weekly": {
@@ -6875,7 +6891,7 @@
     },
     "1135011169485197314": {
       "drop": 0,
-      "claim": 6
+      "claim": 5
     },
     "755211531674845235": {
       "drop": 0,
