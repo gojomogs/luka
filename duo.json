@@ -417,7 +417,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 21,
+      "progress": 22,
       "id": "4975a487-c168-4e11-b682-42763726be7b",
       "player_a": "1378462940096761856",
       "player_b": "1359716535077179463",
@@ -461,7 +461,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 41,
+      "progress": 42,
       "id": "40ac83aa-559a-4751-b6a6-78910eca9fef",
       "player_a": "1321065001212969044",
       "player_b": "1028538307975589939",
@@ -479,7 +479,8 @@
         "Duet Night Abyss",
         "My Hero Academia",
         "Proof of Dignity",
-        "CLANNAD"
+        "CLANNAD",
+        "Marvel"
       ],
       "id": "37f8b037-5804-40c5-b2c0-b880e79237d8",
       "player_a": "1401622768214347796",
@@ -492,7 +493,9 @@
       "target": 15,
       "label": "Claim cards from 15 different series together",
       "progress": 0,
-      "series_seen": [],
+      "series_seen": [
+        "Neverness to Everness"
+      ],
       "id": "45936299-7603-4cab-877f-a57da65b3d13",
       "player_a": "968501068524818542",
       "player_b": "982952116039598161",
