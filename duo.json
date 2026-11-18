@@ -406,7 +406,7 @@
       "type": "claim_rarity4",
       "target": 10,
       "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
-      "progress": 8,
+      "progress": 9,
       "id": "8badfd0a-27d6-4c97-9482-fdaffbcbc829",
       "player_a": "1328096032260755507",
       "player_b": "1427701023102734481",
@@ -466,6 +466,20 @@
       "player_a": "1321065001212969044",
       "player_b": "1028538307975589939",
       "started_at": 1794919157.6994455,
+      "channel_id": 1540149985650282596
+    },
+    "37f8b037-5804-40c5-b2c0-b880e79237d8": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Genshin Impact"
+      ],
+      "id": "37f8b037-5804-40c5-b2c0-b880e79237d8",
+      "player_a": "1401622768214347796",
+      "player_b": "808060427543642163",
+      "started_at": 1795006127.9031134,
       "channel_id": 1540149985650282596
     }
   },
@@ -13182,8 +13196,8 @@
       "claim": 0
     },
     "1449642144598986778": {
-      "drop": 3,
-      "claim": 4
+      "drop": 0,
+      "claim": 2
     },
     "1560141406964551802": {
       "drop": 7,
