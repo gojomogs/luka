@@ -530,7 +530,9 @@
       "progress": 0,
       "series_seen": [
         "Bungo Stray Dogs",
-        "Dr. Stone"
+        "Dr. Stone",
+        "Dungeon Meshi",
+        "Horimiya"
       ],
       "id": "0ac2f577-0fb0-405f-9f9b-1e1c5fe44d96",
       "player_a": "1000002084667658290",
@@ -577,13 +579,25 @@
         "My Hero Academia",
         "Twisted Wonderland",
         "The Fragrant Flower Blooms with Dignity",
-        "Persona"
+        "Persona",
+        "Fake Fact Lips"
       ],
       "id": "7ef925e8-ea38-4b38-896c-7da20213f5b9",
       "player_a": "1028538307975589939",
       "player_b": "1487234092520181931",
       "started_at": 1795211481.2884533,
       "channel_id": 1553874359687446610
+    },
+    "cf3f5a15-abc3-4cdd-8bd4-f2ae1053581a": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "cf3f5a15-abc3-4cdd-8bd4-f2ae1053581a",
+      "player_a": "969659066018304031",
+      "player_b": "1126822708496318504",
+      "started_at": 1795218555.922997,
+      "channel_id": 1554501915352764538
     }
   },
   "weekly": {
@@ -6478,8 +6492,8 @@
       "claim": 0
     },
     "886247125292306432": {
-      "drop": 6,
-      "claim": 16
+      "drop": 4,
+      "claim": 15
     },
     "1038095869674799134": {
       "drop": 6,
@@ -7274,8 +7288,8 @@
       "claim": 0
     },
     "1000002084667658290": {
-      "drop": 8,
-      "claim": 10
+      "drop": 7,
+      "claim": 9
     },
     "1279563942095618081": {
       "drop": 0,
