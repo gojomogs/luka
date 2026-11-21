@@ -450,7 +450,7 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 7,
+      "progress": 8,
       "id": "162b701e-2de7-4a47-b24c-04f8389a633a",
       "player_a": "587912953622298626",
       "player_b": "1433990788622323757",
@@ -636,6 +636,31 @@
       "player_b": "856393524240711681",
       "started_at": 1795259629.259184,
       "channel_id": 1543285741449126060
+    },
+    "16118fc1-96a9-43c3-8e44-2228c4de4582": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "16118fc1-96a9-43c3-8e44-2228c4de4582",
+      "player_a": "1427701023102734481",
+      "player_b": "1411686981468946664",
+      "started_at": 1795264245.7907922,
+      "channel_id": 1543944315691335701
+    },
+    "7ba14606-071c-4ea9-9465-9a12633d10ea": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Kamui"
+      ],
+      "id": "7ba14606-071c-4ea9-9465-9a12633d10ea",
+      "player_a": "1328096032260755507",
+      "player_b": "1287784193987711000",
+      "started_at": 1795264281.1596086,
+      "channel_id": 1569069406615638196
     }
   },
   "weekly": {
@@ -11165,7 +11190,7 @@
       "claim": 0
     },
     "1266401314057879614": {
-      "drop": 34,
+      "drop": 33,
       "claim": 34
     },
     "1392439071258705991": {
