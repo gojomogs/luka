@@ -605,13 +605,26 @@
         "ERROR143",
         "BanG Dream!",
         "Genshin Impact",
-        "Witch Hat Atelier"
+        "Witch Hat Atelier",
+        "Even the Introverted Gals Wanna Get Out There!"
       ],
       "id": "c7d25df9-dff3-484f-bad6-ab6440906b80",
       "player_a": "514565097981476875",
       "player_b": "1192201166893895725",
       "started_at": 1795232334.5351286,
       "channel_id": 1543680640291967086
+    },
+    "d37d7a17-aa12-44af-acdd-070ec02f73de": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "d37d7a17-aa12-44af-acdd-070ec02f73de",
+      "player_a": "859836902119309325",
+      "player_b": "1241920314502418467",
+      "started_at": 1795237970.1593184,
+      "channel_id": 1543326174220918864
     }
   },
   "weekly": {
@@ -6646,7 +6659,7 @@
       "claim": 2
     },
     "1510010190315917324": {
-      "drop": 7,
+      "drop": 6,
       "claim": 9
     },
     "1068989639362355252": {
