@@ -596,7 +596,9 @@
         "Snake",
         "Michica Gokubara",
         "Natsume Sakasaki",
-        "Satoshi Mochida"
+        "Satoshi Mochida",
+        "Baek Saheon",
+        "Annie Leonhart"
       ],
       "id": "683fb1ac-41d7-4497-a820-446048281d80",
       "player_a": "1286641208176934996",
@@ -608,12 +610,26 @@
       "type": "claim_count",
       "target": 60,
       "label": "Claim 60 cards together",
-      "progress": 3,
+      "progress": 4,
       "id": "703af6a4-351a-426b-b6f3-fbfb49d248e1",
       "player_a": "1303595998714662916",
       "player_b": "1339200602844168246",
       "started_at": 1795281446.2183912,
       "channel_id": 1545569633959018597
+    },
+    "41ab9005-d0cb-435a-af31-ebf51c6640bd": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [
+        "Tokyo Debunker"
+      ],
+      "id": "41ab9005-d0cb-435a-af31-ebf51c6640bd",
+      "player_a": "886247125292306432",
+      "player_b": "1422891232182407210",
+      "started_at": 1795283052.4524791,
+      "channel_id": 1548329521608925285
     }
   },
   "weekly": {
