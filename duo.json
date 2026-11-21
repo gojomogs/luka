@@ -493,7 +493,8 @@
         "Z.A.T.O",
         "Dandadan",
         "Honkai Impact 3rd",
-        "Trigun"
+        "Trigun",
+        "A Wimp's Tower Strategy Guide"
       ],
       "id": "0ac2f577-0fb0-405f-9f9b-1e1c5fe44d96",
       "player_a": "1000002084667658290",
@@ -595,7 +596,8 @@
       "label": "Obtain 20 unique characters together",
       "progress": 0,
       "characters_seen": [
-        "Dialyn"
+        "Dialyn",
+        "Azusa Mukami"
       ],
       "id": "9e97a03f-22b0-48a5-ba60-f5330a72199f",
       "player_a": "1228266277835898900",
@@ -632,7 +634,10 @@
         "Yuta Okkotsu",
         "Azusa Nakano",
         "Neuvillette",
-        "Reinhard Van Astrea"
+        "Reinhard Van Astrea",
+        "Rangiku Matsumoto",
+        "Arataka Reigen",
+        "Aisha Del Elmir"
       ],
       "id": "7ba14606-071c-4ea9-9465-9a12633d10ea",
       "player_a": "1328096032260755507",
@@ -650,6 +655,20 @@
       "player_b": "688313291532926976",
       "started_at": 1795264756.982308,
       "channel_id": 1543278325772853438
+    },
+    "683fb1ac-41d7-4497-a820-446048281d80": {
+      "type": "claim_characters",
+      "target": 20,
+      "label": "Obtain 20 unique characters together",
+      "progress": 0,
+      "characters_seen": [
+        "Olruggio"
+      ],
+      "id": "683fb1ac-41d7-4497-a820-446048281d80",
+      "player_a": "1286641208176934996",
+      "player_b": "982952116039598161",
+      "started_at": 1795271811.6019807,
+      "channel_id": 1543268797119729704
     }
   },
   "weekly": {
@@ -6723,7 +6742,7 @@
     },
     "1353808862452519045": {
       "drop": 10,
-      "claim": 10
+      "claim": 9
     },
     "1224818851464613952": {
       "drop": 0,
@@ -8514,8 +8533,8 @@
       "claim": 0
     },
     "821574312216756224": {
-      "drop": 12,
-      "claim": 11
+      "drop": 11,
+      "claim": 10
     },
     "850505130658627614": {
       "drop": 0,
