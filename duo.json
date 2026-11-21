@@ -541,33 +541,6 @@
       "started_at": 1795237970.1593184,
       "channel_id": 1543326174220918864
     },
-    "eef85b68-afc2-43ba-a410-b6980a04dca8": {
-      "type": "claim_series",
-      "target": 15,
-      "label": "Claim cards from 15 different series together",
-      "progress": 0,
-      "series_seen": [
-        "Honkai: Star Rail",
-        "I Love Amy",
-        "MILGRAM",
-        "Silver Palace",
-        "Noctilucent: Before Dawn",
-        "Elevator Hitch",
-        "Muse Dash",
-        "Zenless Zone Zero",
-        "Jujutsu Kaisen",
-        "Honkai Impact 3rd",
-        "Puella Magi Madoka Magica",
-        "Dungeon Meshi",
-        "Obey Me!",
-        "Even in Your Death"
-      ],
-      "id": "eef85b68-afc2-43ba-a410-b6980a04dca8",
-      "player_a": "1502485077626585229",
-      "player_b": "1423323604044742666",
-      "started_at": 1795241063.7332401,
-      "channel_id": 1540149985650282596
-    },
     "e46c3e4e-cd81-4000-8203-f1291a98055b": {
       "type": "claim_count",
       "target": 60,
@@ -638,7 +611,8 @@
         "Reinhard Van Astrea",
         "Rangiku Matsumoto",
         "Arataka Reigen",
-        "Aisha Del Elmir"
+        "Aisha Del Elmir",
+        "Apollo Justice"
       ],
       "id": "7ba14606-071c-4ea9-9465-9a12633d10ea",
       "player_a": "1328096032260755507",
@@ -665,7 +639,8 @@
       "characters_seen": [
         "Olruggio",
         "Secretive Plotter",
-        "Lu Xingci"
+        "Lu Xingci",
+        "Seo Gio"
       ],
       "id": "683fb1ac-41d7-4497-a820-446048281d80",
       "player_a": "1286641208176934996",
@@ -6082,6 +6057,18 @@
         "timestamp": 1795269424.808803,
         "partner_id": "551877849192202255"
       }
+    ],
+    "1502485077626585229": [
+      {
+        "timestamp": 1795273575.322287,
+        "partner_id": "1423323604044742666"
+      }
+    ],
+    "1423323604044742666": [
+      {
+        "timestamp": 1795273575.322287,
+        "partner_id": "1502485077626585229"
+      }
     ]
   },
   "cooldowns": {
@@ -6560,7 +6547,9 @@
     "1271705559162163241": 1795000922.2692473,
     "821931283164823572": 1795128465.0595887,
     "1453426681871204362": 1795243265.4324496,
-    "132323098224492544": 1795269424.808803
+    "132323098224492544": 1795269424.808803,
+    "1502485077626585229": 1795273575.322287,
+    "1423323604044742666": 1795273575.322287
   },
   "bonus": {
     "777925664358531102": {
@@ -9537,7 +9526,7 @@
     },
     "1423323604044742666": {
       "drop": 2,
-      "claim": 5
+      "claim": 6
     },
     "771052194292039681": {
       "drop": 0,
@@ -12805,7 +12794,7 @@
     },
     "1502485077626585229": {
       "drop": 10,
-      "claim": 11
+      "claim": 12
     },
     "1321274187045666918": {
       "drop": 0,
