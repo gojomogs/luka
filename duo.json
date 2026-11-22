@@ -582,12 +582,25 @@
       "target": 20,
       "label": "Obtain 20 unique characters together",
       "progress": 0,
-      "characters_seen": [],
+      "characters_seen": [
+        "Aemeath"
+      ],
       "id": "0b1f313a-91b5-4753-a344-444f9327c188",
       "player_a": "1334198791057834079",
       "player_b": "1301863198915559508",
       "started_at": 1795311578.3498375,
       "channel_id": 1565060288791973908
+    },
+    "7af437cd-9dae-44b4-bed2-ee5e43be7049": {
+      "type": "claim_rarity4",
+      "target": 10,
+      "label": "Collect 10 \u2605\u2605\u2605\u2605 cards together",
+      "progress": 0,
+      "id": "7af437cd-9dae-44b4-bed2-ee5e43be7049",
+      "player_a": "737098353485021206",
+      "player_b": "899806964710801499",
+      "started_at": 1795311885.004321,
+      "channel_id": 1555713389500829706
     }
   },
   "weekly": {
@@ -9587,7 +9600,7 @@
     },
     "1454914344792883305": {
       "drop": 0,
-      "claim": 1
+      "claim": 0
     },
     "903905044322222081": {
       "drop": 0,
